@@ -211,7 +211,9 @@ getLocationsOfInterest()
 
 
 let processTables = (jsonTables) => {
-  console.log(jsonTables.count);
+  // console.log(jsonTables.count);
+  
+  var LOIs = []
 
   jsonTables.results.forEach(tableResults => {
 
@@ -220,29 +222,21 @@ let processTables = (jsonTables) => {
     tableResults.forEach(result =>  {
          // console.log(result)
                          
-        if(!result.Address){
-          console.log("NOPE")
-
-          console.log(result)
-
+        if(result.Address){
+          // console.log(result.Address)
+          
+          LOIs.push(result)
         }
     }
     )
 
-    // console.log(tableResults)
-
-
   }
 
   )
-
-//   console.log(jsonTables.results[0][0])
-
-//   console.log(jsonTables.results[1])
-
-//   console.log(jsonTables.results[2])
-
   
+  console.log(LOIs)
+
+
 }
 
 fastify.get("/LOIs", async (request, reply) => {
