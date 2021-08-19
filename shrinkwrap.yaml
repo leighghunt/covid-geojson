@@ -5,6 +5,7 @@ dependencies:
   fastify-static: 4.2.2
   handlebars: 4.7.7
   html-table-to-json: 1.0.0
+  moment: 2.29.1
   point-of-view: 4.14.0
   sqlite: 4.0.23
   sqlite3: 5.0.2
@@ -846,6 +847,10 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-NKmAlESf6jMGym1++R0Ra7wvhV+wFW63FaSOFPwRahvea0gMUcGUhVeAg/0BC0wiv9ih5NYPB1Wn1UEI1/L+xQ==
+  /moment/2.29.1:
+    dev: false
+    resolution:
+      integrity: sha512-kHmoybcPV8Sqy59DwNDY3Jefr64lK/by/da0ViFcuA4DH0vQg5Q6Ze5VimxkfQNSC+Mls/Kx53s7TjP1RhFEDQ==
   /ms/2.0.0:
     dev: false
     resolution:
@@ -1513,6 +1518,7 @@ specifiers:
   fastify-static: ^4.2.2
   handlebars: ^4.7.7
   html-table-to-json: ^1.0.0
+  moment: ^2.29.1
   point-of-view: ^4.14.0
   sqlite: ^4.0.23
   sqlite3: ^5.0.2

@@ -15,7 +15,8 @@
     "sqlite": "^4.0.23",
     "sqlite3": "^5.0.2",
     "html-table-to-json": "^1.0.0",
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "moment": "^2.29.1"
   },
   "engines": {
     "node": "12.x"

@@ -12,6 +12,7 @@ const fs = require("fs");
 const path = require("path");
 const axios = require('axios');
 const HtmlTableToJson = require('html-table-to-json');
+const moment = require('moment');
 
 // Require the fastify framework and instantiate it
 const fastify = require("fastify")({
@@ -223,6 +224,9 @@ let processTables = (jsonTables) => {
          // console.log(result)
                          
         if(result.Address){
+          
+          // moment(a.Day, "dddd D MMMM").format()
+          
           // console.log(result.Address)
           
           LOIs.push(result)
@@ -235,6 +239,8 @@ let processTables = (jsonTables) => {
   )
   
   console.log(LOIs)
+  
+  console.log(LOIs[0])
 
 
 }
