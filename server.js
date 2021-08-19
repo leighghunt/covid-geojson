@@ -202,13 +202,60 @@ function getLocationsOfInterest(){
   .then(async function (htmlResponse) {
     
     console.log("locationsOfInterestURL - response")
-    // console.log(htmlResponse)
+    // console.log(typeof(htmlResponse.data))
       
-    const jsonTables = HtmlTableToJson.parse(htmlResponse)
-    console.log(jsonTables)
-    // var tableAuckland = 
+    const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
+    // console.log(jsonTables.results)
+    console.log(jsonTables.count);
+      
+    console.log(jsonTables.results[0][0])
+
+    console.log(jsonTables.results[1])
+
+    console.log(jsonTables.results[2])
+
+
+
+      
+      // var tableAuckland = 
   });
 
 }
 
 getLocationsOfInterest()
+
+
+fastify.get("/LOIs", async (request, reply) => {
+  /* 
+  Params is the data we pass to the client
+  - SEO values for front-end UI but not for raw data
+  */
+  // let params = request.query.raw ? {} : { seo: seo };
+  
+      axios.get(locationsOfInterestURL, {
+    // headers: {
+    //   'x-api-key': process.env.metlink_api_key
+    // }
+    }
+  )
+  .then(async function (htmlResponse) {
+    
+    console.log("locationsOfInterestURL - response")
+    // console.log(typeof(htmlResponse.data))
+      
+    const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
+    // console.log(jsonTables.results)
+    console.log(jsonTables.count);
+      
+    console.log(jsonTables.results[0][0])
+
+    console.log(jsonTables.results[1])
+
+    console.log(jsonTables.results[2])
+
+
+  });
+
+
+}
+
