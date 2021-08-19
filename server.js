@@ -207,7 +207,7 @@ function getLocationsOfInterest(){
 
 }
 
-getLocationsOfInterest()
+// getLocationsOfInterest()
 
 
 let processTables = (jsonTables) => {

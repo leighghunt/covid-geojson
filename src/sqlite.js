@@ -35,6 +35,13 @@ dbWrapper
           "CREATE TABLE Choices (id INTEGER PRIMARY KEY AUTOINCREMENT, language TEXT, picks INTEGER)"
         );
 
+
+        await db.run(
+          "CREATE TABLE LocationsOfInterest (id INTEGER PRIMARY KEY AUTOINCREMENT, LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
+        );
+
+
+
         // Add default choices to table
         await db.run(
           "INSERT INTO Choices (language, picks) VALUES ('HTML', 0), ('JavaScript', 0), ('CSS', 0)"
