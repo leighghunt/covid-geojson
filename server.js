@@ -10,6 +10,8 @@
 // Utilities we need
 const fs = require("fs");
 const path = require("path");
+const axios = require('axios');
+const HtmlTableToJson = require('html-table-to-json');
 
 // Require the fastify framework and instantiate it
 const fastify = require("fastify")({
@@ -120,7 +122,7 @@ fastify.get("/logs", async (request, reply) => {
   let params = request.query.raw ? {} : { seo: seo };
 
   // Get the log history from the db
-  params.optionHistory = await db.getLogs();
+  params.optionHistory = await db.getLogs(); 
 
   // Let the user know if there's an error
   params.error = params.optionHistory ? null : data.errorMessage;
@@ -183,3 +185,30 @@ fastify.listen(process.env.PORT, function(err, address) {
   console.log(`Your app is listening on ${address}`);
   fastify.log.info(`server listening on ${address}`);
 });
+
+
+
+
+var locationsOfInterestURL = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest"
+
+
+function getLocationsOfInterest(){
+    axios.get(locationsOfInterestURL, {
+    // headers: {
+    //   'x-api-key': process.env.metlink_api_key
+    // }
+    }
+  )
+  .then(async function (htmlResponse) {
+    
+    console.log("locationsOfInterestURL - response")
+    // console.log(htmlResponse)
+      
+    const jsonTables = HtmlTableToJson.parse(htmlResponse)
+    console.log(jsonTables)
+    // var tableAuckland = 
+  });
+
+}
+
+getLocationsOfInterest()
