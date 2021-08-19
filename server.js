@@ -192,37 +192,37 @@ fastify.listen(process.env.PORT, function(err, address) {
 var locationsOfInterestURL = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest"
 
 
-function getLocationsOfInterest(){
-    axios.get(locationsOfInterestURL, {
-    // headers: {
-    //   'x-api-key': process.env.metlink_api_key
-    // }
-    }
-  )
-  .then(async function (htmlResponse) {
+// function getLocationsOfInterest(){
+//     axios.get(locationsOfInterestURL, {
+//     // headers: {
+//     //   'x-api-key': process.env.metlink_api_key
+//     // }
+//     }
+//   )
+//   .then(async function (htmlResponse) {
     
-    console.log("locationsOfInterestURL - response")
-    // console.log(typeof(htmlResponse.data))
+//     console.log("locationsOfInterestURL - response")
+//     // console.log(typeof(htmlResponse.data))
       
-    const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
-    // console.log(jsonTables.results)
-    console.log(jsonTables.count);
+//     const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
+//     // console.log(jsonTables.results)
+//     console.log(jsonTables.count);
       
-    console.log(jsonTables.results[0][0])
+//     console.log(jsonTables.results[0][0])
 
-    console.log(jsonTables.results[1])
+//     console.log(jsonTables.results[1])
 
-    console.log(jsonTables.results[2])
+//     console.log(jsonTables.results[2])
 
 
 
       
-      // var tableAuckland = 
-  });
+//       // var tableAuckland = 
+//   });
 
-}
+// }
 
-getLocationsOfInterest()
+// // getLocationsOfInterest()
 
 
 fastify.get("/LOIs", async (request, reply) => {
@@ -245,17 +245,17 @@ fastify.get("/LOIs", async (request, reply) => {
       
     const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
     // console.log(jsonTables.results)
-    console.log(jsonTables.count);
+//     console.log(jsonTables.count);
       
-    console.log(jsonTables.results[0][0])
+//     console.log(jsonTables.results[0][0])
 
-    console.log(jsonTables.results[1])
+//     console.log(jsonTables.results[1])
 
-    console.log(jsonTables.results[2])
+//     console.log(jsonTables.results[2])
 
-
+    reply.send(jsonTables.results)
   });
 
 
-}
+})
 
