@@ -217,12 +217,16 @@ let processTables = (jsonTables) => {
 
     console.log(tableResults.length)
                              
-    tableResults.forEach(result =>  
+    tableResults.forEach(result =>  {
          console.log(result)
                          
-        if(result.Address){
-      
+        if(!result.Address){
+          console.log("NOPE")
+
+          console.log("NOPE")
+
         }
+    }
     )
 
     // console.log(tableResults)
