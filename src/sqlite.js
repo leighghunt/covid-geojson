@@ -8,7 +8,7 @@
 const fs = require("fs");
 
 // Initialize the database
-const dbFile = "./.data/choices.db";
+const dbFile = "./.data/123.db";
 const exists = fs.existsSync(dbFile);
 const sqlite3 = require("sqlite3").verbose();
 const dbWrapper = require("sqlite");
@@ -37,7 +37,7 @@ dbWrapper
 
 
         await db.run(
-          "CREATE TABLE LocationsOfInterest (id INTEGER PRIMARY KEY AUTOINCREMENT, LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
+          "CREATE TABLE LOIs (id INTEGER PRIMARY KEY AUTOINCREMENT, LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
         );
 
 
@@ -49,11 +49,11 @@ dbWrapper
 
         // Log can start empty - we'll insert a new record whenever the user chooses a poll option
         await db.run(
-          "CREATE TABLE Log (id INTEGER PRIMARY KEY AUTOINCREMENT, choice TEXT, time STRING)"
+          "CREATE TABLE Log (id INTEGER PRIMARY KEY AUTOINCREMENT, json TEXT, time STRING)"
         );
       } else {
         // We have a database already - write Choices records to log for info
-        console.log(await db.all("SELECT * from Choices"));
+        console.log(await db.all("SELECT * from LOIs"));
 
         //If you need to remove a table from the database use this syntax
         //db.run("DROP TABLE Logs"); //will fail if the table doesn't exist
@@ -72,10 +72,10 @@ module.exports = {
    * Return everything in the Choices table
    * Throw an error in case of db connection issues
    */
-  getOptions: async () => {
+  getLOIs: async () => {
     // We use a try catch block in case of db errors
     try {
-      return await db.all("SELECT * from Choices");
+      return await db.all("SELECT * from LOIs");
     } catch (dbError) {
       // Database connection error
       console.error(dbError);
@@ -90,30 +90,37 @@ module.exports = {
    * Find and update the chosen option
    * Return the updated list of votes
    */
-  processVote: async vote => {
+  processLOI: async LOI => {
     // Insert new Log table entry indicating the user choice and timestamp
     try {
       // Check the vote is valid
-      const option = await db.all(
-        "SELECT * from Choices WHERE language = ?",
-        vote
+      const loi = await db.all(
+        "SELECT * from LOIs WHERE LocationName = ? AND Day = ? AND Time = ?",
+        LOI
       );
-      if (option.length > 0) {
+      if (loi.length > 0) {
         // Build the user data from the front-end and the current time into the sql query
-        await db.run("INSERT INTO Log (choice, time) VALUES (?, ?)", [
-          vote,
+        await db.run("INSERT INTO Log (json, time) VALUES (?, ?)", [
+          JSON.stringify(LOI),
           new Date().toISOString()
         ]);
 
         // Update the number of times the choice has been picked by adding one to it
         await db.run(
-          "UPDATE Choices SET picks = picks + 1 WHERE language = ?",
+          "UPDATE LOIs SET picks = picks + 1 WHERE language = ?",
           vote
         );
+      } else {
+        
+        //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
+        await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo) VALUES (?, ?)", [
+          JSON.stringify(LOI),
+          new Date().toISOString()
+        ]);
+        
       }
 
-      // Return the choices so far - page will build these into a chart
-      return await db.all("SELECT * from Choices");
+      return await db.all("SELECT * from LOIs");
     } catch (dbError) {
       console.error(dbError);
     }
@@ -140,18 +147,18 @@ module.exports = {
    * Destroy everything in Log table
    * Reset votes in Choices table to zero
    */
-  clearHistory: async () => {
-    try {
-      // Delete the logs
-      await db.run("DELETE from Log");
+//   clearHistory: async () => {
+//     try {
+//       // Delete the logs
+//       await db.run("DELETE from Log");
 
-      // Reset the vote numbers
-      await db.run("UPDATE Choices SET picks = 0");
+//       // Reset the vote numbers
+//       await db.run("UPDATE Choices SET picks = 0");
 
-      // Return empty array
-      return [];
-    } catch (dbError) {
-      console.error(dbError);
-    }
-  }
+//       // Return empty array
+//       return [];
+//     } catch (dbError) {
+//       console.error(dbError);
+//     }
+//   }
 };
