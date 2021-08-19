@@ -211,15 +211,32 @@ getLocationsOfInterest()
 
 
 let processTables = (jsonTables) => {
-    console.log(jsonTables.count);
-    
-  
+  console.log(jsonTables.count);
+
+  jsonTables.results.forEach(tableResults => {
+
+    console.log(tableResults.length)
+                             
+    tableResults.forEach(result =>  
+         console.log(result)
+                         
+        if(result.Address){
       
-    console.log(jsonTables.results[0][0])
+        }
+    )
 
-    console.log(jsonTables.results[1])
+    // console.log(tableResults)
 
-    console.log(jsonTables.results[2])
+
+  }
+
+  )
+
+//   console.log(jsonTables.results[0][0])
+
+//   console.log(jsonTables.results[1])
+
+//   console.log(jsonTables.results[2])
 
   
 }
