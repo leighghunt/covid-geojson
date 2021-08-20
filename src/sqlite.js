@@ -6,6 +6,8 @@
 
 // Utilities we need
 const fs = require("fs");
+const axios = require('axios');
+
 
 // Initialize the database
 const dbFile = "./.data/123.db";
@@ -98,8 +100,8 @@ module.exports = {
         "SELECT * from LOIs WHERE LocationName = ? AND Day = ? AND Times = ?",
         [LOI.LocationName, LOI.Day, LOI.Times]
       );
-      if (loi.length > 0) {
-        console.log("FOUND")
+      if (loi.length > 0 && loi.id != 1) {
+        // console.log("FOUND")
 //         // Build the user data from the front-end and the current time into the sql query
 
 //         // Update the number of times the choice has been picked by adding one to it
@@ -117,6 +119,18 @@ module.exports = {
           new Date().toISOString()
         ]);
 
+        
+//         seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
+        const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${LOI.Address}&key=${process.env.GOOGLE_API_KEY}`
+        console.log(geocodeURL)
+//         // Geocode....
+//         axios.get(geocode, {
+//             }
+//           )
+//         .then(async function (htmlResponse) {})
+// //         https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,
+// // +Mountain+View,+CA&key=YOUR_API_KEY
+        
 
         //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
         await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo, x, y) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", [
