@@ -14,6 +14,8 @@ const axios = require('axios');
 const HtmlTableToJson = require('html-table-to-json');
 const moment = require('moment-timezone');
 const GeoJSON = require('geojson');
+var cron = require('node-cron');
+
 
 // Require the fastify framework and instantiate it
 const fastify = require("fastify")({

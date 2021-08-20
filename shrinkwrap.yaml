@@ -8,6 +8,7 @@ dependencies:
   html-table-to-json: 1.0.0
   moment: 2.29.1
   moment-timezone: 0.5.33
+  node-cron: 3.0.0
   point-of-view: 4.14.0
   sqlite: 4.0.23
   sqlite3: 5.0.2
@@ -900,6 +901,14 @@ packages:
     dev: false
     resolution:
       integrity: sha512-kcwSAWhPi4+QzAtsL2+2s/awvDo2GKLsvMCwNRxb5BUshteXU8U97NCyvQDsGKs/m0He9WcG4YWew/BnuLx++w==
+  /node-cron/3.0.0:
+    dependencies:
+      moment-timezone: 0.5.33
+    dev: false
+    engines:
+      node: '>=6.0.0'
+    resolution:
+      integrity: sha512-DDwIvvuCwrNiaU7HEivFDULcaQualDv7KoNlB/UU1wPW0n1tDEmBJKhEIE6DlF2FuoOHcNbLJ8ITL2Iv/3AWmA==
   /node-gyp/3.8.0:
     dependencies:
       fstream: 1.0.12
@@ -1535,6 +1544,7 @@ specifiers:
   html-table-to-json: ^1.0.0
   moment: ^2.29.1
   moment-timezone: ^0.5.33
+  node-cron: ^3.0.0
   point-of-view: ^4.14.0
   sqlite: ^4.0.23
   sqlite3: ^5.0.2

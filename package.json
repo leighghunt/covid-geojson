@@ -18,7 +18,8 @@
     "axios": "^0.21.1",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.33",
-    "geojson": "^0.5.0"
+    "geojson": "^0.5.0",
+    "node-cron": "^3.0.0"
   },
   "engines": {
     "node": "12.x"
