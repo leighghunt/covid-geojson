@@ -215,7 +215,8 @@ function getLocationsOfInterest(){
     processTables(jsonTables)
     // console.log(jsonTables.results)
       
-    let loisGeoJSON = await getGeoJSON()      
+    let loisGeoJSON = await getGeoJSON()
+    console.log(loisGeoJSON)
     // let LOIs = await db.getLOIs();
     // let loisGeoJSON = GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']});
     
@@ -309,14 +310,25 @@ async function getGeoJSON (){
       LOIs.filter(
         loi => loi.Lat!=null && loi.Lng!=null
       )
+      // .map(function(loi){
+      //     return new {
+      //       id: loi.id,
+      //       LocationName: loi.LocationName,
+      //       Address: loi.Address,
+      //       DateFrom: loi.DateFrom,
+      //       DateTo: loi.DateTo
+      //     }
+      //   }
+
+      // )
       .map(
         loi => {
           return {
             id: loi.id,
-            LocationName: loi.LocationName
+            LocationName: loi.LocationName,
             Address: loi.Address,
-            DateFrom: loi.DateFrom,
-            DateTo: loi.DateTo
+            DateFrom: new Date(loi.DateFrom),
+            DateTo: new Date(loi.DateTo)
           }
         }
      ),
@@ -326,7 +338,7 @@ async function getGeoJSON (){
   //   loi.
   // });
 
-  return loisGeoJSON;  
+  return JSON.stringify(loisGeoJSON);
 }
 
 fastify.get("/geojson", async (request, reply) => {
