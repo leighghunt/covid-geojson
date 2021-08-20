@@ -1,5 +1,4 @@
-This little tool has been awesomely rendered obsolete and superceeded by [@minhealthnz](https://twitter.com/minhealthnz)'s datafeed at [https://github.com/minhealthnz/nz-covid-data](https://github.com/minhealthnz/nz-covid-data)
-
+# This little tool has been awesomely rendered obsolete and superceeded by [@minhealthnz](https://twitter.com/minhealthnz)'s datafeed at [https://github.com/minhealthnz/nz-covid-data](https://github.com/minhealthnz/nz-covid-data)
 
 
 
