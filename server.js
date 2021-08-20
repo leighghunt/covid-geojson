@@ -208,7 +208,7 @@ function getLocationsOfInterest(){
 
 }
 
-// getLocationsOfInterest()
+getLocationsOfInterest()
 
 
 let processTables = (jsonTables) => {
@@ -229,7 +229,16 @@ let processTables = (jsonTables) => {
           
           // console.log(result.Address)
           
-          LOIs.push(result)
+          LOIs.push({
+            LocationName: result['Location name'],
+            
+            Address: result.Address,
+            Day: result.Day,
+            Times: result.Times,
+            WhatToDo: result['What to do'],
+            
+            
+          })
         }
     }
     )
@@ -238,9 +247,21 @@ let processTables = (jsonTables) => {
 
   )
   
-  console.log(LOIs)
+  // console.log(LOIs)
   
   console.log(LOIs[0])
+  
+  var dateFrom = moment(LOIs[0].Day + ' ' + LOIs[0].Times.split('-')[0], "dddd D MMMM LT")
+
+  var dateTo = moment(LOIs[0].Day + ' ' + LOIs[0].Times.split('-')[1], "dddd D MMMM LT")
+
+
+  console.log(dateFrom.format())
+
+
+  console.log(dateTo.format())
+
+
 
 
 }
