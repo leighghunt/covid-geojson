@@ -310,17 +310,6 @@ async function getGeoJSON (){
       LOIs.filter(
         loi => loi.Lat!=null && loi.Lng!=null
       )
-      // .map(function(loi){
-      //     return new {
-      //       id: loi.id,
-      //       LocationName: loi.LocationName,
-      //       Address: loi.Address,
-      //       DateFrom: loi.DateFrom,
-      //       DateTo: loi.DateTo
-      //     }
-      //   }
-
-      // )
       .map(
         loi => {
           return {
@@ -334,9 +323,6 @@ async function getGeoJSON (){
      ),
     {Point: ['Lat', 'Lng']}
     )
-  // .map(loi => {
-  //   loi.
-  // });
 
   return JSON.stringify(loisGeoJSON);
 }
@@ -344,6 +330,14 @@ async function getGeoJSON (){
 fastify.get("/geojson", async (request, reply) => {
   
   let loisGeoJSON = await getGeoJSON()
+  reply.send(loisGeoJSON);
+
+})
+
+fastify.get("/LOIs.geojson", async (request, reply) => {
+  
+  let loisGeoJSON = await getGeoJSON()
+  reply.header('Content-Type', 'application/geojson; charset=utf-8')
   reply.send(loisGeoJSON);
 
 })
