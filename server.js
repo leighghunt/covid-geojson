@@ -219,10 +219,10 @@ function getLocationsOfInterest(){
     let LOIs = await db.getLOIs();
     let loisGeoJSON = GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']});
     
-// fs.writeFile('lois.geojson', loisGeoJSON, function (err) {
-//   if (err) return console.log(err);
-//   console.log('loisGeoJSON > helloworld.txt');
-// });
+    fs.writeFile('lois.geojson', loisGeoJSON, function (err) {
+      if (err) return console.log(err);
+      console.log('loisGeoJSON > lois.geojson');
+    });
   });
 
 }
