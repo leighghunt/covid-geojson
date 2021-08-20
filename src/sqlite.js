@@ -142,8 +142,8 @@ module.exports = {
               LOI.DateAdded,
               LOI.DateFrom,
               LOI.DateTo,
-              apiResponse.data.results[0].geometry.location.lng,
-              apiResponse.data.results[0].geometry.location.lat
+              apiResponse.data.results[0].geometry.location.lat,
+              apiResponse.data.results[0].geometry.location.lng
             ]);
 
           } else {
