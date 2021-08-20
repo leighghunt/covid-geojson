@@ -102,7 +102,7 @@ module.exports = {
       );
       
       const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${LOI.Address.replace(/ /g, '+')}&key=${process.env.GOOGLE_API_KEY}`
-      console.log(geocodeURL)
+      // console.log(geocodeURL)
 
 
       
