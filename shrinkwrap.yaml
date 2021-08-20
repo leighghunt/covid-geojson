@@ -3,6 +3,7 @@ dependencies:
   fastify: 3.16.2
   fastify-formbody: 5.0.0
   fastify-static: 4.2.2
+  geojson: 0.5.0
   handlebars: 4.7.7
   html-table-to-json: 1.0.0
   moment: 2.29.1
@@ -574,6 +575,12 @@ packages:
     dev: false
     resolution:
       integrity: sha1-LANAXHU4w51+s3sxcCLjJfsBi/c=
+  /geojson/0.5.0:
+    dev: false
+    engines:
+      node: '>= 0.10'
+    resolution:
+      integrity: sha1-PNbJY5m+ZbVu5VWWEW/pGRznAcA=
   /getpass/0.1.7:
     dependencies:
       assert-plus: 1.0.0
@@ -1523,6 +1530,7 @@ specifiers:
   fastify: ^3.16.2
   fastify-formbody: ^5.0.0
   fastify-static: ^4.2.2
+  geojson: ^0.5.0
   handlebars: ^4.7.7
   html-table-to-json: ^1.0.0
   moment: ^2.29.1

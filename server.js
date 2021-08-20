@@ -13,6 +13,7 @@ const path = require("path");
 const axios = require('axios');
 const HtmlTableToJson = require('html-table-to-json');
 const moment = require('moment-timezone');
+const GeoJSON = require('geojson');
 
 // Require the fastify framework and instantiate it
 const fastify = require("fastify")({
@@ -281,40 +282,16 @@ fastify.get("/LOIs", async (request, reply) => {
  let LOIs = await db.getLOIs(); 
   
   reply.send(LOIs)
-//   axios.get(locationsOfInterestURL, {
-//       }
-//     )
-//   .then(async function (htmlResponse) {
-    
-//     console.log("locationsOfInterestURL - response")
-//     // console.log(typeof(htmlResponse.data))
-      
-//     const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
-//     reply.send(jsonTables.results)
-//   });
-
 
 })
 
-// const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${"17 Clark Street, New Lynn, Auckland, 0600".replace(/ /g, '+')}&key=${process.env.GOOGLE_API_KEY}`
-// console.log(geocodeURL)
 
 
-//   axios.get(geocodeURL, {
-//       }
-//     )
-//   .then(async function (apiResponse) {
-//     if(apiResponse.data.status == 'OK' && apiResponse.data.results.length==1){
-//       // console.log(apiResponse.data)
-//       // console.log(apiResponse.data.results.length)
-//       // console.log(apiResponse.data.results[0])
+fastify.get("/geojson", async (request, reply) => {
+  
+ let LOIs = await db.getLOIs();
+  
+  reply.send(GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']}))
 
-//       // console.log(apiResponse.data.results[0].geometry)
-//       console.log(apiResponse.data.results[0].geometry.location.lat)
-//       console.log(apiResponse.data.results[0].geometry.location.lng)
+})
 
-//     }
-
-
-    
-  // })

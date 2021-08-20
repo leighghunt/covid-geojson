@@ -17,7 +17,8 @@
     "html-table-to-json": "^1.0.0",
     "axios": "^0.21.1",
     "moment": "^2.29.1",
-    "moment-timezone": "^0.5.33"
+    "moment-timezone": "^0.5.33",
+    "geojson": "^0.5.0"
   },
   "engines": {
     "node": "12.x"
