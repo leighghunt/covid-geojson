@@ -10,7 +10,7 @@ const axios = require('axios');
 
 
 // Initialize the database
-const dbFile = "./.data/123.db";
+const dbFile = "./.data/LOIs.db";
 const exists = fs.existsSync(dbFile);
 const sqlite3 = require("sqlite3").verbose();
 const dbWrapper = require("sqlite");
@@ -39,7 +39,7 @@ dbWrapper
 
 
         await db.run(
-          "CREATE TABLE LOIs (id INTEGER PRIMARY KEY AUTOINCREMENT, LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME, x REAL, y REAL)"
+          "CREATE TABLE LOIs (id INTEGER PRIMARY KEY AUTOINCREMENT, LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME, Lat REAL, Lng REAL)"
         );
 
 
@@ -118,8 +118,8 @@ module.exports = {
 
         
 //         seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
-        const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${LOI.Address}&key=${process.env.GOOGLE_API_KEY}`
-        // console.log(geocodeURL)
+        const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${encodeURIComponent(LOI.Address)}&key=${process.env.GOOGLE_API_KEY}`
+        console.log(geocodeURL)
    
         axios.get(geocodeURL, {}
         )
@@ -134,7 +134,7 @@ module.exports = {
             // console.log(apiResponse.data.results[0].geometry.location.lng)
 
             //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
-            await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo, x, y) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", [
+            await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo, Lat, Lng) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", [
               LOI.LocationName,
               LOI.Address,
               LOI.Day,
@@ -142,14 +142,27 @@ module.exports = {
               LOI.DateAdded,
               LOI.DateFrom,
               LOI.DateTo,
-              apiResponse.data.results[0].geometry.location.lat,
-              apiResponse.data.results[0].geometry.location.lng
+              apiResponse.data.results[0].geometry.location.lng,
+              apiResponse.data.results[0].geometry.location.lat
             ]);
 
           } else {
             console.error("Couldn't geocode address: " + LOI.Address)
             console.log("STATUS: " + apiResponse.data.status)
-            console.log("Results: " + JSON.Stringify(apiResponse.data.results))
+            console.log("Results: " + JSON.stringify(apiResponse.data.results))
+            
+            
+            await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo) VALUES (?, ?, ?, ?, ?, ?, ?)", [
+              LOI.LocationName,
+              LOI.Address,
+              LOI.Day,
+              LOI.Times,
+              LOI.DateAdded,
+              LOI.DateFrom,
+              LOI.DateTo
+            ]);
+
+
 
           }
 
