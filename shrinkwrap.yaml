@@ -6,6 +6,7 @@ dependencies:
   handlebars: 4.7.7
   html-table-to-json: 1.0.0
   moment: 2.29.1
+  moment-timezone: 0.5.33
   point-of-view: 4.14.0
   sqlite: 4.0.23
   sqlite3: 5.0.2
@@ -847,6 +848,12 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-NKmAlESf6jMGym1++R0Ra7wvhV+wFW63FaSOFPwRahvea0gMUcGUhVeAg/0BC0wiv9ih5NYPB1Wn1UEI1/L+xQ==
+  /moment-timezone/0.5.33:
+    dependencies:
+      moment: 2.29.1
+    dev: false
+    resolution:
+      integrity: sha512-PTc2vcT8K9J5/9rDEPe5czSIKgLoGsH8UNpA4qZTVw0Vd/Uz19geE9abbIOQKaAQFcnQ3v5YEXrbSc5BpshH+w==
   /moment/2.29.1:
     dev: false
     resolution:
@@ -1519,6 +1526,7 @@ specifiers:
   handlebars: ^4.7.7
   html-table-to-json: ^1.0.0
   moment: ^2.29.1
+  moment-timezone: ^0.5.33
   point-of-view: ^4.14.0
   sqlite: ^4.0.23
   sqlite3: ^5.0.2

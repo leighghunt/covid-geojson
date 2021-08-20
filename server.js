@@ -12,7 +12,7 @@ const fs = require("fs");
 const path = require("path");
 const axios = require('axios');
 const HtmlTableToJson = require('html-table-to-json');
-const moment = require('moment');
+const moment = require('moment-timezone');
 
 // Require the fastify framework and instantiate it
 const fastify = require("fastify")({
@@ -237,8 +237,8 @@ let processTables = (jsonTables) => {
             Times: result.Times,
             WhatToDo: result['What to do'],
             DateAdded: result['Date added'],
-            DateFrom: moment(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT"),
-            DateTo: moment(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT"),
+            DateFrom: moment.tz(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT", "Pacific/Auckland").clone().tz("Pacific/Auckland"),
+            DateTo: moment.tz(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT", "Pacific/Auckland"),
             // DateFrom: moment(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT").format(),
             // DateTo: moment(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT").format(),
 

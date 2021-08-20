@@ -99,13 +99,13 @@ module.exports = {
         LOI
       );
       if (loi.length > 0) {
-        // Build the user data from the front-end and the current time into the sql query
+//         // Build the user data from the front-end and the current time into the sql query
 
-        // Update the number of times the choice has been picked by adding one to it
-        await db.run(
-          "UPDATE LOIs SET picks = picks + 1 WHERE language = ?",
-          vote
-        );
+//         // Update the number of times the choice has been picked by adding one to it
+//         await db.run(
+//           "UPDATE LOIs SET picks = picks + 1 WHERE language = ?",
+//           vote
+//         );
       } else {
 
         await db.run("INSERT INTO Log (json, time) VALUES (?, ?)", [
@@ -115,7 +115,7 @@ module.exports = {
 
 
         //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
-        await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo) VALUES (?, ?)", [
+        await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo, x, y) VALUES (?, ?)", [
           LOI.LocationName,
           LOI.Address,
           LOI.Day,
