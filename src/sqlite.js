@@ -96,7 +96,7 @@ module.exports = {
       // Check the vote is valid
       const loi = await db.all(
         "SELECT * from LOIs WHERE LocationName = ? AND Day = ? AND Times = ?",
-        LOI
+        [LOI.LocationName, LOI.Day, LOI.Times]
       );
       if (loi.length > 0) {
         console.log("FOUND")
@@ -119,7 +119,7 @@ module.exports = {
 
 
         //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
-        await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo, x, y) VALUES (?, ?)", [
+        await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo, x, y) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", [
           LOI.LocationName,
           LOI.Address,
           LOI.Day,

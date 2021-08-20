@@ -39,15 +39,15 @@
       <!-- Write out a table row for each entry in the log array showing choice and timestamp -->
       {{#if optionHistory.length}}
           <div>
-            <h2>Poll History</h2>
+            <h2>LOG</h2>
             <table>
               <tr>
-                <th>Option Name</th>
+                <th>JSON</th>
                 <th>Timestamp</th>
               </tr>
               {{#each optionHistory}}
                 <tr>
-                  <td>{{choice}}</td>
+                  <td>{{json}}</td>
                   <td>{{time}}</td>
                 </tr>
               {{/each}}

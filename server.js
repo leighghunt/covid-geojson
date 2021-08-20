@@ -62,16 +62,16 @@ fastify.get("/", async (request, reply) => {
   let params = request.query.raw ? {} : { seo: seo };
 
   // Get the available choices from the database
-  const options = await db.getOptions();
-  if (options) {
-    params.optionNames = options.map(choice => choice.language);
-    params.optionCounts = options.map(choice => choice.picks);
+  const lois = await db.getLOIs();
+  if (lois) {
+    // params.optionNames = lois.map(choice => choice.language);
+    // params.optionCounts = lois.map(choice => choice.picks);
   }
   // Let the user know if there was a db error
   else params.error = data.errorMessage;
 
   // Check in case the data is empty or not setup yet
-  if (options && params.optionNames.length < 1)
+  if (lois && params.optionNames.length < 1)
     params.setup = data.setupMessage;
 
   // ADD PARAMS FROM README NEXT STEPS HERE
@@ -243,7 +243,7 @@ let processTables =  (jsonTables) => {
 
           });
           
-          console.log(lois.length)
+          // console.log(lois.length)
 
 
         }          
@@ -258,7 +258,7 @@ let processTables =  (jsonTables) => {
   
 //   // console.log(LOIs)
   
-  console.log(LOIs[0])
+  // console.log(LOIs[0])
   
 //   var dateFrom = moment(LOIs[0].Day + ' ' + LOIs[0].Times.split('-')[0], "dddd D MMMM LT")
 
@@ -277,6 +277,8 @@ let processTables =  (jsonTables) => {
 }
 
 fastify.get("/LOIs", async (request, reply) => {
+  
+ let LOIs = await db.getLOIs(); 
   
   reply.send(LOIs)
 //   axios.get(locationsOfInterestURL, {
