@@ -99,6 +99,7 @@ module.exports = {
         LOI
       );
       if (loi.length > 0) {
+        console.log("FOUND")
 //         // Build the user data from the front-end and the current time into the sql query
 
 //         // Update the number of times the choice has been picked by adding one to it
@@ -107,6 +108,9 @@ module.exports = {
 //           vote
 //         );
       } else {
+
+        console.log("NOT FOUND")
+
 
         await db.run("INSERT INTO Log (json, time) VALUES (?, ?)", [
           JSON.stringify(LOI),

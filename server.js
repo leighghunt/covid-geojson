@@ -191,7 +191,7 @@ fastify.listen(process.env.PORT, function(err, address) {
 
 
 var locationsOfInterestURL = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest"
-var LOIs = []
+// var LOIs = []
 
 function getLocationsOfInterest(){
     axios.get(locationsOfInterestURL, {
@@ -211,7 +211,7 @@ function getLocationsOfInterest(){
 getLocationsOfInterest()
 
 
-let processTables = (jsonTables) => {
+let processTables =  (jsonTables) => {
   // console.log(jsonTables.count);
   
   // var LOIs = []
@@ -220,7 +220,7 @@ let processTables = (jsonTables) => {
 
     console.log(tableResults.length)
                              
-    tableResults.forEach(result =>  {
+    tableResults.forEach(async result =>  {
          // console.log(result)
                          
         if(result.Address){
@@ -229,21 +229,26 @@ let processTables = (jsonTables) => {
           
           // console.log(result.Address)
           
-          LOIs.push({
-            LocationName: result['Location name'],
-            
+          let lois = await db.processLOI({
+            LocationName: result['Location name'],            
             Address: result.Address,
             Day: result.Day,
             Times: result.Times,
             WhatToDo: result['What to do'],
             DateAdded: result['Date added'],
-            DateFrom: moment.tz(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT", "Pacific/Auckland").clone().tz("Pacific/Auckland"),
+            DateFrom: moment.tz(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT", "Pacific/Auckland"),
             DateTo: moment.tz(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT", "Pacific/Auckland"),
             // DateFrom: moment(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT").format(),
             // DateTo: moment(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT").format(),
 
-          })
-        }
+          });
+          
+          console.log(lois.length)
+
+
+        }          
+        //   LOIs.push()
+        // }
     }
     )
 
@@ -265,6 +270,7 @@ let processTables = (jsonTables) => {
 
 //   console.log(dateTo.format())
 
+  
 
 
 
