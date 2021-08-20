@@ -191,7 +191,7 @@ fastify.listen(process.env.PORT, function(err, address) {
 
 
 var locationsOfInterestURL = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest"
-
+var LOIs = []
 
 function getLocationsOfInterest(){
     axios.get(locationsOfInterestURL, {
@@ -214,7 +214,7 @@ getLocationsOfInterest()
 let processTables = (jsonTables) => {
   // console.log(jsonTables.count);
   
-  var LOIs = []
+  // var LOIs = []
 
   jsonTables.results.forEach(tableResults => {
 
@@ -236,8 +236,12 @@ let processTables = (jsonTables) => {
             Day: result.Day,
             Times: result.Times,
             WhatToDo: result['What to do'],
-            
-            
+            DateAdded: result['Date added'],
+            DateFrom: moment(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT"),
+            DateTo: moment(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT"),
+            // DateFrom: moment(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT").format(),
+            // DateTo: moment(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT").format(),
+
           })
         }
     }
@@ -247,19 +251,19 @@ let processTables = (jsonTables) => {
 
   )
   
-  // console.log(LOIs)
+//   // console.log(LOIs)
   
   console.log(LOIs[0])
   
-  var dateFrom = moment(LOIs[0].Day + ' ' + LOIs[0].Times.split('-')[0], "dddd D MMMM LT")
+//   var dateFrom = moment(LOIs[0].Day + ' ' + LOIs[0].Times.split('-')[0], "dddd D MMMM LT")
 
-  var dateTo = moment(LOIs[0].Day + ' ' + LOIs[0].Times.split('-')[1], "dddd D MMMM LT")
-
-
-  console.log(dateFrom.format())
+//   var dateTo = moment(LOIs[0].Day + ' ' + LOIs[0].Times.split('-')[1], "dddd D MMMM LT")
 
 
-  console.log(dateTo.format())
+//   console.log(dateFrom.format())
+
+
+//   console.log(dateTo.format())
 
 
 
@@ -267,35 +271,19 @@ let processTables = (jsonTables) => {
 }
 
 fastify.get("/LOIs", async (request, reply) => {
-  /* 
-  Params is the data we pass to the client
-  - SEO values for front-end UI but not for raw data
-  */
-  // let params = request.query.raw ? {} : { seo: seo };
   
-      axios.get(locationsOfInterestURL, {
-    // headers: {
-    //   'x-api-key': process.env.metlink_api_key
-    // }
-    }
-  )
-  .then(async function (htmlResponse) {
+  reply.send(LOIs)
+//   axios.get(locationsOfInterestURL, {
+//       }
+//     )
+//   .then(async function (htmlResponse) {
     
-    console.log("locationsOfInterestURL - response")
-    // console.log(typeof(htmlResponse.data))
+//     console.log("locationsOfInterestURL - response")
+//     // console.log(typeof(htmlResponse.data))
       
-    const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
-    // console.log(jsonTables.results)
-//     console.log(jsonTables.count);
-      
-//     console.log(jsonTables.results[0][0])
-
-//     console.log(jsonTables.results[1])
-
-//     console.log(jsonTables.results[2])
-
-    reply.send(jsonTables.results)
-  });
+//     const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
+//     reply.send(jsonTables.results)
+//   });
 
 
 })

@@ -37,7 +37,7 @@ dbWrapper
 
 
         await db.run(
-          "CREATE TABLE LOIs (id INTEGER PRIMARY KEY AUTOINCREMENT, LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
+          "CREATE TABLE LOIs (id INTEGER PRIMARY KEY AUTOINCREMENT, LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME, x REAL, y REAL)"
         );
 
 
@@ -89,46 +89,51 @@ module.exports = {
    * Add a log entry
    * Find and update the chosen option
    * Return the updated list of votes
-//    */
-//   processLOI: async LOI => {
-//     // Insert new Log table entry indicating the user choice and timestamp
-//     try {
-//       // Check the vote is valid
-//       const loi = await db.all(
-//         "SELECT * from LOIs WHERE LocationName = ? AND Day = ? AND Time = ?",
-//         LOI
-//       );
-//       if (loi.length > 0) {
-//         // Build the user data from the front-end and the current time into the sql query
-//         await db.run("INSERT INTO Log (json, time) VALUES (?, ?)", [
-//           JSON.stringify(LOI),
-//           new Date().toISOString()
-//         ]);
+   */
+  processLOI: async LOI => {
+    // Insert new Log table entry indicating the user choice and timestamp
+    try {
+      // Check the vote is valid
+      const loi = await db.all(
+        "SELECT * from LOIs WHERE LocationName = ? AND Day = ? AND Times = ?",
+        LOI
+      );
+      if (loi.length > 0) {
+        // Build the user data from the front-end and the current time into the sql query
 
-//         // Update the number of times the choice has been picked by adding one to it
-//         await db.run(
-//           "UPDATE LOIs SET picks = picks + 1 WHERE language = ?",
-//           vote
-//         );
-//       } else {
-        
-//         //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
-//         await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo) VALUES (?, ?)", [
-//           LOI.LocationName,
-//           LOI.Address,
-//           LOI.Day,
-//           LOI.Times,
-//           LOI.DateAdded,
-//           new Date().toISOString()
-//         ]);
-        
-//       }
+        // Update the number of times the choice has been picked by adding one to it
+        await db.run(
+          "UPDATE LOIs SET picks = picks + 1 WHERE language = ?",
+          vote
+        );
+      } else {
 
-//       return await db.all("SELECT * from LOIs");
-//     } catch (dbError) {
-//       console.error(dbError);
-//     }
-//   },
+        await db.run("INSERT INTO Log (json, time) VALUES (?, ?)", [
+          JSON.stringify(LOI),
+          new Date().toISOString()
+        ]);
+
+
+        //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
+        await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo) VALUES (?, ?)", [
+          LOI.LocationName,
+          LOI.Address,
+          LOI.Day,
+          LOI.Times,
+          LOI.DateAdded,
+          LOI.DateFrom,
+          LOI.DateTo,
+          LOI.x,
+          LOI.y
+        ]);
+        
+      }
+
+      return await db.all("SELECT * from LOIs");
+    } catch (dbError) {
+      console.error(dbError);
+    }
+  },
 
   /**
    * Get logs
