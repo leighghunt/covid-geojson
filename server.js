@@ -317,7 +317,9 @@ async function getGeoJSON (){
             LocationName: loi.LocationName,
             Address: loi.Address,
             DateFrom: new Date(loi.DateFrom),
-            DateTo: new Date(loi.DateTo)
+            DateTo: new Date(loi.DateTo),
+            Lat: loi.Lat,
+            Lng: loi.Lng,
           }
         }
      ),
