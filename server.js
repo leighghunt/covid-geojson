@@ -14,7 +14,7 @@ const axios = require('axios');
 const HtmlTableToJson = require('html-table-to-json');
 const moment = require('moment-timezone');
 const GeoJSON = require('geojson');
-var cron = require('node-cron');
+const cron = require('node-cron');
 
 
 // Require the fastify framework and instantiate it
@@ -214,6 +214,15 @@ function getLocationsOfInterest(){
     const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
     processTables(jsonTables)
     // console.log(jsonTables.results)
+      
+      
+    let LOIs = await db.getLOIs();
+    let loisGeoJSON = GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']});
+    
+// fs.writeFile('lois.geojson', loisGeoJSON, function (err) {
+//   if (err) return console.log(err);
+//   console.log('loisGeoJSON > helloworld.txt');
+// });
   });
 
 }
