@@ -216,7 +216,7 @@ function getLocationsOfInterest(){
     // console.log(jsonTables.results)
       
     let loisGeoJSON = await getGeoJSON()
-    console.log(loisGeoJSON)
+    // console.log(loisGeoJSON)
     // let LOIs = await db.getLOIs();
     // let loisGeoJSON = GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']});
     
@@ -316,6 +316,8 @@ async function getGeoJSON (){
             id: loi.id,
             LocationName: loi.LocationName,
             Address: loi.Address,
+            Day: loi.Day,
+            Times: loi.Times,
             DateFrom: new Date(loi.DateFrom),
             DateTo: new Date(loi.DateTo),
             Lat: loi.Lat,
