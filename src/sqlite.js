@@ -108,7 +108,7 @@ module.exports = {
       
       if (loi.length == 0) {
 
-        console.log("NOT FOUND")
+        console.log("New LOI")
 
 
         await db.run("INSERT INTO Log (json, time) VALUES (?, ?)", [
@@ -119,7 +119,7 @@ module.exports = {
         
 //         seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
         const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${LOI.Address}&key=${process.env.GOOGLE_API_KEY}`
-        console.log(geocodeURL)
+        // console.log(geocodeURL)
    
         axios.get(geocodeURL, {}
         )
@@ -130,8 +130,8 @@ module.exports = {
             // console.log(apiResponse.data.results[0])
 
             // console.log(apiResponse.data.results[0].geometry)
-            console.log(apiResponse.data.results[0].geometry.location.lat)
-            console.log(apiResponse.data.results[0].geometry.location.lng)
+            // console.log(apiResponse.data.results[0].geometry.location.lat)
+            // console.log(apiResponse.data.results[0].geometry.location.lng)
 
             //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
             await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo, x, y) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", [
@@ -147,15 +147,16 @@ module.exports = {
             ]);
 
           } else {
-            console.log("Couldn't geocode address: " + LOI.Address)
+            console.error("Couldn't geocode address: " + LOI.Address)
             console.log("STATUS: " + apiResponse.data.status)
-            console.log("Results: " + apiResponse.data.results)
+            console.log("Results: " + JSON.Stringify(apiResponse.data.results))
 
           }
 
       });
 
       return await db.all("SELECT * from LOIs");
+      }
     } catch (dbError) {
       console.error(dbError);
     }
