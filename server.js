@@ -215,9 +215,9 @@ function getLocationsOfInterest(){
     processTables(jsonTables)
     // console.log(jsonTables.results)
       
-      
-    let LOIs = await db.getLOIs();
-    let loisGeoJSON = GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']});
+    let loisGeoJSON = await getGeoJSON()      
+    // let LOIs = await db.getLOIs();
+    // let loisGeoJSON = GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']});
     
     fs.writeFile('lois.geojson', loisGeoJSON, function (err) {
       if (err) return console.log(err);
@@ -303,13 +303,35 @@ fastify.get("/LOIs", async (request, reply) => {
 
 })
 
+async function getGeoJSON (){
+  let LOIs = await db.getLOIs();
+  let loisGeoJSON = GeoJSON.parse(
+      LOIs.filter(
+        loi => loi.Lat!=null && loi.Lng!=null
+      )
+      .map(
+        loi => {
+          return {
+            id: loi.id,
+            LocationName: loi.LocationName
+            Address: loi.Address,
+            DateFrom: loi.DateFrom,
+            DateTo: loi.DateTo
+          }
+        }
+     ),
+    {Point: ['Lat', 'Lng']}
+    )
+  // .map(loi => {
+  //   loi.
+  // });
 
+  return loisGeoJSON;  
+}
 
 fastify.get("/geojson", async (request, reply) => {
   
- let LOIs = await db.getLOIs();
-  
-  reply.send(GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']}))
+  let loisGeoJSON = await getGeoJSON()
+  reply.send(loisGeoJSON);
 
 })
-
