@@ -120,29 +120,40 @@ module.exports = {
 //         seo.url = `https://${process.env.PROJECT_DOMAIN}.glitch.me`;
         const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${LOI.Address}&key=${process.env.GOOGLE_API_KEY}`
         console.log(geocodeURL)
-//         // Geocode....
-//         axios.get(geocode, {
-//             }
-//           )
-//         .then(async function (htmlResponse) {})
-// //         https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,
-// // +Mountain+View,+CA&key=YOUR_API_KEY
-        
+   
+        axios.get(geocodeURL, {}
+        )
+        .then(async function (apiResponse) {
+          if(apiResponse.data.status == 'OK' && apiResponse.data.results.length==1){
+            // console.log(apiResponse.data)
+            // console.log(apiResponse.data.results.length)
+            // console.log(apiResponse.data.results[0])
 
-        //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
-        await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo, x, y) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", [
-          LOI.LocationName,
-          LOI.Address,
-          LOI.Day,
-          LOI.Times,
-          LOI.DateAdded,
-          LOI.DateFrom,
-          LOI.DateTo,
-          LOI.x,
-          LOI.y
-        ]);
-        
-      }
+            // console.log(apiResponse.data.results[0].geometry)
+            console.log(apiResponse.data.results[0].geometry.location.lat)
+            console.log(apiResponse.data.results[0].geometry.location.lng)
+
+            //LocationName TEXT, Address TEXT, Day TEXT, Times Text, DateAdded TEXT, DateFrom DATETIME, DateTo DATETIME)"
+            await db.run("INSERT INTO LOIs (LocationName, Address, Day, Times, DateAdded, DateFrom, DateTo, x, y) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)", [
+              LOI.LocationName,
+              LOI.Address,
+              LOI.Day,
+              LOI.Times,
+              LOI.DateAdded,
+              LOI.DateFrom,
+              LOI.DateTo,
+              apiResponse.data.results[0].geometry.location.lat,
+              apiResponse.data.results[0].geometry.location.lng
+            ]);
+
+          } else {
+            console.log("Couldn't geocode address: " + LOI.Address)
+            console.log("STATUS: " + apiResponse.data.status)
+            console.log("Results: " + apiResponse.data.results)
+
+          }
+
+      });
 
       return await db.all("SELECT * from LOIs");
     } catch (dbError) {

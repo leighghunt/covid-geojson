@@ -296,25 +296,25 @@ fastify.get("/LOIs", async (request, reply) => {
 
 })
 
-const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${"17 Clark Street, New Lynn, Auckland, 0600".replace(/ /g, '+')}&key=${process.env.GOOGLE_API_KEY}`
-console.log(geocodeURL)
+// const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${"17 Clark Street, New Lynn, Auckland, 0600".replace(/ /g, '+')}&key=${process.env.GOOGLE_API_KEY}`
+// console.log(geocodeURL)
 
 
-  axios.get(geocodeURL, {
-      }
-    )
-  .then(async function (apiResponse) {
-    if(apiResponse.data.status == 'OK' && apiResponse.data.results.length==1){
-      // console.log(apiResponse.data)
-      // console.log(apiResponse.data.results.length)
-      console.log(apiResponse.data.results[0])
+//   axios.get(geocodeURL, {
+//       }
+//     )
+//   .then(async function (apiResponse) {
+//     if(apiResponse.data.status == 'OK' && apiResponse.data.results.length==1){
+//       // console.log(apiResponse.data)
+//       // console.log(apiResponse.data.results.length)
+//       // console.log(apiResponse.data.results[0])
 
-      console.log(apiResponse.data.results[0].geometry.lat)
+//       // console.log(apiResponse.data.results[0].geometry)
+//       console.log(apiResponse.data.results[0].geometry.location.lat)
+//       console.log(apiResponse.data.results[0].geometry.location.lng)
 
-      console.log(apiResponse.data.results[0].geometry.lon)
-
-    }
+//     }
 
 
     
-  })
+  // })
