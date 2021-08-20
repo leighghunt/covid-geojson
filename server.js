@@ -296,3 +296,6 @@ fastify.get("/LOIs", async (request, reply) => {
 
 })
 
+const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${"BP Gas Station, Tiki Road, Coromandel, 3056".replace(/ /g, '+')}&key=${process.env.GOOGLE_API_KEY}`
+console.log(geocodeURL)
+

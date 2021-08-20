@@ -55,7 +55,7 @@ dbWrapper
         );
       } else {
         // We have a database already - write Choices records to log for info
-        console.log(await db.all("SELECT * from LOIs"));
+        // console.log(await db.all("SELECT * from LOIs"));
 
         //If you need to remove a table from the database use this syntax
         //db.run("DROP TABLE Logs"); //will fail if the table doesn't exist
@@ -100,16 +100,13 @@ module.exports = {
         "SELECT * from LOIs WHERE LocationName = ? AND Day = ? AND Times = ?",
         [LOI.LocationName, LOI.Day, LOI.Times]
       );
-      if (loi.length > 0 && loi.id != 1) {
-        // console.log("FOUND")
-//         // Build the user data from the front-end and the current time into the sql query
+      
+      const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${LOI.Address.replace(/ /g, '+')}&key=${process.env.GOOGLE_API_KEY}`
+      console.log(geocodeURL)
 
-//         // Update the number of times the choice has been picked by adding one to it
-//         await db.run(
-//           "UPDATE LOIs SET picks = picks + 1 WHERE language = ?",
-//           vote
-//         );
-      } else {
+
+      
+      if (loi.length == 0) {
 
         console.log("NOT FOUND")
 
