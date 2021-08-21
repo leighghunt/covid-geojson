@@ -209,7 +209,7 @@ function getLocationsOfInterest(){
   )
   .then(async function (htmlResponse) {
     
-    console.log("locationsOfInterestURL - response")
+    // console.log("locationsOfInterestURL - response")
       
     const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
     processTables(jsonTables)
@@ -222,7 +222,7 @@ function getLocationsOfInterest(){
     
     fs.writeFile('lois.geojson', loisGeoJSON, function (err) {
       if (err) return console.log(err);
-      console.log('loisGeoJSON > lois.geojson');
+      // console.log('loisGeoJSON > lois.geojson');
     });
   });
 
@@ -238,7 +238,7 @@ let processTables =  (jsonTables) => {
 
   jsonTables.results.forEach(tableResults => {
 
-    console.log(tableResults.length)
+    // console.log(tableResults.length)
                              
     tableResults.forEach(async result =>  {
          // console.log(result)
@@ -262,38 +262,9 @@ let processTables =  (jsonTables) => {
             // DateTo: moment(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT").format(),
 
           });
-          
-          // console.log(lois.length)
-
-
-        }          
-        //   LOIs.push()
-        // }
-    }
-    )
-
-  }
-
-  )
-  
-//   // console.log(LOIs)
-  
-  // console.log(LOIs[0])
-  
-//   var dateFrom = moment(LOIs[0].Day + ' ' + LOIs[0].Times.split('-')[0], "dddd D MMMM LT")
-
-//   var dateTo = moment(LOIs[0].Day + ' ' + LOIs[0].Times.split('-')[1], "dddd D MMMM LT")
-
-
-//   console.log(dateFrom.format())
-
-
-//   console.log(dateTo.format())
-
-  
-
-
-
+        }
+    })
+  })
 }
 
 fastify.get("/LOIs", async (request, reply) => {
