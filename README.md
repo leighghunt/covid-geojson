@@ -1,6 +1,6 @@
 # This little tool has been awesomely rendered obsolete and superceeded by [@minhealthnz](https://twitter.com/minhealthnz)'s datafeed at [https://github.com/minhealthnz/nz-covid-data](https://github.com/minhealthnz/nz-covid-data)
 
-
+Authoritative feed from Ministry of Health [here](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest)
 
 
 
