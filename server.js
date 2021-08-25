@@ -197,7 +197,7 @@ var locationsOfInterestURL = "https://www.health.govt.nz/our-work/diseases-and-c
 // var LOIs = []
 
 
-cron.schedule('*/1 * * * *', () => {
+cron.schedule('*/5 * * * *', () => {
   getLocationsOfInterest();
 });
 
@@ -222,7 +222,7 @@ function getLocationsOfInterest(){
     
     fs.writeFile('lois.geojson', loisGeoJSON, function (err) {
       if (err) return console.log(err);
-      // console.log('loisGeoJSON > lois.geojson');
+      console.log('loisGeoJSON > lois.geojson');
     });
   });
 
