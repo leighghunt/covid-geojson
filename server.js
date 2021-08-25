@@ -222,7 +222,7 @@ function getLocationsOfInterest(){
     
     fs.writeFile('lois.geojson', loisGeoJSON, function (err) {
       if (err) return console.log(err);
-      console.log('loisGeoJSON > lois.geojson');
+      // console.log('loisGeoJSON > lois.geojson');
     });
   });
 
