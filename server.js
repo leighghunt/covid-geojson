@@ -212,8 +212,8 @@ function getLocationsOfInterest(){
     console.log("locationsOfInterestURL - response")
       
     const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
+
     processTables(jsonTables)
-    console.log(jsonTables.results)
       
     let loisGeoJSON = await getGeoJSON()
     // console.log(loisGeoJSON)
@@ -238,7 +238,8 @@ let processTables =  (jsonTables) => {
 
   jsonTables.results.forEach(tableResults => {
 
-    // console.log(tableResults.length)
+    console.log(tableResults.headers)
+    console.log(tableResults.length)
                              
     tableResults.forEach(async result =>  {
          // console.log(result)
