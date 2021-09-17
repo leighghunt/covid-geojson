@@ -238,13 +238,13 @@ let processTables =  (jsonTables) => {
 
   jsonTables.results.forEach(tableResults => {
 
-    console.log(tableResults.headers)
-    console.log(tableResults.length)
+    // console.log(tableResults.headers)
+    // console.log(tableResults.length)
                              
     tableResults.forEach(async result =>  {
          // console.log(result)
                          
-        if(result.Address){
+        if(result.Address && result['Location name'] && result['What to do'] && result['Date added'] && result.Times){
           
           // moment(a.Day, "dddd D MMMM").format()
           
