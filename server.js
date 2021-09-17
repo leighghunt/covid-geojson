@@ -209,11 +209,11 @@ function getLocationsOfInterest(){
   )
   .then(async function (htmlResponse) {
     
-    // console.log("locationsOfInterestURL - response")
+    console.log("locationsOfInterestURL - response")
       
     const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
     processTables(jsonTables)
-    // console.log(jsonTables.results)
+    console.log(jsonTables.results)
       
     let loisGeoJSON = await getGeoJSON()
     // console.log(loisGeoJSON)
