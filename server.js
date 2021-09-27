@@ -220,9 +220,10 @@ function getLocationsOfInterest(){
     // let LOIs = await db.getLOIs();
     // let loisGeoJSON = GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']});
     
+    console.log("writing....")
     fs.writeFile('lois.geojson', loisGeoJSON, function (err) {
       if (err) return console.log(err);
-      // console.log('loisGeoJSON > lois.geojson');
+      console.log('loisGeoJSON > lois.geojson');
     });
   });
 
@@ -244,7 +245,7 @@ let processTables =  (jsonTables) => {
     tableResults.forEach(async result =>  {
          // console.log(result)
                          
-        if(result.Address && result['Location name'] && result['What to do'] && result['Date added'] && result.Times){
+        if(result.Address && result['Location name'] && result['What to do'] && result['Updated'] && result.Times){
           
           // moment(a.Day, "dddd D MMMM").format()
           
@@ -256,7 +257,7 @@ let processTables =  (jsonTables) => {
             Day: result.Day,
             Times: result.Times,
             WhatToDo: result['What to do'],
-            DateAdded: result['Date added'],
+            DateAdded: result['Updated'],
             DateFrom: moment.tz(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT", "Pacific/Auckland"),
             DateTo: moment.tz(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT", "Pacific/Auckland"),
             // DateFrom: moment(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT").format(),
