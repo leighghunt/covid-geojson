@@ -9,3 +9,10 @@
 - Running version [here](https://glitch.com/edit/#!/relic-brick-bill)
 - GeoJSON file [here](http://relic-brick-bill.glitch.me/LOIs.geojson) and also [here](https://github.com/leighghunt/covid-geojson/blob/main/lois.geojson)
 - Terminal [here](https://glitch.com/edit/console.html?relic-brick-bill)
+
+## Process
+- In QGIS, use Temporal Controller plugin to create frames of animation - ensure image dimensions are using even number of pixels
+- Use ffmpeg to create animation, e.g.:
+```
+ffmpeg -r 30 -f image2 -i NZCovid%04d.png -vcodec libx264 -crf 15  -pix_fmt yuv420p render.mp4
+```
