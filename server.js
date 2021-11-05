@@ -209,7 +209,7 @@ function getLocationsOfInterest(){
   )
   .then(async function (htmlResponse) {
     
-    console.log("locationsOfInterestURL - response")
+    // console.log("locationsOfInterestURL - response")
       
     const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
 
@@ -220,10 +220,10 @@ function getLocationsOfInterest(){
     // let LOIs = await db.getLOIs();
     // let loisGeoJSON = GeoJSON.parse(LOIs.filter( loi => loi.Lat!=null && loi.Lng!=null), {Point: ['Lat', 'Lng']});
     
-    console.log("writing....")
+    // console.log("writing....")
     fs.writeFile('lois.geojson', loisGeoJSON, function (err) {
       if (err) return console.log(err);
-      console.log('loisGeoJSON > lois.geojson');
+      // console.log('loisGeoJSON > lois.geojson');
     });
   });
 
