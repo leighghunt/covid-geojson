@@ -264,6 +264,9 @@ let processTables =  (jsonTables) => {
             // DateTo: moment(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT").format(),
 
           });
+        } else {
+          // console.log('Nope')
+          // console.log(result)
         }
     })
   })
