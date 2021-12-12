@@ -243,7 +243,7 @@ let processTables =  (jsonTables) => {
     // console.log(tableResults.length)
                              
     tableResults.forEach(async result =>  {
-         // console.log(result)
+         console.log(result)
                          
         if(result.Address && result['Location name'] && result['What to do'] && result['Updated'] && result.Times){
           
@@ -265,8 +265,8 @@ let processTables =  (jsonTables) => {
 
           });
         } else {
-          // console.log('Nope')
-          // console.log(result)
+          console.log('Nope')
+          console.log(result)
         }
     })
   })
