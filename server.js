@@ -11,7 +11,6 @@
 const fs = require("fs");
 const path = require("path");
 const axios = require('axios');
-const HtmlTableToJson = require('html-table-to-json');
 const moment = require('moment-timezone');
 const GeoJSON = require('geojson');
 const cron = require('node-cron');
@@ -193,7 +192,9 @@ fastify.listen(process.env.PORT, function(err, address) {
 
 
 
-var locationsOfInterestURL = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest"
+// var locationsOfInterestURL = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest"
+var locationsOfInterestURL = "https://locations.covid19.health.nz/api/loi"
+
 // var LOIs = []
 
 
@@ -207,13 +208,16 @@ function getLocationsOfInterest(){
     axios.get(locationsOfInterestURL, {
     }
   )
-  .then(async function (htmlResponse) {
+  .then(async function (apiResponse) {
     
     // console.log("locationsOfInterestURL - response")
+      console.log(apiResponse.data)
       
-    const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
+    // const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
+      
+    let LOIs = JSON.parse(apiResponse.data)
 
-    processTables(jsonTables)
+    processLOIs(LOIs)
       
     let loisGeoJSON = await getGeoJSON()
     // console.log(loisGeoJSON)
@@ -232,17 +236,15 @@ function getLocationsOfInterest(){
 getLocationsOfInterest()
 
 
-let processTables =  (jsonTables) => {
+let processLOIs =  (LOIs) => {
   // console.log(jsonTables.count);
   
   // var LOIs = []
 
-  jsonTables.results.forEach(tableResults => {
-
     // console.log(tableResults.headers)
     // console.log(tableResults.length)
                              
-    tableResults.forEach(async result =>  {
+    LOIs.forEach(async result =>  {
          console.log(result)
                          
         if(result.Address && result['Location name'] && result['What to do'] && result['Updated'] && result.Times){
@@ -251,7 +253,7 @@ let processTables =  (jsonTables) => {
           
           // console.log(result.Address)
           
-          let lois = await db.processLOI({
+          let loi = await db.processLOI({
             LocationName: result['Location name'],            
             Address: result.Address,
             Day: result.Day,
@@ -269,7 +271,6 @@ let processTables =  (jsonTables) => {
           console.log(result)
         }
     })
-  })
 }
 
 fastify.get("/LOIs", async (request, reply) => {
