@@ -193,8 +193,8 @@ fastify.listen(process.env.PORT, function(err, address) {
 
 
 // var locationsOfInterestURL = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest"
-var locationsOfInterestURL = "https://locations.covid19.health.nz/api/loi"
-
+// var locationsOfInterestURL = "https://locations.covid19.health.nz/api/loi"
+var locationsOfInterestURL = "https://locations.covid19.health.nz/api/loi?search=&sort=updated&order=DESC&city=Lower%20Hutt&suburb=All"
 // var LOIs = []
 
 
@@ -211,13 +211,13 @@ function getLocationsOfInterest(){
   .then(async function (apiResponse) {
     
     // console.log("locationsOfInterestURL - response")
-      console.log(apiResponse.data)
+      console.log(apiResponse.data.locations)
       
     // const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
       
-    let LOIs = JSON.parse(apiResponse.data)
+    // let LOIs = JSON.parse(apiResponse.data)
 
-    processLOIs(LOIs)
+    processLOIs(apiResponse.data.locations)
       
     let loisGeoJSON = await getGeoJSON()
     // console.log(loisGeoJSON)
@@ -238,6 +238,7 @@ getLocationsOfInterest()
 
 let processLOIs =  (LOIs) => {
   // console.log(jsonTables.count);
+  console.log(LOIs.count)
   
   // var LOIs = []
 
@@ -247,29 +248,29 @@ let processLOIs =  (LOIs) => {
     LOIs.forEach(async result =>  {
          console.log(result)
                          
-        if(result.Address && result['Location name'] && result['What to do'] && result['Updated'] && result.Times){
+        // if(result.Address && result['Location name'] && result['What to do'] && result['Updated'] && result.Times){
           
           // moment(a.Day, "dddd D MMMM").format()
           
           // console.log(result.Address)
           
           let loi = await db.processLOI({
-            LocationName: result['Location name'],            
-            Address: result.Address,
+            LocationName: result.name,            
+            Address: result.address,
             Day: result.Day,
             Times: result.Times,
-            WhatToDo: result['What to do'],
-            DateAdded: result['Updated'],
-            DateFrom: moment.tz(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT", "Pacific/Auckland"),
-            DateTo: moment.tz(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT", "Pacific/Auckland"),
+            WhatToDo: result.todo,
+            DateAdded: result.publishedAt,
+            DateFrom: result.startTime, //moment.tz(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT", "Pacific/Auckland"),
+            DateTo: result.endTime, //moment.tz(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT", "Pacific/Auckland"),
             // DateFrom: moment(result.Day + ' ' + result.Times.split('-')[0], "dddd D MMMM LT").format(),
             // DateTo: moment(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT").format(),
 
           });
-        } else {
-          console.log('Nope')
-          console.log(result)
-        }
+        // } else {
+        //   console.log('Nope')
+        //   console.log(result)
+        // }
     })
 }
 
