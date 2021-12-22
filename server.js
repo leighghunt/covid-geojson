@@ -193,8 +193,8 @@ fastify.listen(process.env.PORT, function(err, address) {
 
 
 // var locationsOfInterestURL = "https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest"
-// var locationsOfInterestURL = "https://locations.covid19.health.nz/api/loi"
-var locationsOfInterestURL = "https://locations.covid19.health.nz/api/loi?search=&sort=updated&order=DESC&city=Lower%20Hutt&suburb=All"
+var locationsOfInterestURL = "https://locations.covid19.health.nz/api/loi"
+// var locationsOfInterestURL = "https://locations.covid19.health.nz/api/loi?search=&sort=updated&order=DESC&city=Lower%20Hutt&suburb=All"
 // var LOIs = []
 
 
