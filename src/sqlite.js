@@ -97,8 +97,8 @@ module.exports = {
     try {
       // Check the vote is valid
       const loi = await db.all(
-        "SELECT * from LOIs WHERE LocationName = ? AND Day = ? AND Times = ?",
-        [LOI.LocationName, LOI.Day, LOI.Times]
+        "SELECT * from LOIs WHERE LocationName = ? AND DateFrom = ? AND DateTo = ?",
+        [LOI.LocationName, LOI.DateFrom, LOI.DateTo]
       );
       
       const geocodeURL = `https://maps.googleapis.com/maps/api/geocode/json?address=${LOI.Address.replace(/ /g, '+')}&key=${process.env.GOOGLE_API_KEY}`
