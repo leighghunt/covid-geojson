@@ -60116,6 +60116,120 @@
 				"DateFrom": "2021-12-15T03:03:08.000Z",
 				"DateTo": "2021-12-15T04:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0716113,
+					-38.6890984
+				]
+			},
+			"properties": {
+				"id": 3396,
+				"LocationName": "Farmers Taupo",
+				"Address": "Cnr Ruapehu and Tuwhareto Street, Taupo CBD, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T03:00:00.000Z",
+				"DateTo": "2021-12-20T03:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0994738,
+					-38.6903859
+				]
+			},
+			"properties": {
+				"id": 3397,
+				"LocationName": "Rainbow Supermarket Tauhara",
+				"Address": "157 Taharepa Road, Tauhara, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-19T02:35:00.000Z",
+				"DateTo": "2021-12-19T03:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0722821,
+					-38.6871672
+				]
+			},
+			"properties": {
+				"id": 3398,
+				"LocationName": "Pak'n'Save Taupo",
+				"Address": "Raupehu Street, Taupo, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T03:30:00.000Z",
+				"DateTo": "2021-12-20T04:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.070266,
+					-38.6895954
+				]
+			},
+			"properties": {
+				"id": 3399,
+				"LocationName": "Sushi Paradise Taupo",
+				"Address": "2/24 Roberts Street, Taupo, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-19T23:00:00.000Z",
+				"DateTo": "2021-12-19T23:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0729735,
+					-38.6859561
+				]
+			},
+			"properties": {
+				"id": 3400,
+				"LocationName": "PAK'nSAVE Taupo",
+				"Address": "105-131 Ruapehu Street, Taupo, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-19T01:35:00.000Z",
+				"DateTo": "2021-12-19T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2802963,
+					-37.700998
+				]
+			},
+			"properties": {
+				"id": 3401,
+				"LocationName": "Flying Mullet Papamoa",
+				"Address": "4/38 Gravatt Road, Papamoa Beach, Papamoa 3118",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-14T03:01:14.000Z",
+				"DateTo": "2021-12-14T04:30:00.000Z"
+			}
 		}
 	]
 }
