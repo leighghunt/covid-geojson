@@ -60325,6 +60325,44 @@
 				"DateFrom": "2021-12-22T03:08:00.000Z",
 				"DateTo": "2021-12-22T04:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2544756,
+					-38.1401281
+				]
+			},
+			"properties": {
+				"id": 3407,
+				"LocationName": "PAK'nSAVE Rotorua",
+				"Address": "1042 Amohau Street, Rotorua, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T19:25:00.000Z",
+				"DateTo": "2021-12-20T20:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0729735,
+					-38.6859561
+				]
+			},
+			"properties": {
+				"id": 3408,
+				"LocationName": "PAK'nSAVE Taupo",
+				"Address": "105-131 Ruapehu Street, Taupo, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T03:30:00.000Z",
+				"DateTo": "2021-12-20T04:40:00.000Z"
+			}
 		}
 	]
 }
