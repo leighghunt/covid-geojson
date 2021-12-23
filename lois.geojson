@@ -60078,6 +60078,44 @@
 				"DateFrom": "2021-12-18T20:17:00.000Z",
 				"DateTo": "2021-12-19T00:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2802963,
+					-37.700998
+				]
+			},
+			"properties": {
+				"id": 3394,
+				"LocationName": "Flying Mullet Papamoa 14/12/2021",
+				"Address": "4/38 Gravatt Road, Papamoa Beach, Papamoa 3118",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-14T03:01:14.000Z",
+				"DateTo": "2021-12-14T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3317145,
+					-37.7139057
+				]
+			},
+			"properties": {
+				"id": 3395,
+				"LocationName": "Pap House Restaurant & Bar Papamoa",
+				"Address": "1072 Papamoa Beach Road, Papamoa Beach, Papamoa 3118",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-15T03:03:08.000Z",
+				"DateTo": "2021-12-15T04:30:00.000Z"
+			}
 		}
 	]
 }
