@@ -59945,25 +59945,6 @@
 				"DateFrom": "2021-12-16T04:00:00.000Z",
 				"DateTo": "2021-12-16T04:09:00.000Z"
 			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					176.2487145,
-					-38.1419834
-				]
-			},
-			"properties": {
-				"id": 3386,
-				"LocationName": "Harvey Norman Rotorua",
-				"Address": "35 Victoria Street, Victoria, Rotorua 3010",
-				"Day": null,
-				"Times": null,
-				"DateFrom": "2021-12-20T22:07:00.000Z",
-				"DateTo": "2021-12-20T23:32:00.000Z"
-			}
 		}
 	]
 }
