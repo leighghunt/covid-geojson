@@ -59964,6 +59964,101 @@
 				"DateFrom": "2021-12-20T22:07:00.000Z",
 				"DateTo": "2021-12-20T23:32:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1053834,
+					-37.7383423
+				]
+			},
+			"properties": {
+				"id": 3388,
+				"LocationName": "Platypus Store Tauranga Crossing Mall",
+				"Address": "2 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T23:55:00.000Z",
+				"DateTo": "2021-12-19T01:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2545668,
+					-38.1395934
+				]
+			},
+			"properties": {
+				"id": 3389,
+				"LocationName": "Evo Cycles Rotorua",
+				"Address": "1081 Amohau Street, Rotorua, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T21:50:00.000Z",
+				"DateTo": "2021-12-20T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2087527,
+					-38.1887243
+				]
+			},
+			"properties": {
+				"id": 3390,
+				"LocationName": "Caltex Otorohanga",
+				"Address": "5 Te Kanawa Street, Otorohanga, Otorohanga 3900",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T22:24:45.000Z",
+				"DateTo": "2021-12-17T22:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1654272,
+					-37.6869653
+				]
+			},
+			"properties": {
+				"id": 3391,
+				"LocationName": "Route 2W  [Bus #306] Tauranga Library to Bayfair",
+				"Address": "Tauranga",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T22:00:00.000Z",
+				"DateTo": "2021-12-17T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0743008,
+					-38.738364
+				]
+			},
+			"properties": {
+				"id": 3392,
+				"LocationName": "Mobil Lakeview",
+				"Address": "3 Johnbrook Crescent, RD 2, Taupo 3378",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T05:15:00.000Z",
+				"DateTo": "2021-12-17T07:00:00.000Z"
+			}
 		}
 	]
 }
