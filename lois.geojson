@@ -60059,6 +60059,25 @@
 				"DateFrom": "2021-12-17T05:15:00.000Z",
 				"DateTo": "2021-12-17T07:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1349271,
+					-37.7306116
+				]
+			},
+			"properties": {
+				"id": 3393,
+				"LocationName": "St James Union Church Greerton",
+				"Address": "70 Pooles Road, Greerton, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T20:17:00.000Z",
+				"DateTo": "2021-12-19T00:00:00.000Z"
+			}
 		}
 	]
 }
