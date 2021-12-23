@@ -211,7 +211,7 @@ function getLocationsOfInterest(){
   .then(async function (apiResponse) {
     
     // console.log("locationsOfInterestURL - response")
-      console.log(apiResponse.data.locations)
+      // console.log(apiResponse.data.locations)
       
     // const jsonTables = HtmlTableToJson.parse(htmlResponse.data)
       
@@ -238,7 +238,7 @@ getLocationsOfInterest()
 
 let processLOIs =  (LOIs) => {
   // console.log(jsonTables.count);
-  console.log(LOIs.count)
+  // console.log(LOIs.count)
   
   // var LOIs = []
 
@@ -246,7 +246,7 @@ let processLOIs =  (LOIs) => {
     // console.log(tableResults.length)
                              
     LOIs.forEach(async result =>  {
-         console.log(result)
+         // console.log(result)
                          
         // if(result.Address && result['Location name'] && result['What to do'] && result['Updated'] && result.Times){
           
@@ -306,7 +306,7 @@ async function getGeoJSON (){
     {Point: ['Lat', 'Lng']}
     )
 
-  return JSON.stringify(loisGeoJSON);
+  return JSON.stringify(loisGeoJSON, null, '\t');
 }
 
 fastify.get("/geojson", async (request, reply) => {
