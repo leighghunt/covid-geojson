@@ -60230,6 +60230,101 @@
 				"DateFrom": "2021-12-14T03:01:14.000Z",
 				"DateTo": "2021-12-14T04:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.084491,
+					-38.6800195
+				]
+			},
+			"properties": {
+				"id": 3402,
+				"LocationName": "AJ Hackett Bungy & Swing Taupo",
+				"Address": "202 Spa Road, Taupo, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T22:20:00.000Z",
+				"DateTo": "2021-12-21T22:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.115991,
+					-37.7702717
+				]
+			},
+			"properties": {
+				"id": 3403,
+				"LocationName": "Four14 Espresso Pyes Pa",
+				"Address": "414 Pyes Pa Road, RD 3, Tauranga 3173",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T20:29:12.000Z",
+				"DateTo": "2021-12-17T21:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0722394,
+					-38.6867217
+				]
+			},
+			"properties": {
+				"id": 3404,
+				"LocationName": "Bed Bath & Beyond Taupo",
+				"Address": "86 Ruapehu Street, Taupo CBD, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T03:20:00.000Z",
+				"DateTo": "2021-12-20T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.100946,
+					-38.677727
+				]
+			},
+			"properties": {
+				"id": 3405,
+				"LocationName": "Taupo Golf Club Tauhara",
+				"Address": "32 Centennial Drive, RD 2, Taupo 3378",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T04:30:00.000Z",
+				"DateTo": "2021-12-21T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6600747,
+					-43.3822645
+				]
+			},
+			"properties": {
+				"id": 3406,
+				"LocationName": "New World Kaiapoi",
+				"Address": "52 Charles Street, Kaiapoi 7630",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T03:08:00.000Z",
+				"DateTo": "2021-12-22T04:30:00.000Z"
+			}
 		}
 	]
 }
