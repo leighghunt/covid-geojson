@@ -60648,6 +60648,63 @@
 				"DateFrom": "2021-12-17T22:00:00.000Z",
 				"DateTo": "2021-12-18T00:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1671883,
+					-37.6885459
+				]
+			},
+			"properties": {
+				"id": 3424,
+				"LocationName": "Alimento Eatery (Tauranga)",
+				"Address": "74 First Avenue, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T02:02:00.000Z",
+				"DateTo": "2021-12-17T03:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0936669,
+					-38.6789962
+				]
+			},
+			"properties": {
+				"id": 3425,
+				"LocationName": "AC Baths & Thermal Hot Pools Tauhara",
+				"Address": "26 A C Baths Avenue, Tauhara, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T03:45:00.000Z",
+				"DateTo": "2021-12-21T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0693678,
+					-38.6883468
+				]
+			},
+			"properties": {
+				"id": 3426,
+				"LocationName": "Lunas Gelateria Taupo",
+				"Address": "29 Tongariro Street, Taupo, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T23:45:00.000Z",
+				"DateTo": "2021-12-18T01:15:00.000Z"
+			}
 		}
 	]
 }
