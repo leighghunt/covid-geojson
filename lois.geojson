@@ -60705,6 +60705,44 @@
 				"DateFrom": "2021-12-17T23:45:00.000Z",
 				"DateTo": "2021-12-18T01:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0717174,
+					-38.6898192
+				]
+			},
+			"properties": {
+				"id": 3427,
+				"LocationName": "McDonald's Taupo",
+				"Address": "48 Roberts Street, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T05:15:00.000Z",
+				"DateTo": "2021-12-21T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1053834,
+					-37.7383423
+				]
+			},
+			"properties": {
+				"id": 3429,
+				"LocationName": "Tauranga Crossing Pubic Toilets Tauriko",
+				"Address": "2 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T23:50:00.000Z",
+				"DateTo": "2021-12-19T01:05:00.000Z"
+			}
 		}
 	]
 }
