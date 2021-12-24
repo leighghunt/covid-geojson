@@ -60363,6 +60363,25 @@
 				"DateFrom": "2021-12-20T03:30:00.000Z",
 				"DateTo": "2021-12-20T04:40:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.658117,
+					-43.3824017
+				]
+			},
+			"properties": {
+				"id": 3409,
+				"LocationName": "Nori Table Kaiapoi",
+				"Address": "178D Williams Street, Kaiapoi 7630",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T00:00:00.000Z",
+				"DateTo": "2021-12-21T01:00:00.000Z"
+			}
 		}
 	]
 }
