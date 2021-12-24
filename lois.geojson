@@ -60762,6 +60762,63 @@
 				"DateFrom": "2021-12-19T21:30:00.000Z",
 				"DateTo": "2021-12-19T23:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1053834,
+					-37.7383423
+				]
+			},
+			"properties": {
+				"id": 3431,
+				"LocationName": "Tauranga Crossing Public Toilets Tauriko",
+				"Address": "2 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T23:50:00.000Z",
+				"DateTo": "2021-12-19T01:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1671883,
+					-37.6885459
+				]
+			},
+			"properties": {
+				"id": 3432,
+				"LocationName": "Alimento Eatery Tauranga",
+				"Address": "74 First Avenue, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T02:02:00.000Z",
+				"DateTo": "2021-12-17T03:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2779731,
+					-38.1483022
+				]
+			},
+			"properties": {
+				"id": 3433,
+				"LocationName": "Lake City Athletics Club Rotorua 21/12/2021",
+				"Address": "10 Tarawera Road, Lynmore, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T03:15:00.000Z",
+				"DateTo": "2021-12-21T05:30:00.000Z"
+			}
 		}
 	]
 }
