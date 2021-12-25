@@ -60857,6 +60857,25 @@
 				"DateFrom": "2021-12-18T01:00:00.000Z",
 				"DateTo": "2021-12-18T21:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6220171,
+					-43.511714
+				]
+			},
+			"properties": {
+				"id": 3436,
+				"LocationName": "No.4 Bar and Restaurant Christchurch",
+				"Address": "4 Mansfield Avenue, St Albans, Christchurch 8014",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T03:30:00.000Z",
+				"DateTo": "2021-12-20T08:30:00.000Z"
+			}
 		}
 	]
 }
