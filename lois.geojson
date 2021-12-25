@@ -60819,6 +60819,44 @@
 				"DateFrom": "2021-12-21T03:15:00.000Z",
 				"DateTo": "2021-12-21T05:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2246172,
+					-38.1543037
+				]
+			},
+			"properties": {
+				"id": 3434,
+				"LocationName": "Lake City Athletics Club Rotorua",
+				"Address": "Rotorua International Stadium, Lynmore, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T03:15:00.000Z",
+				"DateTo": "2021-12-21T05:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.67393,
+					-35.750603
+				]
+			},
+			"properties": {
+				"id": 3435,
+				"LocationName": "Kauri Coast TOP 10 Holiday Park Dargaville",
+				"Address": "7 Opouteke Road, RD 9, Dargaville 0379",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T01:00:00.000Z",
+				"DateTo": "2021-12-18T21:00:00.000Z"
+			}
 		}
 	]
 }
