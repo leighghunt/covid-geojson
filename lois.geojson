@@ -60895,6 +60895,25 @@
 				"DateFrom": "2021-12-20T03:30:00.000Z",
 				"DateTo": "2021-12-20T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1765715,
+					-37.6325832
+				]
+			},
+			"properties": {
+				"id": 3438,
+				"LocationName": "Copenhagen Cones Mount Maunganui",
+				"Address": "14 Adams Avenue, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T00:15:00.000Z",
+				"DateTo": "2021-12-22T00:25:00.000Z"
+			}
 		}
 	]
 }
