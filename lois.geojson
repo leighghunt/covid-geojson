@@ -60952,6 +60952,63 @@
 				"DateFrom": "2021-12-17T02:15:00.000Z",
 				"DateTo": "2021-12-17T04:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0723931,
+					-38.7375877
+				]
+			},
+			"properties": {
+				"id": 3441,
+				"LocationName": "Tenpin Bowling Alley Dropzone Entertainment Wharewaka",
+				"Address": "650 Lake Terrace, Wharewaka, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T01:00:00.000Z",
+				"DateTo": "2021-12-18T02:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8882254,
+					-36.9582836
+				]
+			},
+			"properties": {
+				"id": 3442,
+				"LocationName": "Christmas Party East Tamaki Community Hall Otara",
+				"Address": "244R East Tamaki Road, Otara, Auckland 2023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T03:00:00.000Z",
+				"DateTo": "2021-12-23T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.100946,
+					-38.677727
+				]
+			},
+			"properties": {
+				"id": 3443,
+				"LocationName": "Taupo Golf Club Bar and Cafe",
+				"Address": "32 Centennial Drive, RD 2, Taupo 3378",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T23:30:00.000Z",
+				"DateTo": "2021-12-19T00:30:00.000Z"
+			}
 		}
 	]
 }
