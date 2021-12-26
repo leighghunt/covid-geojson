@@ -61123,6 +61123,82 @@
 				"DateFrom": "2021-12-16T23:45:00.000Z",
 				"DateTo": "2021-12-17T01:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.201687,
+					-37.6566949
+				]
+			},
+			"properties": {
+				"id": 3450,
+				"LocationName": "Mount Maunganui RSA",
+				"Address": "544 Maunganui Road, Mount Maunganui, Tauranga 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-24T00:48:53.000Z",
+				"DateTo": "2021-12-24T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.201687,
+					-37.6566949
+				]
+			},
+			"properties": {
+				"id": 3451,
+				"LocationName": "Mount Maunganui RSA",
+				"Address": "544 Maunganui Road, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-15T04:30:00.000Z",
+				"DateTo": "2021-12-15T09:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.201687,
+					-37.6566949
+				]
+			},
+			"properties": {
+				"id": 3452,
+				"LocationName": "Mount Maunganui RSA",
+				"Address": "544 Maunganui Road, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-19T22:15:00.000Z",
+				"DateTo": "2021-12-20T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.201687,
+					-37.6566949
+				]
+			},
+			"properties": {
+				"id": 3453,
+				"LocationName": "Mount Maunganui RSA",
+				"Address": "544 Maunganui Road, Mount Maunganui, Tauranga 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T22:30:00.000Z",
+				"DateTo": "2021-12-22T05:00:00.000Z"
+			}
 		}
 	]
 }
