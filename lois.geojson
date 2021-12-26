@@ -60914,6 +60914,44 @@
 				"DateFrom": "2021-12-22T00:15:00.000Z",
 				"DateTo": "2021-12-22T00:25:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1791891,
+					-37.7165617
+				]
+			},
+			"properties": {
+				"id": 3439,
+				"LocationName": "Maungatapu Sports Bar Gaming Room Tauranga",
+				"Address": "291 Maungatapu Road, Maungatapu, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T03:45:00.000Z",
+				"DateTo": "2021-12-18T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1791891,
+					-37.7165617
+				]
+			},
+			"properties": {
+				"id": 3440,
+				"LocationName": "Maungatapu Sports Bar Gaming Room Tauranga",
+				"Address": "291 Maungatapu Road, Maungatapu, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T02:15:00.000Z",
+				"DateTo": "2021-12-17T04:30:00.000Z"
+			}
 		}
 	]
 }
