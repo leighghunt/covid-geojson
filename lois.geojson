@@ -61009,6 +61009,120 @@
 				"DateFrom": "2021-12-18T23:30:00.000Z",
 				"DateTo": "2021-12-19T00:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1791891,
+					-37.7165617
+				]
+			},
+			"properties": {
+				"id": 3444,
+				"LocationName": "Maungatapu Sports Bar Gaming Room",
+				"Address": "291 Maungatapu Road, Maungatapu, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T02:15:00.000Z",
+				"DateTo": "2021-12-17T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1791891,
+					-37.7165617
+				]
+			},
+			"properties": {
+				"id": 3445,
+				"LocationName": "Maungatapu Sports Bar Gaming Room",
+				"Address": "291 Maungatapu Road, Maungatapu, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T03:45:00.000Z",
+				"DateTo": "2021-12-18T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.250922,
+					-38.1386964
+				]
+			},
+			"properties": {
+				"id": 3446,
+				"LocationName": "Lady Diva Nails & Beauty Rotorua",
+				"Address": "1180 Eruera Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T03:30:00.000Z",
+				"DateTo": "2021-12-20T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1584972,
+					-37.7017516
+				]
+			},
+			"properties": {
+				"id": 3447,
+				"LocationName": "Tenpin Tauranga Gaming Room Tauranga South",
+				"Address": "135 Thirteenth Avenue, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T00:45:00.000Z",
+				"DateTo": "2021-12-23T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1922199,
+					-37.7260229
+				]
+			},
+			"properties": {
+				"id": 3448,
+				"LocationName": "Welcome Bay Sports Bar and Grill Gaming Room",
+				"Address": "250 Welcome Bay Road, Welcome Bay, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T02:15:00.000Z",
+				"DateTo": "2021-12-18T04:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1584972,
+					-37.7017516
+				]
+			},
+			"properties": {
+				"id": 3449,
+				"LocationName": "Tenpin Tauranga Gaming Room Tauranga South",
+				"Address": "135 Thirteenth Avenue, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-16T23:45:00.000Z",
+				"DateTo": "2021-12-17T01:45:00.000Z"
+			}
 		}
 	]
 }
