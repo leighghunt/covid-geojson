@@ -61199,6 +61199,25 @@
 				"DateFrom": "2021-12-21T22:30:00.000Z",
 				"DateTo": "2021-12-22T05:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9043573,
+					-36.8985508
+				]
+			},
+			"properties": {
+				"id": 3455,
+				"LocationName": "123 Palm Bar Half Moon Bay",
+				"Address": "495 Pakuranga Road, Half Moon Bay, Auckland 2010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-18T08:00:00.000Z",
+				"DateTo": "2021-12-18T10:00:00.000Z"
+			}
 		}
 	]
 }
