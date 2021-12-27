@@ -61218,6 +61218,25 @@
 				"DateFrom": "2021-12-18T08:00:00.000Z",
 				"DateTo": "2021-12-18T10:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.201687,
+					-37.6566949
+				]
+			},
+			"properties": {
+				"id": 3456,
+				"LocationName": "Mt Maunganui RSA Snooker Event",
+				"Address": "544 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-15T22:45:00.000Z",
+				"DateTo": "2021-12-16T04:00:00.000Z"
+			}
 		}
 	]
 }
