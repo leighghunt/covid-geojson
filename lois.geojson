@@ -61294,6 +61294,25 @@
 				"DateFrom": "2021-12-20T17:30:00.000Z",
 				"DateTo": "2021-12-20T20:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0936033,
+					-38.6777155
+				]
+			},
+			"properties": {
+				"id": 3460,
+				"LocationName": "AC Baths Taupo",
+				"Address": "30 A C Baths Avenue, Tauhara, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T17:30:00.000Z",
+				"DateTo": "2021-12-22T20:00:00.000Z"
+			}
 		}
 	]
 }
