@@ -61370,6 +61370,25 @@
 				"DateFrom": "2021-12-16T20:00:00.000Z",
 				"DateTo": "2021-12-17T01:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3465676,
+					-38.1636679
+				]
+			},
+			"properties": {
+				"id": 3465,
+				"LocationName": "Boyes Beach Reserve Lake Okareka Rotorua",
+				"Address": "73 Millar Road, Lake Ōkareka, Rotorua 3076",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-16T21:00:00.000Z",
+				"DateTo": "2021-12-17T01:00:00.000Z"
+			}
 		}
 	]
 }
