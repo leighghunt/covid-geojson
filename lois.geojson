@@ -61313,6 +61313,63 @@
 				"DateFrom": "2021-12-22T17:30:00.000Z",
 				"DateTo": "2021-12-22T20:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6368431,
+					-43.5337583
+				]
+			},
+			"properties": {
+				"id": 3461,
+				"LocationName": "Stirling Women The Crossing Christchurch",
+				"Address": "678 Colombo Street, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T22:00:00.000Z",
+				"DateTo": "2021-12-24T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2517607,
+					-38.1373288
+				]
+			},
+			"properties": {
+				"id": 3462,
+				"LocationName": "Miller's Fashion Club Rotorua",
+				"Address": "1234 Tutanekai Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T01:45:00.000Z",
+				"DateTo": "2021-12-20T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2534582,
+					-38.1459418
+				]
+			},
+			"properties": {
+				"id": 3463,
+				"LocationName": "Four Canoes Hotel Glenholme",
+				"Address": "273 Fenton Street, Glenholme, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-16T20:00:00.000Z",
+				"DateTo": "2021-12-17T01:00:00.000Z"
+			}
 		}
 	]
 }
