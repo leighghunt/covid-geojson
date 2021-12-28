@@ -61237,6 +61237,25 @@
 				"DateFrom": "2021-12-15T22:45:00.000Z",
 				"DateTo": "2021-12-16T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0693678,
+					-38.6883468
+				]
+			},
+			"properties": {
+				"id": 3457,
+				"LocationName": "Luna's Gelateria Taupo",
+				"Address": "29 Tongariro Street, Taupo CBD, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-19T23:45:00.000Z",
+				"DateTo": "2021-12-20T00:15:00.000Z"
+			}
 		}
 	]
 }
