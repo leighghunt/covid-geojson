@@ -61503,6 +61503,158 @@
 				"DateFrom": "2021-12-26T01:45:00.000Z",
 				"DateTo": "2021-12-26T01:55:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7656799,
+					-36.844108
+				]
+			},
+			"properties": {
+				"id": 3472,
+				"LocationName": "Ahi Restaurant Commercial Bay Auckland CBD",
+				"Address": "Commercial Bay Level 2/7 Queen Street, Auckland CBD, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T05:30:00.000Z",
+				"DateTo": "2021-12-26T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7661628,
+					-36.8469732
+				]
+			},
+			"properties": {
+				"id": 3473,
+				"LocationName": "Partridge Jewellers Auckland CBD",
+				"Address": "112 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T02:30:00.000Z",
+				"DateTo": "2021-12-26T05:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7634371,
+					-36.8432999
+				]
+			},
+			"properties": {
+				"id": 3474,
+				"LocationName": "Soul Bar and Bistro Auckland CBD",
+				"Address": "1 Lower Hobson Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T08:30:00.000Z",
+				"DateTo": "2021-12-26T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5560545,
+					-43.5117012
+				]
+			},
+			"properties": {
+				"id": 3475,
+				"LocationName": "Caltex Avonhead",
+				"Address": "202 Withells Road, Avonhead, Christchurch 8042",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-27T20:10:00.000Z",
+				"DateTo": "2021-12-27T20:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7661423,
+					-36.8439763
+				]
+			},
+			"properties": {
+				"id": 3476,
+				"LocationName": "Sunny Town China Taste Commercial Bay Auckland CBD",
+				"Address": "7 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T01:30:00.000Z",
+				"DateTo": "2021-12-26T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.547657,
+					-43.4900697
+				]
+			},
+			"properties": {
+				"id": 3477,
+				"LocationName": "Countdown Spitfire Square Christchurch",
+				"Address": "530/546A Memorial Avenue, Harewood, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T01:55:00.000Z",
+				"DateTo": "2021-12-26T02:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5695938,
+					-43.5266619
+				]
+			},
+			"properties": {
+				"id": 3478,
+				"LocationName": "Ilam New World Christchurch",
+				"Address": "47C Peer Street, Upper Riccarton, Christchurch 8041",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-27T01:40:00.000Z",
+				"DateTo": "2021-12-27T01:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.609045,
+					-43.5293315
+				]
+			},
+			"properties": {
+				"id": 3479,
+				"LocationName": "Mobil Riccarton Christchurch",
+				"Address": "33 Riccarton Road, Riccarton, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T22:40:00.000Z",
+				"DateTo": "2021-12-26T22:45:00.000Z"
+			}
 		}
 	]
 }
