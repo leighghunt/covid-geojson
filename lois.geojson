@@ -61655,6 +61655,139 @@
 				"DateFrom": "2021-12-26T22:40:00.000Z",
 				"DateTo": "2021-12-26T22:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.4758872,
+					-35.5559977
+				]
+			},
+			"properties": {
+				"id": 3480,
+				"LocationName": "Four Square Waimamaku",
+				"Address": "7233 State Highway 12, Waimamaku, Northland 0473",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T23:00:00.000Z",
+				"DateTo": "2021-12-24T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.3862043,
+					-35.5367398
+				]
+			},
+			"properties": {
+				"id": 3481,
+				"LocationName": "Omapere Foodmart",
+				"Address": "342 State Highway 12, Omapere, Northland 0444",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T23:30:00.000Z",
+				"DateTo": "2021-12-24T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.3862043,
+					-35.5367398
+				]
+			},
+			"properties": {
+				"id": 3482,
+				"LocationName": "Omapere Foodmart",
+				"Address": "342 State Highway 12, Omapere, Northland 0444",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T22:30:00.000Z",
+				"DateTo": "2021-12-21T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.4112714,
+					-35.476163
+				]
+			},
+			"properties": {
+				"id": 3483,
+				"LocationName": "GAS Omapere Fuel 24/7 Opononi",
+				"Address": "328 Hokianga Harbor Drive, Opononi, Northland 0473",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T22:45:00.000Z",
+				"DateTo": "2021-12-23T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.4112714,
+					-35.476163
+				]
+			},
+			"properties": {
+				"id": 3484,
+				"LocationName": "GAS Omapere Fuel 24/7 Opononi",
+				"Address": "328 Hokianga Harbor Drive, Opononi, Northland 0473",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-24T23:00:00.000Z",
+				"DateTo": "2021-12-25T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.4112714,
+					-35.476163
+				]
+			},
+			"properties": {
+				"id": 3485,
+				"LocationName": "GAS Omapere Fuel 24/7 Opononi",
+				"Address": "328 Hokianga Harbor Drive, Opononi, Northland 0473",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T22:30:00.000Z",
+				"DateTo": "2021-12-22T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.3862043,
+					-35.5367398
+				]
+			},
+			"properties": {
+				"id": 3486,
+				"LocationName": "Omapere Foodmart",
+				"Address": "342 State Highway 12, Omapere, Northland 0444",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T22:00:00.000Z",
+				"DateTo": "2021-12-22T23:30:00.000Z"
+			}
 		}
 	]
 }
