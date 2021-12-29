@@ -61389,6 +61389,25 @@
 				"DateFrom": "2021-12-16T21:00:00.000Z",
 				"DateTo": "2021-12-17T01:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2256867,
+					-37.6757758
+				]
+			},
+			"properties": {
+				"id": 3466,
+				"LocationName": "Baywave TECT Aquatic & Leisure Centre Mount Maunganui",
+				"Address": "Corner Girven Road & Gloucester Rd, Bayfair, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-17T01:00:00.000Z",
+				"DateTo": "2021-12-17T03:30:00.000Z"
+			}
 		}
 	]
 }
