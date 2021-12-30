@@ -61845,6 +61845,101 @@
 				"DateFrom": "2021-12-19T22:15:00.000Z",
 				"DateTo": "2021-12-20T03:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1085345,
+					-37.6948032
+				]
+			},
+			"properties": {
+				"id": 3490,
+				"LocationName": "Unichem Metro Pharmacy Bethlehem",
+				"Address": "19 Bethlehem Road, Bethlehem, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-24T02:03:00.000Z",
+				"DateTo": "2021-12-24T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.222781,
+					-37.6750439
+				]
+			},
+			"properties": {
+				"id": 3491,
+				"LocationName": "Pero's Hairtek Bayfair Mount Maunganui",
+				"Address": "Girven Road, Bayfair, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T22:24:00.000Z",
+				"DateTo": "2021-12-23T23:41:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3413356,
+					-38.0068795
+				]
+			},
+			"properties": {
+				"id": 3492,
+				"LocationName": "Columbus Coffee at Mitre 10 MEGA Te Awamutu",
+				"Address": "670 Cambridge Road, Te Awamutu 3800",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T01:10:00.000Z",
+				"DateTo": "2021-12-23T02:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7738685,
+					-41.2847759
+				]
+			},
+			"properties": {
+				"id": 3493,
+				"LocationName": "Atrium Towers Apartment Wellington Central",
+				"Address": "154 The Terrace, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T19:13:00.000Z",
+				"DateTo": "2021-12-22T19:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1084434,
+					-37.6935464
+				]
+			},
+			"properties": {
+				"id": 3494,
+				"LocationName": "Paper Plus Bethlehem",
+				"Address": "6/19 Bethlehem Road, Bethlehem, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T19:47:00.000Z",
+				"DateTo": "2021-12-22T21:15:00.000Z"
+			}
 		}
 	]
 }
