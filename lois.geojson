@@ -62035,6 +62035,44 @@
 				"DateFrom": "2021-12-23T21:29:00.000Z",
 				"DateTo": "2021-12-23T22:55:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1530579,
+					-37.7050753
+				]
+			},
+			"properties": {
+				"id": 3500,
+				"LocationName": "SKIN Dermatology Institute Tauranga South",
+				"Address": "752 Cameron Road, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T18:38:00.000Z",
+				"DateTo": "2021-12-20T20:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1586286,
+					-37.6959186
+				]
+			},
+			"properties": {
+				"id": 3501,
+				"LocationName": "Fifth Avenue Family Practice",
+				"Address": "71 Tenth Avenue, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T21:10:09.000Z",
+				"DateTo": "2021-12-21T21:45:00.000Z"
+			}
 		}
 	]
 }
