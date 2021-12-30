@@ -61826,6 +61826,25 @@
 				"DateFrom": "2021-12-24T04:35:00.000Z",
 				"DateTo": "2021-12-24T06:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.201687,
+					-37.6566949
+				]
+			},
+			"properties": {
+				"id": 3489,
+				"LocationName": "Mount Maunganui RSA",
+				"Address": "544 Maunganui Road, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-19T22:15:00.000Z",
+				"DateTo": "2021-12-20T03:00:00.000Z"
+			}
 		}
 	]
 }
