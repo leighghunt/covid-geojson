@@ -62016,6 +62016,25 @@
 				"DateFrom": "2021-12-23T23:00:00.000Z",
 				"DateTo": "2021-12-24T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1832616,
+					-37.6385739
+				]
+			},
+			"properties": {
+				"id": 3499,
+				"LocationName": "Robertsons Menswear Mount Maunganui",
+				"Address": "168 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T21:29:00.000Z",
+				"DateTo": "2021-12-23T22:55:00.000Z"
+			}
 		}
 	]
 }
