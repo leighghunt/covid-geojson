@@ -61940,6 +61940,82 @@
 				"DateFrom": "2021-12-22T19:47:00.000Z",
 				"DateTo": "2021-12-22T21:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1020738,
+					-40.2082331
+				]
+			},
+			"properties": {
+				"id": 3495,
+				"LocationName": "Caltex Westlow Dannevirke",
+				"Address": "166 High Street, Dannevirke 4930",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T23:24:00.000Z",
+				"DateTo": "2021-12-23T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787178,
+					-41.2808478
+				]
+			},
+			"properties": {
+				"id": 3496,
+				"LocationName": "Rydges Pipitea Wellington",
+				"Address": "75 Featherston Street, Pipitea, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T19:25:44.000Z",
+				"DateTo": "2021-12-22T20:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1832241,
+					-37.6381451
+				]
+			},
+			"properties": {
+				"id": 3497,
+				"LocationName": "Downtown Pharmacy Mt Maunganui",
+				"Address": "152 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T21:38:00.000Z",
+				"DateTo": "2021-12-23T22:55:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8751742,
+					-36.9887952
+				]
+			},
+			"properties": {
+				"id": 3498,
+				"LocationName": "Shooters Snooker & Pool Manukau",
+				"Address": "57C Cavendish Drive, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T23:00:00.000Z",
+				"DateTo": "2021-12-24T04:00:00.000Z"
+			}
 		}
 	]
 }
