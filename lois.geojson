@@ -61807,6 +61807,25 @@
 				"DateFrom": "2021-12-24T04:20:00.000Z",
 				"DateTo": "2021-12-24T07:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					177.1128102,
+					-37.9832557
+				]
+			},
+			"properties": {
+				"id": 3488,
+				"LocationName": "Ohope Beach TOP 10 Holiday Park",
+				"Address": "367 Harbour Road, Ohope 3121",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-24T04:35:00.000Z",
+				"DateTo": "2021-12-24T06:10:00.000Z"
+			}
 		}
 	]
 }
