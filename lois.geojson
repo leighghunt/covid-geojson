@@ -62149,6 +62149,25 @@
 				"DateFrom": "2021-12-25T20:35:00.000Z",
 				"DateTo": "2021-12-25T22:20:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8620115,
+					-39.5251237
+				]
+			},
+			"properties": {
+				"id": 3506,
+				"LocationName": "New World Greenmeadows",
+				"Address": "9 Gloucester Street, Greenmeadows, Napier 4112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-28T01:00:00.000Z",
+				"DateTo": "2021-12-28T02:30:00.000Z"
+			}
 		}
 	]
 }
