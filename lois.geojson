@@ -62320,6 +62320,63 @@
 				"DateFrom": "2021-12-29T02:15:00.000Z",
 				"DateTo": "2021-12-29T03:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1498465,
+					-37.7338549
+				]
+			},
+			"properties": {
+				"id": 3515,
+				"LocationName": "Toi-Ohomai Aquatic and Fitness Centre Poike",
+				"Address": "70 Windermere Drive, Poike, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-27T17:45:00.000Z",
+				"DateTo": "2021-12-27T20:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.201687,
+					-37.6566949
+				]
+			},
+			"properties": {
+				"id": 3516,
+				"LocationName": "Mount Maunganui RSA",
+				"Address": "544 Maunganui Road, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T03:00:00.000Z",
+				"DateTo": "2021-12-22T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.201687,
+					-37.6566949
+				]
+			},
+			"properties": {
+				"id": 3517,
+				"LocationName": "Mount Maunganui RSA",
+				"Address": "544 Maunganui Road, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-19T03:15:00.000Z",
+				"DateTo": "2021-12-19T05:15:00.000Z"
+			}
 		}
 	]
 }
