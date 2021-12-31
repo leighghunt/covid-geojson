@@ -62130,6 +62130,25 @@
 				"DateFrom": "2021-12-24T01:30:00.000Z",
 				"DateTo": "2021-12-24T03:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1053834,
+					-37.7383423
+				]
+			},
+			"properties": {
+				"id": 3505,
+				"LocationName": "Sunglass Style Tauranga Crossing Tauriko",
+				"Address": "2 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-25T20:35:00.000Z",
+				"DateTo": "2021-12-25T22:20:00.000Z"
+			}
 		}
 	]
 }
