@@ -62073,6 +62073,63 @@
 				"DateFrom": "2021-12-21T21:10:09.000Z",
 				"DateTo": "2021-12-21T21:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.848715,
+					-39.53592220000001
+				]
+			},
+			"properties": {
+				"id": 3502,
+				"LocationName": "New Century Bakery Taradale",
+				"Address": "274 Gloucester Street, Taradale, Napier 4112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-24T00:00:00.000Z",
+				"DateTo": "2021-12-24T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8486389,
+					-39.536218
+				]
+			},
+			"properties": {
+				"id": 3503,
+				"LocationName": "Bin Inn Taradale",
+				"Address": "278 Gloucester Street, Taradale, Napier 4112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-24T01:00:00.000Z",
+				"DateTo": "2021-12-24T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8481391,
+					-39.536229
+				]
+			},
+			"properties": {
+				"id": 3504,
+				"LocationName": "Paper Plus Taradale",
+				"Address": "285 Gloucester Street, Taradale, Napier 4112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-24T01:30:00.000Z",
+				"DateTo": "2021-12-24T03:00:00.000Z"
+			}
 		}
 	]
 }
