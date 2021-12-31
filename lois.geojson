@@ -62168,6 +62168,158 @@
 				"DateFrom": "2021-12-28T01:00:00.000Z",
 				"DateTo": "2021-12-28T02:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.155907,
+					-37.7008818
+				]
+			},
+			"properties": {
+				"id": 3507,
+				"LocationName": "Tauranga Citizen's Club Bistro Dine In",
+				"Address": "170 Thirteenth Avenue, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T22:45:00.000Z",
+				"DateTo": "2021-12-24T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.9662432,
+					-37.9539317
+				]
+			},
+			"properties": {
+				"id": 3508,
+				"LocationName": "Rebel Sport Whakatane",
+				"Address": "9/3 Phoenix Drive, Coastlands, Whakatane 3120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-27T00:15:00.000Z",
+				"DateTo": "2021-12-27T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.201687,
+					-37.6566949
+				]
+			},
+			"properties": {
+				"id": 3509,
+				"LocationName": "Mt Maunganui RSA Social Setting",
+				"Address": "544 Maunganui Road, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T03:00:00.000Z",
+				"DateTo": "2021-12-22T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8699417,
+					-39.5115742
+				]
+			},
+			"properties": {
+				"id": 3510,
+				"LocationName": "PAK n SAVE Tamatea",
+				"Address": "Cnr Leicester Avenue &, Coventry Avenue, Tamatea, Napier 4112, Tamatea, Napier 4112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-23T01:30:00.000Z",
+				"DateTo": "2021-12-23T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.9101159,
+					-39.5018313
+				]
+			},
+			"properties": {
+				"id": 3511,
+				"LocationName": "MYLK Food Store Napier",
+				"Address": "53 Latham Street, Napier South, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T22:45:00.000Z",
+				"DateTo": "2021-12-21T23:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.9143966,
+					-39.4946583
+				]
+			},
+			"properties": {
+				"id": 3512,
+				"LocationName": "Pak'nSave Napier South",
+				"Address": "25 Munroe Street, Napier South, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T23:15:00.000Z",
+				"DateTo": "2021-12-22T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.96538,
+					-37.9536492
+				]
+			},
+			"properties": {
+				"id": 3513,
+				"LocationName": "Kmart Whakatane",
+				"Address": "3 Phoenix Drive, Coastlands, Whakatane 3120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T22:45:00.000Z",
+				"DateTo": "2021-12-27T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.887337,
+					-39.5086782
+				]
+			},
+			"properties": {
+				"id": 3514,
+				"LocationName": "New World Onekawa",
+				"Address": "34 Maadi Road, Onekawa, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-29T02:15:00.000Z",
+				"DateTo": "2021-12-29T03:15:00.000Z"
+			}
 		}
 	]
 }
