@@ -62377,6 +62377,25 @@
 				"DateFrom": "2021-12-19T03:15:00.000Z",
 				"DateTo": "2021-12-19T05:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1122244,
+					-37.6952832
+				]
+			},
+			"properties": {
+				"id": 3518,
+				"LocationName": "Cafe Botannix Bethlehem",
+				"Address": "210 State Highway 2, Bethlehem, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-20T23:45:00.000Z",
+				"DateTo": "2021-12-21T01:30:00.000Z"
+			}
 		}
 	]
 }
