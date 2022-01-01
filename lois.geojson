@@ -62396,6 +62396,25 @@
 				"DateFrom": "2021-12-20T23:45:00.000Z",
 				"DateTo": "2021-12-21T01:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					177.0004281,
+					-37.9506399
+				]
+			},
+			"properties": {
+				"id": 3519,
+				"LocationName": "The Comm",
+				"Address": "45 The Strand, Whakatane 3120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T22:15:00.000Z",
+				"DateTo": "2021-12-27T01:30:00.000Z"
+			}
 		}
 	]
 }
