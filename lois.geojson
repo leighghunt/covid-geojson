@@ -62643,6 +62643,101 @@
 				"DateFrom": "2021-12-25T23:34:00.000Z",
 				"DateTo": "2021-12-26T00:57:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1053834,
+					-37.7383423
+				]
+			},
+			"properties": {
+				"id": 3532,
+				"LocationName": "Hello Sushi Tauranga Crossing Mall",
+				"Address": "2 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T23:50:00.000Z",
+				"DateTo": "2021-12-27T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0747633,
+					-38.6890015
+				]
+			},
+			"properties": {
+				"id": 3533,
+				"LocationName": "Spoon & Paddle Cafe Taupo",
+				"Address": "101 Te Heuheu Street, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-29T19:23:49.000Z",
+				"DateTo": "2021-12-29T20:14:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2173011,
+					-38.111307
+				]
+			},
+			"properties": {
+				"id": 3534,
+				"LocationName": "Skyline Rotorua",
+				"Address": "178 Fairy Springs Road, Fairy Springs, Rotorua 3015",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-28T22:00:00.000Z",
+				"DateTo": "2021-12-29T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1053834,
+					-37.7383423
+				]
+			},
+			"properties": {
+				"id": 3535,
+				"LocationName": "Event Cinemas Tauranga Crossing Mall Tauriko",
+				"Address": "2 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-27T01:20:00.000Z",
+				"DateTo": "2021-12-27T05:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2240858,
+					-37.67565159999999
+				]
+			},
+			"properties": {
+				"id": 3536,
+				"LocationName": "Katsubi Bayfair Shopping Centre Mount Maunganui",
+				"Address": "19 Girven Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-25T22:40:00.000Z",
+				"DateTo": "2021-12-26T00:10:00.000Z"
+			}
 		}
 	]
 }
