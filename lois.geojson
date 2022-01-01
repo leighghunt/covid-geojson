@@ -62472,6 +62472,44 @@
 				"DateFrom": "2021-12-25T19:00:00.000Z",
 				"DateTo": "2021-12-25T21:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.7018723,
+					-38.0873222
+				]
+			},
+			"properties": {
+				"id": 3523,
+				"LocationName": "Cayman's Sports Bar Kawerau",
+				"Address": "10 Jellicoe Court, Kawerau 3127",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T22:00:00.000Z",
+				"DateTo": "2021-12-27T05:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.7018723,
+					-38.0873222
+				]
+			},
+			"properties": {
+				"id": 3524,
+				"LocationName": "Cayman's Sports Bar Kawerau",
+				"Address": "10 Jellicoe Court, Kawerau 3127",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-26T01:15:00.000Z",
+				"DateTo": "2021-12-26T09:00:00.000Z"
+			}
 		}
 	]
 }
