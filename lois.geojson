@@ -62605,6 +62605,25 @@
 				"DateFrom": "2021-12-27T01:00:00.000Z",
 				"DateTo": "2021-12-27T10:59:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					177.1615587,
+					-37.9900889
+				]
+			},
+			"properties": {
+				"id": 3530,
+				"LocationName": "Ohiwa Beach Holiday Park Opotiki",
+				"Address": "380 Ohiwa Harbour Drive, Kutarere, Opotiki 3198",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-27T01:00:00.000Z",
+				"DateTo": "2021-12-30T19:00:00.000Z"
+			}
 		}
 	]
 }
