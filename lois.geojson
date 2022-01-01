@@ -62624,6 +62624,25 @@
 				"DateFrom": "2021-12-27T01:00:00.000Z",
 				"DateTo": "2021-12-30T19:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2240858,
+					-37.67565159999999
+				]
+			},
+			"properties": {
+				"id": 3531,
+				"LocationName": "Macpac Bayfair Shopping Centre Mt Maunganui",
+				"Address": "19 Girven Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-25T23:34:00.000Z",
+				"DateTo": "2021-12-26T00:57:00.000Z"
+			}
 		}
 	]
 }
