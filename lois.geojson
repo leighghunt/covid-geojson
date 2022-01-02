@@ -62909,6 +62909,25 @@
 				"DateFrom": "2021-12-27T00:30:00.000Z",
 				"DateTo": "2021-12-27T02:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1053834,
+					-37.7383423
+				]
+			},
+			"properties": {
+				"id": 3546,
+				"LocationName": "EB Games Tauranga Crossing Mall Tauriko",
+				"Address": "2 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-27T00:30:00.000Z",
+				"DateTo": "2021-12-27T02:00:00.000Z"
+			}
 		}
 	]
 }
