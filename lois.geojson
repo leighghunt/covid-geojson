@@ -62871,6 +62871,25 @@
 				"DateFrom": "2021-12-26T23:22:00.000Z",
 				"DateTo": "2021-12-27T01:20:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1012528,
+					-38.703639
+				]
+			},
+			"properties": {
+				"id": 3544,
+				"LocationName": "Hilton Lake Taupo",
+				"Address": "80-100 Napier Road, Hilltop, Taupō 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-29T06:45:00.000Z",
+				"DateTo": "2021-12-29T19:30:00.000Z"
+			}
 		}
 	]
 }
