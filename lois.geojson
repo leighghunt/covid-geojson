@@ -62928,6 +62928,44 @@
 				"DateFrom": "2021-12-27T00:30:00.000Z",
 				"DateTo": "2021-12-27T02:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2006791,
+					-37.6555763
+				]
+			},
+			"properties": {
+				"id": 3547,
+				"LocationName": "Bottle Zone Mount Maunganui",
+				"Address": "525 Maunganui Road, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T22:55:00.000Z",
+				"DateTo": "2021-12-22T00:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3548,
+				"LocationName": "The Pelican Club Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-21T11:00:00.000Z",
+				"DateTo": "2021-12-31T10:59:00.000Z"
+			}
 		}
 	]
 }
