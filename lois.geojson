@@ -62966,6 +62966,25 @@
 				"DateFrom": "2021-12-21T11:00:00.000Z",
 				"DateTo": "2021-12-31T10:59:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.9949636,
+					-37.9509485
+				]
+			},
+			"properties": {
+				"id": 3549,
+				"LocationName": "The Warehouse Whakatane",
+				"Address": "31 Kakahoroa Drive, Whakatane 3120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-27T18:00:00.000Z",
+				"DateTo": "2021-12-28T04:00:00.000Z"
+			}
 		}
 	]
 }
