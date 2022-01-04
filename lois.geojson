@@ -63080,6 +63080,25 @@
 				"DateFrom": "2021-12-31T07:30:00.000Z",
 				"DateTo": "2021-12-31T11:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1333827,
+					-37.7263525
+				]
+			},
+			"properties": {
+				"id": 3555,
+				"LocationName": "Unichem Pharmacy Greerton",
+				"Address": "221 Chadwick Road, Greerton, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-29T00:45:00.000Z",
+				"DateTo": "2021-12-29T03:00:00.000Z"
+			}
 		}
 	]
 }
