@@ -63099,6 +63099,25 @@
 				"DateFrom": "2021-12-29T00:45:00.000Z",
 				"DateTo": "2021-12-29T03:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7471872,
+					-36.8564845
+				]
+			},
+			"properties": {
+				"id": 3556,
+				"LocationName": "Murder Burger Grey Lynn",
+				"Address": "4/95 Ponsonby Road, Grey Lynn, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-31T12:50:00.000Z",
+				"DateTo": "2021-12-31T13:10:00.000Z"
+			}
 		}
 	]
 }
