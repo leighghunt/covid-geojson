@@ -62985,6 +62985,44 @@
 				"DateFrom": "2021-12-27T18:00:00.000Z",
 				"DateTo": "2021-12-28T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1327398,
+					-37.7311205
+				]
+			},
+			"properties": {
+				"id": 3550,
+				"LocationName": "Greerton Aquatic and Leisure Centre Greerton",
+				"Address": "1 Kiteroa Street, Greerton, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-02T23:18:53.000Z",
+				"DateTo": "2022-01-03T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3551,
+				"LocationName": "The Pelican Club Auckland",
+				"Address": "Auckland NZ",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-22T10:00:00.000Z",
+				"DateTo": "2021-12-30T16:00:00.000Z"
+			}
 		}
 	]
 }
