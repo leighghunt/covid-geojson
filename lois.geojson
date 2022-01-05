@@ -63175,6 +63175,44 @@
 				"DateFrom": "2021-12-31T09:07:00.000Z",
 				"DateTo": "2021-12-31T12:50:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9244536,
+					-37.0465988
+				]
+			},
+			"properties": {
+				"id": 3560,
+				"LocationName": "JUMP Trampoline Park Takanini",
+				"Address": "212 Great South Road, Takanini, Takanini 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-02T21:00:00.000Z",
+				"DateTo": "2022-01-03T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9244536,
+					-37.0465988
+				]
+			},
+			"properties": {
+				"id": 3561,
+				"LocationName": "JUMP Trampoline Park Takanini",
+				"Address": "212 Great South Road, Takanini, Takanini 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-27T21:30:00.000Z",
+				"DateTo": "2021-12-28T00:00:00.000Z"
+			}
 		}
 	]
 }
