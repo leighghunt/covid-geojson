@@ -63137,6 +63137,25 @@
 				"DateFrom": "2022-01-01T05:30:00.000Z",
 				"DateTo": "2022-01-01T11:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7477786,
+					-36.85725
+				]
+			},
+			"properties": {
+				"id": 3558,
+				"LocationName": "Longroom Nightclub Grey Lynn",
+				"Address": "114 Ponsonby Road, Grey Lynn, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-31T09:07:00.000Z",
+				"DateTo": "2021-12-31T11:50:00.000Z"
+			}
 		}
 	]
 }
