@@ -63213,6 +63213,25 @@
 				"DateFrom": "2021-12-27T21:30:00.000Z",
 				"DateTo": "2021-12-28T00:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1828817,
+					-38.2437022
+				]
+			},
+			"properties": {
+				"id": 3562,
+				"LocationName": "The Big Apple Otorohanga",
+				"Address": "584 State Highway 3, RD 7, Otorohanga 3977",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-31T22:45:00.000Z",
+				"DateTo": "2022-01-01T01:00:00.000Z"
+			}
 		}
 	]
 }
