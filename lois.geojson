@@ -63118,6 +63118,25 @@
 				"DateFrom": "2021-12-31T12:50:00.000Z",
 				"DateTo": "2021-12-31T13:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0575773,
+					-39.0721516
+				]
+			},
+			"properties": {
+				"id": 3557,
+				"LocationName": "Taranaki Base Hospital Emergency Department",
+				"Address": "23 David Street, Westown, New Plymouth 4310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-01T05:30:00.000Z",
+				"DateTo": "2022-01-01T11:00:00.000Z"
+			}
 		}
 	]
 }
