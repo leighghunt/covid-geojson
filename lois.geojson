@@ -63308,6 +63308,44 @@
 				"DateFrom": "2021-12-29T21:15:00.000Z",
 				"DateTo": "2021-12-30T01:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1053834,
+					-37.7383423
+				]
+			},
+			"properties": {
+				"id": 3567,
+				"LocationName": "Tauranga Crossing Tauriko Tauranga",
+				"Address": "2 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-30T22:45:00.000Z",
+				"DateTo": "2021-12-31T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1506618,
+					-37.7065049
+				]
+			},
+			"properties": {
+				"id": 3568,
+				"LocationName": "Tauranga Hospital Emergency Department (ED) Waiting Room, Tauranga",
+				"Address": "829 Cameron Road, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-28T23:40:00.000Z",
+				"DateTo": "2021-12-29T03:30:00.000Z"
+			}
 		}
 	]
 }
