@@ -63232,6 +63232,44 @@
 				"DateFrom": "2021-12-31T22:45:00.000Z",
 				"DateTo": "2022-01-01T01:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1053834,
+					-37.7383423
+				]
+			},
+			"properties": {
+				"id": 3563,
+				"LocationName": "Just Cuts Tauranga Crossing",
+				"Address": "204/2 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-30T23:35:00.000Z",
+				"DateTo": "2021-12-31T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1828817,
+					-38.2437022
+				]
+			},
+			"properties": {
+				"id": 3564,
+				"LocationName": "Waitomo Homestead (The Big Apple) Otorohanga",
+				"Address": "584 State Highway 3, RD 7, Otorohanga 3977",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-31T22:45:00.000Z",
+				"DateTo": "2022-01-01T01:00:00.000Z"
+			}
 		}
 	]
 }
