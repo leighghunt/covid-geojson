@@ -63479,6 +63479,25 @@
 				"DateFrom": "2021-12-31T04:15:00.000Z",
 				"DateTo": "2021-12-31T06:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1575975,
+					-40.760813
+				]
+			},
+			"properties": {
+				"id": 3577,
+				"LocationName": "BP Connect Otaki",
+				"Address": "250 Main Highway, Otaki, Otaki 5512",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T03:24:00.000Z",
+				"DateTo": "2022-01-07T03:32:00.000Z"
+			}
 		}
 	]
 }
