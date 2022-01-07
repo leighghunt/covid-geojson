@@ -63403,6 +63403,25 @@
 				"DateFrom": "2021-12-30T23:15:00.000Z",
 				"DateTo": "2021-12-30T23:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7674881,
+					-36.8446213
+				]
+			},
+			"properties": {
+				"id": 3573,
+				"LocationName": "Britomart Block Party Auckland",
+				"Address": "11 Galway Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-31T10:15:00.000Z",
+				"DateTo": "2021-12-31T13:30:00.000Z"
+			}
 		}
 	]
 }
