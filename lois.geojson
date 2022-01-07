@@ -63422,6 +63422,63 @@
 				"DateFrom": "2021-12-31T10:15:00.000Z",
 				"DateTo": "2021-12-31T13:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1061074,
+					-37.738725
+				]
+			},
+			"properties": {
+				"id": 3574,
+				"LocationName": "Majestic Tea Bar Tauranga Crossing",
+				"Address": "1 Taurikura Drive, Tauriko, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-30T19:45:00.000Z",
+				"DateTo": "2021-12-31T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1698354,
+					-37.6826508
+				]
+			},
+			"properties": {
+				"id": 3575,
+				"LocationName": "OUTDOOR Seating Macau Bar Kitchen & Lounge",
+				"Address": "59 The Strand, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-31T04:00:00.000Z",
+				"DateTo": "2021-12-31T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1698354,
+					-37.6826508
+				]
+			},
+			"properties": {
+				"id": 3576,
+				"LocationName": "INDOOR Seating Macau Bar Kitchen & Lounge Tauranga",
+				"Address": "59 The Strand, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-31T04:15:00.000Z",
+				"DateTo": "2021-12-31T06:00:00.000Z"
+			}
 		}
 	]
 }
