@@ -63517,6 +63517,25 @@
 				"DateFrom": "2022-01-06T06:15:00.000Z",
 				"DateTo": "2022-01-06T06:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7056091,
+					-36.7268089
+				]
+			},
+			"properties": {
+				"id": 3579,
+				"LocationName": "Event Cinemas Albany *Movie Sing 2 6pm*",
+				"Address": "219 Don McKinnon Drive, Albany, Auckland 0632",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-02T05:00:00.000Z",
+				"DateTo": "2022-01-02T07:10:00.000Z"
+			}
 		}
 	]
 }
