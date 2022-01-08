@@ -63498,6 +63498,25 @@
 				"DateFrom": "2022-01-07T03:24:00.000Z",
 				"DateTo": "2022-01-07T03:32:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2267207,
+					-38.116354
+				]
+			},
+			"properties": {
+				"id": 3578,
+				"LocationName": "BurgerFuel Fairy Springs Rotorua",
+				"Address": "Cnr Old Quarry Road & Fairy Springs Road, Rotorua 3015, Fairy Springs, Rotorua 3015",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T06:15:00.000Z",
+				"DateTo": "2022-01-06T06:45:00.000Z"
+			}
 		}
 	]
 }
