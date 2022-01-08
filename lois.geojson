@@ -63821,6 +63821,139 @@
 				"DateFrom": "2022-01-05T21:59:19.000Z",
 				"DateTo": "2022-01-05T23:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1822971,
+					-37.6361277
+				]
+			},
+			"properties": {
+				"id": 3595,
+				"LocationName": "Astrolabe Brew Bar Mount Maunganui",
+				"Address": "82 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T03:03:54.000Z",
+				"DateTo": "2022-01-05T03:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1830497,
+					-37.6370819
+				]
+			},
+			"properties": {
+				"id": 3596,
+				"LocationName": "Lululemon Mount Maunganui",
+				"Address": "121 Maunganui road,, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:15:00.000Z",
+				"DateTo": "2022-01-05T03:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1821973,
+					-37.6358776
+				]
+			},
+			"properties": {
+				"id": 3597,
+				"LocationName": "Downtown Foodmarket Mount Maunganui",
+				"Address": "78 Maunganui Road, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T06:29:39.000Z",
+				"DateTo": "2022-01-05T06:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.6112003,
+					-36.8234365
+				]
+			},
+			"properties": {
+				"id": 3598,
+				"LocationName": "Bendon Westgate",
+				"Address": "Shop 3/7-9 Westgate Drive, Waitākere, Auckland 0614",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T20:00:00.000Z",
+				"DateTo": "2022-01-06T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.182467,
+					-37.6366383
+				]
+			},
+			"properties": {
+				"id": 3599,
+				"LocationName": "PAPER PLANE Mount Maunganui",
+				"Address": "100 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T01:25:00.000Z",
+				"DateTo": "2022-01-05T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1826866,
+					-37.636288
+				]
+			},
+			"properties": {
+				"id": 3600,
+				"LocationName": "Evolution Clothing Mount Maunganui",
+				"Address": "97 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:07:00.000Z",
+				"DateTo": "2022-01-05T03:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1577272,
+					-37.7004144
+				]
+			},
+			"properties": {
+				"id": 3601,
+				"LocationName": "Countdown Tauranga",
+				"Address": "618 Cameron Road, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-02T03:00:00.000Z",
+				"DateTo": "2022-01-02T04:30:00.000Z"
+			}
 		}
 	]
 }
