@@ -63536,6 +63536,177 @@
 				"DateFrom": "2022-01-02T05:00:00.000Z",
 				"DateTo": "2022-01-02T07:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7765257,
+					-41.2908227
+				]
+			},
+			"properties": {
+				"id": 3580,
+				"LocationName": "Bargain Chemist Manners Te Aro",
+				"Address": "73 Manners Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T23:55:00.000Z",
+				"DateTo": "2022-01-05T23:57:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2516464,
+					-38.1344062
+				]
+			},
+			"properties": {
+				"id": 3581,
+				"LocationName": "Mo's Bar Rotorua",
+				"Address": "1142 Tutanekai Street, Rotorua, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-03T09:15:00.000Z",
+				"DateTo": "2022-01-03T11:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2516464,
+					-38.1344062
+				]
+			},
+			"properties": {
+				"id": 3582,
+				"LocationName": "Mo's Bar Rotorua *Gaming Lounge*",
+				"Address": "1142 Tutanekai Street, Rotorua, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-03T09:15:00.000Z",
+				"DateTo": "2022-01-03T11:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7764446,
+					-41.2923184
+				]
+			},
+			"properties": {
+				"id": 3583,
+				"LocationName": "COSMIC Vape & Coffee Te Aro",
+				"Address": "99 Cuba Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T23:59:00.000Z",
+				"DateTo": "2022-01-06T00:01:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7774445,
+					-41.3073734
+				]
+			},
+			"properties": {
+				"id": 3584,
+				"LocationName": "Countdown Newtown",
+				"Address": "3 John Street, Mount Cook, Wellington 6021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T05:54:00.000Z",
+				"DateTo": "2022-01-05T06:09:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7774445,
+					-41.3073734
+				]
+			},
+			"properties": {
+				"id": 3585,
+				"LocationName": "Countdown Newtown",
+				"Address": "3 John Street, Mount Cook, Wellington 6021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T01:08:00.000Z",
+				"DateTo": "2022-01-04T01:23:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.780265,
+					-41.2971184
+				]
+			},
+			"properties": {
+				"id": 3586,
+				"LocationName": "The Warehouse Te Aro",
+				"Address": "133 Tory Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T06:26:00.000Z",
+				"DateTo": "2022-01-05T06:46:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7665214,
+					-41.2955175
+				]
+			},
+			"properties": {
+				"id": 3587,
+				"LocationName": "Aro Valley Mini Mart Aro Valley",
+				"Address": "103 Aro Street, Aro Valley, Wellington 6021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T00:20:00.000Z",
+				"DateTo": "2022-01-06T00:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7757705,
+					-41.2928831
+				]
+			},
+			"properties": {
+				"id": 3588,
+				"LocationName": "Unichem Cuba Mall Pharmacy Te Aro",
+				"Address": "122 Cuba Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T00:03:00.000Z",
+				"DateTo": "2022-01-06T00:05:00.000Z"
+			}
 		}
 	]
 }
