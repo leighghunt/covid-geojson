@@ -63802,6 +63802,25 @@
 				"DateFrom": "2022-01-03T01:00:00.000Z",
 				"DateTo": "2022-01-03T11:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0700095,
+					-38.6879174
+				]
+			},
+			"properties": {
+				"id": 3594,
+				"LocationName": "Robert Harris Cafe Taupo 06/01/22",
+				"Address": "11 Te Heuheu Street, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T21:59:19.000Z",
+				"DateTo": "2022-01-05T23:00:00.000Z"
+			}
 		}
 	]
 }
