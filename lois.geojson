@@ -63707,6 +63707,82 @@
 				"DateFrom": "2022-01-06T00:03:00.000Z",
 				"DateTo": "2022-01-06T00:05:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1575975,
+					-40.760813
+				]
+			},
+			"properties": {
+				"id": 3589,
+				"LocationName": "BP Connect Otaki",
+				"Address": "250 Main Highway, Otaki, Otaki 5512",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T03:21:59.000Z",
+				"DateTo": "2022-01-06T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7338009,
+					-36.3426984
+				]
+			},
+			"properties": {
+				"id": 3590,
+				"LocationName": "Hidden Valley Festival Matakana",
+				"Address": "1151 Leigh Road, RD 5, Warkworth 0985",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-02T03:29:52.000Z",
+				"DateTo": "2022-01-02T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8965167,
+					-36.92711420000001
+				]
+			},
+			"properties": {
+				"id": 3591,
+				"LocationName": "King Club",
+				"Address": "6/295 Ti Rakau Drive, Burswood, Auckland 2013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-30T09:00:00.000Z",
+				"DateTo": "2021-12-30T13:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1656383,
+					-37.6795746
+				]
+			},
+			"properties": {
+				"id": 3592,
+				"LocationName": "Netsky, Chase & Status, Hybrid Minds, Friction and more Mount Maunganui",
+				"Address": "Wharepai Domain, Cnr Cameron and Hamilton St, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-03T01:00:00.000Z",
+				"DateTo": "2022-01-03T11:00:00.000Z"
+			}
 		}
 	]
 }
