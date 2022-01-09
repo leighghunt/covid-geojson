@@ -64163,6 +64163,25 @@
 				"DateFrom": "2022-01-03T01:00:00.000Z",
 				"DateTo": "2022-01-03T11:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1656383,
+					-37.6795746
+				]
+			},
+			"properties": {
+				"id": 3613,
+				"LocationName": "RECATEGORISED: Netsky, Hybrid Minds, Montell2099, Friction, Koven and more Tauranga",
+				"Address": "Wharepai Domain, Cnr Cameron Road and Hamilton St, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-03T01:00:00.000Z",
+				"DateTo": "2022-01-03T11:00:00.000Z"
+			}
 		}
 	]
 }
