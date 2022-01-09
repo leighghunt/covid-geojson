@@ -64410,6 +64410,63 @@
 				"DateFrom": "2022-01-05T21:59:19.000Z",
 				"DateTo": "2022-01-05T23:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2837893,
+					-37.7005773
+				]
+			},
+			"properties": {
+				"id": 3626,
+				"LocationName": "The Burger Foundry Papamoa Beach",
+				"Address": "7 Gravatt Road, Papamoa Beach, Papamoa 3118",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-03T21:52:00.000Z",
+				"DateTo": "2022-01-04T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0695927,
+					-38.6894535
+				]
+			},
+			"properties": {
+				"id": 3627,
+				"LocationName": "Subway Taupo Central",
+				"Address": "10 Roberts Street, Taupo, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-01T23:35:45.000Z",
+				"DateTo": "2022-01-01T23:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1558331,
+					-37.7013768
+				]
+			},
+			"properties": {
+				"id": 3628,
+				"LocationName": "The Bottle-O Hillsdene",
+				"Address": "673 Cameron Road, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-02T03:32:00.000Z",
+				"DateTo": "2022-01-02T04:45:00.000Z"
+			}
 		}
 	]
 }
