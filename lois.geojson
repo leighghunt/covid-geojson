@@ -64334,6 +64334,82 @@
 				"DateFrom": "2022-01-01T20:00:00.000Z",
 				"DateTo": "2022-01-01T23:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6782714,
+					-45.03415640000001
+				]
+			},
+			"properties": {
+				"id": 3622,
+				"LocationName": "Oaks Club Suites Queenstown",
+				"Address": "171 Frankton Road, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-30T08:30:00.000Z",
+				"DateTo": "2022-01-01T19:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.657668,
+					-45.03291
+				]
+			},
+			"properties": {
+				"id": 3623,
+				"LocationName": "SkyCity Casino Queenstown",
+				"Address": "16 Beach Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-01T04:50:00.000Z",
+				"DateTo": "2022-01-01T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1829371,
+					-37.6366289
+				]
+			},
+			"properties": {
+				"id": 3624,
+				"LocationName": "North Beach Mount Maunganui",
+				"Address": "105 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:41:21.000Z",
+				"DateTo": "2022-01-05T02:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0700095,
+					-38.6879174
+				]
+			},
+			"properties": {
+				"id": 3625,
+				"LocationName": "Robert Harris Cafe Taupo",
+				"Address": "11 Te Heuheu Street, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T21:59:19.000Z",
+				"DateTo": "2022-01-05T23:00:00.000Z"
+			}
 		}
 	]
 }
