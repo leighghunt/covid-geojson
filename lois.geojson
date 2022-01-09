@@ -64315,6 +64315,25 @@
 				"DateFrom": "2022-01-05T10:05:00.000Z",
 				"DateTo": "2022-01-05T12:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6713311,
+					-44.9870794
+				]
+			},
+			"properties": {
+				"id": 3621,
+				"LocationName": "Shotover Jet Queenstown",
+				"Address": "3 Arthurs Point Road, RD 1, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-01T20:00:00.000Z",
+				"DateTo": "2022-01-01T23:00:00.000Z"
+			}
 		}
 	]
 }
