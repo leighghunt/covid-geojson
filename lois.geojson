@@ -64220,6 +64220,101 @@
 				"DateFrom": "2021-12-30T21:35:54.000Z",
 				"DateTo": "2021-12-31T00:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.657668,
+					-45.03291
+				]
+			},
+			"properties": {
+				"id": 3616,
+				"LocationName": "SkyCity Casino, Queenstown",
+				"Address": "16 Beach Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-01T04:50:00.000Z",
+				"DateTo": "2022-01-01T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.8398055,
+					-37.392117
+				]
+			},
+			"properties": {
+				"id": 3617,
+				"LocationName": "KFC Waihi",
+				"Address": "8 Seddon Street, Waihi Beach, Waihi 3610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T03:30:00.000Z",
+				"DateTo": "2022-01-05T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6782714,
+					-45.03415640000001
+				]
+			},
+			"properties": {
+				"id": 3618,
+				"LocationName": "Oaks Club Suites, Queenstown",
+				"Address": "171 Frankton Road, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-30T08:30:00.000Z",
+				"DateTo": "2022-01-01T19:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.9361295,
+					-37.4066061
+				]
+			},
+			"properties": {
+				"id": 3619,
+				"LocationName": "Waihi Beach RSA",
+				"Address": "99 Beach Road, Waihi Beach, Waihi Beach 3611",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T07:00:00.000Z",
+				"DateTo": "2022-01-05T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.9376906,
+					-37.4088245
+				]
+			},
+			"properties": {
+				"id": 3620,
+				"LocationName": "Waihi Beach Hotel Pub",
+				"Address": "60 Wilson Road, Waihi Beach, Waihi Beach 3611",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T10:05:00.000Z",
+				"DateTo": "2022-01-05T12:00:00.000Z"
+			}
 		}
 	]
 }
