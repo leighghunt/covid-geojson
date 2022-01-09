@@ -64182,6 +64182,44 @@
 				"DateFrom": "2022-01-03T01:00:00.000Z",
 				"DateTo": "2022-01-03T11:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.292331,
+					-37.7946888
+				]
+			},
+			"properties": {
+				"id": 3614,
+				"LocationName": "Eastside Tavern and TAB Gaming Lounge Hamilton East",
+				"Address": "2 Cook Street, Hamilton East, Hamilton 3216",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-30T21:35:00.000Z",
+				"DateTo": "2021-12-31T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.292331,
+					-37.7946888
+				]
+			},
+			"properties": {
+				"id": 3615,
+				"LocationName": "Eastside Tavern and TAB Hamilton East",
+				"Address": "2 Cook Street, Hamilton East, Hamilton 3216",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-30T21:35:54.000Z",
+				"DateTo": "2021-12-31T00:00:00.000Z"
+			}
 		}
 	]
 }
