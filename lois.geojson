@@ -64505,6 +64505,25 @@
 				"DateFrom": "2022-01-05T00:26:10.000Z",
 				"DateTo": "2022-01-05T01:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.6354229,
+					-36.8622204
+				]
+			},
+			"properties": {
+				"id": 3631,
+				"LocationName": "Golden Lights Music Festival Trusts Arena Henderson",
+				"Address": "65-67 Central Park Drive, Henderson, Auckland 0610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T00:30:00.000Z",
+				"DateTo": "2022-01-07T09:45:00.000Z"
+			}
 		}
 	]
 }
