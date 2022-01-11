@@ -65208,6 +65208,25 @@
 				"DateFrom": "2022-01-05T01:50:00.000Z",
 				"DateTo": "2022-01-05T03:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5231422,
+					-41.0298034
+				]
+			},
+			"properties": {
+				"id": 3668,
+				"LocationName": "Owls Attic Carterton",
+				"Address": "201 High Street South, Carterton 5713",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T23:43:00.000Z",
+				"DateTo": "2022-01-08T23:53:00.000Z"
+			}
 		}
 	]
 }
