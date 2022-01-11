@@ -64562,6 +64562,120 @@
 				"DateFrom": "2022-01-02T02:00:00.000Z",
 				"DateTo": "2022-01-02T14:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0747633,
+					-38.6890015
+				]
+			},
+			"properties": {
+				"id": 3634,
+				"LocationName": "Spoon & Paddle Cafe Taupō",
+				"Address": "101 Te Heuheu Street, Taupō 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-29T19:23:49.000Z",
+				"DateTo": "2021-12-29T20:14:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7551502,
+					-36.8479756
+				]
+			},
+			"properties": {
+				"id": 3635,
+				"LocationName": "Plane Sailing Music Festival Victoria Park",
+				"Address": "203 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T03:00:00.000Z",
+				"DateTo": "2022-01-08T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0714043,
+					-38.688819
+				]
+			},
+			"properties": {
+				"id": 3636,
+				"LocationName": "Noodle Canteen Taupō",
+				"Address": "46 Tuwharetoa Street, Taupō 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-29T07:29:32.000Z",
+				"DateTo": "2021-12-29T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0695927,
+					-38.6894535
+				]
+			},
+			"properties": {
+				"id": 3637,
+				"LocationName": "Subway Taupō Central",
+				"Address": "10 Roberts Street, Taupō 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-01T23:35:45.000Z",
+				"DateTo": "2022-01-01T23:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0700095,
+					-38.6879174
+				]
+			},
+			"properties": {
+				"id": 3638,
+				"LocationName": "Robert Harris Cafe Taupō",
+				"Address": "11 Te Heuheu Street, Taupō 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T21:59:19.000Z",
+				"DateTo": "2022-01-05T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1012528,
+					-38.703639
+				]
+			},
+			"properties": {
+				"id": 3639,
+				"LocationName": "Hilton Lake Taupō",
+				"Address": "80-100 Napier Road, Hilltop, Taupō 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-29T06:45:00.000Z",
+				"DateTo": "2021-12-29T19:30:00.000Z"
+			}
 		}
 	]
 }
