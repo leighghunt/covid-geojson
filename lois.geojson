@@ -65170,6 +65170,44 @@
 				"DateFrom": "2022-01-05T08:30:00.000Z",
 				"DateTo": "2022-01-05T11:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.662528,
+					-40.9494719
+				]
+			},
+			"properties": {
+				"id": 3666,
+				"LocationName": "Trocadero Coffee Bar Masterton",
+				"Address": "95 Queen Street, Masterton 5810",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T22:17:00.000Z",
+				"DateTo": "2022-01-08T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1575975,
+					-40.760813
+				]
+			},
+			"properties": {
+				"id": 3667,
+				"LocationName": "BP Connect Ōtaki",
+				"Address": "250 Main Highway, Otaki 5512",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T01:50:00.000Z",
+				"DateTo": "2022-01-05T03:00:00.000Z"
+			}
 		}
 	]
 }
