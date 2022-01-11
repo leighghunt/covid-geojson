@@ -64676,6 +64676,405 @@
 				"DateFrom": "2021-12-29T06:45:00.000Z",
 				"DateTo": "2021-12-29T19:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5685881,
+					-40.224962
+				]
+			},
+			"properties": {
+				"id": 3640,
+				"LocationName": "Countdown Feilding",
+				"Address": "147 Kimbolton Road, Feilding, Feilding 4702",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T01:20:00.000Z",
+				"DateTo": "2022-01-04T01:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9062409,
+					-41.209935
+				]
+			},
+			"properties": {
+				"id": 3641,
+				"LocationName": "Merchant 1948 Queensgate Mall",
+				"Address": "Shop 157 Cnr Queens Drive & Bunny Street, Lower Hutt 5010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T22:30:00.000Z",
+				"DateTo": "2022-01-05T22:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6700094,
+					-39.4705272
+				]
+			},
+			"properties": {
+				"id": 3642,
+				"LocationName": "Z Waiouru",
+				"Address": "State Highway 1, Waiouru, Manawatu-Wanganui 4825",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T00:00:00.000Z",
+				"DateTo": "2022-01-04T00:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6237792,
+					-40.3485717
+				]
+			},
+			"properties": {
+				"id": 3643,
+				"LocationName": "New World Broadway Melodys Palmerston North",
+				"Address": "Cnr. Broadway Ave &, Albert Street, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T02:00:00.000Z",
+				"DateTo": "2022-01-04T02:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5264084,
+					-41.0258332
+				]
+			},
+			"properties": {
+				"id": 3644,
+				"LocationName": "New World Carterton",
+				"Address": "60 High Street South, Carterton 5713",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T01:15:00.000Z",
+				"DateTo": "2022-01-08T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.878295,
+					-41.2253838
+				]
+			},
+			"properties": {
+				"id": 3645,
+				"LocationName": "NZ Post Shop at Unichem Pharmacy Petone",
+				"Address": "240 Jackson Street, Petone, Lower Hutt 5012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T03:40:00.000Z",
+				"DateTo": "2022-01-06T03:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5288062,
+					-41.0232988
+				]
+			},
+			"properties": {
+				"id": 3646,
+				"LocationName": "Carrington Park Public Toilets Carterton",
+				"Address": "101 High Street North, Carterton 5713",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T01:30:00.000Z",
+				"DateTo": "2022-01-08T01:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9067812,
+					-41.2099185
+				]
+			},
+			"properties": {
+				"id": 3647,
+				"LocationName": "Hype DC Queensgate",
+				"Address": "Shop 253 Cnr Queens Drive & Bunny Street, Hutt Central, Lower Hutt 5011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T22:10:00.000Z",
+				"DateTo": "2022-01-05T22:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7833728,
+					-41.295554
+				]
+			},
+			"properties": {
+				"id": 3648,
+				"LocationName": "Liquor King Mount Victoria",
+				"Address": "27 Kent Terrace, Mount Victoria, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T23:55:00.000Z",
+				"DateTo": "2022-01-08T00:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.2320579,
+					-35.2207521
+				]
+			},
+			"properties": {
+				"id": 3649,
+				"LocationName": "Otehei Bay Cafe and Bar Urupukapuka Island",
+				"Address": "Otehei Bay, Urapukapuka Island, Bay of Islands 0200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:30:00.000Z",
+				"DateTo": "2022-01-05T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5695923,
+					-40.2281705
+				]
+			},
+			"properties": {
+				"id": 3650,
+				"LocationName": "New World Feilding",
+				"Address": "42 Aorangi Street, Feilding, Feilding 4702",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T01:30:00.000Z",
+				"DateTo": "2022-01-04T01:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6339104,
+					-43.5338918
+				]
+			},
+			"properties": {
+				"id": 3651,
+				"LocationName": "Riverside Market Christchurch",
+				"Address": "96 Oxford Terrace, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T03:29:00.000Z",
+				"DateTo": "2022-01-05T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5980236,
+					-43.53074729999999
+				]
+			},
+			"properties": {
+				"id": 3652,
+				"LocationName": "Kmart Riccarton",
+				"Address": "129 Riccarton Road, Riccarton, Christchurch 8041",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T06:45:00.000Z",
+				"DateTo": "2022-01-06T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6345792,
+					-43.5332631
+				]
+			},
+			"properties": {
+				"id": 3653,
+				"LocationName": "Rollickin Gelato Cafe Cashel Street",
+				"Address": "98 Cashel Street, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T04:00:00.000Z",
+				"DateTo": "2022-01-05T04:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.776305,
+					-41.284867
+				]
+			},
+			"properties": {
+				"id": 3654,
+				"LocationName": "Wittner Wellington Central",
+				"Address": "175 Featherston Street, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T04:00:00.000Z",
+				"DateTo": "2022-01-06T04:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6364777,
+					-43.5330074
+				]
+			},
+			"properties": {
+				"id": 3655,
+				"LocationName": "Kathmandu Christchurch CBD",
+				"Address": "673 Colombo Street, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:40:00.000Z",
+				"DateTo": "2022-01-05T02:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9146852,
+					-41.223957
+				]
+			},
+			"properties": {
+				"id": 3656,
+				"LocationName": "Daily Bread Bakery Waiwhetu",
+				"Address": "1 Wainui Road, Waiwhetu, Lower Hutt 5010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T22:55:00.000Z",
+				"DateTo": "2022-01-05T23:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5638692,
+					-40.2258117
+				]
+			},
+			"properties": {
+				"id": 3657,
+				"LocationName": "Subway Feilding",
+				"Address": "90 Manchester Street, Feilding, Feilding 4702",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T00:55:00.000Z",
+				"DateTo": "2022-01-04T01:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9044638,
+					-41.2095956
+				]
+			},
+			"properties": {
+				"id": 3658,
+				"LocationName": "Queensgate Shopping Centre Lower Hutt",
+				"Address": "Cnr Queens Drive and Bunny Street, Hutt Central, Lower Hutt 5011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T22:05:00.000Z",
+				"DateTo": "2022-01-05T22:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8719851,
+					-41.2232759
+				]
+			},
+			"properties": {
+				"id": 3659,
+				"LocationName": "Countdown Petone",
+				"Address": "45 Jackson Street, Petone, Lower Hutt 5012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T18:20:00.000Z",
+				"DateTo": "2022-01-05T18:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6506586,
+					-43.5331037
+				]
+			},
+			"properties": {
+				"id": 3660,
+				"LocationName": "Ballantynes Department Store Christchurch",
+				"Address": "Cashel Street Mall, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T03:11:00.000Z",
+				"DateTo": "2022-01-05T03:31:00.000Z"
+			}
 		}
 	]
 }
