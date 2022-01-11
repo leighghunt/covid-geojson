@@ -65075,6 +65075,101 @@
 				"DateFrom": "2022-01-05T03:11:00.000Z",
 				"DateTo": "2022-01-05T03:31:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.616105,
+					-43.5778567
+				]
+			},
+			"properties": {
+				"id": 3661,
+				"LocationName": "Christchurch Adventure Park and Cafe",
+				"Address": "225 Worsleys Road, Cracroft, Christchurch 8022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T02:40:00.000Z",
+				"DateTo": "2022-01-06T05:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7833728,
+					-41.295554
+				]
+			},
+			"properties": {
+				"id": 3662,
+				"LocationName": "Liquor King Mount Victoria",
+				"Address": "27 Kent Terrace, Mount Victoria, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T00:01:00.000Z",
+				"DateTo": "2022-01-07T00:06:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1575975,
+					-40.760813
+				]
+			},
+			"properties": {
+				"id": 3663,
+				"LocationName": "BP Connect Ōtaki 5/1/22",
+				"Address": "250 Main Highway, Otaki 5512",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:20:00.000Z",
+				"DateTo": "2022-01-05T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6356901,
+					-43.5323197
+				]
+			},
+			"properties": {
+				"id": 3664,
+				"LocationName": "TANK Juice Bar Cashel Square",
+				"Address": "120 Hereford Street, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:51:00.000Z",
+				"DateTo": "2022-01-05T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6331467,
+					-43.5258243
+				]
+			},
+			"properties": {
+				"id": 3665,
+				"LocationName": "Christchurch Casino Christchurch 5/01/2022",
+				"Address": "30 Victoria Street, Christchurch Central, Christchurch 8013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T08:30:00.000Z",
+				"DateTo": "2022-01-05T11:30:00.000Z"
+			}
 		}
 	]
 }
