@@ -65398,6 +65398,25 @@
 				"DateFrom": "2021-12-31T07:00:00.000Z",
 				"DateTo": "2021-12-31T07:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.6795927,
+					-42.38788359999999
+				]
+			},
+			"properties": {
+				"id": 3678,
+				"LocationName": "New World Kaikoura",
+				"Address": "128 Beach Road, Kaikoura 7300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T00:25:00.000Z",
+				"DateTo": "2022-01-05T00:45:00.000Z"
+			}
 		}
 	]
 }
