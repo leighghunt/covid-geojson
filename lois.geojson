@@ -65303,6 +65303,101 @@
 				"DateFrom": "2022-01-05T02:40:00.000Z",
 				"DateTo": "2022-01-05T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5980236,
+					-43.53074729999999
+				]
+			},
+			"properties": {
+				"id": 3673,
+				"LocationName": "Kmart Riccarton",
+				"Address": "129 Riccarton Road, Riccarton, Christchurch 8041",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T06:15:00.000Z",
+				"DateTo": "2022-01-06T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2394706,
+					-38.1281566
+				]
+			},
+			"properties": {
+				"id": 3674,
+				"LocationName": "Cleveland Motel Outdoor Pool Rotorua",
+				"Address": "113 Lake Road, Koutu, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-31T02:00:00.000Z",
+				"DateTo": "2021-12-31T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6345792,
+					-43.5332631
+				]
+			},
+			"properties": {
+				"id": 3675,
+				"LocationName": "Rollickin Gelato Cafe Cashel Street",
+				"Address": "98 Cashel Street, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T03:30:00.000Z",
+				"DateTo": "2022-01-05T04:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6339104,
+					-43.5338918
+				]
+			},
+			"properties": {
+				"id": 3676,
+				"LocationName": "Riverside Market Christchurch",
+				"Address": "96 Oxford Terrace, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T03:00:00.000Z",
+				"DateTo": "2022-01-05T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2394706,
+					-38.1281566
+				]
+			},
+			"properties": {
+				"id": 3677,
+				"LocationName": "Cleveland Motel Outdoor Pool Rotorua",
+				"Address": "113 Lake Road, Koutu, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2021-12-31T07:00:00.000Z",
+				"DateTo": "2021-12-31T07:15:00.000Z"
+			}
 		}
 	]
 }
