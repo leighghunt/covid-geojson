@@ -65417,6 +65417,44 @@
 				"DateFrom": "2022-01-05T00:25:00.000Z",
 				"DateTo": "2022-01-05T00:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.6798435,
+					-42.3873729
+				]
+			},
+			"properties": {
+				"id": 3679,
+				"LocationName": "Hammer Hardware Kaikōura",
+				"Address": "130 Beach Road, Kaikōura 7300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T00:30:00.000Z",
+				"DateTo": "2022-01-05T00:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.648535,
+					-43.5092698
+				]
+			},
+			"properties": {
+				"id": 3680,
+				"LocationName": "Brooklyn Food Market",
+				"Address": "57 Cleveland Street, Edgeware, Christchurch 8013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T04:55:00.000Z",
+				"DateTo": "2022-01-11T05:00:00.000Z"
+			}
 		}
 	]
 }
