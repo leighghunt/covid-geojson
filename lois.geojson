@@ -65227,6 +65227,82 @@
 				"DateFrom": "2022-01-08T23:43:00.000Z",
 				"DateTo": "2022-01-08T23:53:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1677447,
+					-37.6866553
+				]
+			},
+			"properties": {
+				"id": 3669,
+				"LocationName": "The Barrio Brothers Tauranga",
+				"Address": "107 Grey Street, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T05:00:00.000Z",
+				"DateTo": "2022-01-06T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6364777,
+					-43.5330074
+				]
+			},
+			"properties": {
+				"id": 3670,
+				"LocationName": "Kathmandu Christchurch CBD",
+				"Address": "673 Colombo Street, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:10:00.000Z",
+				"DateTo": "2022-01-05T03:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6356901,
+					-43.5323197
+				]
+			},
+			"properties": {
+				"id": 3671,
+				"LocationName": "TANK Juice Bar Cashel Square",
+				"Address": "120 Hereford Street, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:20:00.000Z",
+				"DateTo": "2022-01-05T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6506586,
+					-43.5331037
+				]
+			},
+			"properties": {
+				"id": 3672,
+				"LocationName": "Ballantynes Department Store Christchurch",
+				"Address": "Cashel Street Mall, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T02:40:00.000Z",
+				"DateTo": "2022-01-05T04:00:00.000Z"
+			}
 		}
 	]
 }
