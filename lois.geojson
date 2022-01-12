@@ -65607,6 +65607,44 @@
 				"DateFrom": "2022-01-05T09:00:00.000Z",
 				"DateTo": "2022-01-05T15:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5638692,
+					-40.2258117
+				]
+			},
+			"properties": {
+				"id": 3689,
+				"LocationName": "Subway Feilding",
+				"Address": "90 Manchester Street, Feilding 4702",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T00:00:00.000Z",
+				"DateTo": "2022-01-04T00:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2746117,
+					-37.7313365
+				]
+			},
+			"properties": {
+				"id": 3690,
+				"LocationName": "Arang Korean Restaurant Hamilton",
+				"Address": "111 Thomas Road, Huntington, Hamilton 3210",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T05:30:00.000Z",
+				"DateTo": "2022-01-09T07:30:00.000Z"
+			}
 		}
 	]
 }
