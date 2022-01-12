@@ -65645,6 +65645,25 @@
 				"DateFrom": "2022-01-09T05:30:00.000Z",
 				"DateTo": "2022-01-09T07:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6331467,
+					-43.5258243
+				]
+			},
+			"properties": {
+				"id": 3691,
+				"LocationName": "Christchurch Casino Christchurch Central",
+				"Address": "30 Victoria Street, Christchurch Central, Christchurch 8013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T08:30:00.000Z",
+				"DateTo": "2022-01-05T11:30:00.000Z"
+			}
 		}
 	]
 }
