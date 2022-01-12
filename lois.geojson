@@ -65664,6 +65664,25 @@
 				"DateFrom": "2022-01-05T08:30:00.000Z",
 				"DateTo": "2022-01-05T11:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0729964,
+					-41.1243795
+				]
+			},
+			"properties": {
+				"id": 3692,
+				"LocationName": "Work and Income Upper Hutt",
+				"Address": "162-164 Main Street, Upper Hutt Central, Upper Hutt 5018",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T20:53:05.000Z",
+				"DateTo": "2022-01-10T21:05:00.000Z"
+			}
 		}
 	]
 }
