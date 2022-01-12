@@ -65683,6 +65683,63 @@
 				"DateFrom": "2022-01-10T20:53:05.000Z",
 				"DateTo": "2022-01-10T21:05:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.6713384,
+					-36.7893682
+				]
+			},
+			"properties": {
+				"id": 3693,
+				"LocationName": "Catalina Bay Farmers Market Hobsonville",
+				"Address": "Hudson Bay Road Extension, Hobsonville, Auckland 0618",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T00:00:00.000Z",
+				"DateTo": "2022-01-09T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1987039,
+					-41.0667503
+				]
+			},
+			"properties": {
+				"id": 3694,
+				"LocationName": "Kaitoke Regional Park Toilets Upper Hutt",
+				"Address": "Waterworks Road, Kaitoke, Upper Hutt 5372",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T11:00:00.000Z",
+				"DateTo": "2022-01-10T10:49:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1987039,
+					-41.0667503
+				]
+			},
+			"properties": {
+				"id": 3695,
+				"LocationName": "Kaitoke Regional Park Public Toilets Upper Hutt",
+				"Address": "Waterworks Road, Kaitoke, Upper Hutt 5372",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T11:00:00.000Z",
+				"DateTo": "2022-01-09T10:59:00.000Z"
+			}
 		}
 	]
 }
