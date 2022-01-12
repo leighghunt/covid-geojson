@@ -65455,6 +65455,158 @@
 				"DateFrom": "2022-01-11T04:55:00.000Z",
 				"DateTo": "2022-01-11T05:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5638692,
+					-40.2258117
+				]
+			},
+			"properties": {
+				"id": 3681,
+				"LocationName": "Subway Feillding",
+				"Address": "90 Manchester Street, Feilding 4702",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T00:00:00.000Z",
+				"DateTo": "2022-01-04T00:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.7043698,
+					-36.8336329
+				]
+			},
+			"properties": {
+				"id": 3682,
+				"LocationName": "Smitty’s Sports Bar And Grill Whitianga",
+				"Address": "37 Albert Street, Whitianga, Whitianga 3510",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-02T09:00:00.000Z",
+				"DateTo": "2022-01-02T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6912409,
+					-36.9236694
+				]
+			},
+			"properties": {
+				"id": 3683,
+				"LocationName": "The Coroglen Tavern Coroglen",
+				"Address": "1937 Tairua Whitianga Road, RD 1, Whitianga 3591",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-01T23:45:00.000Z",
+				"DateTo": "2022-01-02T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6333195,
+					-43.5388613
+				]
+			},
+			"properties": {
+				"id": 3684,
+				"LocationName": "New World Durham St Christchurch Central",
+				"Address": "175 Durham Street South, Christchurch Central, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T03:30:00.000Z",
+				"DateTo": "2022-01-10T04:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6363535,
+					-43.5462239
+				]
+			},
+			"properties": {
+				"id": 3685,
+				"LocationName": "Sydenham Pharmacy",
+				"Address": "359 Colombo Street, Sydenham, Christchurch 8023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T19:50:00.000Z",
+				"DateTo": "2022-01-09T20:55:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1271907,
+					-41.0373711
+				]
+			},
+			"properties": {
+				"id": 3686,
+				"LocationName": "Kaitoke Regional Park public toilets Upper Hutt",
+				"Address": "Upper Hutt, Wellington 5372",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T11:00:00.000Z",
+				"DateTo": "2022-01-10T20:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6357675,
+					-43.5467166
+				]
+			},
+			"properties": {
+				"id": 3687,
+				"LocationName": "The Colombo Sydenham",
+				"Address": "363 Colombo Street, Sydenham, Christchurch 8023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T20:00:00.000Z",
+				"DateTo": "2022-01-09T21:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.76663,
+					-36.8452655
+				]
+			},
+			"properties": {
+				"id": 3688,
+				"LocationName": "Roxy Bar, Auckland",
+				"Address": "7 Fort Lane, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T09:00:00.000Z",
+				"DateTo": "2022-01-05T15:00:00.000Z"
+			}
 		}
 	]
 }
