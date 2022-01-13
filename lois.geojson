@@ -66158,6 +66158,215 @@
 				"DateFrom": "2022-01-07T10:00:00.000Z",
 				"DateTo": "2022-01-07T10:20:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7696514,
+					-36.8452879
+				]
+			},
+			"properties": {
+				"id": 3718,
+				"LocationName": "Saturdays Britomart Auckland CBD",
+				"Address": "48 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T10:00:00.000Z",
+				"DateTo": "2022-01-07T15:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7636563,
+					-36.8427687
+				]
+			},
+			"properties": {
+				"id": 3719,
+				"LocationName": "Danny Doolan's Auckland Central",
+				"Address": "204 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T08:00:00.000Z",
+				"DateTo": "2022-01-12T09:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7646787,
+					-36.8452829
+				]
+			},
+			"properties": {
+				"id": 3720,
+				"LocationName": "Round 6 Bar & Nightclub Auckland Central",
+				"Address": "17A Albert Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T09:30:00.000Z",
+				"DateTo": "2022-01-12T10:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7693679,
+					-36.8452243
+				]
+			},
+			"properties": {
+				"id": 3721,
+				"LocationName": "AV Club Auckland CBD 07/01/2022 - 08/01/2022",
+				"Address": "38 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T10:00:00.000Z",
+				"DateTo": "2022-01-07T15:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3256111,
+					-41.1171207
+				]
+			},
+			"properties": {
+				"id": 3722,
+				"LocationName": "The Bottle O Featherston",
+				"Address": "43 Fitzherbert Street, Featherston, Featherston 5710",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T02:24:00.000Z",
+				"DateTo": "2022-01-11T02:44:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7693679,
+					-36.8452243
+				]
+			},
+			"properties": {
+				"id": 3723,
+				"LocationName": "AV Club Auckland CBD",
+				"Address": "38 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T10:30:00.000Z",
+				"DateTo": "2022-01-12T13:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5338785,
+					-41.0195172
+				]
+			},
+			"properties": {
+				"id": 3724,
+				"LocationName": "Vape N Save Carterton 09/01/22",
+				"Address": "258 High Street North, Carterton, Carterton 5713",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T23:47:00.000Z",
+				"DateTo": "2022-01-09T00:02:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3250108,
+					-41.1173322
+				]
+			},
+			"properties": {
+				"id": 3725,
+				"LocationName": "SuperValue Featherston",
+				"Address": "42 Fitzherbert Street, Featherston, Featherston 5710",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T21:00:00.000Z",
+				"DateTo": "2022-01-10T21:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.4701656,
+					-41.0706924
+				]
+			},
+			"properties": {
+				"id": 3726,
+				"LocationName": "Pine Haven Orchards Greytown",
+				"Address": "2471 State Highway 2, RD 1, Greytown 5794",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T22:30:00.000Z",
+				"DateTo": "2022-01-12T10:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3250108,
+					-41.1173322
+				]
+			},
+			"properties": {
+				"id": 3727,
+				"LocationName": "SuperValue Featherston",
+				"Address": "42 Fitzherbert Street, Featherston, Featherston 5710",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T21:00:00.000Z",
+				"DateTo": "2022-01-09T21:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6517777,
+					-40.9545843
+				]
+			},
+			"properties": {
+				"id": 3728,
+				"LocationName": "The Warehouse Masterton",
+				"Address": "Cnr Chapel and Russell Streets, Masterton, Masterton 5810",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T22:00:00.000Z",
+				"DateTo": "2022-01-05T22:20:00.000Z"
+			}
 		}
 	]
 }
