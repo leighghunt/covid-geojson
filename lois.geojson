@@ -65740,6 +65740,25 @@
 				"DateFrom": "2022-01-08T11:00:00.000Z",
 				"DateTo": "2022-01-09T10:59:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9072077,
+					-41.2070046
+				]
+			},
+			"properties": {
+				"id": 3696,
+				"LocationName": "Work and Income Service Centre Lower Hutt",
+				"Address": "317 High Street, Hutt Central, Lower Hutt 5010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T21:37:02.000Z",
+				"DateTo": "2022-01-10T21:50:00.000Z"
+			}
 		}
 	]
 }
