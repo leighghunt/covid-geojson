@@ -66006,6 +66006,25 @@
 				"DateFrom": "2022-01-09T20:00:00.000Z",
 				"DateTo": "2022-01-10T04:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6925937,
+					-43.5120436
+				]
+			},
+			"properties": {
+				"id": 3710,
+				"LocationName": "Pak'nSave Wainoni Christchurch",
+				"Address": "174 Wainoni Road, Avondale, Christchurch 8061",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T22:30:00.000Z",
+				"DateTo": "2022-01-12T00:30:00.000Z"
+			}
 		}
 	]
 }
