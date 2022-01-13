@@ -66025,6 +66025,139 @@
 				"DateFrom": "2022-01-11T22:30:00.000Z",
 				"DateTo": "2022-01-12T00:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7835869,
+					-41.295153
+				]
+			},
+			"properties": {
+				"id": 3711,
+				"LocationName": "Myrtle Mount Victoria *Standing Customers*",
+				"Address": "23 Kent Terrace, Mount Victoria, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T22:15:00.000Z",
+				"DateTo": "2022-01-07T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6611139,
+					-43.4932908
+				]
+			},
+			"properties": {
+				"id": 3712,
+				"LocationName": "Esquires Cafe Homebase Shirley",
+				"Address": "199A Marshland Road, Shirley, Christchurch 8083",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T22:30:00.000Z",
+				"DateTo": "2022-01-09T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7835869,
+					-41.295153
+				]
+			},
+			"properties": {
+				"id": 3713,
+				"LocationName": "Myrtle Mount Victoria *Seated Customers*",
+				"Address": "23 Kent Terrace, Mount Victoria, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T22:15:00.000Z",
+				"DateTo": "2022-01-07T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7646787,
+					-36.8452829
+				]
+			},
+			"properties": {
+				"id": 3714,
+				"LocationName": "Round 6 Bar & Nightclub Auckland CBD",
+				"Address": "17A Albert Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T09:30:00.000Z",
+				"DateTo": "2022-01-12T10:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7696514,
+					-36.8452879
+				]
+			},
+			"properties": {
+				"id": 3715,
+				"LocationName": "Saturdays Britomart",
+				"Address": "48 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T10:30:00.000Z",
+				"DateTo": "2022-01-12T13:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6606218,
+					-43.49291770000001
+				]
+			},
+			"properties": {
+				"id": 3716,
+				"LocationName": "Bargain Chemist Shirley",
+				"Address": "201 Marshland Road, Shirley, Christchurch 8083",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T00:30:00.000Z",
+				"DateTo": "2022-01-09T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7636563,
+					-36.8427687
+				]
+			},
+			"properties": {
+				"id": 3717,
+				"LocationName": "Danny Doolan’s Auckland Central",
+				"Address": "204 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T10:00:00.000Z",
+				"DateTo": "2022-01-07T10:20:00.000Z"
+			}
 		}
 	]
 }
