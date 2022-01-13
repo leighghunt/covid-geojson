@@ -65873,6 +65873,139 @@
 				"DateFrom": "2022-01-09T11:00:00.000Z",
 				"DateTo": "2022-01-10T10:49:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6539795,
+					-43.5406809
+				]
+			},
+			"properties": {
+				"id": 3703,
+				"LocationName": "Savebarn Christchurch",
+				"Address": "1 Lancaster Street, Waltham, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T20:00:00.000Z",
+				"DateTo": "2022-01-11T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6762941,
+					-37.57270750000001
+				]
+			},
+			"properties": {
+				"id": 3704,
+				"LocationName": "Community meeting Waihou Community Hall Waihou",
+				"Address": "2 Second Avenue, RD 3, Te Aroha 3393",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T06:00:00.000Z",
+				"DateTo": "2022-01-05T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0728011,
+					-41.1230902
+				]
+			},
+			"properties": {
+				"id": 3705,
+				"LocationName": "The Warehouse Upper Hutt",
+				"Address": "Logan Central Mall, Queen Street, Upper Hutt Central, Wellington 5018",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T04:05:00.000Z",
+				"DateTo": "2022-01-06T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6925937,
+					-43.5120436
+				]
+			},
+			"properties": {
+				"id": 3706,
+				"LocationName": "Pak'nSave Wainoni Christchurch 12/01/2022",
+				"Address": "174 Wainoni Road, Avondale, Christchurch 8061",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T22:30:00.000Z",
+				"DateTo": "2022-01-12T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8099115,
+					-41.33467830000001
+				]
+			},
+			"properties": {
+				"id": 3707,
+				"LocationName": "Wellington Airport Domestic",
+				"Address": "1 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T04:00:00.000Z",
+				"DateTo": "2022-01-09T05:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.4686129,
+					-41.07358019999999
+				]
+			},
+			"properties": {
+				"id": 3708,
+				"LocationName": "The Big Apple Fruit Store Greytown",
+				"Address": "2434 Main Road North, Greytown 5794",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T23:57:00.000Z",
+				"DateTo": "2022-01-06T00:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6539795,
+					-43.5406809
+				]
+			},
+			"properties": {
+				"id": 3709,
+				"LocationName": "Savebarn Christchurch",
+				"Address": "1 Lancaster Street, Waltham, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T20:00:00.000Z",
+				"DateTo": "2022-01-10T04:30:00.000Z"
+			}
 		}
 	]
 }
