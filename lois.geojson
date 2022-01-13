@@ -65759,6 +65759,120 @@
 				"DateFrom": "2022-01-10T21:37:02.000Z",
 				"DateTo": "2022-01-10T21:50:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2573638,
+					-38.1603105
+				]
+			},
+			"properties": {
+				"id": 3697,
+				"LocationName": "Holiday Inn Rotorua",
+				"Address": "10 Tryon Street, Whakarewarewa, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T06:30:00.000Z",
+				"DateTo": "2022-01-07T21:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7641557,
+					-41.3049498
+				]
+			},
+			"properties": {
+				"id": 3698,
+				"LocationName": "Nanking Takeaways Brooklyn",
+				"Address": "50 Cleveland Street, Brooklyn, Wellington 6021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T04:45:00.000Z",
+				"DateTo": "2022-01-11T05:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1987039,
+					-41.0667503
+				]
+			},
+			"properties": {
+				"id": 3699,
+				"LocationName": "Kaitoke Regional Park Public Toilets Upper Hutt",
+				"Address": "Waterworks Road, Kaitoke, Upper Hutt 5372",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T11:00:00.000Z",
+				"DateTo": "2022-01-10T20:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.76663,
+					-36.8452655
+				]
+			},
+			"properties": {
+				"id": 3700,
+				"LocationName": "Roxy Bar Auckland",
+				"Address": "7 Fort Lane, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-05T09:00:00.000Z",
+				"DateTo": "2022-01-05T15:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7586292,
+					-36.8578745
+				]
+			},
+			"properties": {
+				"id": 3701,
+				"LocationName": "G.A.Y Night Club Auckland Central",
+				"Address": "262 Karangahape Road, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T12:45:00.000Z",
+				"DateTo": "2022-01-07T14:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1987039,
+					-41.0667503
+				]
+			},
+			"properties": {
+				"id": 3702,
+				"LocationName": "Kaitoke Regional Park Public Toilets Upper Hutt",
+				"Address": "Waterworks Road, Kaitoke, Upper Hutt 5372",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T11:00:00.000Z",
+				"DateTo": "2022-01-10T10:49:00.000Z"
+			}
 		}
 	]
 }
