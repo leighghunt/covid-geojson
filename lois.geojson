@@ -66652,6 +66652,139 @@
 				"DateFrom": "2022-01-11T22:30:00.000Z",
 				"DateTo": "2022-01-11T22:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9321469,
+					-37.049021
+				]
+			},
+			"properties": {
+				"id": 3744,
+				"LocationName": "The Warehouse Takanini",
+				"Address": "30 Walters Road, Takanini, Takanini 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T05:39:59.000Z",
+				"DateTo": "2022-01-12T06:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8493252,
+					-36.8887867
+				]
+			},
+			"properties": {
+				"id": 3745,
+				"LocationName": "Morrin Road Bakehouse St Johns",
+				"Address": "66A Morrin Road, Saint Johns, Auckland 1072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T18:10:57.000Z",
+				"DateTo": "2022-01-09T18:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8493252,
+					-36.8887867
+				]
+			},
+			"properties": {
+				"id": 3746,
+				"LocationName": "Morrin Road Bakehouse Saint Johns",
+				"Address": "66A Morrin Road, Saint Johns, Auckland 1072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T17:30:00.000Z",
+				"DateTo": "2022-01-13T18:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9148309,
+					-37.0395418
+				]
+			},
+			"properties": {
+				"id": 3747,
+				"LocationName": "Gateway Wholesale Meats Takanini",
+				"Address": "108 Great South Road, Takanini 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T02:42:04.000Z",
+				"DateTo": "2022-01-11T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7656573,
+					-36.8464732
+				]
+			},
+			"properties": {
+				"id": 3748,
+				"LocationName": "New World Metro Queen Street Auckland CBD",
+				"Address": "125 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T23:21:04.000Z",
+				"DateTo": "2022-01-13T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7656573,
+					-36.8464732
+				]
+			},
+			"properties": {
+				"id": 3749,
+				"LocationName": "New World Metro Queen Street Auckland CBD",
+				"Address": "125 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T23:11:26.000Z",
+				"DateTo": "2022-01-12T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9148348,
+					-37.0395903
+				]
+			},
+			"properties": {
+				"id": 3750,
+				"LocationName": "Shosha Takanini",
+				"Address": "108 Great South Road, Takanini Gateway, Takanini 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T05:03:12.000Z",
+				"DateTo": "2022-01-10T05:15:00.000Z"
+			}
 		}
 	]
 }
