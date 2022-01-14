@@ -66500,6 +66500,44 @@
 				"DateFrom": "2022-01-04T22:20:00.000Z",
 				"DateTo": "2022-01-04T22:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8073037,
+					-41.2260511
+				]
+			},
+			"properties": {
+				"id": 3736,
+				"LocationName": "Salvation Army Family Store Johnsonville",
+				"Address": "125 Johnsonville Road, Johnsonville, Wellington 6037",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-03T23:46:34.000Z",
+				"DateTo": "2022-01-04T00:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8403797,
+					-41.1303043
+				]
+			},
+			"properties": {
+				"id": 3737,
+				"LocationName": "Get Fixed Bicycle Café Porirua",
+				"Address": "10 Wi Neera Drive, Porirua City Centre, Porirua 5022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T01:50:20.000Z",
+				"DateTo": "2022-01-04T01:55:00.000Z"
+			}
 		}
 	]
 }
