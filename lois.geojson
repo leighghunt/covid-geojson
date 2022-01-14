@@ -66481,6 +66481,25 @@
 				"DateFrom": "2022-01-08T23:47:00.000Z",
 				"DateTo": "2022-01-09T00:02:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5199133,
+					-41.0324595
+				]
+			},
+			"properties": {
+				"id": 3735,
+				"LocationName": "Vape N Save Carterton",
+				"Address": "258 High Street South, Carterton, Carterton 5713",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T22:20:00.000Z",
+				"DateTo": "2022-01-04T22:30:00.000Z"
+			}
 		}
 	]
 }
