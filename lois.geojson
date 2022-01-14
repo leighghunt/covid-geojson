@@ -66538,6 +66538,63 @@
 				"DateFrom": "2022-01-04T01:50:20.000Z",
 				"DateTo": "2022-01-04T01:55:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1325623,
+					-37.7267667
+				]
+			},
+			"properties": {
+				"id": 3738,
+				"LocationName": "Renners Bar Greerton",
+				"Address": "1337 B Cameron Road, Greerton, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T08:30:00.000Z",
+				"DateTo": "2022-01-11T09:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.839553,
+					-41.13701500000001
+				]
+			},
+			"properties": {
+				"id": 3739,
+				"LocationName": "North City Shopping Centre Porirua",
+				"Address": "2 Titahi Bay Road, Porirua City Centre, Porirua 5022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T02:03:56.000Z",
+				"DateTo": "2022-01-04T02:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8186438,
+					-41.15820679999999
+				]
+			},
+			"properties": {
+				"id": 3740,
+				"LocationName": "Trash Palace Kenepuru",
+				"Address": "20 Broken Hill Road, Kenepuru, Porirua 5022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-04T01:13:03.000Z",
+				"DateTo": "2022-01-04T01:33:00.000Z"
+			}
 		}
 	]
 }
