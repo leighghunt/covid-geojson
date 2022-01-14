@@ -66595,6 +66595,63 @@
 				"DateFrom": "2022-01-04T01:13:03.000Z",
 				"DateTo": "2022-01-04T01:33:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1122244,
+					-37.6952832
+				]
+			},
+			"properties": {
+				"id": 3741,
+				"LocationName": "Palmers Bethlehem",
+				"Address": "210 State Highway 2, Bethlehem, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-07T19:30:00.000Z",
+				"DateTo": "2022-01-08T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1122244,
+					-37.6952832
+				]
+			},
+			"properties": {
+				"id": 3742,
+				"LocationName": "Palmers Bethlehem",
+				"Address": "210 State Highway 2, Bethlehem, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-06T19:30:00.000Z",
+				"DateTo": "2022-01-07T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.4701656,
+					-41.0706924
+				]
+			},
+			"properties": {
+				"id": 3743,
+				"LocationName": "Pine Haven Orchards Greytown",
+				"Address": "2471 State Highway 2, RD 1, Greytown 5794",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T22:30:00.000Z",
+				"DateTo": "2022-01-11T22:45:00.000Z"
+			}
 		}
 	]
 }
