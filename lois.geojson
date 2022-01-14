@@ -66785,6 +66785,101 @@
 				"DateFrom": "2022-01-10T05:03:12.000Z",
 				"DateTo": "2022-01-10T05:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2516633,
+					-38.140361
+				]
+			},
+			"properties": {
+				"id": 3751,
+				"LocationName": "Cotton On Rotorua Central",
+				"Address": "1170 Amohau Street, Rotorua, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T21:30:00.000Z",
+				"DateTo": "2022-01-12T21:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2537359,
+					-38.1399343
+				]
+			},
+			"properties": {
+				"id": 3752,
+				"LocationName": "McDonald’s Rotorua Central",
+				"Address": "Cnr Fenton & Amohau Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T21:20:00.000Z",
+				"DateTo": "2022-01-12T21:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3753,
+				"LocationName": "Rail Replacement Bus - Southern Line, Britomart to Takanini",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T03:50:00.000Z",
+				"DateTo": "2022-01-13T05:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2516633,
+					-38.140361
+				]
+			},
+			"properties": {
+				"id": 3754,
+				"LocationName": "Cotton On Rotorua Central",
+				"Address": "1170 Amohau Street, Rotorua, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T02:00:00.000Z",
+				"DateTo": "2022-01-12T02:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3755,
+				"LocationName": "Rail Replacement Bus - Eastern Line - Panmure to Britomart",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T18:15:00.000Z",
+				"DateTo": "2022-01-13T18:40:00.000Z"
+			}
 		}
 	]
 }
