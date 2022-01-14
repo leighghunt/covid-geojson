@@ -66880,6 +66880,25 @@
 				"DateFrom": "2022-01-13T18:15:00.000Z",
 				"DateTo": "2022-01-13T18:40:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1122244,
+					-37.6952832
+				]
+			},
+			"properties": {
+				"id": 3756,
+				"LocationName": "Palmers Bethlehem Tauranga",
+				"Address": "210 State Highway 2, Bethlehem, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T19:30:00.000Z",
+				"DateTo": "2022-01-08T23:30:00.000Z"
+			}
 		}
 	]
 }
