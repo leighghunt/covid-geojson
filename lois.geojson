@@ -67184,6 +67184,44 @@
 				"DateFrom": "2022-01-11T03:00:00.000Z",
 				"DateTo": "2022-01-11T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1835,
+					-37.6379172
+				]
+			},
+			"properties": {
+				"id": 3772,
+				"LocationName": "Hide Bar Ltd Mount Maunganui",
+				"Address": "147 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T07:55:26.000Z",
+				"DateTo": "2022-01-08T08:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1844612,
+					-37.6399404
+				]
+			},
+			"properties": {
+				"id": 3773,
+				"LocationName": "Madame Sunset Mount Maunganui",
+				"Address": "3/217 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T05:58:50.000Z",
+				"DateTo": "2022-01-08T06:30:00.000Z"
+			}
 		}
 	]
 }
