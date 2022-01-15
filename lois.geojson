@@ -67070,6 +67070,120 @@
 				"DateFrom": "2022-01-10T00:00:00.000Z",
 				"DateTo": "2022-01-10T00:20:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2506908,
+					-38.1366563
+				]
+			},
+			"properties": {
+				"id": 3766,
+				"LocationName": "Chicken Spot Cafe Rotorua",
+				"Address": "1189 Pukuatua Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T01:15:00.000Z",
+				"DateTo": "2022-01-12T01:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.176388,
+					-37.6321056
+				]
+			},
+			"properties": {
+				"id": 3767,
+				"LocationName": "Mount Hot Pools Mount Maunganui",
+				"Address": "9 Adams Avenue, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T07:30:53.000Z",
+				"DateTo": "2022-01-10T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2534002,
+					-38.1415371
+				]
+			},
+			"properties": {
+				"id": 3768,
+				"LocationName": "The Bottle O Rotorua",
+				"Address": "4/223 Fenton Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T03:30:00.000Z",
+				"DateTo": "2022-01-12T03:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2516356,
+					-38.1400403
+				]
+			},
+			"properties": {
+				"id": 3769,
+				"LocationName": "Cotton On Rotorua Central",
+				"Address": "17/1170 Amohau Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T00:45:00.000Z",
+				"DateTo": "2022-01-12T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6619833,
+					-45.0327444
+				]
+			},
+			"properties": {
+				"id": 3770,
+				"LocationName": "At Thai Restaurant Queenstown *Customers*",
+				"Address": "Level 3/8 Church Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T08:00:00.000Z",
+				"DateTo": "2022-01-10T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7372513,
+					-45.02206779999999
+				]
+			},
+			"properties": {
+				"id": 3771,
+				"LocationName": "Queenstown Airport",
+				"Address": "1 Sir Henry Wigley Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T03:00:00.000Z",
+				"DateTo": "2022-01-11T08:00:00.000Z"
+			}
 		}
 	]
 }
