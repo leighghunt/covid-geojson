@@ -67222,6 +67222,63 @@
 				"DateFrom": "2022-01-08T05:58:50.000Z",
 				"DateTo": "2022-01-08T06:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.833839,
+					-39.6118434
+				]
+			},
+			"properties": {
+				"id": 3774,
+				"LocationName": "Hawke's Bay Regional Sports Park Armoury Gym Hastings",
+				"Address": "42 Percival Road, Tomoana, Hastings 4120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T05:00:00.000Z",
+				"DateTo": "2022-01-12T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8073622,
+					-39.6165622
+				]
+			},
+			"properties": {
+				"id": 3775,
+				"LocationName": "Tu Step Fitness Class Ascende Global Church Hastings",
+				"Address": "1200 Omahu Road, RD 5, Hastings 4175",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T04:30:00.000Z",
+				"DateTo": "2022-01-11T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8073622,
+					-39.6165622
+				]
+			},
+			"properties": {
+				"id": 3776,
+				"LocationName": "Tu Step Fitness Class Ascende Global Church Hastings",
+				"Address": "1200 Omahu Road, RD 5, Hastings 4175",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T04:30:00.000Z",
+				"DateTo": "2022-01-13T06:00:00.000Z"
+			}
 		}
 	]
 }
