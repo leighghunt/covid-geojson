@@ -66899,6 +66899,120 @@
 				"DateFrom": "2022-01-08T19:30:00.000Z",
 				"DateTo": "2022-01-08T23:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1745995,
+					-37.6330934
+				]
+			},
+			"properties": {
+				"id": 3757,
+				"LocationName": "Beachside Holiday Park Mount Maunganui",
+				"Address": "1 Adams Avenue, Mount Maunganui, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T03:37:31.000Z",
+				"DateTo": "2022-01-08T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1822971,
+					-37.6361277
+				]
+			},
+			"properties": {
+				"id": 3758,
+				"LocationName": "Astrolabe Brew Bar Mount Maunganui",
+				"Address": "82 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T01:11:43.000Z",
+				"DateTo": "2022-01-08T02:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1773565,
+					-37.6317509
+				]
+			},
+			"properties": {
+				"id": 3759,
+				"LocationName": "Pronto Burgers and Cafe Mount Maunganui",
+				"Address": "1 Marine Parade, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T23:20:33.000Z",
+				"DateTo": "2022-01-10T00:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.178059,
+					-37.6320941
+				]
+			},
+			"properties": {
+				"id": 3760,
+				"LocationName": "Dixie Browns Mount Maunganui",
+				"Address": "4A/4F Marine Parade, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T05:48:43.000Z",
+				"DateTo": "2022-01-10T06:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1822971,
+					-37.6361277
+				]
+			},
+			"properties": {
+				"id": 3761,
+				"LocationName": "Astrolabe Brew Bar Mount Maunganui",
+				"Address": "82 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T01:01:08.000Z",
+				"DateTo": "2022-01-09T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1822971,
+					-37.6361277
+				]
+			},
+			"properties": {
+				"id": 3762,
+				"LocationName": "Astrolabe Brew Bar Mount Maunganui",
+				"Address": "82 Maunganui Road, Mount Maunganui 3116",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T08:19:48.000Z",
+				"DateTo": "2022-01-09T09:19:00.000Z"
+			}
 		}
 	]
 }
