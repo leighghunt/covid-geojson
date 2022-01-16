@@ -67298,6 +67298,101 @@
 				"DateFrom": "2022-01-08T20:00:00.000Z",
 				"DateTo": "2022-01-08T22:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6539795,
+					-43.5406809
+				]
+			},
+			"properties": {
+				"id": 3778,
+				"LocationName": "Savebarn Waltham",
+				"Address": "1 Lancaster Street, Waltham, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T20:00:00.000Z",
+				"DateTo": "2022-01-11T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8367408,
+					-39.6362631
+				]
+			},
+			"properties": {
+				"id": 3779,
+				"LocationName": "McDonalds Saint Leonards",
+				"Address": "626 Heretaunga Street West, Saint Leonards, Hastings 4120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T02:53:35.000Z",
+				"DateTo": "2022-01-14T03:53:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6539795,
+					-43.5406809
+				]
+			},
+			"properties": {
+				"id": 3780,
+				"LocationName": "Savebarn Waltham",
+				"Address": "1 Lancaster Street, Waltham, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T20:00:00.000Z",
+				"DateTo": "2022-01-10T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8440337,
+					-39.6368637
+				]
+			},
+			"properties": {
+				"id": 3781,
+				"LocationName": "Totara Health Hastings",
+				"Address": "403 Nelson Street North, Hastings 4122",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T00:00:00.000Z",
+				"DateTo": "2022-01-12T01:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8440337,
+					-39.6368637
+				]
+			},
+			"properties": {
+				"id": 3782,
+				"LocationName": "Totara Health Hastings",
+				"Address": "403 Nelson Street North, Hastings 4122",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T00:45:00.000Z",
+				"DateTo": "2022-01-14T01:45:00.000Z"
+			}
 		}
 	]
 }
