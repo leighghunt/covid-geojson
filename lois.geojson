@@ -67279,6 +67279,25 @@
 				"DateFrom": "2022-01-13T04:30:00.000Z",
 				"DateTo": "2022-01-13T06:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2540974,
+					-38.1374985
+				]
+			},
+			"properties": {
+				"id": 3777,
+				"LocationName": "Kai Caff Aye Rotorua",
+				"Address": "1240B Fenton Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T20:00:00.000Z",
+				"DateTo": "2022-01-08T22:00:00.000Z"
+			}
 		}
 	]
 }
