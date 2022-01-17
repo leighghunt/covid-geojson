@@ -67393,6 +67393,25 @@
 				"DateFrom": "2022-01-14T00:45:00.000Z",
 				"DateTo": "2022-01-14T01:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1512545,
+					-37.711083
+				]
+			},
+			"properties": {
+				"id": 3783,
+				"LocationName": "Worlds End Bar and Restaurant Fraser Cove",
+				"Address": "229 Fraser Street, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T02:45:00.000Z",
+				"DateTo": "2022-01-11T05:00:00.000Z"
+			}
 		}
 	]
 }
