@@ -67621,6 +67621,63 @@
 				"DateFrom": "2022-01-09T23:30:00.000Z",
 				"DateTo": "2022-01-10T00:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6714804,
+					-44.9870695
+				]
+			},
+			"properties": {
+				"id": 3795,
+				"LocationName": "Shotover Jet Queenstown",
+				"Address": "3 Arthurs Point Road, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T20:45:00.000Z",
+				"DateTo": "2022-01-10T22:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7309091,
+					-45.0227312
+				]
+			},
+			"properties": {
+				"id": 3796,
+				"LocationName": "Frankton Beach Playground",
+				"Address": "12 Allan Crescent, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T22:00:00.000Z",
+				"DateTo": "2022-01-11T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					170.9635342,
+					-42.7161605
+				]
+			},
+			"properties": {
+				"id": 3797,
+				"LocationName": "New World Hokitika",
+				"Address": "116 Revell Street, Hokitika 7810",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T06:30:00.000Z",
+				"DateTo": "2022-01-16T07:00:00.000Z"
+			}
 		}
 	]
 }
