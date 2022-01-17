@@ -67678,6 +67678,82 @@
 				"DateFrom": "2022-01-16T06:30:00.000Z",
 				"DateTo": "2022-01-16T07:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6774659,
+					-44.9844032
+				]
+			},
+			"properties": {
+				"id": 3798,
+				"LocationName": "Queenstown TOP 10 Holiday Park Arthurs Point",
+				"Address": "70 Arthurs Point Road, Arthurs Point, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-08T11:00:00.000Z",
+				"DateTo": "2022-01-09T10:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.738034,
+					-45.0262173
+				]
+			},
+			"properties": {
+				"id": 3799,
+				"LocationName": "Britz Campervan Hire Queenstown",
+				"Address": "50 Lucas Place, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T03:00:00.000Z",
+				"DateTo": "2022-01-11T03:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6774659,
+					-44.9844032
+				]
+			},
+			"properties": {
+				"id": 3800,
+				"LocationName": "Queenstown TOP 10 Holiday Park Arthurs Point",
+				"Address": "70 Arthurs Point Road, Arthurs Point, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T11:00:00.000Z",
+				"DateTo": "2022-01-10T10:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6774659,
+					-44.9844032
+				]
+			},
+			"properties": {
+				"id": 3801,
+				"LocationName": "Queenstown Top 10 Holiday Park Arthurs Point",
+				"Address": "70 Arthurs Point Road, Arthurs Point, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T11:00:00.000Z",
+				"DateTo": "2022-01-11T08:45:00.000Z"
+			}
 		}
 	]
 }
