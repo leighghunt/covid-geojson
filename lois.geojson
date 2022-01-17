@@ -67526,6 +67526,101 @@
 				"DateFrom": "2022-01-13T03:47:16.000Z",
 				"DateTo": "2022-01-13T04:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9494088,
+					-35.226602
+				]
+			},
+			"properties": {
+				"id": 3790,
+				"LocationName": "Tech Solutions LTD Kerikeri",
+				"Address": "8/94 Kerikeri Road, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T21:00:00.000Z",
+				"DateTo": "2022-01-13T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3207331,
+					-35.72552
+				]
+			},
+			"properties": {
+				"id": 3791,
+				"LocationName": "North Haven Hospice Shop Whangārei",
+				"Address": "Corner Robert and James Street, Whangārei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T01:09:38.000Z",
+				"DateTo": "2022-01-10T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3269606,
+					-37.78473650000001
+				]
+			},
+			"properties": {
+				"id": 3792,
+				"LocationName": "Marigold Cafe Te Puke",
+				"Address": "93 Jellicoe Street, Te Puke 3119",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T20:05:00.000Z",
+				"DateTo": "2022-01-13T09:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3275549,
+					-37.7841334
+				]
+			},
+			"properties": {
+				"id": 3793,
+				"LocationName": "The Daily Cafe Te Puke",
+				"Address": "3 Commerce Lane, Te Puke 3119",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T21:56:36.000Z",
+				"DateTo": "2022-01-12T22:57:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.233416,
+					-38.1320759
+				]
+			},
+			"properties": {
+				"id": 3794,
+				"LocationName": "Patrick's Pies Gold Star Bakery Mangakakahi",
+				"Address": "89 Old Taupo Road, Mangakakahi, Rotorua 3015",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T23:30:00.000Z",
+				"DateTo": "2022-01-10T00:00:00.000Z"
+			}
 		}
 	]
 }
