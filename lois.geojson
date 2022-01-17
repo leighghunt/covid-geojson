@@ -67412,6 +67412,120 @@
 				"DateFrom": "2022-01-11T02:45:00.000Z",
 				"DateTo": "2022-01-11T05:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3239347,
+					-35.7251758
+				]
+			},
+			"properties": {
+				"id": 3784,
+				"LocationName": "Pak'nSave Whangārei",
+				"Address": "104 Walton Street, Whangārei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T23:08:25.000Z",
+				"DateTo": "2022-01-09T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2591478,
+					-35.0993388
+				]
+			},
+			"properties": {
+				"id": 3785,
+				"LocationName": "PAK'nSAVE Kaitaia",
+				"Address": "111 North Road, Kaitaia 0410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-15T02:59:03.000Z",
+				"DateTo": "2022-01-15T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2591478,
+					-35.0993388
+				]
+			},
+			"properties": {
+				"id": 3786,
+				"LocationName": "PAK'nSAVE Kaitaia",
+				"Address": "111 North Road, Kaitaia, Kaitaia 0410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-09T06:50:34.000Z",
+				"DateTo": "2022-01-09T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3263069,
+					-37.7849856
+				]
+			},
+			"properties": {
+				"id": 3787,
+				"LocationName": "Salvation Army Family Store Te Puke",
+				"Address": "38 Jocelyn Street, Te Puke 3119",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T23:02:01.000Z",
+				"DateTo": "2022-01-12T23:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9192554,
+					-35.21056
+				]
+			},
+			"properties": {
+				"id": 3788,
+				"LocationName": "The Warehouse Waipapa",
+				"Address": "8 Klinac Lane, Waipapa 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T21:00:00.000Z",
+				"DateTo": "2022-01-11T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3274505,
+					-35.7311307
+				]
+			},
+			"properties": {
+				"id": 3789,
+				"LocationName": "Kmart Whangārei",
+				"Address": "4/18 Port Road, Whangarei, Whangarei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T03:47:16.000Z",
+				"DateTo": "2022-01-13T04:30:00.000Z"
+			}
 		}
 	]
 }
