@@ -67792,6 +67792,25 @@
 				"DateFrom": "2022-01-10T00:08:19.000Z",
 				"DateTo": "2022-01-10T01:08:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2370975,
+					-37.7500441
+				]
+			},
+			"properties": {
+				"id": 3804,
+				"LocationName": "HOYTS Cinema TE AWA Hamilton",
+				"Address": "Te Rapa Road & Wairere Drive, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-15T21:30:00.000Z",
+				"DateTo": "2022-01-16T00:30:00.000Z"
+			}
 		}
 	]
 }
