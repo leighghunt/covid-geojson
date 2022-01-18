@@ -67773,6 +67773,25 @@
 				"DateFrom": "2022-01-05T00:25:00.000Z",
 				"DateTo": "2022-01-05T00:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2486748,
+					-38.1386433
+				]
+			},
+			"properties": {
+				"id": 3803,
+				"LocationName": "Ruck 'n Maul Sports Bar and Grill Rotorua",
+				"Address": "1279 Amohia Street, City, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T00:08:19.000Z",
+				"DateTo": "2022-01-10T01:08:00.000Z"
+			}
 		}
 	]
 }
