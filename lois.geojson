@@ -67811,6 +67811,63 @@
 				"DateFrom": "2022-01-15T21:30:00.000Z",
 				"DateTo": "2022-01-16T00:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.709195,
+					-36.732776
+				]
+			},
+			"properties": {
+				"id": 3805,
+				"LocationName": "Nandos Albany",
+				"Address": "7 Mercari Way, Albany, Auckland 0632",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T21:00:00.000Z",
+				"DateTo": "2022-01-12T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.709195,
+					-36.732776
+				]
+			},
+			"properties": {
+				"id": 3806,
+				"LocationName": "Nandos Albany",
+				"Address": "7 Mercari Way, Albany, Auckland 0632",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-10T22:30:00.000Z",
+				"DateTo": "2022-01-11T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.709195,
+					-36.732776
+				]
+			},
+			"properties": {
+				"id": 3807,
+				"LocationName": "Nandos Albany",
+				"Address": "7 Mercari Way, Albany, Auckland 0632",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T23:30:00.000Z",
+				"DateTo": "2022-01-13T09:30:00.000Z"
+			}
 		}
 	]
 }
