@@ -68077,6 +68077,44 @@
 				"DateFrom": "2022-01-14T20:30:00.000Z",
 				"DateTo": "2022-01-15T05:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8999727,
+					-36.8810194
+				]
+			},
+			"properties": {
+				"id": 3819,
+				"LocationName": "Ara-Tai Cafe Half Moon Bay *Inside Seated Customers*",
+				"Address": "4/1 Ara Tai, Half Moon Bay, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T23:30:00.000Z",
+				"DateTo": "2022-01-18T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8999727,
+					-36.8810194
+				]
+			},
+			"properties": {
+				"id": 3820,
+				"LocationName": "Ara-Tai Cafe Half Moon Bay *Outside Seated Customers*",
+				"Address": "4/1 Ara Tai, Half Moon Bay, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T23:30:00.000Z",
+				"DateTo": "2022-01-18T01:00:00.000Z"
+			}
 		}
 	]
 }
