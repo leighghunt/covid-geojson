@@ -68058,6 +68058,25 @@
 				"DateFrom": "2022-01-15T06:00:00.000Z",
 				"DateTo": "2022-01-15T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7660322,
+					-36.8473462
+				]
+			},
+			"properties": {
+				"id": 3818,
+				"LocationName": "Noel Leeming Queen Street Auckland Central",
+				"Address": "126 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T20:30:00.000Z",
+				"DateTo": "2022-01-15T05:45:00.000Z"
+			}
 		}
 	]
 }
