@@ -68115,6 +68115,63 @@
 				"DateFrom": "2022-01-17T23:30:00.000Z",
 				"DateTo": "2022-01-18T01:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2521367,
+					-38.1297356
+				]
+			},
+			"properties": {
+				"id": 3822,
+				"LocationName": "Rotorua Lakefront Rotorua",
+				"Address": "1 Lakefront Drive, Ohinemutu, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T21:00:00.000Z",
+				"DateTo": "2022-01-15T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2521367,
+					-38.1297356
+				]
+			},
+			"properties": {
+				"id": 3823,
+				"LocationName": "Rotorua Lakefront Rotorua",
+				"Address": "1 Lakefront Drive, Ohinemutu, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T05:15:00.000Z",
+				"DateTo": "2022-01-13T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3984793,
+					-38.1982474
+				]
+			},
+			"properties": {
+				"id": 3824,
+				"LocationName": "Lake Tarawera Rotorua",
+				"Address": "Rotorua 3076",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T02:00:00.000Z",
+				"DateTo": "2022-01-13T05:00:00.000Z"
+			}
 		}
 	]
 }
