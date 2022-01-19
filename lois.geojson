@@ -68020,6 +68020,44 @@
 				"DateFrom": "2022-01-14T20:30:00.000Z",
 				"DateTo": "2022-01-15T05:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2517644,
+					-38.1334516
+				]
+			},
+			"properties": {
+				"id": 3816,
+				"LocationName": "Our House Rotorua",
+				"Address": "1111 Tutanekai Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T04:30:00.000Z",
+				"DateTo": "2022-01-17T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7477786,
+					-36.85725
+				]
+			},
+			"properties": {
+				"id": 3817,
+				"LocationName": "Longroom Nightclub Grey Lynn",
+				"Address": "114 Ponsonby Road, Grey Lynn, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-15T06:00:00.000Z",
+				"DateTo": "2022-01-15T08:00:00.000Z"
+			}
 		}
 	]
 }
