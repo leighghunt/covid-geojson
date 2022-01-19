@@ -67925,6 +67925,101 @@
 				"DateFrom": "2022-01-14T02:00:00.000Z",
 				"DateTo": "2022-01-14T05:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8999727,
+					-36.8810194
+				]
+			},
+			"properties": {
+				"id": 3811,
+				"LocationName": "Ara-Tai Cafe Half Moon Bay *Inside seated customers*",
+				"Address": "4/1 Ara Tai, Half Moon Bay, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T23:30:00.000Z",
+				"DateTo": "2022-01-18T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8999727,
+					-36.8810194
+				]
+			},
+			"properties": {
+				"id": 3812,
+				"LocationName": "Ara-Tai Cafe Half Moon Bay *Outside seated customers*",
+				"Address": "4/1 Ara Tai, Half Moon Bay, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T23:30:00.000Z",
+				"DateTo": "2022-01-18T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7693679,
+					-36.8452243
+				]
+			},
+			"properties": {
+				"id": 3813,
+				"LocationName": "AV Club Auckland CBD",
+				"Address": "38 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T05:00:00.000Z",
+				"DateTo": "2022-01-14T16:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7584773,
+					-36.8577903
+				]
+			},
+			"properties": {
+				"id": 3814,
+				"LocationName": "Family Bar and Club Auckland CBD",
+				"Address": "270 Karangahape Road, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-15T08:30:00.000Z",
+				"DateTo": "2022-01-15T11:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7660322,
+					-36.8473462
+				]
+			},
+			"properties": {
+				"id": 3815,
+				"LocationName": "Noel Leeming Queen Street Auckland",
+				"Address": "126 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T20:30:00.000Z",
+				"DateTo": "2022-01-15T05:45:00.000Z"
+			}
 		}
 	]
 }
