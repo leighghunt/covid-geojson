@@ -68476,6 +68476,44 @@
 				"DateFrom": "2022-01-18T21:40:00.000Z",
 				"DateTo": "2022-01-18T22:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8486402,
+					-39.6405944
+				]
+			},
+			"properties": {
+				"id": 3841,
+				"LocationName": "Jetts Hastings",
+				"Address": "203 Ellison Road, Hastings, Hastings 4122",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T18:48:53.000Z",
+				"DateTo": "2022-01-13T20:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6069842,
+					-40.354384
+				]
+			},
+			"properties": {
+				"id": 3842,
+				"LocationName": "Anza Motor Company Palmerston North",
+				"Address": "82 Taonui Street, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T23:00:00.000Z",
+				"DateTo": "2022-01-18T23:15:00.000Z"
+			}
 		}
 	]
 }
