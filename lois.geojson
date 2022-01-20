@@ -68685,6 +68685,44 @@
 				"DateFrom": "2022-01-14T19:27:00.000Z",
 				"DateTo": "2022-01-14T23:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.630297,
+					-36.86043009999999
+				]
+			},
+			"properties": {
+				"id": 3852,
+				"LocationName": "Gengis Khan Henderson",
+				"Address": "199B Lincoln Road, Henderson, Auckland 0610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T06:10:00.000Z",
+				"DateTo": "2022-01-17T08:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6234302,
+					-40.35020060000001
+				]
+			},
+			"properties": {
+				"id": 3853,
+				"LocationName": "New World Broadway Palmerston North",
+				"Address": "Corner Broadway Ave and Albert St, Papaioea, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T22:00:00.000Z",
+				"DateTo": "2022-01-17T23:30:00.000Z"
+			}
 		}
 	]
 }
