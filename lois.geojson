@@ -68647,6 +68647,44 @@
 				"DateFrom": "2022-01-18T21:10:00.000Z",
 				"DateTo": "2022-01-18T22:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.630297,
+					-36.86043009999999
+				]
+			},
+			"properties": {
+				"id": 3850,
+				"LocationName": "Gengis Khan Henderson",
+				"Address": "199B Lincoln Road, Henderson, Auckland 0610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T05:40:00.000Z",
+				"DateTo": "2022-01-17T08:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9362606,
+					-37.0739625
+				]
+			},
+			"properties": {
+				"id": 3851,
+				"LocationName": "Wild Child & Wild Families Kirks Bush Papakura",
+				"Address": "44 Beach Road, Pahurehure, Papakura 2113",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T19:27:00.000Z",
+				"DateTo": "2022-01-14T23:00:00.000Z"
+			}
 		}
 	]
 }
