@@ -68533,6 +68533,44 @@
 				"DateFrom": "2022-01-14T20:00:00.000Z",
 				"DateTo": "2022-01-15T03:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2503413,
+					-38.134574
+				]
+			},
+			"properties": {
+				"id": 3844,
+				"LocationName": "Rotorua Citizens Club Rotorua",
+				"Address": "1146 Rangiuru Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T20:00:00.000Z",
+				"DateTo": "2022-01-15T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6150378,
+					-40.3310362
+				]
+			},
+			"properties": {
+				"id": 3845,
+				"LocationName": "eSANZ Milson",
+				"Address": "73 Milson Line, Milson, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T01:15:00.000Z",
+				"DateTo": "2022-01-18T01:30:00.000Z"
+			}
 		}
 	]
 }
