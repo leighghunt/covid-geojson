@@ -68305,6 +68305,177 @@
 				"DateFrom": "2022-01-19T01:15:00.000Z",
 				"DateTo": "2022-01-19T01:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6302078,
+					-40.3305248
+				]
+			},
+			"properties": {
+				"id": 3832,
+				"LocationName": "Bunnings Warehouse Palmerston North",
+				"Address": "Corner Tremaine Avenue & Railway Road, Palmerston North, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T03:54:00.000Z",
+				"DateTo": "2022-01-17T04:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6093689,
+					-40.3396372
+				]
+			},
+			"properties": {
+				"id": 3833,
+				"LocationName": "Amare Safety Palmerston North",
+				"Address": "661 Tremaine Avenue, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T02:00:00.000Z",
+				"DateTo": "2022-01-17T02:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6069842,
+					-40.354384
+				]
+			},
+			"properties": {
+				"id": 3834,
+				"LocationName": "ANZA Motor Company Palmerston North",
+				"Address": "82 Taonui Street, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T02:15:00.000Z",
+				"DateTo": "2022-01-17T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8444845,
+					-39.6435035
+				]
+			},
+			"properties": {
+				"id": 3835,
+				"LocationName": "SAZIO Pasta Bar Hastings",
+				"Address": "215 Heretaunga Street East, Hastings, Hastings 4122",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-15T04:00:00.000Z",
+				"DateTo": "2022-01-15T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6096354,
+					-40.3401626
+				]
+			},
+			"properties": {
+				"id": 3836,
+				"LocationName": "Steelmasters Palmerston North",
+				"Address": "676 Tremaine Avenue, Papaioea, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T22:59:00.000Z",
+				"DateTo": "2022-01-18T23:04:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6147968,
+					-40.353763
+				]
+			},
+			"properties": {
+				"id": 3837,
+				"LocationName": "Manawatu Locksmith Palmerston North",
+				"Address": "50A Princess Street, Palmerston North, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T22:07:00.000Z",
+				"DateTo": "2022-01-18T22:12:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6093689,
+					-40.3396372
+				]
+			},
+			"properties": {
+				"id": 3838,
+				"LocationName": "Amare Safety Palmerston North",
+				"Address": "661 Tremaine Avenue, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T22:45:00.000Z",
+				"DateTo": "2022-01-18T22:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6302078,
+					-40.3305248
+				]
+			},
+			"properties": {
+				"id": 3839,
+				"LocationName": "Bunnings Warehouse Palmerston North",
+				"Address": "Corner Tremaine Avenue & Railway Road, Palmerston North, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T21:30:00.000Z",
+				"DateTo": "2022-01-17T21:48:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.644779,
+					-40.3430982
+				]
+			},
+			"properties": {
+				"id": 3840,
+				"LocationName": "Cafe 116 Terrace End",
+				"Address": "116 Napier Road, Terrace End, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T21:40:00.000Z",
+				"DateTo": "2022-01-18T22:00:00.000Z"
+			}
 		}
 	]
 }
