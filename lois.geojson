@@ -68723,6 +68723,25 @@
 				"DateFrom": "2022-01-17T22:00:00.000Z",
 				"DateTo": "2022-01-17T23:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7622875,
+					-36.8483629
+				]
+			},
+			"properties": {
+				"id": 3854,
+				"LocationName": "SkyCity Auckland Casino (Main Gaming Floor)",
+				"Address": "72 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T11:23:04.000Z",
+				"DateTo": "2022-01-17T13:23:00.000Z"
+			}
 		}
 	]
 }
