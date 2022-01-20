@@ -68571,6 +68571,82 @@
 				"DateFrom": "2022-01-18T01:15:00.000Z",
 				"DateTo": "2022-01-18T01:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2517431,
+					-38.1394212
+				]
+			},
+			"properties": {
+				"id": 3846,
+				"LocationName": "Kasper's Sports Bar (Gaming Room) Rotorua",
+				"Address": "1302 Tutanekai Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T06:30:00.000Z",
+				"DateTo": "2022-01-18T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2544081,
+					-38.160402
+				]
+			},
+			"properties": {
+				"id": 3847,
+				"LocationName": "Greenview Motel Rotorua",
+				"Address": "418 Fenton Street, Whakarewarewa, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T18:00:00.000Z",
+				"DateTo": "2022-01-15T21:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2530103,
+					-38.1381317
+				]
+			},
+			"properties": {
+				"id": 3848,
+				"LocationName": "Vault Bar Rotorua",
+				"Address": "1122 Hinemoa Street, Rotorua Central, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T04:40:00.000Z",
+				"DateTo": "2022-01-13T11:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.644779,
+					-40.3430982
+				]
+			},
+			"properties": {
+				"id": 3849,
+				"LocationName": "Cafe 116 Terrace End",
+				"Address": "116 Napier Road, Terrace End, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T21:10:00.000Z",
+				"DateTo": "2022-01-18T22:30:00.000Z"
+			}
 		}
 	]
 }
