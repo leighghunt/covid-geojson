@@ -68514,6 +68514,25 @@
 				"DateFrom": "2022-01-18T23:00:00.000Z",
 				"DateTo": "2022-01-18T23:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2503413,
+					-38.134574
+				]
+			},
+			"properties": {
+				"id": 3843,
+				"LocationName": "Rotorua Citizens Club Rotorua 15/01/22",
+				"Address": "1146 Rangiuru Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T20:00:00.000Z",
+				"DateTo": "2022-01-15T03:00:00.000Z"
+			}
 		}
 	]
 }
