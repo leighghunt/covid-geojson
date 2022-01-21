@@ -68799,6 +68799,25 @@
 				"DateFrom": "2022-01-12T23:54:00.000Z",
 				"DateTo": "2022-01-13T00:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6116931,
+					-40.3385361
+				]
+			},
+			"properties": {
+				"id": 3858,
+				"LocationName": "Anzor Fasteners Palmerston North",
+				"Address": "681 Tremaine Avenue, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T02:20:00.000Z",
+				"DateTo": "2022-01-17T02:29:00.000Z"
+			}
 		}
 	]
 }
