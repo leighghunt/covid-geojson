@@ -68818,6 +68818,63 @@
 				"DateFrom": "2022-01-17T02:20:00.000Z",
 				"DateTo": "2022-01-17T02:29:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2377669,
+					-38.1445987
+				]
+			},
+			"properties": {
+				"id": 3859,
+				"LocationName": "Route 11 [Bus #1278] McKee Ave Fenton Park to Arawa Street",
+				"Address": "Rotorua",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T23:54:00.000Z",
+				"DateTo": "2022-01-13T00:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2277371,
+					-38.1176137
+				]
+			},
+			"properties": {
+				"id": 3860,
+				"LocationName": "Rotorua Eye Clinic",
+				"Address": "71 Fairy Springs Road, Fairy Springs, Rotorua 3015",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-11T00:37:00.000Z",
+				"DateTo": "2022-01-11T01:27:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8814452,
+					-36.9920003
+				]
+			},
+			"properties": {
+				"id": 3861,
+				"LocationName": "Chemist Warehouse Westfield Manukau",
+				"Address": "5 Putney Way, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T07:40:26.000Z",
+				"DateTo": "2022-01-19T08:00:00.000Z"
+			}
 		}
 	]
 }
