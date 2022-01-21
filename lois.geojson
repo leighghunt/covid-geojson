@@ -68761,6 +68761,25 @@
 				"DateFrom": "2022-01-18T23:05:00.000Z",
 				"DateTo": "2022-01-18T23:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2377669,
+					-38.1445987
+				]
+			},
+			"properties": {
+				"id": 3856,
+				"LocationName": "Route 11 [Bus #1247] McKee Ave Fenton Park to Arawa Street Rotorua",
+				"Address": "Rotorua,",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-12T23:54:00.000Z",
+				"DateTo": "2022-01-13T00:10:00.000Z"
+			}
 		}
 	]
 }
