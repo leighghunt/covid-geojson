@@ -68875,6 +68875,25 @@
 				"DateFrom": "2022-01-19T07:40:26.000Z",
 				"DateTo": "2022-01-19T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.880734,
+					-36.9878442
+				]
+			},
+			"properties": {
+				"id": 3862,
+				"LocationName": "PAK'nSAVE Manukau",
+				"Address": "6 Cavendish Drive, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T06:58:23.000Z",
+				"DateTo": "2022-01-19T07:30:00.000Z"
+			}
 		}
 	]
 }
