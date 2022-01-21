@@ -68894,6 +68894,25 @@
 				"DateFrom": "2022-01-19T06:58:23.000Z",
 				"DateTo": "2022-01-19T07:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8878749,
+					-37.1447307
+				]
+			},
+			"properties": {
+				"id": 3863,
+				"LocationName": "Rise n Shine Café Paerata",
+				"Address": "16 Jonah Lomu Drive, Paerata, Pukekohe 2676",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-15T22:15:00.000Z",
+				"DateTo": "2022-01-16T00:00:00.000Z"
+			}
 		}
 	]
 }
