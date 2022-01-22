@@ -68989,6 +68989,25 @@
 				"DateFrom": "2022-01-18T07:45:00.000Z",
 				"DateTo": "2022-01-18T09:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0109026,
+					-41.1097239
+				]
+			},
+			"properties": {
+				"id": 3868,
+				"LocationName": "Countdown Motueka",
+				"Address": "108 High Street, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T03:51:00.000Z",
+				"DateTo": "2022-01-19T04:50:00.000Z"
+			}
 		}
 	]
 }
