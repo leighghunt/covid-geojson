@@ -69008,6 +69008,120 @@
 				"DateFrom": "2022-01-19T03:51:00.000Z",
 				"DateTo": "2022-01-19T04:50:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3869,
+				"LocationName": "Flight NZ5042 New Plymouth-Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T00:50:00.000Z",
+				"DateTo": "2022-01-20T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.88600149999999,
+					36.0989074
+				]
+			},
+			"properties": {
+				"id": 3870,
+				"LocationName": "Flight NZ5077 Auckland-Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T01:00:00.000Z",
+				"DateTo": "2022-01-19T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0094062,
+					-41.1238861
+				]
+			},
+			"properties": {
+				"id": 3871,
+				"LocationName": "Repco Motueka 19/01/2022",
+				"Address": "400 High Street, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T03:24:00.000Z",
+				"DateTo": "2022-01-19T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0794082,
+					-39.0571533
+				]
+			},
+			"properties": {
+				"id": 3872,
+				"LocationName": "Flight NZ5049 Auckland-New Plymouth",
+				"Address": "New Plymouth",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T06:50:00.000Z",
+				"DateTo": "2022-01-19T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0122184,
+					-41.114676
+				]
+			},
+			"properties": {
+				"id": 3873,
+				"LocationName": "New World Motueka",
+				"Address": "271 High Street, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T03:34:00.000Z",
+				"DateTo": "2022-01-20T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3874,
+				"LocationName": "Flight NZ5080 Nelson-Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T03:00:00.000Z",
+				"DateTo": "2022-01-19T04:30:00.000Z"
+			}
 		}
 	]
 }
