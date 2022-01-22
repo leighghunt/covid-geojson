@@ -69255,6 +69255,25 @@
 				"DateFrom": "2022-01-16T04:20:00.000Z",
 				"DateTo": "2022-01-16T05:50:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9045602,
+					-37.031225
+				]
+			},
+			"properties": {
+				"id": 3882,
+				"LocationName": "Kwality Mini Bazaar Takanini",
+				"Address": "305 Great South Road, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T05:00:00.000Z",
+				"DateTo": "2022-01-20T06:00:00.000Z"
+			}
 		}
 	]
 }
