@@ -69160,6 +69160,44 @@
 				"DateFrom": "2022-01-19T03:24:00.000Z",
 				"DateTo": "2022-01-19T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2227904,
+					-38.1174795
+				]
+			},
+			"properties": {
+				"id": 3877,
+				"LocationName": "Hospitality Selwyn Tavern 14 Kokako Street, Selwyn Heights, Rotorua 3015 - 21/01/22",
+				"Address": "14 Kokako Street, Selwyn Heights, Rotorua 3015",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T00:00:00.000Z",
+				"DateTo": "2022-01-21T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.232026,
+					-41.2959434
+				]
+			},
+			"properties": {
+				"id": 3878,
+				"LocationName": "Nelson Airport Nelson",
+				"Address": "1 Trent Drive, Nelson Airport, Nelson 7011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T05:50:00.000Z",
+				"DateTo": "2022-01-16T06:10:00.000Z"
+			}
 		}
 	]
 }
