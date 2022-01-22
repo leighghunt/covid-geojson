@@ -68951,6 +68951,44 @@
 				"DateFrom": "2022-01-18T04:45:00.000Z",
 				"DateTo": "2022-01-18T07:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0122184,
+					-41.114676
+				]
+			},
+			"properties": {
+				"id": 3866,
+				"LocationName": "New World Motueka",
+				"Address": "271 High Street, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T03:00:00.000Z",
+				"DateTo": "2022-01-18T03:31:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.912537,
+					-39.4923272
+				]
+			},
+			"properties": {
+				"id": 3867,
+				"LocationName": "KFC Napier",
+				"Address": "251 Dickens Street, Napier South, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T07:45:00.000Z",
+				"DateTo": "2022-01-18T09:15:00.000Z"
+			}
 		}
 	]
 }
