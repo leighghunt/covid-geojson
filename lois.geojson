@@ -69122,6 +69122,44 @@
 				"DateFrom": "2022-01-19T03:00:00.000Z",
 				"DateTo": "2022-01-19T04:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.4293575,
+					-36.82967
+				]
+			},
+			"properties": {
+				"id": 3875,
+				"LocationName": "Sand Dunz Cafe Muriwai",
+				"Address": "455 Motutara Road, RD 1, Muriwai 0881",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T02:00:00.000Z",
+				"DateTo": "2022-01-18T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0094062,
+					-41.1238861
+				]
+			},
+			"properties": {
+				"id": 3876,
+				"LocationName": "Repco Motueka",
+				"Address": "400 High Street, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T03:24:00.000Z",
+				"DateTo": "2022-01-19T04:00:00.000Z"
+			}
 		}
 	]
 }
