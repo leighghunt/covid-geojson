@@ -69198,6 +69198,44 @@
 				"DateFrom": "2022-01-16T05:50:00.000Z",
 				"DateTo": "2022-01-16T06:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2227904,
+					-38.1174795
+				]
+			},
+			"properties": {
+				"id": 3879,
+				"LocationName": "Selwyn Tavern Selwyn Heights",
+				"Address": "14 Kokako Street, Selwyn Heights, Rotorua 3015",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T00:00:00.000Z",
+				"DateTo": "2022-01-21T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7625967,
+					-36.8482518
+				]
+			},
+			"properties": {
+				"id": 3880,
+				"LocationName": "Sky Tower Auckland",
+				"Address": "Corner of Victoria Street West and Federal Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-15T21:00:00.000Z",
+				"DateTo": "2022-01-15T22:00:00.000Z"
+			}
 		}
 	]
 }
