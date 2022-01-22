@@ -69236,6 +69236,25 @@
 				"DateFrom": "2022-01-15T21:00:00.000Z",
 				"DateTo": "2022-01-15T22:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.88600149999999,
+					36.0989074
+				]
+			},
+			"properties": {
+				"id": 3881,
+				"LocationName": "Flight NZ5083 Auckland - Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T04:20:00.000Z",
+				"DateTo": "2022-01-16T05:50:00.000Z"
+			}
 		}
 	]
 }
