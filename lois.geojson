@@ -68514,6 +68514,253 @@
 				"DateFrom": "2022-01-18T23:00:00.000Z",
 				"DateTo": "2022-01-18T23:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2503413,
+					-38.134574
+				]
+			},
+			"properties": {
+				"id": 3843,
+				"LocationName": "Rotorua Citizens Club Rotorua 15/01/22",
+				"Address": "1146 Rangiuru Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T20:00:00.000Z",
+				"DateTo": "2022-01-15T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2503413,
+					-38.134574
+				]
+			},
+			"properties": {
+				"id": 3844,
+				"LocationName": "Rotorua Citizens Club Rotorua",
+				"Address": "1146 Rangiuru Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T20:00:00.000Z",
+				"DateTo": "2022-01-15T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6150378,
+					-40.3310362
+				]
+			},
+			"properties": {
+				"id": 3845,
+				"LocationName": "eSANZ Milson",
+				"Address": "73 Milson Line, Milson, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T01:15:00.000Z",
+				"DateTo": "2022-01-18T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2517431,
+					-38.1394212
+				]
+			},
+			"properties": {
+				"id": 3846,
+				"LocationName": "Kasper's Sports Bar (Gaming Room) Rotorua",
+				"Address": "1302 Tutanekai Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T06:30:00.000Z",
+				"DateTo": "2022-01-18T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2544081,
+					-38.160402
+				]
+			},
+			"properties": {
+				"id": 3847,
+				"LocationName": "Greenview Motel Rotorua",
+				"Address": "418 Fenton Street, Whakarewarewa, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T18:00:00.000Z",
+				"DateTo": "2022-01-15T21:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2530103,
+					-38.1381317
+				]
+			},
+			"properties": {
+				"id": 3848,
+				"LocationName": "Vault Bar Rotorua",
+				"Address": "1122 Hinemoa Street, Rotorua Central, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T04:40:00.000Z",
+				"DateTo": "2022-01-13T11:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.644779,
+					-40.3430982
+				]
+			},
+			"properties": {
+				"id": 3849,
+				"LocationName": "Cafe 116 Terrace End",
+				"Address": "116 Napier Road, Terrace End, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T21:10:00.000Z",
+				"DateTo": "2022-01-18T22:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.630297,
+					-36.86043009999999
+				]
+			},
+			"properties": {
+				"id": 3850,
+				"LocationName": "Gengis Khan Henderson",
+				"Address": "199B Lincoln Road, Henderson, Auckland 0610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T05:40:00.000Z",
+				"DateTo": "2022-01-17T08:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9362606,
+					-37.0739625
+				]
+			},
+			"properties": {
+				"id": 3851,
+				"LocationName": "Wild Child & Wild Families Kirks Bush Papakura",
+				"Address": "44 Beach Road, Pahurehure, Papakura 2113",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T19:27:00.000Z",
+				"DateTo": "2022-01-14T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.630297,
+					-36.86043009999999
+				]
+			},
+			"properties": {
+				"id": 3852,
+				"LocationName": "Gengis Khan Henderson",
+				"Address": "199B Lincoln Road, Henderson, Auckland 0610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T06:10:00.000Z",
+				"DateTo": "2022-01-17T08:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6234302,
+					-40.35020060000001
+				]
+			},
+			"properties": {
+				"id": 3853,
+				"LocationName": "New World Broadway Palmerston North",
+				"Address": "Corner Broadway Ave and Albert St, Papaioea, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T22:00:00.000Z",
+				"DateTo": "2022-01-17T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7622875,
+					-36.8483629
+				]
+			},
+			"properties": {
+				"id": 3854,
+				"LocationName": "SkyCity Auckland Casino (Main Gaming Floor)",
+				"Address": "72 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T11:23:04.000Z",
+				"DateTo": "2022-01-17T13:23:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6116931,
+					-40.3385361
+				]
+			},
+			"properties": {
+				"id": 3855,
+				"LocationName": "Anzor Fasteners Palmerston North",
+				"Address": "681 Tremaine Avenue, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T23:05:00.000Z",
+				"DateTo": "2022-01-18T23:15:00.000Z"
+			}
 		}
 	]
 }
