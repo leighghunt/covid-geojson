@@ -69369,6 +69369,25 @@
 				"DateFrom": "2022-01-16T03:15:00.000Z",
 				"DateTo": "2022-01-16T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1832297,
+					-38.1301877
+				]
+			},
+			"properties": {
+				"id": 3888,
+				"LocationName": "TWS Paradise Valley Speedway Rotorua",
+				"Address": "105 Paradise Valley Road, RD 2, Rotorua 3072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T06:30:00.000Z",
+				"DateTo": "2022-01-21T08:30:00.000Z"
+			}
 		}
 	]
 }
