@@ -69635,6 +69635,101 @@
 				"DateFrom": "2022-01-14T03:00:00.000Z",
 				"DateTo": "2022-01-14T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0124155,
+					-41.1099235
+				]
+			},
+			"properties": {
+				"id": 3902,
+				"LocationName": "Greenwood Health Motueka",
+				"Address": "20 Greenwood Street, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T22:40:00.000Z",
+				"DateTo": "2022-01-21T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3903,
+				"LocationName": "Shuttle Bus Transfer from Auckland Domestic Airport to Park & Ride",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T02:00:00.000Z",
+				"DateTo": "2022-01-20T02:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8326676,
+					-36.8485225
+				]
+			},
+			"properties": {
+				"id": 3904,
+				"LocationName": "Tarka Indian Eatery Mission Bay",
+				"Address": "97A Tamaki Drive, Mission Bay, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T03:00:00.000Z",
+				"DateTo": "2022-01-14T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3905,
+				"LocationName": "Bus 120 [Stop 5564] Don Buck Road to Constellation Station Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T17:30:00.000Z",
+				"DateTo": "2022-01-19T18:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3906,
+				"LocationName": "Shuttle Bus Transfer from Park & Ride to Auckland Domestic Airport",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T00:00:00.000Z",
+				"DateTo": "2022-01-19T00:10:00.000Z"
+			}
 		}
 	]
 }
