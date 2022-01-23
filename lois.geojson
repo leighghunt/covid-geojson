@@ -69274,6 +69274,44 @@
 				"DateFrom": "2022-01-20T05:00:00.000Z",
 				"DateTo": "2022-01-20T06:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9053948,
+					-36.97350309999999
+				]
+			},
+			"properties": {
+				"id": 3883,
+				"LocationName": "Summerset by the Park Flat Bush",
+				"Address": "7 Flat Bush School Road, Flat Bush, Auckland 2019",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T20:00:00.000Z",
+				"DateTo": "2022-01-21T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9053948,
+					-36.97350309999999
+				]
+			},
+			"properties": {
+				"id": 3884,
+				"LocationName": "Summerset by the Park Flat Bush",
+				"Address": "7 Flat Bush School Road, Flat Bush, Auckland 2019",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T20:00:00.000Z",
+				"DateTo": "2022-01-20T03:00:00.000Z"
+			}
 		}
 	]
 }
