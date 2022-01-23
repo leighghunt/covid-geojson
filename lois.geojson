@@ -69388,6 +69388,215 @@
 				"DateFrom": "2022-01-21T06:30:00.000Z",
 				"DateTo": "2022-01-21T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3889,
+				"LocationName": "Bus 20 Beaumont Street [Stop 1303] to Kingsland Ave [Stop 8210]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T05:00:00.000Z",
+				"DateTo": "2022-01-19T05:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3890,
+				"LocationName": "Bus 20 Beaumont Street [Stop 1303] to Kingsland Ave [Stop 8210]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T05:00:00.000Z",
+				"DateTo": "2022-01-18T05:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.6813368,
+					-36.9089354
+				]
+			},
+			"properties": {
+				"id": 3891,
+				"LocationName": "Private event Totara Event Centre New Lynn",
+				"Address": "Corner of Great North Road and Totara Avenue, New Lynn, Auckland 0600",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T23:30:00.000Z",
+				"DateTo": "2022-01-15T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3892,
+				"LocationName": "Bus 917 Glenfield Mall [Stop 3881] to Albany Mall [Stop 4260]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T21:05:00.000Z",
+				"DateTo": "2022-01-19T21:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3893,
+				"LocationName": "Bus 133 Henderson [Stop 5112] to City Centre",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T19:15:00.000Z",
+				"DateTo": "2022-01-16T19:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3894,
+				"LocationName": "Bus 20 Kingsland Ave [Stop 8213] to Beaumont Street [Stop 1304]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T20:00:00.000Z",
+				"DateTo": "2022-01-18T20:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7887053,
+					-37.006571
+				]
+			},
+			"properties": {
+				"id": 3895,
+				"LocationName": "Domestic Regional Departure Terminal Auckland Airport",
+				"Address": "1 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T02:45:00.000Z",
+				"DateTo": "2022-01-16T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3896,
+				"LocationName": "Bus 20 Kingsland Ave [Stop 8213] to Beaumont Street [Stop 1304]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T20:10:00.000Z",
+				"DateTo": "2022-01-17T20:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3897,
+				"LocationName": "Bus 917 Glenfield Mall [Stop 3881] to Albany Mall [Stop 4260]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T21:05:00.000Z",
+				"DateTo": "2022-01-18T21:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3898,
+				"LocationName": "Flight NZ5080 Nelson - Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T03:00:00.000Z",
+				"DateTo": "2022-01-19T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3899,
+				"LocationName": "Bus 195 New Lynn to Vulcan Lane City Centre [Stop 7049]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T19:45:00.000Z",
+				"DateTo": "2022-01-16T20:15:00.000Z"
+			}
 		}
 	]
 }
