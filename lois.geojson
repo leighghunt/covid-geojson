@@ -69597,6 +69597,44 @@
 				"DateFrom": "2022-01-16T19:45:00.000Z",
 				"DateTo": "2022-01-16T20:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0109026,
+					-41.1097239
+				]
+			},
+			"properties": {
+				"id": 3900,
+				"LocationName": "Countdown Motueka",
+				"Address": "108 High Street, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T06:00:00.000Z",
+				"DateTo": "2022-01-18T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8326676,
+					-36.8485225
+				]
+			},
+			"properties": {
+				"id": 3901,
+				"LocationName": "Tarka Indian Eatery, Mission Bay",
+				"Address": "97A Tamaki Drive, Mission Bay, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T03:00:00.000Z",
+				"DateTo": "2022-01-14T04:00:00.000Z"
+			}
 		}
 	]
 }
