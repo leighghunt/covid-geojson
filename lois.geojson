@@ -69730,6 +69730,25 @@
 				"DateFrom": "2022-01-19T00:00:00.000Z",
 				"DateTo": "2022-01-19T00:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8828291,
+					-36.9946546
+				]
+			},
+			"properties": {
+				"id": 3907,
+				"LocationName": "Rainbows End Manukau",
+				"Address": "2 Clist Crescent, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T00:00:00.000Z",
+				"DateTo": "2022-01-16T02:30:00.000Z"
+			}
 		}
 	]
 }
