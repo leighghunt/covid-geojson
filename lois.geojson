@@ -69901,6 +69901,44 @@
 				"DateFrom": "2022-01-16T02:35:00.000Z",
 				"DateTo": "2022-01-16T03:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8590328,
+					-36.9691218
+				]
+			},
+			"properties": {
+				"id": 3916,
+				"LocationName": "Shivani Restaurant Papatoetoe",
+				"Address": "23 Eric Baker Place, Papatoetoe, Auckland 2025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-15T23:00:00.000Z",
+				"DateTo": "2022-01-16T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8897076,
+					-37.2103608
+				]
+			},
+			"properties": {
+				"id": 3917,
+				"LocationName": "Private event Pukekohe Indian Hall",
+				"Address": "59 Ward Street, Pukekohe, Auckland 2120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T05:45:00.000Z",
+				"DateTo": "2022-01-16T09:45:00.000Z"
+			}
 		}
 	]
 }
