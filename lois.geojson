@@ -69749,6 +69749,63 @@
 				"DateFrom": "2022-01-16T00:00:00.000Z",
 				"DateTo": "2022-01-16T02:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7855964,
+					-36.8508951
+				]
+			},
+			"properties": {
+				"id": 3908,
+				"LocationName": "Auckland Rose Park Hotel Parnell",
+				"Address": "92-102 Gladstone Road, Parnell, Auckland 1052",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-15T03:30:00.000Z",
+				"DateTo": "2022-01-15T21:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7855964,
+					-36.8508951
+				]
+			},
+			"properties": {
+				"id": 3909,
+				"LocationName": "Auckland Rose Park Hotel Parnell",
+				"Address": "92-102 Gladstone Road, Parnell, Auckland 1052",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-13T11:00:00.000Z",
+				"DateTo": "2022-01-14T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7086681,
+					-36.7285422
+				]
+			},
+			"properties": {
+				"id": 3910,
+				"LocationName": "Event Cinemas, Westfield Albany",
+				"Address": "Westfield Albany219 Don McKinnon Drive, Albany, Auckland 0632",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T01:30:54.000Z",
+				"DateTo": "2022-01-21T04:10:00.000Z"
+			}
 		}
 	]
 }
