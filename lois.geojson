@@ -69996,6 +69996,44 @@
 				"DateFrom": "2022-01-20T06:50:09.000Z",
 				"DateTo": "2022-01-20T09:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2453208,
+					-37.7964019
+				]
+			},
+			"properties": {
+				"id": 3921,
+				"LocationName": "Countdown Dinsdale, Hamilton",
+				"Address": "47 Whatawhata Road, Dinsdale, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T23:45:00.000Z",
+				"DateTo": "2022-01-21T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2821061,
+					-37.7949887
+				]
+			},
+			"properties": {
+				"id": 3922,
+				"LocationName": "PAK'nSAVE Clarence Street Hamilton Lake",
+				"Address": "85 Clarence Street, Hamilton Lake, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T00:15:00.000Z",
+				"DateTo": "2022-01-20T01:15:00.000Z"
+			}
 		}
 	]
 }
