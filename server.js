@@ -247,7 +247,7 @@ let processLOIs =  (LOIs) => {
                              
     LOIs.forEach(async result =>  {
          // console.log(result)
-                         
+        if(result.address){                 
         // if(result.Address && result['Location name'] && result['What to do'] && result['Updated'] && result.Times){
           
           // moment(a.Day, "dddd D MMMM").format()
@@ -267,10 +267,10 @@ let processLOIs =  (LOIs) => {
             // DateTo: moment(result.Day + ' ' + result.Times.split('-')[1], "dddd D MMMM LT").format(),
 
           });
-        // } else {
-        //   console.log('Nope')
-        //   console.log(result)
-        // }
+        } else {
+          console.log('Nope')
+          console.log(result)
+        }
     })
 }
 
