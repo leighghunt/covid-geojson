@@ -70148,6 +70148,44 @@
 				"DateFrom": "2022-01-19T22:45:00.000Z",
 				"DateTo": "2022-01-20T00:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8099115,
+					-41.33467830000001
+				]
+			},
+			"properties": {
+				"id": 3929,
+				"LocationName": "Wellington Domestic Airport Rongotai",
+				"Address": "1 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T17:30:00.000Z",
+				"DateTo": "2022-01-23T20:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8099115,
+					-41.33467830000001
+				]
+			},
+			"properties": {
+				"id": 3930,
+				"LocationName": "Jetstar Check-In Wellington Domestic Airport",
+				"Address": "1 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T17:30:00.000Z",
+				"DateTo": "2022-01-23T20:40:00.000Z"
+			}
 		}
 	]
 }
