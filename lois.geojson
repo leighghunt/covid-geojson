@@ -70072,6 +70072,63 @@
 				"DateFrom": "2022-01-16T05:45:00.000Z",
 				"DateTo": "2022-01-16T09:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2591478,
+					-35.0993388
+				]
+			},
+			"properties": {
+				"id": 3925,
+				"LocationName": "PAK'nSAVE Kaitaia",
+				"Address": "111 North Road, Kaitaia 0410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T01:00:00.000Z",
+				"DateTo": "2022-01-21T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2603855,
+					-35.0980168
+				]
+			},
+			"properties": {
+				"id": 3926,
+				"LocationName": "Noel Leeming Kaitaia",
+				"Address": "2 North Park Drive, Kaitaia 0410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T00:00:00.000Z",
+				"DateTo": "2022-01-21T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2603855,
+					-35.0980168
+				]
+			},
+			"properties": {
+				"id": 3927,
+				"LocationName": "The Warehouse Kaitaia",
+				"Address": "2 North Park Drive, Kaitaia 0410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T23:00:00.000Z",
+				"DateTo": "2022-01-21T00:00:00.000Z"
+			}
 		}
 	]
 }
