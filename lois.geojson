@@ -70129,6 +70129,25 @@
 				"DateFrom": "2022-01-20T23:00:00.000Z",
 				"DateTo": "2022-01-21T00:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.278795,
+					-37.786932
+				]
+			},
+			"properties": {
+				"id": 3928,
+				"LocationName": "Warehouse Hamilton City",
+				"Address": "Cnr Ward Street, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T22:45:00.000Z",
+				"DateTo": "2022-01-20T00:15:00.000Z"
+			}
 		}
 	]
 }
