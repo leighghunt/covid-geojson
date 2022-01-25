@@ -70186,6 +70186,25 @@
 				"DateFrom": "2022-01-23T17:30:00.000Z",
 				"DateTo": "2022-01-23T20:40:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2563813,
+					-38.1544898
+				]
+			},
+			"properties": {
+				"id": 3931,
+				"LocationName": "Fenton Park Dairy",
+				"Address": "15 Gibson Street, Fenton Park, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T20:00:00.000Z",
+				"DateTo": "2022-01-25T02:30:00.000Z"
+			}
 		}
 	]
 }
