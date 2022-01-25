@@ -70034,6 +70034,44 @@
 				"DateFrom": "2022-01-20T00:15:00.000Z",
 				"DateTo": "2022-01-20T01:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0113171,
+					-41.1117345
+				]
+			},
+			"properties": {
+				"id": 3923,
+				"LocationName": "Life Pharmacy Motueka",
+				"Address": "179 High Street, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T00:40:00.000Z",
+				"DateTo": "2022-01-20T01:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8923417,
+					-37.2106386
+				]
+			},
+			"properties": {
+				"id": 3924,
+				"LocationName": "Private event Pukekohe Indian Community Centre",
+				"Address": "55 Ward Street, Pukekohe, Pukekohe 2120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T05:45:00.000Z",
+				"DateTo": "2022-01-16T09:45:00.000Z"
+			}
 		}
 	]
 }
