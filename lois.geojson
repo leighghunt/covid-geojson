@@ -70471,6 +70471,44 @@
 				"DateFrom": "2022-01-23T17:15:00.000Z",
 				"DateTo": "2022-01-23T18:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6537334,
+					-45.0340195
+				]
+			},
+			"properties": {
+				"id": 3946,
+				"LocationName": "Hotel St Moritz Queenstown",
+				"Address": "10-18 Brunswick Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T11:00:00.000Z",
+				"DateTo": "2022-01-21T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7372513,
+					-45.02206779999999
+				]
+			},
+			"properties": {
+				"id": 3947,
+				"LocationName": "Queenstown Airport",
+				"Address": "1 Sir Henry Wigley Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T01:15:00.000Z",
+				"DateTo": "2022-01-22T02:00:00.000Z"
+			}
 		}
 	]
 }
