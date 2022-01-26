@@ -70357,6 +70357,120 @@
 				"DateFrom": "2022-01-14T21:00:00.000Z",
 				"DateTo": "2022-01-15T05:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3940,
+				"LocationName": "Bus 25B Lynfield Youth & Leisure Centre Mount Roskill [Stop 8913]  to The Civic Auckland Central [Stop 7086]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T22:45:00.000Z",
+				"DateTo": "2022-01-19T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3941,
+				"LocationName": "Bus 25B The Civic [Stop 7086] to Lynfield Youth & Leisure Centre [Stop 8912]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T05:30:00.000Z",
+				"DateTo": "2022-01-20T06:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 3942,
+				"LocationName": "Bus 25L Balmoral Shops Mt Eden [Stop 8418] to Queen St [Stop 71319]",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T00:45:00.000Z",
+				"DateTo": "2022-01-16T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2532774,
+					-38.14274700000001
+				]
+			},
+			"properties": {
+				"id": 3943,
+				"LocationName": "Te Purū Café & Bar Jet Park Hotel Rotorua",
+				"Address": "237 Fenton Street, Victoria, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T18:45:00.000Z",
+				"DateTo": "2022-01-18T19:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8729098,
+					-36.98726850000001
+				]
+			},
+			"properties": {
+				"id": 3944,
+				"LocationName": "True Woman's Fitness & Wellbeing Papatoetoe",
+				"Address": "20 Lambie Drive, Papatoetoe, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T23:30:00.000Z",
+				"DateTo": "2022-01-23T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8729098,
+					-36.98726850000001
+				]
+			},
+			"properties": {
+				"id": 3945,
+				"LocationName": "True Woman's Fitness & Wellbeing Papatoetoe",
+				"Address": "20 Lambie Drive, Papatoetoe, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T17:15:00.000Z",
+				"DateTo": "2022-01-23T18:15:00.000Z"
+			}
 		}
 	]
 }
