@@ -70243,6 +70243,120 @@
 				"DateFrom": "2022-01-22T02:00:00.000Z",
 				"DateTo": "2022-01-22T02:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8344119,
+					-36.89108
+				]
+			},
+			"properties": {
+				"id": 3934,
+				"LocationName": "Mitre 10 MEGA Mt Wellington",
+				"Address": "72 Lunn Avenue, Mount Wellington, Auckland 1072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T19:20:00.000Z",
+				"DateTo": "2022-01-18T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8875099,
+					-36.9612856
+				]
+			},
+			"properties": {
+				"id": 3935,
+				"LocationName": "Ōtara Liquor Spot Ōtara",
+				"Address": "271 East Tamaki Road, Ōtara, Auckland 2023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T06:00:00.000Z",
+				"DateTo": "2022-01-24T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9256384,
+					-37.0736114
+				]
+			},
+			"properties": {
+				"id": 3936,
+				"LocationName": "McDonald's Karaka",
+				"Address": "47 Harbourside Drive, Karaka, Papakura 2113",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T02:30:00.000Z",
+				"DateTo": "2022-01-24T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8875099,
+					-36.9612856
+				]
+			},
+			"properties": {
+				"id": 3937,
+				"LocationName": "Ōtara Liquor Spot Ōtara",
+				"Address": "271 East Tamaki Road, Ōtara, Auckland 2023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T06:00:00.000Z",
+				"DateTo": "2022-01-23T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8344119,
+					-36.89108
+				]
+			},
+			"properties": {
+				"id": 3938,
+				"LocationName": "MITRE 10 Mega Mt Wellington",
+				"Address": "72 Lunn Avenue, Mount Wellington, Auckland 1072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T18:30:00.000Z",
+				"DateTo": "2022-01-18T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8344119,
+					-36.89108
+				]
+			},
+			"properties": {
+				"id": 3939,
+				"LocationName": "Mitre 10 MEGA Mt Wellington",
+				"Address": "72 Lunn Avenue, Mount Wellington, Auckland 1072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-14T21:00:00.000Z",
+				"DateTo": "2022-01-15T05:00:00.000Z"
+			}
 		}
 	]
 }
