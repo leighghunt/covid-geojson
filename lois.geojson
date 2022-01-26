@@ -70205,6 +70205,44 @@
 				"DateFrom": "2022-01-18T20:00:00.000Z",
 				"DateTo": "2022-01-25T02:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.88600149999999,
+					36.0989074
+				]
+			},
+			"properties": {
+				"id": 3932,
+				"LocationName": "Flight NZ5077 Auckland - Nelson",
+				"Address": "Nelson,",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T01:05:00.000Z",
+				"DateTo": "2022-01-16T02:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2958908,
+					-38.1337683
+				]
+			},
+			"properties": {
+				"id": 3933,
+				"LocationName": "Te Ngae Fish supply Ōwhata",
+				"Address": "520 Te Ngae Road, Owhata, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T02:00:00.000Z",
+				"DateTo": "2022-01-22T02:30:00.000Z"
+			}
 		}
 	]
 }
