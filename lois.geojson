@@ -70528,6 +70528,63 @@
 				"DateFrom": "2022-01-20T17:00:00.000Z",
 				"DateTo": "2022-01-22T20:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1606701,
+					-37.6957194
+				]
+			},
+			"properties": {
+				"id": 3949,
+				"LocationName": "KFC Tauranga",
+				"Address": "449 Cameron Road, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T04:00:00.000Z",
+				"DateTo": "2022-01-20T09:16:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8344119,
+					-36.89108
+				]
+			},
+			"properties": {
+				"id": 3950,
+				"LocationName": "MITRE 10 Mega, Mt Wellington 17/01/2022",
+				"Address": "72 Lunn Avenue, Mount Wellington, Auckland 1072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T21:00:00.000Z",
+				"DateTo": "2022-01-17T05:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2533917,
+					-37.7381349
+				]
+			},
+			"properties": {
+				"id": 3951,
+				"LocationName": "Pizza Hutt Flagstaff",
+				"Address": "Shop 7 1158 River Road, Flagstaff, Hamilton 3210",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T04:45:00.000Z",
+				"DateTo": "2022-01-23T10:15:00.000Z"
+			}
 		}
 	]
 }
