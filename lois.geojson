@@ -70756,6 +70756,158 @@
 				"DateFrom": "2022-01-23T01:30:00.000Z",
 				"DateTo": "2022-01-23T03:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5399694,
+					-43.4879482
+				]
+			},
+			"properties": {
+				"id": 3961,
+				"LocationName": "Christchurch Airport",
+				"Address": "30 Durey Road, Christchurch Airport, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T20:10:00.000Z",
+				"DateTo": "2022-01-23T20:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7445997,
+					-36.8964348
+				]
+			},
+			"properties": {
+				"id": 3962,
+				"LocationName": "Fresho Mount Roskill",
+				"Address": "926 Dominion Road, Mount Roskill, Auckland 1041",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T19:00:00.000Z",
+				"DateTo": "2022-01-21T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2841805,
+					-37.7906829
+				]
+			},
+			"properties": {
+				"id": 3963,
+				"LocationName": "Paasha Cafe & Mezze Bar Hamilton",
+				"Address": "7 Alexandra Street, Hamilton Central, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T08:00:00.000Z",
+				"DateTo": "2022-01-22T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7445997,
+					-36.8964348
+				]
+			},
+			"properties": {
+				"id": 3964,
+				"LocationName": "Fresho Mount Roskill",
+				"Address": "926 Dominion Road, Mount Roskill, Auckland 1041",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T23:00:00.000Z",
+				"DateTo": "2022-01-21T05:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9026693,
+					-37.1992046
+				]
+			},
+			"properties": {
+				"id": 3965,
+				"LocationName": "Countdown Pukekohe",
+				"Address": "Corner Tobin Street & Seddon Lane, Pukekohe, Auckland 2120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T03:00:00.000Z",
+				"DateTo": "2022-01-23T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7367534,
+					-36.7711839
+				]
+			},
+			"properties": {
+				"id": 3966,
+				"LocationName": "Westlake Girls Uniform Shop Wairau Valley",
+				"Address": "10/54 View Road, Wairau Valley, Auckland 0627",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T22:12:30.000Z",
+				"DateTo": "2022-01-21T23:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9438828,
+					-37.0625102
+				]
+			},
+			"properties": {
+				"id": 3967,
+				"LocationName": "Gurudwara Dukh Niwaran Sahib Papakura",
+				"Address": "7/46 Broadway, Papakura, Auckland 2110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T21:30:00.000Z",
+				"DateTo": "2022-01-22T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9256384,
+					-37.0736114
+				]
+			},
+			"properties": {
+				"id": 3968,
+				"LocationName": "McDonalds Karaka",
+				"Address": "47 Harbourside Drive, Karaka, Papakura 2113",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T02:30:00.000Z",
+				"DateTo": "2022-01-24T03:00:00.000Z"
+			}
 		}
 	]
 }
