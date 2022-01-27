@@ -70623,6 +70623,44 @@
 				"DateFrom": "2022-01-16T21:00:00.000Z",
 				"DateTo": "2022-01-17T05:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644354,
+					-36.8457685
+				]
+			},
+			"properties": {
+				"id": 3954,
+				"LocationName": "Chamate Restaurant Auckland Central",
+				"Address": "17 Swanson Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T01:38:35.000Z",
+				"DateTo": "2022-01-20T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1511274,
+					-37.712739
+				]
+			},
+			"properties": {
+				"id": 3955,
+				"LocationName": "CityFitness Fraser Cove",
+				"Address": "249 Fraser Street, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T21:00:00.000Z",
+				"DateTo": "2022-01-24T23:00:00.000Z"
+			}
 		}
 	]
 }
