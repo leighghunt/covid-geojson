@@ -70908,6 +70908,101 @@
 				"DateFrom": "2022-01-24T02:30:00.000Z",
 				"DateTo": "2022-01-24T03:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5399694,
+					-43.4879482
+				]
+			},
+			"properties": {
+				"id": 3969,
+				"LocationName": "Christchurch Airport",
+				"Address": "30 Durey Road, Harewood, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T04:00:00.000Z",
+				"DateTo": "2022-01-24T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7056091,
+					-36.7268089
+				]
+			},
+			"properties": {
+				"id": 3970,
+				"LocationName": "Foodcourt Westfield Albany",
+				"Address": "219 Don McKinnon Drive, Albany, Auckland 0632",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T22:00:00.000Z",
+				"DateTo": "2022-01-20T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2838099,
+					-37.7870935
+				]
+			},
+			"properties": {
+				"id": 3971,
+				"LocationName": "Bowl and Social SkyCity Hamilton",
+				"Address": "340 Victoria Street, Hamilton Central, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T06:40:59.000Z",
+				"DateTo": "2022-01-22T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7056091,
+					-36.7268089
+				]
+			},
+			"properties": {
+				"id": 3972,
+				"LocationName": "Foodcourt Westfield Albany",
+				"Address": "219 Don McKinnon Drive, Albany, Auckland 0632",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T22:00:00.000Z",
+				"DateTo": "2022-01-19T05:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.8535394,
+					-35.0202246
+				]
+			},
+			"properties": {
+				"id": 3973,
+				"LocationName": "Wainui Marae Kaeo",
+				"Address": "66A Wainui Valley Road, RD 1, Kaeo 0478",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T22:00:00.000Z",
+				"DateTo": "2022-01-23T02:00:00.000Z"
+			}
 		}
 	]
 }
