@@ -70585,6 +70585,44 @@
 				"DateFrom": "2022-01-23T04:45:00.000Z",
 				"DateTo": "2022-01-23T10:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8653849,
+					-36.9737498
+				]
+			},
+			"properties": {
+				"id": 3952,
+				"LocationName": "Private Event Manukau Indian Association Diversity Center",
+				"Address": "25 Tui Road, Papatoetoe, Auckland 2025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T06:00:00.000Z",
+				"DateTo": "2022-01-21T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8344119,
+					-36.89108
+				]
+			},
+			"properties": {
+				"id": 3953,
+				"LocationName": "MITRE 10 Mega Mt Wellington",
+				"Address": "72 Lunn Avenue, Mount Wellington, Auckland 1072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T21:00:00.000Z",
+				"DateTo": "2022-01-17T05:00:00.000Z"
+			}
 		}
 	]
 }
