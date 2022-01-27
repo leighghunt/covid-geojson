@@ -71022,6 +71022,101 @@
 				"DateFrom": "2022-01-22T03:45:00.000Z",
 				"DateTo": "2022-01-22T04:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7659354,
+					-36.8481175
+				]
+			},
+			"properties": {
+				"id": 3975,
+				"LocationName": "Sunglass Style Auckland Central",
+				"Address": "174 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T00:30:00.000Z",
+				"DateTo": "2022-01-23T00:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6583448,
+					-43.54043679999999
+				]
+			},
+			"properties": {
+				"id": 3976,
+				"LocationName": "Ferry Road Pharmacy Waltham",
+				"Address": "244 Ferry Road, Waltham, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T02:30:00.000Z",
+				"DateTo": "2022-01-24T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7841392,
+					-37.0031268
+				]
+			},
+			"properties": {
+				"id": 3977,
+				"LocationName": "Auckland Airport Domestic Terminal Māngere",
+				"Address": "Ray Emery Drive, Māngere, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T02:00:00.000Z",
+				"DateTo": "2022-01-24T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6583448,
+					-43.54043679999999
+				]
+			},
+			"properties": {
+				"id": 3979,
+				"LocationName": "Ferry Road Pharmacy Waltham",
+				"Address": "244 Ferry Road, Waltham, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T19:45:00.000Z",
+				"DateTo": "2022-01-26T19:55:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8620461,
+					-36.9705079
+				]
+			},
+			"properties": {
+				"id": 3980,
+				"LocationName": "ProHealth Pharmacy Papatoetoe",
+				"Address": "230 Great South Road, Papatoetoe, Auckland 2025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T22:29:44.000Z",
+				"DateTo": "2022-01-23T22:53:00.000Z"
+			}
 		}
 	]
 }
