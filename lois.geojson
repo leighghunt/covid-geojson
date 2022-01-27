@@ -71117,6 +71117,63 @@
 				"DateFrom": "2022-01-23T22:29:44.000Z",
 				"DateTo": "2022-01-23T22:53:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8809364,
+					-36.9894883
+				]
+			},
+			"properties": {
+				"id": 3981,
+				"LocationName": "Krispy Kreme Drive Thru Manukau",
+				"Address": "3 Ronwood Avenue, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T01:30:00.000Z",
+				"DateTo": "2022-01-23T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7666575,
+					-36.8454264
+				]
+			},
+			"properties": {
+				"id": 3982,
+				"LocationName": "Gucci Auckland Central",
+				"Address": "48 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T00:44:31.000Z",
+				"DateTo": "2022-01-23T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7557322,
+					-36.8670329
+				]
+			},
+			"properties": {
+				"id": 3983,
+				"LocationName": "Private event Mahatma Gandhi Centre Eden Terrace",
+				"Address": "145 New North Road, Eden Terrace, Auckland 1021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T03:00:00.000Z",
+				"DateTo": "2022-01-22T10:00:00.000Z"
+			}
 		}
 	]
 }
