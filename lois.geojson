@@ -70661,6 +70661,101 @@
 				"DateFrom": "2022-01-24T21:00:00.000Z",
 				"DateTo": "2022-01-24T23:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1511274,
+					-37.712739
+				]
+			},
+			"properties": {
+				"id": 3956,
+				"LocationName": "CityFitness Fraser Cove",
+				"Address": "249 Fraser Street, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T21:00:00.000Z",
+				"DateTo": "2022-01-23T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9026693,
+					-37.1992046
+				]
+			},
+			"properties": {
+				"id": 3957,
+				"LocationName": "Countdown Pukekohe",
+				"Address": "Corner Tobin Street and Seddon Lane, Pukekohe, Auckland 2120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T03:00:00.000Z",
+				"DateTo": "2022-01-24T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8714373,
+					-36.99164
+				]
+			},
+			"properties": {
+				"id": 3958,
+				"LocationName": "Rebel Sports Manukau Supa Centre",
+				"Address": "Manukau Supa Centa Cnr Cavendish &, Lambie Drive, Manukau city centre, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T03:30:00.000Z",
+				"DateTo": "2022-01-24T03:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9026693,
+					-37.1992046
+				]
+			},
+			"properties": {
+				"id": 3959,
+				"LocationName": "Countdown Pukekohe 23/01/2022",
+				"Address": "Corner Tobin & Seddon Lane, Pukekohe, Auckland 2120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T03:00:00.000Z",
+				"DateTo": "2022-01-23T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7362386,
+					-36.8914472
+				]
+			},
+			"properties": {
+				"id": 3960,
+				"LocationName": "Satya Chai Lounge Sandringham",
+				"Address": "515 Sandringham Road, Sandringham, Auckland 1025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T01:30:00.000Z",
+				"DateTo": "2022-01-23T03:00:00.000Z"
+			}
 		}
 	]
 }
