@@ -71972,6 +71972,25 @@
 				"DateFrom": "2022-01-23T06:00:00.000Z",
 				"DateTo": "2022-01-23T10:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.672242,
+					-37.3818275
+				]
+			},
+			"properties": {
+				"id": 4026,
+				"LocationName": "One3One Restaurant Cafe & Bar Paeroa",
+				"Address": "131 Normanby Road, Paeroa 3600",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T05:16:13.000Z",
+				"DateTo": "2022-01-24T07:00:00.000Z"
+			}
 		}
 	]
 }
