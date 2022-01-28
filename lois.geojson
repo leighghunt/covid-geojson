@@ -71839,6 +71839,139 @@
 				"DateFrom": "2022-01-22T01:15:00.000Z",
 				"DateTo": "2022-01-22T02:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5399694,
+					-43.4879482
+				]
+			},
+			"properties": {
+				"id": 4019,
+				"LocationName": "Christchurch Airport Harewood",
+				"Address": "30 Durey Road, Christchurch Airport, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T03:30:00.000Z",
+				"DateTo": "2022-01-26T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2278563,
+					-37.6849548
+				]
+			},
+			"properties": {
+				"id": 4020,
+				"LocationName": "Polo in the Bay Mount Maunganui *GENERAL ADMISSION AREA POLO LOUNGE BAR PATRONS*",
+				"Address": "81 Truman Lane, RD 5, Tauranga 3175",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T01:00:00.000Z",
+				"DateTo": "2022-01-22T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8726811,
+					-36.9930116
+				]
+			},
+			"properties": {
+				"id": 4021,
+				"LocationName": "Kmart Manukau",
+				"Address": "55 Lambie Drive, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T06:50:49.000Z",
+				"DateTo": "2022-01-24T08:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0077399,
+					-36.781887
+				]
+			},
+			"properties": {
+				"id": 4022,
+				"LocationName": "Island Gelato Company Waiheke Island",
+				"Address": "106 Ocean View Road, Oneroa, Waiheke Island 1081",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T18:20:00.000Z",
+				"DateTo": "2022-01-24T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0077399,
+					-36.781887
+				]
+			},
+			"properties": {
+				"id": 4023,
+				"LocationName": "Island Gelato Company Waiheke Island",
+				"Address": "106 Ocean View Road, Oneroa, Waiheke Island 1081",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T21:30:00.000Z",
+				"DateTo": "2022-01-25T22:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4024,
+				"LocationName": "Flight NZ5771 Napier - Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T17:25:00.000Z",
+				"DateTo": "2022-01-23T19:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3070177,
+					-37.8026584
+				]
+			},
+			"properties": {
+				"id": 4025,
+				"LocationName": "Private Event Hamilton Gardens Pavilion Hamilton",
+				"Address": "18 Hungerford Crescent, Hamilton East, Hamilton 3216",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T06:00:00.000Z",
+				"DateTo": "2022-01-23T10:00:00.000Z"
+			}
 		}
 	]
 }
