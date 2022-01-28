@@ -71725,6 +71725,120 @@
 				"DateFrom": "2022-01-23T23:16:53.000Z",
 				"DateTo": "2022-01-23T23:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9285209,
+					-37.049198
+				]
+			},
+			"properties": {
+				"id": 4013,
+				"LocationName": "South Gate Hair and Beauty Takanini",
+				"Address": "230 Great South Road, Takanini, Auckland 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T22:00:00.000Z",
+				"DateTo": "2022-01-25T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3070177,
+					-37.8026584
+				]
+			},
+			"properties": {
+				"id": 4014,
+				"LocationName": "Hamilton Gardens Pavilion",
+				"Address": "18 Hungerford Crescent, Hamilton East, Hamilton 3216",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T06:00:00.000Z",
+				"DateTo": "2022-01-23T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2841905,
+					-37.7882116
+				]
+			},
+			"properties": {
+				"id": 4015,
+				"LocationName": "Mexico Hamilton Central",
+				"Address": "254 Victoria Street, Hamilton Central, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T00:00:00.000Z",
+				"DateTo": "2022-01-22T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8599694,
+					-36.972888
+				]
+			},
+			"properties": {
+				"id": 4016,
+				"LocationName": "Papatoetoe Centennial Pool and Leisure Centre",
+				"Address": "17 Sutton Crescent, Papatoetoe, Papakura 2110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T21:00:00.000Z",
+				"DateTo": "2022-01-23T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2278563,
+					-37.6849548
+				]
+			},
+			"properties": {
+				"id": 4017,
+				"LocationName": "Polo in the Bay Mount Maunganui *GENERAL ADDMISSION AREA POLO LOUNGE BAR PATRONS*",
+				"Address": "81 Truman Lane, RD 5, Tauranga 3175",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T01:00:00.000Z",
+				"DateTo": "2022-01-22T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.253897,
+					-38.1396998
+				]
+			},
+			"properties": {
+				"id": 4018,
+				"LocationName": "McDonald's Rotorua",
+				"Address": "1315 Fenton Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T01:15:00.000Z",
+				"DateTo": "2022-01-22T02:30:00.000Z"
+			}
 		}
 	]
 }
