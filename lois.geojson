@@ -71630,6 +71630,101 @@
 				"DateFrom": "2022-01-25T23:00:00.000Z",
 				"DateTo": "2022-01-25T23:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.246835,
+					-37.7561497
+				]
+			},
+			"properties": {
+				"id": 4008,
+				"LocationName": "Private Event Gurudwara Mata Sahib Kaur Ji Temple Te Rapa",
+				"Address": "23 Bryant Road, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T00:00:00.000Z",
+				"DateTo": "2022-01-22T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3150449,
+					-35.7286072
+				]
+			},
+			"properties": {
+				"id": 4009,
+				"LocationName": "The Fruit and Vege Warehouse Whangarei",
+				"Address": "28 Maunu Road, Avenues, Whangarei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T03:54:44.000Z",
+				"DateTo": "2022-01-26T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2278563,
+					-37.6849548
+				]
+			},
+			"properties": {
+				"id": 4010,
+				"LocationName": "Polo in the Bay Mount Maunganui *GOOD GEORGE GIN CARAVAN*",
+				"Address": "81 Truman Lane, RD 5, Tauranga 3175",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T01:00:00.000Z",
+				"DateTo": "2022-01-22T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2278563,
+					-37.6849548
+				]
+			},
+			"properties": {
+				"id": 4011,
+				"LocationName": "Polo in the Bay Mount Maunganui *GENERAL ADDMISSION AREA POLO LOUNGE BAR PATRONS*",
+				"Address": "81 Truman Lane, RD 5, Tauranga 3175",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T23:57:26.000Z",
+				"DateTo": "2022-01-22T05:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3203074,
+					-35.7254376
+				]
+			},
+			"properties": {
+				"id": 4012,
+				"LocationName": "Michael Hill Jewellers Whangarei",
+				"Address": "41 Cameron Street, Whangarei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T23:16:53.000Z",
+				"DateTo": "2022-01-23T23:30:00.000Z"
+			}
 		}
 	]
 }
