@@ -71991,6 +71991,101 @@
 				"DateFrom": "2022-01-24T05:16:13.000Z",
 				"DateTo": "2022-01-24T07:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1085345,
+					-37.6948032
+				]
+			},
+			"properties": {
+				"id": 4027,
+				"LocationName": "Chemist Warehouse Bethlehem",
+				"Address": "19 Bethlehem Road, Bethlehem, Tauranga 3110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T22:03:10.000Z",
+				"DateTo": "2022-01-23T22:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2516633,
+					-38.140361
+				]
+			},
+			"properties": {
+				"id": 4028,
+				"LocationName": "Unichem The Mall Pharmacy Rotorua Central",
+				"Address": "1170 Amohau Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T21:36:35.000Z",
+				"DateTo": "2022-01-21T22:06:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9920333,
+					-36.7804506
+				]
+			},
+			"properties": {
+				"id": 4029,
+				"LocationName": "Fullers Waiheke Island Ferry Waiheke Island Auckland",
+				"Address": "1 Ocean View Road, Oneroa, Waiheke Island 1081",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T23:00:00.000Z",
+				"DateTo": "2022-01-24T23:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9403548,
+					-37.0581912
+				]
+			},
+			"properties": {
+				"id": 4030,
+				"LocationName": "Indian Bar & Eatery Papakura",
+				"Address": "84 Great South Road, Papakura, Auckland 2110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T07:30:00.000Z",
+				"DateTo": "2022-01-23T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7661176,
+					-36.7720008
+				]
+			},
+			"properties": {
+				"id": 4031,
+				"LocationName": "Sushi Tomi Milford",
+				"Address": "24 Milford Road, Milford, Auckland 0620",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T01:18:59.000Z",
+				"DateTo": "2022-01-20T02:18:00.000Z"
+			}
 		}
 	]
 }
