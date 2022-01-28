@@ -71516,6 +71516,120 @@
 				"DateFrom": "2022-01-21T06:30:00.000Z",
 				"DateTo": "2022-01-21T09:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7887053,
+					-37.006571
+				]
+			},
+			"properties": {
+				"id": 4002,
+				"LocationName": "Auckland Airport Regional Arrivals Terminal, Auckland",
+				"Address": "1 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T06:30:00.000Z",
+				"DateTo": "2022-01-18T06:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6007455,
+					-40.3560294
+				]
+			},
+			"properties": {
+				"id": 4003,
+				"LocationName": "Arena Summer Soccer Central Energy Trust Arena Palmerston North",
+				"Address": "61 Pascal Street, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T05:30:00.000Z",
+				"DateTo": "2022-01-26T06:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6007455,
+					-40.3560294
+				]
+			},
+			"properties": {
+				"id": 4004,
+				"LocationName": "Arena Summer Soccer Central Energy Trust Arena Palmerston North",
+				"Address": "61 Pascal Street, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T06:20:00.000Z",
+				"DateTo": "2022-01-25T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.792069,
+					-37.006303
+				]
+			},
+			"properties": {
+				"id": 4005,
+				"LocationName": "AirGo Convenience Auckland Domestic Airport",
+				"Address": "2 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T04:00:00.000Z",
+				"DateTo": "2022-01-22T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3308865,
+					-35.7312689
+				]
+			},
+			"properties": {
+				"id": 4006,
+				"LocationName": "The Warehouse Whangarei",
+				"Address": "42 Port Road, Whangarei, Whangarei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T00:42:24.000Z",
+				"DateTo": "2022-01-24T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8367408,
+					-39.6362631
+				]
+			},
+			"properties": {
+				"id": 4007,
+				"LocationName": "McDonald's Hastings",
+				"Address": "626 Heretaunga Street West, Saint Leonards, Hastings 4120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T23:00:00.000Z",
+				"DateTo": "2022-01-25T23:30:00.000Z"
+			}
 		}
 	]
 }
