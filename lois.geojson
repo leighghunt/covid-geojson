@@ -71402,6 +71402,120 @@
 				"DateFrom": "2022-01-25T00:35:00.000Z",
 				"DateTo": "2022-01-25T00:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2517999,
+					-38.1352904
+				]
+			},
+			"properties": {
+				"id": 3996,
+				"LocationName": "Rotorua District Court Rotorua",
+				"Address": "1162 Tutanekai Street, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T21:30:00.000Z",
+				"DateTo": "2022-01-20T03:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0114204,
+					-41.1098208
+				]
+			},
+			"properties": {
+				"id": 3997,
+				"LocationName": "Reddy’s Minimart Motueka",
+				"Address": "113 High Street, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T00:00:00.000Z",
+				"DateTo": "2022-01-25T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8475229,
+					-39.64473390000001
+				]
+			},
+			"properties": {
+				"id": 3998,
+				"LocationName": "New World Hastings",
+				"Address": "400 Heretaunga Street East, Hastings, Hastings 4122",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T07:50:57.000Z",
+				"DateTo": "2022-01-23T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.871862,
+					-39.4687236
+				]
+			},
+			"properties": {
+				"id": 3999,
+				"LocationName": "Hawkes Bay Airport",
+				"Address": "111 Main North Road, Westshore, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T16:30:00.000Z",
+				"DateTo": "2022-01-23T17:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.6130385,
+					-36.8665911
+				]
+			},
+			"properties": {
+				"id": 4000,
+				"LocationName": "Private Event Shri Ram Temple *LEVEL 2*",
+				"Address": "11 Brick Street, Henderson, Auckland 0610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T06:30:00.000Z",
+				"DateTo": "2022-01-21T09:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.6130385,
+					-36.8665911
+				]
+			},
+			"properties": {
+				"id": 4001,
+				"LocationName": "Shri Ram Temple *LEVELS 1 & 3*",
+				"Address": "11 Brick Street, Henderson, Auckland 0610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T06:30:00.000Z",
+				"DateTo": "2022-01-21T09:30:00.000Z"
+			}
 		}
 	]
 }
