@@ -72086,6 +72086,120 @@
 				"DateFrom": "2022-01-20T01:18:59.000Z",
 				"DateTo": "2022-01-20T02:18:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.232026,
+					-41.2959434
+				]
+			},
+			"properties": {
+				"id": 4032,
+				"LocationName": "Nelson Airport Nelson",
+				"Address": "1 Trent Drive, Nelson Airport, Nelson 7011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T04:00:00.000Z",
+				"DateTo": "2022-01-18T04:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7668787,
+					-36.8429958
+				]
+			},
+			"properties": {
+				"id": 4033,
+				"LocationName": "Fullers Waiheke Island Ferry Downtown Ferry Terminal Auckland",
+				"Address": "99 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T00:10:00.000Z",
+				"DateTo": "2022-01-23T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.232026,
+					-41.2959434
+				]
+			},
+			"properties": {
+				"id": 4034,
+				"LocationName": "Nelson Airport Nelson",
+				"Address": "1 Trent Drive, Nelson Airport, Nelson 7011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T08:30:00.000Z",
+				"DateTo": "2022-01-23T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2451763,
+					-37.7569614
+				]
+			},
+			"properties": {
+				"id": 4035,
+				"LocationName": "Private Event New Zealand Sikh Society Temple Te Rapa",
+				"Address": "6391 Te Rapa Road, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T00:00:00.000Z",
+				"DateTo": "2022-01-22T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.6329924,
+					-36.8565951
+				]
+			},
+			"properties": {
+				"id": 4036,
+				"LocationName": "Learning Network NZ Henderson",
+				"Address": "214 Universal Drive, Henderson, Auckland 0610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T19:45:00.000Z",
+				"DateTo": "2022-01-27T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2581884,
+					-37.7207823
+				]
+			},
+			"properties": {
+				"id": 4037,
+				"LocationName": "Alfie’s Cafe Rototuna",
+				"Address": "1 North City Road, Rototuna North, Hamilton 3210",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T23:39:34.000Z",
+				"DateTo": "2022-01-20T00:09:00.000Z"
+			}
 		}
 	]
 }
