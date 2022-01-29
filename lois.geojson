@@ -73226,6 +73226,158 @@
 				"DateFrom": "2022-01-26T20:54:22.000Z",
 				"DateTo": "2022-01-26T21:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1353481,
+					-37.7274055
+				]
+			},
+			"properties": {
+				"id": 4092,
+				"LocationName": "Indo Spice World Tauranga",
+				"Address": "145 Chadwick Road, Greerton, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T02:38:13.000Z",
+				"DateTo": "2022-01-25T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0836861,
+					-39.0574461
+				]
+			},
+			"properties": {
+				"id": 4093,
+				"LocationName": "Burger Fuel New Plymouth Takeaway Customers",
+				"Address": "66 Eliot Street, New Plymouth 4310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T01:00:00.000Z",
+				"DateTo": "2022-01-25T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8645706,
+					-41.1409526
+				]
+			},
+			"properties": {
+				"id": 4094,
+				"LocationName": "Z Mungavin Avenue Service Station Porirua",
+				"Address": "5 Mungavin Avenue, Porirua, Wellington 5024",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T21:30:00.000Z",
+				"DateTo": "2022-01-23T21:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.9157861,
+					-37.5600697
+				]
+			},
+			"properties": {
+				"id": 4095,
+				"LocationName": "Countdown Katikati",
+				"Address": "131 Main Road, Katikati, Katikati 3129",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T03:00:00.000Z",
+				"DateTo": "2022-01-25T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8833379,
+					-41.2187078
+				]
+			},
+			"properties": {
+				"id": 4096,
+				"LocationName": "Gilmours Wellington",
+				"Address": "33 Bouverie Street, Petone, Lower Hutt 5012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T03:27:42.000Z",
+				"DateTo": "2022-01-21T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0836861,
+					-39.0574461
+				]
+			},
+			"properties": {
+				"id": 4097,
+				"LocationName": "Burger Fuel New Plymouth Indoor Seating",
+				"Address": "66 Eliot Street, New Plymouth 4310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T01:00:00.000Z",
+				"DateTo": "2022-01-25T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8099115,
+					-41.33467830000001
+				]
+			},
+			"properties": {
+				"id": 4098,
+				"LocationName": "Peloton Bar And Eatery Rongotai",
+				"Address": "1 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T08:00:00.000Z",
+				"DateTo": "2022-01-19T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3157475,
+					-38.1085239
+				]
+			},
+			"properties": {
+				"id": 4099,
+				"LocationName": "Rotorua Regional Airport",
+				"Address": "837 Te Ngae Road, RD 4, Rotorua 3074",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T17:24:49.000Z",
+				"DateTo": "2022-01-16T17:45:00.000Z"
+			}
 		}
 	]
 }
