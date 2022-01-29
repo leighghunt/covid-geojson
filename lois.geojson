@@ -72219,6 +72219,63 @@
 				"DateFrom": "2022-01-22T20:30:00.000Z",
 				"DateTo": "2022-01-23T02:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2451763,
+					-37.7569614
+				]
+			},
+			"properties": {
+				"id": 4039,
+				"LocationName": "Private Event New Zealand Sikh Society Temple Te Rapa",
+				"Address": "6391 Te Rapa Road, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T21:00:00.000Z",
+				"DateTo": "2022-01-22T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7887053,
+					-37.006571
+				]
+			},
+			"properties": {
+				"id": 4040,
+				"LocationName": "Auckland Domestic Airport Māngere",
+				"Address": "1 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T03:45:00.000Z",
+				"DateTo": "2022-01-23T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.792069,
+					-37.006303
+				]
+			},
+			"properties": {
+				"id": 4041,
+				"LocationName": "AirGo Convenience Auckland Domestic Airport",
+				"Address": "2 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T03:45:00.000Z",
+				"DateTo": "2022-01-23T07:00:00.000Z"
+			}
 		}
 	]
 }
