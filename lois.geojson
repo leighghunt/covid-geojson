@@ -72276,6 +72276,367 @@
 				"DateFrom": "2022-01-23T03:45:00.000Z",
 				"DateTo": "2022-01-23T07:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8117272,
+					-41.3297448
+				]
+			},
+			"properties": {
+				"id": 4042,
+				"LocationName": "Rydges Wellington Airport Rongotai",
+				"Address": "28 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T18:15:00.000Z",
+				"DateTo": "2022-01-19T18:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7743928,
+					-41.2846518
+				]
+			},
+			"properties": {
+				"id": 4043,
+				"LocationName": "Whitby's Restaurant and Bar James Cook Hotel Grand Chancellor Wellington Central",
+				"Address": "147 The Terrace, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T05:30:59.000Z",
+				"DateTo": "2022-01-18T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7766575,
+					-41.2894997
+				]
+			},
+			"properties": {
+				"id": 4044,
+				"LocationName": "West Plaza Hotel Te Aro",
+				"Address": "110 Wakefield Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T05:39:43.000Z",
+				"DateTo": "2022-01-26T06:09:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7964823,
+					-41.3183505
+				]
+			},
+			"properties": {
+				"id": 4045,
+				"LocationName": "Pak N Save Kilbirnie",
+				"Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T23:03:52.000Z",
+				"DateTo": "2022-01-23T23:23:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9025059,
+					-37.037274
+				]
+			},
+			"properties": {
+				"id": 4046,
+				"LocationName": "Shiv Mandir Temple Manurewa",
+				"Address": "43 Holmes Road, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T21:58:08.000Z",
+				"DateTo": "2022-01-25T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7887053,
+					-37.006571
+				]
+			},
+			"properties": {
+				"id": 4047,
+				"LocationName": "Auckland Airport Regional Lounge Auckland Domestic Airport Māngere",
+				"Address": "1 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T03:45:00.000Z",
+				"DateTo": "2022-01-23T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7743928,
+					-41.2846518
+				]
+			},
+			"properties": {
+				"id": 4048,
+				"LocationName": "James Cook Hotel Grand Chancellor Wellington Central",
+				"Address": "147 The Terrace, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T18:15:00.000Z",
+				"DateTo": "2022-01-18T18:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8117272,
+					-41.3297448
+				]
+			},
+			"properties": {
+				"id": 4049,
+				"LocationName": "Rydges Wellington Airport Rongotai",
+				"Address": "28 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T07:34:26.000Z",
+				"DateTo": "2022-01-19T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7743928,
+					-41.2846518
+				]
+			},
+			"properties": {
+				"id": 4050,
+				"LocationName": "James Cook Hotel Grand Chancellor Wellington Central",
+				"Address": "147 The Terrace, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T18:15:00.000Z",
+				"DateTo": "2022-01-17T18:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5399694,
+					-43.4879482
+				]
+			},
+			"properties": {
+				"id": 4051,
+				"LocationName": "Christchurch Airport",
+				"Address": "30 Durey Road, Christchurch Airport, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T19:00:00.000Z",
+				"DateTo": "2022-01-23T20:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7766575,
+					-41.2894997
+				]
+			},
+			"properties": {
+				"id": 4052,
+				"LocationName": "West Plaza Hotel Te Aro",
+				"Address": "110 Wakefield Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T17:45:00.000Z",
+				"DateTo": "2022-01-26T18:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7743928,
+					-41.2846518
+				]
+			},
+			"properties": {
+				"id": 4053,
+				"LocationName": "James Cook Hotel Grand Chancellor Wellington Central",
+				"Address": "147 The Terrace, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T05:02:30.000Z",
+				"DateTo": "2022-01-17T05:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7743928,
+					-41.2846518
+				]
+			},
+			"properties": {
+				"id": 4054,
+				"LocationName": "James Cook Hotel Grand Chancellor Wellington Central",
+				"Address": "147 The Terrace, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T05:17:13.000Z",
+				"DateTo": "2022-01-18T05:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9025059,
+					-37.037274
+				]
+			},
+			"properties": {
+				"id": 4055,
+				"LocationName": "Shiv Mandir Temple Manurewa",
+				"Address": "43 Holmes Road, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T05:43:46.000Z",
+				"DateTo": "2022-01-24T06:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7743928,
+					-41.2846518
+				]
+			},
+			"properties": {
+				"id": 4056,
+				"LocationName": "Whitby's Restaurant and Bar James Cook Hotel Grand Chancellor Wellington Central",
+				"Address": "147 The Terrace, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-17T05:42:54.000Z",
+				"DateTo": "2022-01-17T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9025059,
+					-37.037274
+				]
+			},
+			"properties": {
+				"id": 4057,
+				"LocationName": "Shiv Mandir Temple Manurewa",
+				"Address": "43 Holmes Road, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T22:05:47.000Z",
+				"DateTo": "2022-01-24T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					171.2372756,
+					-44.3903881
+				]
+			},
+			"properties": {
+				"id": 4058,
+				"LocationName": "Flight NZ8193 Wellington - Timaru",
+				"Address": "TImaru",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T20:00:00.000Z",
+				"DateTo": "2022-01-27T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9515202,
+					-35.2267169
+				]
+			},
+			"properties": {
+				"id": 4059,
+				"LocationName": "New World Kerikeri",
+				"Address": "99 Kerikeri Road, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T23:00:00.000Z",
+				"DateTo": "2022-01-26T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.871862,
+					-39.4687236
+				]
+			},
+			"properties": {
+				"id": 4060,
+				"LocationName": "Bay Espresso Café and Bar Hawkes Bay Airport",
+				"Address": "111 Main North Road, Westshore, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T20:00:00.000Z",
+				"DateTo": "2022-01-24T20:30:00.000Z"
+			}
 		}
 	]
 }
