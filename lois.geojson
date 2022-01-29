@@ -72200,6 +72200,25 @@
 				"DateFrom": "2022-01-19T23:39:34.000Z",
 				"DateTo": "2022-01-20T00:09:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2971494,
+					-38.1378789
+				]
+			},
+			"properties": {
+				"id": 4038,
+				"LocationName": "Mokoia Community Swabbing Centre at Mokoia Intermediate Owhata",
+				"Address": "29 Brent Road, Owhata, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T20:30:00.000Z",
+				"DateTo": "2022-01-23T02:30:00.000Z"
+			}
 		}
 	]
 }
