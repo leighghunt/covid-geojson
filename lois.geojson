@@ -72637,6 +72637,291 @@
 				"DateFrom": "2022-01-24T20:00:00.000Z",
 				"DateTo": "2022-01-24T20:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.88600149999999,
+					36.0989074
+				]
+			},
+			"properties": {
+				"id": 4061,
+				"LocationName": "Flight NZ8087 Auckland - Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T07:10:00.000Z",
+				"DateTo": "2022-01-23T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4062,
+				"LocationName": "Flight NZ5084 Nelson - Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-18T04:50:00.000Z",
+				"DateTo": "2022-01-18T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.88600149999999,
+					36.0989074
+				]
+			},
+			"properties": {
+				"id": 4063,
+				"LocationName": "Flight NZ8848 Christchurch - Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T01:30:00.000Z",
+				"DateTo": "2022-01-26T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7802475,
+					-41.3144556
+				]
+			},
+			"properties": {
+				"id": 4064,
+				"LocationName": "New World Newtown",
+				"Address": "195 Riddiford Street, Newtown, Wellington 6021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T22:45:00.000Z",
+				"DateTo": "2022-01-23T00:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2805983,
+					-37.7518394
+				]
+			},
+			"properties": {
+				"id": 4065,
+				"LocationName": "McDonalds Chartwell",
+				"Address": "183 Hukanui Road, Chartwell, Hamilton 3210",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T00:05:00.000Z",
+				"DateTo": "2022-01-24T00:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7582024,
+					-36.84842039999999
+				]
+			},
+			"properties": {
+				"id": 4066,
+				"LocationName": "Les Mills Auckland City",
+				"Address": "186 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T16:00:00.000Z",
+				"DateTo": "2022-01-25T00:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2947526,
+					-38.1338836
+				]
+			},
+			"properties": {
+				"id": 4067,
+				"LocationName": "Four Square Te Ngae",
+				"Address": "10/500 Te Ngae Road, Owhata, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-16T02:22:54.000Z",
+				"DateTo": "2022-01-16T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9920333,
+					-36.7804506
+				]
+			},
+			"properties": {
+				"id": 4068,
+				"LocationName": "Fullers Ferry Service Waiheke Terminal to Devonport Terminal Oneroa",
+				"Address": "1 Ocean View Road, Oneroa, Waiheke Island 1081",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T23:00:00.000Z",
+				"DateTo": "2022-01-24T23:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7668787,
+					-36.8429958
+				]
+			},
+			"properties": {
+				"id": 4069,
+				"LocationName": "Fullers Ferry Service Devonport Terminal to Waiheke Terminal Auckland",
+				"Address": "99 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T00:10:00.000Z",
+				"DateTo": "2022-01-23T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7582024,
+					-36.84842039999999
+				]
+			},
+			"properties": {
+				"id": 4070,
+				"LocationName": "Les Mills Auckland City",
+				"Address": "186 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T16:00:00.000Z",
+				"DateTo": "2022-01-25T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7582024,
+					-36.84842039999999
+				]
+			},
+			"properties": {
+				"id": 4071,
+				"LocationName": "Les Mills Auckland City",
+				"Address": "186 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T16:00:00.000Z",
+				"DateTo": "2022-01-26T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7582024,
+					-36.84842039999999
+				]
+			},
+			"properties": {
+				"id": 4072,
+				"LocationName": "Les Mills Auckland City",
+				"Address": "186 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T16:00:00.000Z",
+				"DateTo": "2022-01-23T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4073,
+				"LocationName": "Flight JQ287 Wellington - Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T19:20:00.000Z",
+				"DateTo": "2022-01-23T20:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4074,
+				"LocationName": "Flight NZ8302 Nelson - Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T18:30:00.000Z",
+				"DateTo": "2022-01-27T19:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4075,
+				"LocationName": "Flight JQ259 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T21:30:00.000Z",
+				"DateTo": "2022-01-22T22:35:00.000Z"
+			}
 		}
 	]
 }
