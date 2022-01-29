@@ -73131,6 +73131,101 @@
 				"DateFrom": "2022-01-23T03:45:00.000Z",
 				"DateTo": "2022-01-23T04:35:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9475298,
+					-35.2287507
+				]
+			},
+			"properties": {
+				"id": 4087,
+				"LocationName": "Burger Fiasko Kerikeri",
+				"Address": "60 Kerikeri Road, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T02:30:00.000Z",
+				"DateTo": "2022-01-27T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8654664,
+					-41.14122769999999
+				]
+			},
+			"properties": {
+				"id": 4088,
+				"LocationName": "SuperValue Cannons Creek Porirua",
+				"Address": "16 Warspite Avenue, Cannons Creek, Porirua 5024",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T22:05:00.000Z",
+				"DateTo": "2022-01-23T22:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7740044,
+					-41.2980625
+				]
+			},
+			"properties": {
+				"id": 4089,
+				"LocationName": "Preservatorium Cafe Te Aro",
+				"Address": "39 Webb Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T18:37:43.000Z",
+				"DateTo": "2022-01-24T19:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9044638,
+					-41.2095956
+				]
+			},
+			"properties": {
+				"id": 4090,
+				"LocationName": "Synergy Hair Queensgate Lower Hutt",
+				"Address": "Cnr Queens Drive and Bunny Street, Hutt Central, Lower Hutt 5010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T03:00:59.000Z",
+				"DateTo": "2022-01-23T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3157475,
+					-38.1085239
+				]
+			},
+			"properties": {
+				"id": 4091,
+				"LocationName": "Rotorua Regional Airport Rotorua",
+				"Address": "837 Te Ngae Road, RD 4, Rotorua 3074",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T20:54:22.000Z",
+				"DateTo": "2022-01-26T21:00:00.000Z"
+			}
 		}
 	]
 }
