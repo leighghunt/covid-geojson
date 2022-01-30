@@ -73739,6 +73739,101 @@
 				"DateFrom": "2022-01-28T05:00:00.000Z",
 				"DateTo": "2022-01-28T05:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4122,
+				"LocationName": "InterCity Bus Trip Napier to Wellington Bus Service No.IC6367",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T00:50:00.000Z",
+				"DateTo": "2022-01-28T06:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.0707052,
+					-38.6896964
+				]
+			},
+			"properties": {
+				"id": 4123,
+				"LocationName": "Dixie Browns Taupō",
+				"Address": "38 Roberts Street, Taupō, Taupō 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T20:20:44.000Z",
+				"DateTo": "2022-01-26T21:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8177987,
+					-36.8480188
+				]
+			},
+			"properties": {
+				"id": 4124,
+				"LocationName": "SEA LIFE Kelly Tarltons Cafe Orakei",
+				"Address": "23 Tamaki Drive, Orakei, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T22:45:00.000Z",
+				"DateTo": "2022-01-24T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8117272,
+					-41.3297448
+				]
+			},
+			"properties": {
+				"id": 4125,
+				"LocationName": "Wellington Domestic Airport Rongotai",
+				"Address": "28 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T18:09:01.000Z",
+				"DateTo": "2022-01-26T19:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.840742,
+					-36.944521
+				]
+			},
+			"properties": {
+				"id": 4126,
+				"LocationName": "Ōtāhuhu Pool and Leisure Centre Ōtāhuhu",
+				"Address": "30 Mason Avenue, Ōtāhuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-29T02:30:00.000Z",
+				"DateTo": "2022-01-29T04:30:00.000Z"
+			}
 		}
 	]
 }
