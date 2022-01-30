@@ -73378,6 +73378,63 @@
 				"DateFrom": "2022-01-16T17:24:49.000Z",
 				"DateTo": "2022-01-16T17:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4100,
+				"LocationName": "InterCity Bus Trip Napier to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T00:50:00.000Z",
+				"DateTo": "2022-01-28T06:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2413118,
+					-38.1360571
+				]
+			},
+			"properties": {
+				"id": 4101,
+				"LocationName": "Rotorua Badminton Club - Group That Played 6pm-8pm",
+				"Address": "24 Tarewa Place, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T05:00:00.000Z",
+				"DateTo": "2022-01-21T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2413118,
+					-38.1360571
+				]
+			},
+			"properties": {
+				"id": 4104,
+				"LocationName": "Rotorua Badminton Club - Group That Played 7pm-9pm",
+				"Address": "24 Tarewa Place, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T06:00:00.000Z",
+				"DateTo": "2022-01-21T08:00:00.000Z"
+			}
 		}
 	]
 }
