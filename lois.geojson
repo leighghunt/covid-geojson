@@ -73435,6 +73435,44 @@
 				"DateFrom": "2022-01-21T06:00:00.000Z",
 				"DateTo": "2022-01-21T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.9188396,
+					-39.4906944
+				]
+			},
+			"properties": {
+				"id": 4105,
+				"LocationName": "Rasoi Indian Restaurant Napier",
+				"Address": "125 Marine Parade, Napier South, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T07:00:00.000Z",
+				"DateTo": "2022-01-23T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8099115,
+					-41.33467830000001
+				]
+			},
+			"properties": {
+				"id": 4106,
+				"LocationName": "Peloton Bar And Eatery Wellington Airport Rongotai",
+				"Address": "1 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-19T08:00:00.000Z",
+				"DateTo": "2022-01-19T08:30:00.000Z"
+			}
 		}
 	]
 }
