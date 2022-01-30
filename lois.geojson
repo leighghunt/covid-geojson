@@ -73948,6 +73948,44 @@
 				"DateFrom": "2022-01-26T17:00:00.000Z",
 				"DateTo": "2022-01-26T19:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6120677,
+					-40.3557104
+				]
+			},
+			"properties": {
+				"id": 4133,
+				"LocationName": "Palmerston North Intercity Bus Terminal",
+				"Address": "The Square, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T03:00:00.000Z",
+				"DateTo": "2022-01-28T03:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8177987,
+					-36.8480188
+				]
+			},
+			"properties": {
+				"id": 4134,
+				"LocationName": "SEA LIFE Kelly Tarlton's Orakei",
+				"Address": "23 Tamaki Drive, Orakei, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T22:09:05.000Z",
+				"DateTo": "2022-01-25T00:00:00.000Z"
+			}
 		}
 	]
 }
