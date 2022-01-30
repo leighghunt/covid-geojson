@@ -73473,6 +73473,215 @@
 				"DateFrom": "2022-01-19T08:00:00.000Z",
 				"DateTo": "2022-01-19T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7331998,
+					-36.8828849
+				]
+			},
+			"properties": {
+				"id": 4107,
+				"LocationName": "Tarocash St Lukes Westfield Mall Mt Albert",
+				"Address": "80 St Lukes Road, Mount Albert, Auckland 1025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T19:58:05.000Z",
+				"DateTo": "2022-01-25T20:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6687914,
+					-39.478391
+				]
+			},
+			"properties": {
+				"id": 4108,
+				"LocationName": "BP Connect Tokoroa",
+				"Address": "32-34 Main Road, State Highway 1, Tokoroa, Tokoroa 3420",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T01:04:22.000Z",
+				"DateTo": "2022-01-26T01:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6691579,
+					-39.4806685
+				]
+			},
+			"properties": {
+				"id": 4109,
+				"LocationName": "National Army Museum Waiouru",
+				"Address": "Cnr State Highway 1 & Hasset Drive, Waiouru 4861",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T22:42:41.000Z",
+				"DateTo": "2022-01-26T22:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3854615,
+					-40.1772487
+				]
+			},
+			"properties": {
+				"id": 4110,
+				"LocationName": "BP Connect Bulls",
+				"Address": "92-94 Bridge Street, Bulls, Bulls 4818",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T00:45:00.000Z",
+				"DateTo": "2022-01-27T00:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8822355,
+					-36.9912102
+				]
+			},
+			"properties": {
+				"id": 4111,
+				"LocationName": "Nando's Manukau Auckland",
+				"Address": "Shop 259 Westfield Shopping Centre Manukau Station Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T22:59:38.000Z",
+				"DateTo": "2022-01-26T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.568165,
+					-39.9370527
+				]
+			},
+			"properties": {
+				"id": 4112,
+				"LocationName": "Taylors 1998 Ltd Hunterville",
+				"Address": "4 Milne Street, Hunterville 4730",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T00:03:19.000Z",
+				"DateTo": "2022-01-27T00:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.023965,
+					-38.6642457
+				]
+			},
+			"properties": {
+				"id": 4113,
+				"LocationName": "Gear Meat Pie Company Gisborne",
+				"Address": "85 Grey Street, Gisborne, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T02:45:00.000Z",
+				"DateTo": "2022-01-27T03:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3217888,
+					-35.7239596
+				]
+			},
+			"properties": {
+				"id": 4114,
+				"LocationName": "Turkuaz Cafe Whangārei",
+				"Address": "24 Rathbone Street, Whangarei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T06:00:00.000Z",
+				"DateTo": "2022-01-25T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3257312,
+					-35.7246035
+				]
+			},
+			"properties": {
+				"id": 4115,
+				"LocationName": "Riverside Cafe Whangārei",
+				"Address": "14 Quayside, Whangārei, Whangārei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T20:30:00.000Z",
+				"DateTo": "2022-01-23T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8719851,
+					-41.2232759
+				]
+			},
+			"properties": {
+				"id": 4116,
+				"LocationName": "Spice Traders Petone",
+				"Address": "45 Jackson Street, Petone, Lower Hutt 5012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T04:00:00.000Z",
+				"DateTo": "2022-01-21T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.882283,
+					-36.988989
+				]
+			},
+			"properties": {
+				"id": 4117,
+				"LocationName": "Woodside Bar Manukau",
+				"Address": "639 Great South Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T05:30:00.000Z",
+				"DateTo": "2022-01-26T07:30:00.000Z"
+			}
 		}
 	]
 }
