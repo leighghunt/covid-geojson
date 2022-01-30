@@ -73834,6 +73834,120 @@
 				"DateFrom": "2022-01-29T02:30:00.000Z",
 				"DateTo": "2022-01-29T04:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1353481,
+					-37.7274055
+				]
+			},
+			"properties": {
+				"id": 4127,
+				"LocationName": "Indo Spice World Tauranga",
+				"Address": "145 Chadwick Road, Greerton, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T02:31:00.000Z",
+				"DateTo": "2022-01-25T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8177987,
+					-36.8480188
+				]
+			},
+			"properties": {
+				"id": 4128,
+				"LocationName": "SEA LIFE Kelly Tarlton's Orakei 25/01/2022",
+				"Address": "23 Tamaki Drive, Orakei, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T22:09:05.000Z",
+				"DateTo": "2022-01-25T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7571602,
+					-36.8483165
+				]
+			},
+			"properties": {
+				"id": 4129,
+				"LocationName": "The Coffee Shop",
+				"Address": "2/192 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T17:00:00.000Z",
+				"DateTo": "2022-01-23T19:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9498454,
+					-35.2267401
+				]
+			},
+			"properties": {
+				"id": 4130,
+				"LocationName": "McDonalds Kerikeri",
+				"Address": "87 Kerikeri Road, Kerikeri, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T03:38:00.000Z",
+				"DateTo": "2022-01-22T04:43:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7571602,
+					-36.8483165
+				]
+			},
+			"properties": {
+				"id": 4131,
+				"LocationName": "The Coffee Shop",
+				"Address": "2/192 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T17:00:00.000Z",
+				"DateTo": "2022-01-24T19:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7571602,
+					-36.8483165
+				]
+			},
+			"properties": {
+				"id": 4132,
+				"LocationName": "The Coffee Shop",
+				"Address": "2/192 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T17:00:00.000Z",
+				"DateTo": "2022-01-26T19:00:00.000Z"
+			}
 		}
 	]
 }
