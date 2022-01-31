@@ -73986,6 +73986,44 @@
 				"DateFrom": "2022-01-24T22:09:05.000Z",
 				"DateTo": "2022-01-25T00:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0261053,
+					-38.6650186
+				]
+			},
+			"properties": {
+				"id": 4135,
+				"LocationName": "McDonald's Gisborne",
+				"Address": "30 Bright Street, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T05:50:00.000Z",
+				"DateTo": "2022-01-25T07:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7571602,
+					-36.8483165
+				]
+			},
+			"properties": {
+				"id": 4136,
+				"LocationName": "The Coffee Shop Freemans Bay",
+				"Address": "2/192 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T17:30:00.000Z",
+				"DateTo": "2022-01-25T18:30:00.000Z"
+			}
 		}
 	]
 }
