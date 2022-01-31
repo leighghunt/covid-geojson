@@ -74157,6 +74157,82 @@
 				"DateFrom": "2022-01-27T23:15:00.000Z",
 				"DateTo": "2022-01-28T09:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7828571,
+					-37.0057938
+				]
+			},
+			"properties": {
+				"id": 4144,
+				"LocationName": "Best Ugly Bagel Auckland Airport Domestic Terminal",
+				"Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T18:56:00.000Z",
+				"DateTo": "2022-01-21T20:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9488942,
+					-35.2270775
+				]
+			},
+			"properties": {
+				"id": 4145,
+				"LocationName": "Fishbone Cafe Kerikeri",
+				"Address": "88 Kerikeri Road, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T19:40:31.000Z",
+				"DateTo": "2022-01-22T20:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5399694,
+					-43.4879482
+				]
+			},
+			"properties": {
+				"id": 4146,
+				"LocationName": "Christchurch Airport Terminal",
+				"Address": "30 Durey Road, Christchurch Airport, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T00:30:00.000Z",
+				"DateTo": "2022-01-26T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.962668,
+					-35.217784
+				]
+			},
+			"properties": {
+				"id": 4147,
+				"LocationName": "Kerikeri Mission Station Kerikeri",
+				"Address": "246 Kerikeri Road, Kerikeri, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T21:57:14.000Z",
+				"DateTo": "2022-01-22T22:07:00.000Z"
+			}
 		}
 	]
 }
