@@ -74252,6 +74252,63 @@
 				"DateFrom": "2022-01-23T06:10:00.000Z",
 				"DateTo": "2022-01-23T06:20:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7887053,
+					-37.006571
+				]
+			},
+			"properties": {
+				"id": 4150,
+				"LocationName": "Auckland Regional Airport, Auckland",
+				"Address": "1 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T18:30:00.000Z",
+				"DateTo": "2022-01-21T19:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7587804,
+					-36.7687719
+				]
+			},
+			"properties": {
+				"id": 4151,
+				"LocationName": "Stanley Avenue Wine Bar & Bistro Milford",
+				"Address": "52 East Coast Road, Milford, Auckland 0620",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T03:30:00.000Z",
+				"DateTo": "2022-01-27T10:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7587804,
+					-36.7687719
+				]
+			},
+			"properties": {
+				"id": 4152,
+				"LocationName": "Stanley Avenue Wine Bar & Bistro, Milford",
+				"Address": "52 East Coast Road, Milford, Auckland 0620",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T03:30:00.000Z",
+				"DateTo": "2022-01-28T11:00:00.000Z"
+			}
 		}
 	]
 }
