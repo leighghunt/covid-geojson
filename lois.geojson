@@ -74024,6 +74024,82 @@
 				"DateFrom": "2022-01-25T17:30:00.000Z",
 				"DateTo": "2022-01-25T18:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6311548,
+					-43.5241128
+				]
+			},
+			"properties": {
+				"id": 4137,
+				"LocationName": "Sudima Christchurch City",
+				"Address": "49 Salisbury Street, Christchurch Central, Christchurch 8013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T07:00:00.000Z",
+				"DateTo": "2022-01-26T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2841706,
+					-41.2733983
+				]
+			},
+			"properties": {
+				"id": 4138,
+				"LocationName": "Health 2000 Nelson",
+				"Address": "7/219 Trafalgar Street, Nelson, Nelson 7010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T03:12:44.000Z",
+				"DateTo": "2022-01-26T03:22:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5695724,
+					-39.9364453
+				]
+			},
+			"properties": {
+				"id": 4139,
+				"LocationName": "Park and rest Hunterville Toilet",
+				"Address": "1 High Street, Hunterville, Hunterville 4730",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T23:24:00.000Z",
+				"DateTo": "2022-01-27T00:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.232026,
+					-41.2959434
+				]
+			},
+			"properties": {
+				"id": 4140,
+				"LocationName": "Nelson Airport Terminal",
+				"Address": "1 Trent Drive, Nelson Airport, Nelson 7011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T17:25:00.000Z",
+				"DateTo": "2022-01-27T18:45:00.000Z"
+			}
 		}
 	]
 }
