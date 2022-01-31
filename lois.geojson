@@ -74233,6 +74233,25 @@
 				"DateFrom": "2022-01-22T21:57:14.000Z",
 				"DateTo": "2022-01-22T22:07:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7926962,
+					-37.0058952
+				]
+			},
+			"properties": {
+				"id": 4148,
+				"LocationName": "Subway Auckland Airport Domestic Terminal",
+				"Address": "9 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T06:10:00.000Z",
+				"DateTo": "2022-01-23T06:20:00.000Z"
+			}
 		}
 	]
 }
