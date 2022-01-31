@@ -74347,6 +74347,139 @@
 				"DateFrom": "2022-01-26T07:15:44.000Z",
 				"DateTo": "2022-01-26T10:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.757466,
+					-36.866753
+				]
+			},
+			"properties": {
+				"id": 4155,
+				"LocationName": "Jett's Gym Eden Terrace",
+				"Address": "96 New North Road, Eden Terrace, Auckland 1021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T07:45:00.000Z",
+				"DateTo": "2022-01-27T08:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3203074,
+					-35.7254376
+				]
+			},
+			"properties": {
+				"id": 4156,
+				"LocationName": "Michael Hill Jewellers Whangārei",
+				"Address": "41 Cameron Street, Whangārei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T23:16:53.000Z",
+				"DateTo": "2022-01-23T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3271686,
+					-35.7303933
+				]
+			},
+			"properties": {
+				"id": 4157,
+				"LocationName": "Countdown Whangārei, Okara Park",
+				"Address": "5 Okara Drive, Whangārei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T06:30:00.000Z",
+				"DateTo": "2022-01-25T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5476957,
+					-43.4915335
+				]
+			},
+			"properties": {
+				"id": 4158,
+				"LocationName": "The Coffee Club Spitfire Square",
+				"Address": "530 Memorial Ave, Harewood, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T00:12:01.000Z",
+				"DateTo": "2022-01-26T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8120662,
+					-41.3305202
+				]
+			},
+			"properties": {
+				"id": 4159,
+				"LocationName": "Three Quarter Society Wellington Airport",
+				"Address": "Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T19:20:00.000Z",
+				"DateTo": "2022-01-27T19:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2857604,
+					-41.274564
+				]
+			},
+			"properties": {
+				"id": 4160,
+				"LocationName": "Eclectic Antique Centre, Nelson",
+				"Address": "254 Hardy Street, Nelson 7010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T22:04:10.000Z",
+				"DateTo": "2022-01-23T22:34:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3220734,
+					-35.7145222
+				]
+			},
+			"properties": {
+				"id": 4161,
+				"LocationName": "Countdown Regent, Whangārei",
+				"Address": "11 Kamo Road, Regent, Whangārei 0112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T07:15:44.000Z",
+				"DateTo": "2022-01-26T10:30:00.000Z"
+			}
 		}
 	]
 }
