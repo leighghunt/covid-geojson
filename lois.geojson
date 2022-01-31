@@ -74309,6 +74309,44 @@
 				"DateFrom": "2022-01-28T03:30:00.000Z",
 				"DateTo": "2022-01-28T11:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3105848,
+					-35.7299487
+				]
+			},
+			"properties": {
+				"id": 4153,
+				"LocationName": "Casablanca Motel, Whangarei",
+				"Address": "9 Kauika Road, Avenues, Whangarei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T18:00:00.000Z",
+				"DateTo": "2022-01-27T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3220734,
+					-35.7145222
+				]
+			},
+			"properties": {
+				"id": 4154,
+				"LocationName": "Countdown Regent, Whangarei",
+				"Address": "11 Kamo Road, Regent, Whangarei 0112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T07:15:44.000Z",
+				"DateTo": "2022-01-26T10:30:00.000Z"
+			}
 		}
 	]
 }
