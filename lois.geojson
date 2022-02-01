@@ -74917,6 +74917,63 @@
 				"DateFrom": "2022-01-24T04:15:00.000Z",
 				"DateTo": "2022-01-24T05:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.5715303,
+					-41.29902149999999
+				]
+			},
+			"properties": {
+				"id": 4185,
+				"LocationName": "Pelorus Bridge Café & Motorcamp, Nelson",
+				"Address": "5949 State Highway 6, RD 2, Rai Valley 7192",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T23:15:00.000Z",
+				"DateTo": "2022-01-26T23:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2874531,
+					-41.2733156
+				]
+			},
+			"properties": {
+				"id": 4186,
+				"LocationName": "The Free House Nelson",
+				"Address": "95 Collingwood Street, Nelson 7010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T07:15:00.000Z",
+				"DateTo": "2022-01-25T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3854615,
+					-40.1772487
+				]
+			},
+			"properties": {
+				"id": 4187,
+				"LocationName": "Bulls public toilet",
+				"Address": "92 Bridge Street, Bulls, Bulls 4818",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T01:00:00.000Z",
+				"DateTo": "2022-01-25T01:30:00.000Z"
+			}
 		}
 	]
 }
