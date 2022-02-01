@@ -75050,6 +75050,82 @@
 				"DateFrom": "2022-01-25T22:51:19.000Z",
 				"DateTo": "2022-01-25T23:25:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0227931,
+					-38.6640913
+				]
+			},
+			"properties": {
+				"id": 4192,
+				"LocationName": "Flight NZ8173 Auckland to Gisborne",
+				"Address": "Gisborne",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T06:25:00.000Z",
+				"DateTo": "2022-01-27T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4193,
+				"LocationName": "Flight NZ5008 Napier to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T20:55:00.000Z",
+				"DateTo": "2022-01-24T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2377669,
+					-38.1445987
+				]
+			},
+			"properties": {
+				"id": 4194,
+				"LocationName": "Flight NZ8238 Wellington to Rotorua",
+				"Address": "Rotorua",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T19:30:00.000Z",
+				"DateTo": "2022-01-26T20:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0794082,
+					-39.0571533
+				]
+			},
+			"properties": {
+				"id": 4195,
+				"LocationName": "Flight NZ5039 Auckland to New Plymouth",
+				"Address": "New Plymouth",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T23:35:00.000Z",
+				"DateTo": "2022-01-25T00:25:00.000Z"
+			}
 		}
 	]
 }
