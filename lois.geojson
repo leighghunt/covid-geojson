@@ -75259,6 +75259,25 @@
 				"DateFrom": "2022-01-28T21:54:00.000Z",
 				"DateTo": "2022-01-29T00:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4203,
+				"LocationName": "Train ride from Otahuhu Train Station to Panmure Train Station",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T00:45:00.000Z",
+				"DateTo": "2022-01-27T00:55:00.000Z"
+			}
 		}
 	]
 }
