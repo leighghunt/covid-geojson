@@ -75126,6 +75126,82 @@
 				"DateFrom": "2022-01-24T23:35:00.000Z",
 				"DateTo": "2022-01-25T00:25:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2841722,
+					-41.2747837
+				]
+			},
+			"properties": {
+				"id": 4196,
+				"LocationName": "The Vic Public House Nelson",
+				"Address": "281 Trafalgar Street, Nelson 7010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T07:00:00.000Z",
+				"DateTo": "2022-01-26T08:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7511875,
+					-36.8751004
+				]
+			},
+			"properties": {
+				"id": 4197,
+				"LocationName": "Wendy's Hamburgers Mount Eden",
+				"Address": "197 Dominion Road, Mount Eden, Auckland 1024",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T20:30:00.000Z",
+				"DateTo": "2022-01-27T05:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0196649,
+					-38.6621468
+				]
+			},
+			"properties": {
+				"id": 4198,
+				"LocationName": "Carl's Jr. Gisborne",
+				"Address": "320 Gladstone Road, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T23:00:00.000Z",
+				"DateTo": "2022-01-28T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7511875,
+					-36.8751004
+				]
+			},
+			"properties": {
+				"id": 4199,
+				"LocationName": "Wendy's Hamburgers Mount Eden",
+				"Address": "197 Dominion Road, Mount Eden, Auckland 1024",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T21:00:00.000Z",
+				"DateTo": "2022-01-28T05:15:00.000Z"
+			}
 		}
 	]
 }
