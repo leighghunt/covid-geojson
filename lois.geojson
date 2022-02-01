@@ -75202,6 +75202,63 @@
 				"DateFrom": "2022-01-27T21:00:00.000Z",
 				"DateTo": "2022-01-28T05:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5221642,
+					-37.6599487
+				]
+			},
+			"properties": {
+				"id": 4200,
+				"LocationName": "New World Morrinsville",
+				"Address": "79 Thames Street, Morrinsville 3300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T16:00:00.000Z",
+				"DateTo": "2022-01-26T02:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7511875,
+					-36.8751004
+				]
+			},
+			"properties": {
+				"id": 4201,
+				"LocationName": "Wendy's Hamburgers Mount Eden",
+				"Address": "197 Dominion Road, Mount Eden, Auckland 1024",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T03:00:00.000Z",
+				"DateTo": "2022-01-26T11:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2830405,
+					-37.792469
+				]
+			},
+			"properties": {
+				"id": 4202,
+				"LocationName": "Anglesea Clinic Urgent Care Hamilton",
+				"Address": "Gate 1 Cnr Thackeray, Anglesea Street, Hamilton Central, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T21:54:00.000Z",
+				"DateTo": "2022-01-29T00:45:00.000Z"
+			}
 		}
 	]
 }
