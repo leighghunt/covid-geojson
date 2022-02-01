@@ -74974,6 +74974,82 @@
 				"DateFrom": "2022-01-25T01:00:00.000Z",
 				"DateTo": "2022-01-25T01:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7587804,
+					-36.7687719
+				]
+			},
+			"properties": {
+				"id": 4188,
+				"LocationName": "Stanley Avenue Wine Bar & Bistro, Milford",
+				"Address": "52 East Coast Road, Milford, Auckland 0620",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T03:00:00.000Z",
+				"DateTo": "2022-01-28T11:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2833016,
+					-37.7872027
+				]
+			},
+			"properties": {
+				"id": 4189,
+				"LocationName": "SkyCity Casino Hamilton",
+				"Address": "346 Victoria Street, Hamilton Central, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T04:33:42.000Z",
+				"DateTo": "2022-01-25T05:38:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3271686,
+					-35.7303933
+				]
+			},
+			"properties": {
+				"id": 4190,
+				"LocationName": "Countdown Whangārei, Okara Park",
+				"Address": "5 Okara Drive, Whangarei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T06:00:00.000Z",
+				"DateTo": "2022-01-25T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2854052,
+					-41.2747971
+				]
+			},
+			"properties": {
+				"id": 4191,
+				"LocationName": "Flo & Frankie Nelson",
+				"Address": "244 Hardy Street, Nelson, Nelson 7010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T22:51:19.000Z",
+				"DateTo": "2022-01-25T23:25:00.000Z"
+			}
 		}
 	]
 }
