@@ -75278,6 +75278,120 @@
 				"DateFrom": "2022-01-27T00:45:00.000Z",
 				"DateTo": "2022-01-27T00:55:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9490389,
+					-35.2259087
+				]
+			},
+			"properties": {
+				"id": 4204,
+				"LocationName": "Rebel Sport Kerikeri",
+				"Address": "96 Kerikeri Road, Kerikeri, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T22:11:22.000Z",
+				"DateTo": "2022-01-27T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2770399,
+					-38.1484247
+				]
+			},
+			"properties": {
+				"id": 4205,
+				"LocationName": "The Coffee Club Rotorua",
+				"Address": "3/5 Tarawera Road, Lynmore, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T20:15:00.000Z",
+				"DateTo": "2022-01-30T20:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9330091,
+					-35.2522876
+				]
+			},
+			"properties": {
+				"id": 4206,
+				"LocationName": "The Rusty Tractor Café & Trading Store Kerikeri",
+				"Address": "582 Kerikeri Road, RD 3, Kerikeri 0293",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T23:09:47.000Z",
+				"DateTo": "2022-01-27T23:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8037495,
+					-41.3267051
+				]
+			},
+			"properties": {
+				"id": 4207,
+				"LocationName": "The Warehouse Lyall Bay",
+				"Address": "Cnr George Bolt and Cochrane Street, Lyall Bay, Wellington 6022, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-31T22:31:15.000Z",
+				"DateTo": "2022-01-31T22:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4208,
+				"LocationName": "Train ride Otahuhu Train Station to Panmure Train Station",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T00:45:00.000Z",
+				"DateTo": "2022-01-27T00:55:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.7993785,
+					-39.678872
+				]
+			},
+			"properties": {
+				"id": 4209,
+				"LocationName": "Subway Taihape",
+				"Address": "55 Hautapu Street, Taihape 4720",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-31T01:15:00.000Z",
+				"DateTo": "2022-01-31T01:35:00.000Z"
+			}
 		}
 	]
 }
