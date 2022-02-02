@@ -75392,6 +75392,25 @@
 				"DateFrom": "2022-01-31T01:15:00.000Z",
 				"DateTo": "2022-01-31T01:35:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7728418,
+					-41.3346805
+				]
+			},
+			"properties": {
+				"id": 4210,
+				"LocationName": "New World Island Bay",
+				"Address": "6 Medway Street, Island Bay, Wellington 6023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-31T04:30:00.000Z",
+				"DateTo": "2022-01-31T04:40:00.000Z"
+			}
 		}
 	]
 }
