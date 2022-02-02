@@ -75411,6 +75411,101 @@
 				"DateFrom": "2022-01-31T04:30:00.000Z",
 				"DateTo": "2022-01-31T04:40:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9515202,
+					-35.2267169
+				]
+			},
+			"properties": {
+				"id": 4211,
+				"LocationName": "New World Kerikeri",
+				"Address": "99 Kerikeri Road, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T03:45:00.000Z",
+				"DateTo": "2022-01-22T05:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.871862,
+					-39.4687236
+				]
+			},
+			"properties": {
+				"id": 4212,
+				"LocationName": "Hawkes Bay Airport Napier",
+				"Address": "111 Main North Road, Westshore, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T16:45:00.000Z",
+				"DateTo": "2022-01-25T17:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2828767,
+					-37.8168232
+				]
+			},
+			"properties": {
+				"id": 4213,
+				"LocationName": "Glenview Medical Centre Hamilton",
+				"Address": "1 Urlich Avenue, Melville, Hamilton 3206",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T00:45:00.000Z",
+				"DateTo": "2022-01-21T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2541188,
+					-38.16014190000001
+				]
+			},
+			"properties": {
+				"id": 4214,
+				"LocationName": "BP Connect Geyser Rotorua",
+				"Address": "420 Fenton Street, Froude Street, Whakarewarewa, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T22:15:00.000Z",
+				"DateTo": "2022-01-30T22:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1537257,
+					-37.7971077
+				]
+			},
+			"properties": {
+				"id": 4215,
+				"LocationName": "The Backyard Gastropub Whatawhata",
+				"Address": "1333 Horotiu Road, RD 9, Hamilton 3289",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T05:50:00.000Z",
+				"DateTo": "2022-01-27T06:30:00.000Z"
+			}
 		}
 	]
 }
