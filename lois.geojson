@@ -75506,6 +75506,44 @@
 				"DateFrom": "2022-01-27T05:50:00.000Z",
 				"DateTo": "2022-01-27T06:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7357574,
+					-36.7659894
+				]
+			},
+			"properties": {
+				"id": 4216,
+				"LocationName": "Zone Bowling and Time Zone Wairau Valley",
+				"Address": "10 Target Court, Wairau Valley, Auckland 0627",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T07:00:00.000Z",
+				"DateTo": "2022-01-25T08:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8403285,
+					-39.6386771
+				]
+			},
+			"properties": {
+				"id": 4217,
+				"LocationName": "Carls Jr Hastings",
+				"Address": "100 Nelson Street North, Hastings 4122",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T20:00:00.000Z",
+				"DateTo": "2022-01-28T04:00:00.000Z"
+			}
 		}
 	]
 }
