@@ -75829,6 +75829,139 @@
 				"DateFrom": "2022-01-28T22:30:00.000Z",
 				"DateTo": "2022-01-28T23:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8709714,
+					-39.6235293
+				]
+			},
+			"properties": {
+				"id": 4234,
+				"LocationName": "Hawkes Bay Polo Club Waipatu",
+				"Address": "Bennett Road, Waipatu, 4172",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T00:30:00.000Z",
+				"DateTo": "2022-01-30T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2541188,
+					-38.16014190000001
+				]
+			},
+			"properties": {
+				"id": 4235,
+				"LocationName": "BP Connect Geyser Rotorua",
+				"Address": "420 Fenton Street, Froude Street, Whakarewarewa, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-29T22:15:00.000Z",
+				"DateTo": "2022-01-29T22:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8037495,
+					-41.3267051
+				]
+			},
+			"properties": {
+				"id": 4236,
+				"LocationName": "The Warehouse Lyall Bay",
+				"Address": "Cnr George Bolt and Cochrane Street, Lyall Bay, Wellington 6022, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T22:31:15.000Z",
+				"DateTo": "2022-01-30T22:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8599694,
+					-36.972888
+				]
+			},
+			"properties": {
+				"id": 4237,
+				"LocationName": "Papatoetoe Centennial Pool and Leisure Centre Papatoetoe *CHILDRENS POOLS*",
+				"Address": "17 Sutton Crescent, Papatoetoe, Papakura 2110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T22:30:00.000Z",
+				"DateTo": "2022-01-28T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2770399,
+					-38.1484247
+				]
+			},
+			"properties": {
+				"id": 4238,
+				"LocationName": "The Coffee Club Rotorua",
+				"Address": "3/5 Tarawera Road, Lynmore, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-29T20:15:00.000Z",
+				"DateTo": "2022-01-29T20:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.7993785,
+					-39.678872
+				]
+			},
+			"properties": {
+				"id": 4239,
+				"LocationName": "Subway Taihape",
+				"Address": "55 Hautapu Street, Taihape 4720",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T01:15:00.000Z",
+				"DateTo": "2022-01-30T01:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7728418,
+					-41.3346805
+				]
+			},
+			"properties": {
+				"id": 4240,
+				"LocationName": "New World Island Bay",
+				"Address": "6 Medway Street, Island Bay, Wellington 6023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T04:30:00.000Z",
+				"DateTo": "2022-01-30T04:40:00.000Z"
+			}
 		}
 	]
 }
