@@ -76228,6 +76228,25 @@
 				"DateFrom": "2022-01-23T17:30:00.000Z",
 				"DateTo": "2022-01-23T20:40:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.8066401,
+					-40.8584726
+				]
+			},
+			"properties": {
+				"id": 4255,
+				"LocationName": "The Wholemeal Cafe Takaka",
+				"Address": "60 Commercial Street, Takaka 7110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T18:30:00.000Z",
+				"DateTo": "2022-01-28T19:30:00.000Z"
+			}
 		}
 	]
 }
