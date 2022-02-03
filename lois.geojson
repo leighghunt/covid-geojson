@@ -76437,6 +76437,215 @@
 				"DateFrom": "2022-01-26T04:00:00.000Z",
 				"DateTo": "2022-01-26T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.9122494,
+					-39.4918698
+				]
+			},
+			"properties": {
+				"id": 4266,
+				"LocationName": "Napier Intercity Bus Terminal",
+				"Address": "12 Carlyle Street, Napier South, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T00:00:00.000Z",
+				"DateTo": "2022-01-28T00:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8177987,
+					-36.8480188
+				]
+			},
+			"properties": {
+				"id": 4267,
+				"LocationName": "SEA LIFE Kelly Tarlton's Orakei",
+				"Address": "23 Tamaki Drive, Orakei, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T22:09:05.000Z",
+				"DateTo": "2022-01-25T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3175232,
+					-38.1093924
+				]
+			},
+			"properties": {
+				"id": 4268,
+				"LocationName": "Rotorua Regional Airport Rotorua",
+				"Address": "837 Te Ngae Road, Ōwhata, Rotorua 3074",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T20:54:22.000Z",
+				"DateTo": "2022-01-26T21:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8412792,
+					-36.9637736
+				]
+			},
+			"properties": {
+				"id": 4269,
+				"LocationName": "Elixir Espresso Middlemore Hospital",
+				"Address": "100 Hospital Road, Mangere East, Auckland 2025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T00:30:00.000Z",
+				"DateTo": "2022-01-26T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6311548,
+					-43.5241128
+				]
+			},
+			"properties": {
+				"id": 4270,
+				"LocationName": "Sudima Christchurch City",
+				"Address": "49 Salisbury Street, Christchurch Central, Christchurch 8013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T07:00:00.000Z",
+				"DateTo": "2022-01-26T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2898354,
+					-41.2729079
+				]
+			},
+			"properties": {
+				"id": 4271,
+				"LocationName": "The Suter Art Gallery Nelson",
+				"Address": "208 Bridge Street, Nelson, Nelson 7010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T01:26:55.000Z",
+				"DateTo": "2022-01-25T01:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7571602,
+					-36.8483165
+				]
+			},
+			"properties": {
+				"id": 4272,
+				"LocationName": "The Coffee Shop Freemans Bay",
+				"Address": "2/192 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T17:30:00.000Z",
+				"DateTo": "2022-01-25T18:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0261053,
+					-38.6650186
+				]
+			},
+			"properties": {
+				"id": 4273,
+				"LocationName": "McDonald's Gisborne",
+				"Address": "30 Bright Street, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T05:50:00.000Z",
+				"DateTo": "2022-01-25T07:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7571602,
+					-36.8483165
+				]
+			},
+			"properties": {
+				"id": 4274,
+				"LocationName": "The Coffee Shop",
+				"Address": "2/192 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T17:00:00.000Z",
+				"DateTo": "2022-01-24T19:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3854615,
+					-40.1772487
+				]
+			},
+			"properties": {
+				"id": 4275,
+				"LocationName": "Bulls public toilet",
+				"Address": "92 Bridge Street, Bulls, Bulls 4818",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T01:00:00.000Z",
+				"DateTo": "2022-01-25T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2800729,
+					-37.7861063
+				]
+			},
+			"properties": {
+				"id": 4276,
+				"LocationName": "Lilliput Fun Zone Hamilton, Hamilton",
+				"Address": "Level 1, Centre Place, Victoria Street, Hamilton, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T04:15:00.000Z",
+				"DateTo": "2022-01-24T05:15:00.000Z"
+			}
 		}
 	]
 }
