@@ -76019,6 +76019,101 @@
 				"DateFrom": "2022-01-23T16:00:00.000Z",
 				"DateTo": "2022-01-23T23:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2521811,
+					-38.1757411
+				]
+			},
+			"properties": {
+				"id": 4244,
+				"LocationName": "Secret Spot Hot Tubs Rotorua",
+				"Address": "13/33 Waipa State Mill Road, Rotorua 3073",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-29T03:00:00.000Z",
+				"DateTo": "2022-01-29T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8599694,
+					-36.972888
+				]
+			},
+			"properties": {
+				"id": 4245,
+				"LocationName": "Papatoetoe Centennial Pool and Leisure Centre Papatoetoe *ALL VISITORS*",
+				"Address": "17 Sutton Crescent, Papatoetoe, Papakura 2110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T22:30:00.000Z",
+				"DateTo": "2022-01-28T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3220734,
+					-35.7145222
+				]
+			},
+			"properties": {
+				"id": 4246,
+				"LocationName": "Countdown Regent, Whangārei",
+				"Address": "11 Kamo Road, Regent, Whangārei 0112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T07:15:44.000Z",
+				"DateTo": "2022-01-26T10:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.7993785,
+					-39.678872
+				]
+			},
+			"properties": {
+				"id": 4247,
+				"LocationName": "Subway Taihape",
+				"Address": "55 Hautapu Street, Taihape 4720",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T01:15:00.000Z",
+				"DateTo": "2022-01-30T01:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.456776,
+					-37.8670862
+				]
+			},
+			"properties": {
+				"id": 4248,
+				"LocationName": "Z Hautapu Service Station Cambridge",
+				"Address": "167 Victoria Road, Cambridge 3493",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T18:45:00.000Z",
+				"DateTo": "2022-01-29T04:15:00.000Z"
+			}
 		}
 	]
 }
