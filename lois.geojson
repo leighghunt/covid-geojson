@@ -77083,6 +77083,405 @@
 				"DateFrom": "2022-01-24T03:00:00.000Z",
 				"DateTo": "2022-01-24T04:05:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8037495,
+					-41.3267051
+				]
+			},
+			"properties": {
+				"id": 4301,
+				"LocationName": "The Warehouse Lyall Bay",
+				"Address": "Cnr George Bolt and Cochrane Street, Lyall Bay, Wellington 6022, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T22:31:15.000Z",
+				"DateTo": "2022-01-30T22:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4302,
+				"LocationName": "Flight NZ5771 Napier - Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T17:25:00.000Z",
+				"DateTo": "2022-01-23T19:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8099115,
+					-41.33467830000001
+				]
+			},
+			"properties": {
+				"id": 4303,
+				"LocationName": "Three Quarter Society Wellington Airport",
+				"Address": "1 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T19:20:00.000Z",
+				"DateTo": "2022-01-27T19:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8726811,
+					-36.9930116
+				]
+			},
+			"properties": {
+				"id": 4304,
+				"LocationName": "Kmart Manukau",
+				"Address": "55 Lambie Drive, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T06:50:49.000Z",
+				"DateTo": "2022-01-24T08:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7372513,
+					-45.02206779999999
+				]
+			},
+			"properties": {
+				"id": 4305,
+				"LocationName": "Queenstown Airport",
+				"Address": "1 Sir Henry Wigley Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T01:15:00.000Z",
+				"DateTo": "2022-01-22T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5399694,
+					-43.4879482
+				]
+			},
+			"properties": {
+				"id": 4306,
+				"LocationName": "Christchurch Airport Harewood",
+				"Address": "30 Durey Road, Christchurch Airport, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T03:30:00.000Z",
+				"DateTo": "2022-01-26T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3070177,
+					-37.8026584
+				]
+			},
+			"properties": {
+				"id": 4307,
+				"LocationName": "Private Event Hamilton Gardens Pavilion Hamilton",
+				"Address": "18 Hungerford Crescent, Hamilton East, Hamilton 3216",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T06:00:00.000Z",
+				"DateTo": "2022-01-23T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7659354,
+					-36.8481175
+				]
+			},
+			"properties": {
+				"id": 4308,
+				"LocationName": "Sunglass Style Auckland Central",
+				"Address": "174 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T00:30:00.000Z",
+				"DateTo": "2022-01-23T00:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2735609,
+					-37.7810972
+				]
+			},
+			"properties": {
+				"id": 4309,
+				"LocationName": "Countdown Hamilton",
+				"Address": "Cnr Anglesea & Liverpool Streets, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T22:58:40.000Z",
+				"DateTo": "2022-01-25T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2735609,
+					-37.7810972
+				]
+			},
+			"properties": {
+				"id": 4310,
+				"LocationName": "Countdown Hamilton",
+				"Address": "Cnr Anglesea & Liverpool Streets, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T00:59:01.000Z",
+				"DateTo": "2022-01-27T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8822355,
+					-36.9912102
+				]
+			},
+			"properties": {
+				"id": 4311,
+				"LocationName": "Connor Westfield Manukau",
+				"Address": "Shop S209/1, Cnr Great South Rd &, Manukau Station Road, Manukau city centre, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T19:30:00.000Z",
+				"DateTo": "2022-01-28T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1009721,
+					-36.8000487
+				]
+			},
+			"properties": {
+				"id": 4312,
+				"LocationName": "Fullers Ferry Service Waiheke Terminal to Devonport Terminal Oneroa",
+				"Address": "Waiheke Island",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T23:00:00.000Z",
+				"DateTo": "2022-01-24T23:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7887053,
+					-37.006571
+				]
+			},
+			"properties": {
+				"id": 4313,
+				"LocationName": "Auckland Regional Airport, Auckland",
+				"Address": "1 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T18:30:00.000Z",
+				"DateTo": "2022-01-21T19:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5695724,
+					-39.9364453
+				]
+			},
+			"properties": {
+				"id": 4314,
+				"LocationName": "Park and rest Hunterville Toilet",
+				"Address": "1 High Street, Hunterville, Hunterville 4730",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T23:24:00.000Z",
+				"DateTo": "2022-01-27T00:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9129622,
+					-36.9315344
+				]
+			},
+			"properties": {
+				"id": 4315,
+				"LocationName": "Connor Botany Town Centre",
+				"Address": "588 Chapel Road, East Tamaki, Auckland 2013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T23:15:00.000Z",
+				"DateTo": "2022-01-28T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7571602,
+					-36.8483165
+				]
+			},
+			"properties": {
+				"id": 4316,
+				"LocationName": "The Coffee Shop",
+				"Address": "2/192 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T17:00:00.000Z",
+				"DateTo": "2022-01-23T19:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1353481,
+					-37.7274055
+				]
+			},
+			"properties": {
+				"id": 4317,
+				"LocationName": "Indo Spice World Tauranga",
+				"Address": "145 Chadwick Road, Greerton, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T02:31:00.000Z",
+				"DateTo": "2022-01-25T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2841706,
+					-41.2733983
+				]
+			},
+			"properties": {
+				"id": 4318,
+				"LocationName": "Health 2000 Nelson",
+				"Address": "7/219 Trafalgar Street, Nelson, Nelson 7010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T03:12:44.000Z",
+				"DateTo": "2022-01-26T03:22:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.232026,
+					-41.2959434
+				]
+			},
+			"properties": {
+				"id": 4319,
+				"LocationName": "Nelson Airport Terminal",
+				"Address": "1 Trent Drive, Nelson Airport, Nelson 7011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T02:00:00.000Z",
+				"DateTo": "2022-01-26T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7571602,
+					-36.8483165
+				]
+			},
+			"properties": {
+				"id": 4320,
+				"LocationName": "The Coffee Shop",
+				"Address": "2/192 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T17:00:00.000Z",
+				"DateTo": "2022-01-26T19:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.232026,
+					-41.2959434
+				]
+			},
+			"properties": {
+				"id": 4321,
+				"LocationName": "Nelson Airport Terminal",
+				"Address": "1 Trent Drive, Nelson Airport, Nelson 7011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T17:25:00.000Z",
+				"DateTo": "2022-01-27T18:45:00.000Z"
+			}
 		}
 	]
 }
