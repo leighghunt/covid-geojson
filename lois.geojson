@@ -76247,6 +76247,196 @@
 				"DateFrom": "2022-01-28T18:30:00.000Z",
 				"DateTo": "2022-01-28T19:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.5715303,
+					-41.29902149999999
+				]
+			},
+			"properties": {
+				"id": 4256,
+				"LocationName": "Pelorus Bridge Café, Nelson",
+				"Address": "5949 State Highway 6, Rai Valley 7192",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T23:15:00.000Z",
+				"DateTo": "2022-01-26T23:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4257,
+				"LocationName": "Flight NZ5002 Napier to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T17:15:00.000Z",
+				"DateTo": "2022-01-25T18:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.93297,
+					-35.2522788
+				]
+			},
+			"properties": {
+				"id": 4258,
+				"LocationName": "The Rusty Tractor Café & Trading Store Kerikeri",
+				"Address": "582 Kerikeri Road, Kerikeri 0293",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T23:09:47.000Z",
+				"DateTo": "2022-01-27T23:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8064142,
+					-41.2248668
+				]
+			},
+			"properties": {
+				"id": 4259,
+				"LocationName": "The Inn Keeper of Johnsonville Johnsonville",
+				"Address": "11 Broderick Road, Johnsonville, Wellington 6037",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T04:00:00.000Z",
+				"DateTo": "2022-01-26T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9490389,
+					-35.2259087
+				]
+			},
+			"properties": {
+				"id": 4260,
+				"LocationName": "Briscoes Kerikeri",
+				"Address": "96 Kerikeri Road, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T22:15:00.000Z",
+				"DateTo": "2022-01-28T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8368421,
+					-41.1298518
+				]
+			},
+			"properties": {
+				"id": 4261,
+				"LocationName": "Denny's Porirua",
+				"Address": "2 Semple Street, Porirua City Centre, Porirua 5022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T20:15:00.000Z",
+				"DateTo": "2022-01-30T21:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.1537257,
+					-37.7971077
+				]
+			},
+			"properties": {
+				"id": 4262,
+				"LocationName": "The Backyard Gastropub Whatawhata",
+				"Address": "1333 Horotiu Road, RD 9, Whatawhata, Hamilton 3289",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T05:50:00.000Z",
+				"DateTo": "2022-01-27T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.821602,
+					-41.2232884
+				]
+			},
+			"properties": {
+				"id": 4263,
+				"LocationName": "The Newlands Arms Newlands",
+				"Address": "15 Batchelor Street, Newlands, Wellington 6037",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T02:00:00.000Z",
+				"DateTo": "2022-01-27T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8064142,
+					-41.2248668
+				]
+			},
+			"properties": {
+				"id": 4264,
+				"LocationName": "The Inn Keeper of Johnsonville Johnsonville",
+				"Address": "11 Broderick Road, Johnsonville, Wellington 6037",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T02:00:00.000Z",
+				"DateTo": "2022-01-27T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.821602,
+					-41.2232884
+				]
+			},
+			"properties": {
+				"id": 4265,
+				"LocationName": "The Newlands Arms Newlands",
+				"Address": "15 Batchelor Street, Newlands, Wellington 6037",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T04:00:00.000Z",
+				"DateTo": "2022-01-26T08:30:00.000Z"
+			}
 		}
 	]
 }
