@@ -79781,6 +79781,823 @@
 				"DateFrom": "2022-01-20T17:00:00.000Z",
 				"DateTo": "2022-01-22T20:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8599694,
+					-36.972888
+				]
+			},
+			"properties": {
+				"id": 4444,
+				"LocationName": "Papatoetoe Centennial Pool and Leisure Centre Papatoetoe *CHILDRENS POOLS*",
+				"Address": "17 Sutton Crescent, Papatoetoe, Papakura 2110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T22:30:00.000Z",
+				"DateTo": "2022-01-28T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0968979,
+					-39.0507952
+				]
+			},
+			"properties": {
+				"id": 4445,
+				"LocationName": "TummyMate General Store New Plymouth",
+				"Address": "483 Devon Street East, Strandon, New Plymouth 4312",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T02:00:00.000Z",
+				"DateTo": "2022-01-25T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					19.8960968,
+					-34.4753889
+				]
+			},
+			"properties": {
+				"id": 4446,
+				"LocationName": "InterCity Bus Trip Gisborne to Napier Bus Service No.IC6965",
+				"Address": "Napier",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T20:30:00.000Z",
+				"DateTo": "2022-01-27T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8822355,
+					-36.9912102
+				]
+			},
+			"properties": {
+				"id": 4447,
+				"LocationName": "Nando's Manukau Auckland",
+				"Address": "Shop 259 Westfield Shopping Centre Manukau Station Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T22:59:38.000Z",
+				"DateTo": "2022-01-26T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7331998,
+					-36.8828849
+				]
+			},
+			"properties": {
+				"id": 4448,
+				"LocationName": "Tarocash St Lukes Westfield Mall Mt Albert",
+				"Address": "80 St Lukes Road, Mount Albert, Auckland 1025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T19:58:05.000Z",
+				"DateTo": "2022-01-25T20:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6687914,
+					-39.478391
+				]
+			},
+			"properties": {
+				"id": 4449,
+				"LocationName": "BP Connect Tokoroa",
+				"Address": "32-34 Main Road, State Highway 1, Tokoroa, Tokoroa 3420",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T01:04:22.000Z",
+				"DateTo": "2022-01-26T01:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3854615,
+					-40.1772487
+				]
+			},
+			"properties": {
+				"id": 4450,
+				"LocationName": "BP Connect Bulls",
+				"Address": "92-94 Bridge Street, Bulls, Bulls 4818",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T00:45:00.000Z",
+				"DateTo": "2022-01-27T00:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.882283,
+					-36.988989
+				]
+			},
+			"properties": {
+				"id": 4451,
+				"LocationName": "Woodside Bar Manukau",
+				"Address": "639 Great South Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T05:30:00.000Z",
+				"DateTo": "2022-01-26T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8719851,
+					-41.2232759
+				]
+			},
+			"properties": {
+				"id": 4452,
+				"LocationName": "Spice Traders Petone",
+				"Address": "45 Jackson Street, Petone, Lower Hutt 5012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T04:00:00.000Z",
+				"DateTo": "2022-01-21T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.568165,
+					-39.9370527
+				]
+			},
+			"properties": {
+				"id": 4453,
+				"LocationName": "Taylors 1998 Ltd Hunterville",
+				"Address": "4 Milne Street, Hunterville 4730",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T00:03:19.000Z",
+				"DateTo": "2022-01-27T00:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5399694,
+					-43.4879482
+				]
+			},
+			"properties": {
+				"id": 4454,
+				"LocationName": "Christchurch Airport",
+				"Address": "30 Durey Road, Christchurch Airport, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T19:00:00.000Z",
+				"DateTo": "2022-01-23T20:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4455,
+				"LocationName": "Flight JQ259 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T21:30:00.000Z",
+				"DateTo": "2022-01-22T22:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4456,
+				"LocationName": "Flight NZ8302 Nelson - Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T18:30:00.000Z",
+				"DateTo": "2022-01-27T19:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9515202,
+					-35.2267169
+				]
+			},
+			"properties": {
+				"id": 4457,
+				"LocationName": "New World Kerikeri",
+				"Address": "99 Kerikeri Road, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T23:00:00.000Z",
+				"DateTo": "2022-01-26T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.9188396,
+					-39.4906944
+				]
+			},
+			"properties": {
+				"id": 4458,
+				"LocationName": "Rasoi Indian Restaurant Napier",
+				"Address": "125 Marine Parade, Napier South, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T07:00:00.000Z",
+				"DateTo": "2022-01-23T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7766575,
+					-41.2894997
+				]
+			},
+			"properties": {
+				"id": 4459,
+				"LocationName": "West Plaza Hotel Te Aro",
+				"Address": "110 Wakefield Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T17:45:00.000Z",
+				"DateTo": "2022-01-26T18:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9025059,
+					-37.037274
+				]
+			},
+			"properties": {
+				"id": 4460,
+				"LocationName": "Shiv Mandir Temple Manurewa",
+				"Address": "43 Holmes Road, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T22:05:47.000Z",
+				"DateTo": "2022-01-24T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9025059,
+					-37.037274
+				]
+			},
+			"properties": {
+				"id": 4461,
+				"LocationName": "Shiv Mandir Temple Manurewa",
+				"Address": "43 Holmes Road, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T21:58:08.000Z",
+				"DateTo": "2022-01-25T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7582024,
+					-36.84842039999999
+				]
+			},
+			"properties": {
+				"id": 4462,
+				"LocationName": "Les Mills Auckland City",
+				"Address": "186 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T16:00:00.000Z",
+				"DateTo": "2022-01-26T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7802475,
+					-41.3144556
+				]
+			},
+			"properties": {
+				"id": 4463,
+				"LocationName": "New World Newtown",
+				"Address": "195 Riddiford Street, Newtown, Wellington 6021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T22:45:00.000Z",
+				"DateTo": "2022-01-23T00:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.9977427,
+					-37.9508285
+				]
+			},
+			"properties": {
+				"id": 4464,
+				"LocationName": "Dawson & Centremens Hairdresser Whakatane",
+				"Address": "91 The Strand, Whakatane 3120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T02:00:00.000Z",
+				"DateTo": "2022-01-21T02:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6691579,
+					-39.4806685
+				]
+			},
+			"properties": {
+				"id": 4465,
+				"LocationName": "National Army Museum Waiouru",
+				"Address": "Cnr State Highway 1 & Hasset Drive, Waiouru 4861",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T22:42:41.000Z",
+				"DateTo": "2022-01-26T22:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.5978207,
+					-40.3445073
+				]
+			},
+			"properties": {
+				"id": 4466,
+				"LocationName": "Coronation Park Toilets",
+				"Address": "Coronation Park, Tremaine Avenue, Takaro, Palmerston North 4410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T05:00:00.000Z",
+				"DateTo": "2022-01-28T05:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7766575,
+					-41.2894997
+				]
+			},
+			"properties": {
+				"id": 4467,
+				"LocationName": "West Plaza Hotel Te Aro",
+				"Address": "110 Wakefield Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T05:39:43.000Z",
+				"DateTo": "2022-01-26T06:09:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8412792,
+					-36.9637736
+				]
+			},
+			"properties": {
+				"id": 4468,
+				"LocationName": "Elixir Espresso Middlemore Hospital",
+				"Address": "100 Hospital Road, Mangere East, Auckland 2025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T19:00:00.000Z",
+				"DateTo": "2022-01-24T20:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.871862,
+					-39.4687236
+				]
+			},
+			"properties": {
+				"id": 4469,
+				"LocationName": "Bay Espresso Café and Bar Hawkes Bay Airport",
+				"Address": "111 Main North Road, Westshore, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T20:00:00.000Z",
+				"DateTo": "2022-01-24T20:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7964823,
+					-41.3183505
+				]
+			},
+			"properties": {
+				"id": 4470,
+				"LocationName": "Pak N Save Kilbirnie",
+				"Address": "78 Rongotai Road, Kilbirnie, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T23:03:52.000Z",
+				"DateTo": "2022-01-23T23:23:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7367534,
+					-36.7711839
+				]
+			},
+			"properties": {
+				"id": 4471,
+				"LocationName": "Westlake Girls Uniform Shop Wairau Valley",
+				"Address": "10/54 View Road, Wairau Valley, Auckland 0627",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T22:12:30.000Z",
+				"DateTo": "2022-01-21T23:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7666575,
+					-36.8454264
+				]
+			},
+			"properties": {
+				"id": 4472,
+				"LocationName": "Gucci Auckland Central",
+				"Address": "48 Queen Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T00:44:31.000Z",
+				"DateTo": "2022-01-23T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9026693,
+					-37.1992046
+				]
+			},
+			"properties": {
+				"id": 4473,
+				"LocationName": "Countdown Pukekohe",
+				"Address": "Corner Tobin Street & Seddon Lane, Pukekohe, Auckland 2120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T03:00:00.000Z",
+				"DateTo": "2022-01-23T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6583448,
+					-43.54043679999999
+				]
+			},
+			"properties": {
+				"id": 4474,
+				"LocationName": "Ferry Road Pharmacy Waltham",
+				"Address": "244 Ferry Road, Waltham, Christchurch 8011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T02:30:00.000Z",
+				"DateTo": "2022-01-24T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8117272,
+					-41.3297448
+				]
+			},
+			"properties": {
+				"id": 4475,
+				"LocationName": "Wellington Domestic Airport Rongotai",
+				"Address": "28 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T18:09:01.000Z",
+				"DateTo": "2022-01-26T19:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2451763,
+					-37.7569614
+				]
+			},
+			"properties": {
+				"id": 4476,
+				"LocationName": "Private Event New Zealand Sikh Society Temple Te Rapa",
+				"Address": "6391 Te Rapa Road, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T21:00:00.000Z",
+				"DateTo": "2022-01-22T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9025059,
+					-37.037274
+				]
+			},
+			"properties": {
+				"id": 4477,
+				"LocationName": "Shiv Mandir Temple Manurewa",
+				"Address": "43 Holmes Road, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T05:43:46.000Z",
+				"DateTo": "2022-01-24T06:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7887053,
+					-37.006571
+				]
+			},
+			"properties": {
+				"id": 4478,
+				"LocationName": "Auckland Airport Regional Lounge Auckland Domestic Airport Māngere",
+				"Address": "1 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T03:45:00.000Z",
+				"DateTo": "2022-01-23T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2841805,
+					-37.7906829
+				]
+			},
+			"properties": {
+				"id": 4479,
+				"LocationName": "Paasha Cafe & Mezze Bar Hamilton",
+				"Address": "7 Alexandra Street, Hamilton Central, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T08:00:00.000Z",
+				"DateTo": "2022-01-22T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.0109026,
+					-41.1097239
+				]
+			},
+			"properties": {
+				"id": 4480,
+				"LocationName": "Countdown Motueka",
+				"Address": "108 High Street, Motueka, Motueka 7120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T07:42:00.000Z",
+				"DateTo": "2022-01-21T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2453208,
+					-37.7964019
+				]
+			},
+			"properties": {
+				"id": 4481,
+				"LocationName": "Countdown Dinsdale, Hamilton",
+				"Address": "47 Whatawhata Road, Dinsdale, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T23:45:00.000Z",
+				"DateTo": "2022-01-21T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1832297,
+					-38.1301877
+				]
+			},
+			"properties": {
+				"id": 4482,
+				"LocationName": "TWS Paradise Valley Speedway Rotorua",
+				"Address": "105 Paradise Valley Road, Rotorua 3072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T06:30:00.000Z",
+				"DateTo": "2022-01-21T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8099115,
+					-41.33467830000001
+				]
+			},
+			"properties": {
+				"id": 4483,
+				"LocationName": "Wellington Domestic Airport Rongotai",
+				"Address": "1 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T17:30:00.000Z",
+				"DateTo": "2022-01-23T20:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9053948,
+					-36.97350309999999
+				]
+			},
+			"properties": {
+				"id": 4484,
+				"LocationName": "Summerset by the Park Flat Bush",
+				"Address": "7 Flat Bush School Road, Flat Bush, Auckland 2019",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T20:00:00.000Z",
+				"DateTo": "2022-01-21T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9026693,
+					-37.1992046
+				]
+			},
+			"properties": {
+				"id": 4485,
+				"LocationName": "Countdown Pukekohe",
+				"Address": "Corner Tobin Street and Seddon Lane, Pukekohe, Auckland 2120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T03:00:00.000Z",
+				"DateTo": "2022-01-24T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7086681,
+					-36.7285422
+				]
+			},
+			"properties": {
+				"id": 4486,
+				"LocationName": "Event Cinemas, Westfield Albany",
+				"Address": "Westfield Albany219 Don McKinnon Drive, Albany, Auckland 0632",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T01:30:54.000Z",
+				"DateTo": "2022-01-21T04:10:00.000Z"
+			}
 		}
 	]
 }
