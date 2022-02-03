@@ -75981,6 +75981,44 @@
 				"DateFrom": "2022-01-29T03:00:00.000Z",
 				"DateTo": "2022-01-29T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8709714,
+					-39.6235293
+				]
+			},
+			"properties": {
+				"id": 4242,
+				"LocationName": "Hawkes Bay Polo Club Waipatu",
+				"Address": "Bennett Road, Waipatu, 4172",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T00:30:00.000Z",
+				"DateTo": "2022-01-30T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7582024,
+					-36.84842039999999
+				]
+			},
+			"properties": {
+				"id": 4243,
+				"LocationName": "Les Mills Auckland City",
+				"Address": "186 Victoria Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T16:00:00.000Z",
+				"DateTo": "2022-01-23T23:00:00.000Z"
+			}
 		}
 	]
 }
