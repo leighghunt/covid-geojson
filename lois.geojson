@@ -76646,6 +76646,44 @@
 				"DateFrom": "2022-01-24T04:15:00.000Z",
 				"DateTo": "2022-01-24T05:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8875099,
+					-36.9612856
+				]
+			},
+			"properties": {
+				"id": 4277,
+				"LocationName": "Ōtara Liquor Spot Ōtara",
+				"Address": "271 East Tamaki Road, Ōtara, Auckland 2023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T06:00:00.000Z",
+				"DateTo": "2022-01-24T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9256384,
+					-37.0736114
+				]
+			},
+			"properties": {
+				"id": 4278,
+				"LocationName": "McDonald's Karaka",
+				"Address": "47 Harbourside Drive, Karaka, Papakura 2113",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T02:30:00.000Z",
+				"DateTo": "2022-01-24T03:00:00.000Z"
+			}
 		}
 	]
 }
