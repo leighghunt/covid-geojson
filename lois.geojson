@@ -76114,6 +76114,120 @@
 				"DateFrom": "2022-01-28T18:45:00.000Z",
 				"DateTo": "2022-01-29T04:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2591478,
+					-35.0993388
+				]
+			},
+			"properties": {
+				"id": 4249,
+				"LocationName": "PAK'nSAVE Kaitaia",
+				"Address": "111 North Road, Kaitaia 0410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T01:00:00.000Z",
+				"DateTo": "2022-01-21T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7926962,
+					-37.0058952
+				]
+			},
+			"properties": {
+				"id": 4250,
+				"LocationName": "Subway Auckland Airport Domestic Terminal",
+				"Address": "9 Andrew McKee Avenue, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T06:10:00.000Z",
+				"DateTo": "2022-01-23T06:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5399694,
+					-43.4879482
+				]
+			},
+			"properties": {
+				"id": 4251,
+				"LocationName": "Christchurch Airport Terminal",
+				"Address": "30 Durey Road, Christchurch Airport, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T00:30:00.000Z",
+				"DateTo": "2022-01-26T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.962668,
+					-35.217784
+				]
+			},
+			"properties": {
+				"id": 4252,
+				"LocationName": "Kerikeri Mission Station Kerikeri",
+				"Address": "246 Kerikeri Road, Kerikeri, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T21:57:14.000Z",
+				"DateTo": "2022-01-22T22:07:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2603855,
+					-35.0980168
+				]
+			},
+			"properties": {
+				"id": 4253,
+				"LocationName": "The Warehouse Kaitaia",
+				"Address": "2 North Park Drive, Kaitaia 0410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T23:00:00.000Z",
+				"DateTo": "2022-01-21T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8099115,
+					-41.33467830000001
+				]
+			},
+			"properties": {
+				"id": 4254,
+				"LocationName": "Jetstar Check-In Wellington Domestic Airport",
+				"Address": "1 Stewart Duff Drive, Rongotai, Wellington 6022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T17:30:00.000Z",
+				"DateTo": "2022-01-23T20:40:00.000Z"
+			}
 		}
 	]
 }
