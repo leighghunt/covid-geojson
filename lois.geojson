@@ -76684,6 +76684,405 @@
 				"DateFrom": "2022-01-24T02:30:00.000Z",
 				"DateTo": "2022-01-24T03:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.8535394,
+					-35.0202246
+				]
+			},
+			"properties": {
+				"id": 4279,
+				"LocationName": "Wainui Marae Kaeo",
+				"Address": "66A Wainui Valley Road, Kaeo 0478",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-20T22:00:00.000Z",
+				"DateTo": "2022-01-23T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2841722,
+					-41.2747837
+				]
+			},
+			"properties": {
+				"id": 4280,
+				"LocationName": "The Vic Public House Nelson",
+				"Address": "281 Trafalgar Street, Nelson 7010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T07:00:00.000Z",
+				"DateTo": "2022-01-26T08:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0227931,
+					-38.6640913
+				]
+			},
+			"properties": {
+				"id": 4281,
+				"LocationName": "Flight NZ8173 Auckland to Gisborne",
+				"Address": "Gisborne",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T06:25:00.000Z",
+				"DateTo": "2022-01-27T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2377669,
+					-38.1445987
+				]
+			},
+			"properties": {
+				"id": 4282,
+				"LocationName": "Flight NZ8238 Wellington to Rotorua",
+				"Address": "Rotorua",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T19:30:00.000Z",
+				"DateTo": "2022-01-26T20:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3271686,
+					-35.7303933
+				]
+			},
+			"properties": {
+				"id": 4283,
+				"LocationName": "Countdown Whangārei, Okara Park",
+				"Address": "5 Okara Drive, Whangārei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T06:00:00.000Z",
+				"DateTo": "2022-01-25T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7587804,
+					-36.7687719
+				]
+			},
+			"properties": {
+				"id": 4284,
+				"LocationName": "Stanley Avenue Wine Bar & Bistro, Milford",
+				"Address": "52 East Coast Road, Milford, Auckland 0620",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T03:00:00.000Z",
+				"DateTo": "2022-01-28T11:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2854052,
+					-41.2747971
+				]
+			},
+			"properties": {
+				"id": 4285,
+				"LocationName": "Flo & Frankie Nelson",
+				"Address": "244 Hardy Street, Nelson, Nelson 7010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T22:51:19.000Z",
+				"DateTo": "2022-01-25T23:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6535684,
+					-45.0341015
+				]
+			},
+			"properties": {
+				"id": 4286,
+				"LocationName": "Hotel St Moritz Queenstown",
+				"Address": "10-18 Brunswick Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T11:00:00.000Z",
+				"DateTo": "2022-01-21T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3257312,
+					-35.7246035
+				]
+			},
+			"properties": {
+				"id": 4287,
+				"LocationName": "Riverside Cafe Whangārei",
+				"Address": "14 Quayside, Whangārei 0110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T20:30:00.000Z",
+				"DateTo": "2022-01-23T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0794082,
+					-39.0571533
+				]
+			},
+			"properties": {
+				"id": 4288,
+				"LocationName": "Flight NZ5039 Auckland to New Plymouth",
+				"Address": "New Plymouth",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T23:35:00.000Z",
+				"DateTo": "2022-01-25T00:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4289,
+				"LocationName": "Flight NZ5008 Napier to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T20:55:00.000Z",
+				"DateTo": "2022-01-24T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7740044,
+					-41.2980625
+				]
+			},
+			"properties": {
+				"id": 4291,
+				"LocationName": "Preservatorium Cafe Te Aro",
+				"Address": "39 Webb Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T18:37:43.000Z",
+				"DateTo": "2022-01-24T19:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0836861,
+					-39.0574461
+				]
+			},
+			"properties": {
+				"id": 4292,
+				"LocationName": "Burger Fuel New Plymouth Indoor Seating",
+				"Address": "66 Eliot Street, New Plymouth 4310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T01:00:00.000Z",
+				"DateTo": "2022-01-25T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8654664,
+					-41.14122769999999
+				]
+			},
+			"properties": {
+				"id": 4293,
+				"LocationName": "SuperValue Cannons Creek Porirua",
+				"Address": "16 Warspite Avenue, Cannons Creek, Porirua 5024",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T22:05:00.000Z",
+				"DateTo": "2022-01-23T22:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9044638,
+					-41.2095956
+				]
+			},
+			"properties": {
+				"id": 4294,
+				"LocationName": "Synergy Hair Queensgate Lower Hutt",
+				"Address": "Cnr Queens Drive and Bunny Street, Hutt Central, Lower Hutt 5010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-23T03:00:59.000Z",
+				"DateTo": "2022-01-23T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9475298,
+					-35.2287507
+				]
+			},
+			"properties": {
+				"id": 4295,
+				"LocationName": "Burger Fiasko Kerikeri",
+				"Address": "60 Kerikeri Road, Kerikeri 0230",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T02:30:00.000Z",
+				"DateTo": "2022-01-27T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0836861,
+					-39.0574461
+				]
+			},
+			"properties": {
+				"id": 4296,
+				"LocationName": "Burger Fuel New Plymouth Takeaway Customers",
+				"Address": "66 Eliot Street, New Plymouth 4310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T01:00:00.000Z",
+				"DateTo": "2022-01-25T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4297,
+				"LocationName": "Flight NZ8853 Nelson to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T04:30:00.000Z",
+				"DateTo": "2022-01-24T05:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4298,
+				"LocationName": "Flight NZ8847 Nelson to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T00:20:00.000Z",
+				"DateTo": "2022-01-24T01:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.88600149999999,
+					36.0989074
+				]
+			},
+			"properties": {
+				"id": 4299,
+				"LocationName": "Flight NZ8848 Christchurch - Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T01:30:00.000Z",
+				"DateTo": "2022-01-26T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.88600149999999,
+					36.0989074
+				]
+			},
+			"properties": {
+				"id": 4300,
+				"LocationName": "Flight NZ8852 Christchurch to Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T03:00:00.000Z",
+				"DateTo": "2022-01-24T04:05:00.000Z"
+			}
 		}
 	]
 }
