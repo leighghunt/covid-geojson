@@ -80769,6 +80769,101 @@
 				"DateFrom": "2022-01-30T04:30:00.000Z",
 				"DateTo": "2022-01-30T05:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4496,
+				"LocationName": "Barrier Air Flight Great Barrier to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-29T04:00:00.000Z",
+				"DateTo": "2022-01-29T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4497,
+				"LocationName": "Flight NZ0535 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T22:00:00.000Z",
+				"DateTo": "2022-01-28T23:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2775617,
+					-38.1477098
+				]
+			},
+			"properties": {
+				"id": 4498,
+				"LocationName": "Good Eastern Taphouse Outdoor Courtyard Lynmore",
+				"Address": "279 Te Ngae Road, Lynmore, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T04:30:00.000Z",
+				"DateTo": "2022-01-28T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.9472028,
+					-35.2294059
+				]
+			},
+			"properties": {
+				"id": 4499,
+				"LocationName": "Flight NZ8274 Auckland to Kerikeri",
+				"Address": "Kerikeri",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-21T22:00:00.000Z",
+				"DateTo": "2022-01-21T22:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4500,
+				"LocationName": "Flight JQ237 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-24T03:00:00.000Z",
+				"DateTo": "2022-01-24T04:30:00.000Z"
+			}
 		}
 	]
 }
