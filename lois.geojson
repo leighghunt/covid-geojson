@@ -80693,6 +80693,63 @@
 				"DateFrom": "2022-01-28T18:00:00.000Z",
 				"DateTo": "2022-01-28T22:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8599694,
+					-36.972888
+				]
+			},
+			"properties": {
+				"id": 4492,
+				"LocationName": "Papatoetoe Centennial Pool and Leisure Centre Papatoetoe *CHILDRENS POOLS*",
+				"Address": "17 Sutton Crescent, Papatoetoe, Papakura 2110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T22:30:00.000Z",
+				"DateTo": "2022-01-26T23:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9019123,
+					-36.9618417
+				]
+			},
+			"properties": {
+				"id": 4493,
+				"LocationName": "ZERO-2-100 Fitness Cardio Room Flat Bush",
+				"Address": "308 Te Irirangi Drive, Flat Bush, Auckland 2013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-29T18:00:00.000Z",
+				"DateTo": "2022-01-29T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9019123,
+					-36.9618417
+				]
+			},
+			"properties": {
+				"id": 4494,
+				"LocationName": "Zero-2-100 Fitness Flat Bush",
+				"Address": "308 Te Irirangi Drive, Flat Bush, Auckland 2013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T18:00:00.000Z",
+				"DateTo": "2022-01-30T22:00:00.000Z"
+			}
 		}
 	]
 }
