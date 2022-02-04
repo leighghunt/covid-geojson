@@ -81339,6 +81339,120 @@
 				"DateFrom": "2022-01-28T01:00:00.000Z",
 				"DateTo": "2022-01-28T01:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7966755,
+					-36.9758489
+				]
+			},
+			"properties": {
+				"id": 4526,
+				"LocationName": "Central Bakery Māngere",
+				"Address": "745 Massey Road, Māngere, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T01:00:00.000Z",
+				"DateTo": "2022-01-28T01:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7727092,
+					-36.7866642
+				]
+			},
+			"properties": {
+				"id": 4527,
+				"LocationName": "PD Nails Takapuna",
+				"Address": "94 Hurstmere Road, Takapuna, Auckland 0622",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T21:52:00.000Z",
+				"DateTo": "2022-01-27T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4528,
+				"LocationName": "Flight NZ0551 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-26T02:00:00.000Z",
+				"DateTo": "2022-01-26T03:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4529,
+				"LocationName": "Flight NZ622 Queenstown to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T02:00:00.000Z",
+				"DateTo": "2022-01-22T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4530,
+				"LocationName": "Flight Jetstar 252 Wellington-Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T18:59:00.000Z",
+				"DateTo": "2022-01-28T19:59:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4531,
+				"LocationName": "Flight NZ5082 Nelson to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T03:50:00.000Z",
+				"DateTo": "2022-01-27T05:01:00.000Z"
+			}
 		}
 	]
 }
