@@ -81301,6 +81301,25 @@
 				"DateFrom": "2022-01-27T03:50:00.000Z",
 				"DateTo": "2022-01-27T05:01:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7727092,
+					-36.7866642
+				]
+			},
+			"properties": {
+				"id": 4524,
+				"LocationName": "PD Nails Takapuna",
+				"Address": "94 Hurstmere Road, Takapuna, Auckland 0622",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T21:52:00.000Z",
+				"DateTo": "2022-01-27T23:30:00.000Z"
+			}
 		}
 	]
 }
