@@ -81244,6 +81244,63 @@
 				"DateFrom": "2022-01-22T02:00:00.000Z",
 				"DateTo": "2022-01-22T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7966755,
+					-36.9758489
+				]
+			},
+			"properties": {
+				"id": 4521,
+				"LocationName": "Central Bakery Māngere 28/1/22",
+				"Address": "745 Massey Road, Māngere, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T01:00:00.000Z",
+				"DateTo": "2022-01-28T01:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4522,
+				"LocationName": "Flight Jetstar 252 Wellington-Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T18:59:00.000Z",
+				"DateTo": "2022-01-28T19:59:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4523,
+				"LocationName": "Flight NZ5082 Nelson to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T03:50:00.000Z",
+				"DateTo": "2022-01-27T05:01:00.000Z"
+			}
 		}
 	]
 }
