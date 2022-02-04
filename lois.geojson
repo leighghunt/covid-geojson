@@ -81320,6 +81320,25 @@
 				"DateFrom": "2022-01-27T21:52:00.000Z",
 				"DateTo": "2022-01-27T23:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7966755,
+					-36.9758489
+				]
+			},
+			"properties": {
+				"id": 4525,
+				"LocationName": "Central Bakery Māngere",
+				"Address": "745 Massey Road, Māngere, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T01:00:00.000Z",
+				"DateTo": "2022-01-28T01:15:00.000Z"
+			}
 		}
 	]
 }
