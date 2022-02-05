@@ -81453,6 +81453,44 @@
 				"DateFrom": "2022-01-27T03:50:00.000Z",
 				"DateTo": "2022-01-27T05:01:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8326676,
+					-36.8485225
+				]
+			},
+			"properties": {
+				"id": 4532,
+				"LocationName": "Private Event Tarka Indian Eatery Mission Bay",
+				"Address": "97A Tamaki Drive, Mission Bay, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T05:30:00.000Z",
+				"DateTo": "2022-01-30T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7497658,
+					-36.8694092
+				]
+			},
+			"properties": {
+				"id": 4533,
+				"LocationName": "F45 Training Mount Eden, 348 New North Rd., Kingsland",
+				"Address": "348 New North Road, Kingsland, Auckland 1021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T23:06:08.000Z",
+				"DateTo": "2022-01-26T00:15:00.000Z"
+			}
 		}
 	]
 }
