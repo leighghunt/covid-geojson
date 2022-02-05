@@ -81567,6 +81567,25 @@
 				"DateFrom": "2022-01-27T04:30:00.000Z",
 				"DateTo": "2022-01-27T10:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4538,
+				"LocationName": "Flight JQ253 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T18:59:00.000Z",
+				"DateTo": "2022-01-30T19:59:00.000Z"
+			}
 		}
 	]
 }
