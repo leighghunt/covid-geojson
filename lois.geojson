@@ -81586,6 +81586,139 @@
 				"DateFrom": "2022-01-30T18:59:00.000Z",
 				"DateTo": "2022-01-30T19:59:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9129622,
+					-36.9315344
+				]
+			},
+			"properties": {
+				"id": 4539,
+				"LocationName": "Hoyts Cinemas Botany Downs",
+				"Address": "588 Chapel Road, East Tamaki, Auckland 2013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T07:42:44.000Z",
+				"DateTo": "2022-01-30T10:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7497658,
+					-36.8694092
+				]
+			},
+			"properties": {
+				"id": 4540,
+				"LocationName": "F45 Training Mount Eden, 348 New North Rd., Kingsland",
+				"Address": "348 New North Road, Kingsland, Auckland 1021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T23:06:08.000Z",
+				"DateTo": "2022-01-26T00:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.136529,
+					-37.743339
+				]
+			},
+			"properties": {
+				"id": 4541,
+				"LocationName": "Private Event at Gurudwara Kalgidhar Sahib Pyes Pa",
+				"Address": "342 Cheyne Road, Pyes Pa, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T20:00:00.000Z",
+				"DateTo": "2022-01-29T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2830403,
+					-38.1434482
+				]
+			},
+			"properties": {
+				"id": 4542,
+				"LocationName": "Timezone Motion Entertainment Rotorua",
+				"Address": "346 Te Ngae Road, Lynmore, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T22:00:00.000Z",
+				"DateTo": "2022-01-29T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8326676,
+					-36.8485225
+				]
+			},
+			"properties": {
+				"id": 4543,
+				"LocationName": "Private Event Tarka Indian Eatery Mission Bay",
+				"Address": "97A Tamaki Drive, Mission Bay, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T05:30:00.000Z",
+				"DateTo": "2022-01-30T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1559816,
+					-37.8372523
+				]
+			},
+			"properties": {
+				"id": 4544,
+				"LocationName": "Private Event at Oropi Memorial Hall & Community Centre Tauranga",
+				"Address": "1295 Oropi Road, RD 3, Tauranga 3173",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T04:30:00.000Z",
+				"DateTo": "2022-01-27T10:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4545,
+				"LocationName": "Flight JQ253 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T18:59:00.000Z",
+				"DateTo": "2022-01-30T19:59:00.000Z"
+			}
 		}
 	]
 }
