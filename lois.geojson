@@ -81491,6 +81491,25 @@
 				"DateFrom": "2022-01-25T23:06:08.000Z",
 				"DateTo": "2022-01-26T00:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2830403,
+					-38.1434482
+				]
+			},
+			"properties": {
+				"id": 4534,
+				"LocationName": "Timezone Motion Entertainment Rotorua",
+				"Address": "346 Te Ngae Road, Lynmore, Rotorua 3010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T22:00:00.000Z",
+				"DateTo": "2022-01-29T01:00:00.000Z"
+			}
 		}
 	]
 }
