@@ -81738,6 +81738,101 @@
 				"DateFrom": "2022-01-29T18:00:00.000Z",
 				"DateTo": "2022-02-05T02:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8014652,
+					-36.9539343
+				]
+			},
+			"properties": {
+				"id": 4547,
+				"LocationName": "Church of Jesus Christ of the Latter Day Saints Favona",
+				"Address": "15 Robertson Road, Favona, Auckland 2024",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-02T06:00:00.000Z",
+				"DateTo": "2022-02-02T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7497658,
+					-36.8694092
+				]
+			},
+			"properties": {
+				"id": 4548,
+				"LocationName": "F45 Training Mount Eden Kingsland",
+				"Address": "348 New North Road, Kingsland, Auckland 1021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-25T23:06:08.000Z",
+				"DateTo": "2022-01-26T00:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8678278,
+					-36.9757808
+				]
+			},
+			"properties": {
+				"id": 4549,
+				"LocationName": "Church of Jesus Christ of the Latter Day Saints Papatoetoe",
+				"Address": "446 Great South Road, Papatoetoe, Auckland 2025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-29T22:30:00.000Z",
+				"DateTo": "2022-01-30T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7622191,
+					-36.8430623
+				]
+			},
+			"properties": {
+				"id": 4550,
+				"LocationName": "O'Hagan's Irish Bar Auckland",
+				"Address": "103 Customs Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T07:00:00.000Z",
+				"DateTo": "2022-01-30T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7466848,
+					-36.8566419
+				]
+			},
+			"properties": {
+				"id": 4551,
+				"LocationName": "Hoppers Garden Bar Grey Lynn",
+				"Address": "134B Ponsonby Road, Grey Lynn, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T07:00:00.000Z",
+				"DateTo": "2022-01-30T11:00:00.000Z"
+			}
 		}
 	]
 }
