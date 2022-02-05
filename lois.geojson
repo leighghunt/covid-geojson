@@ -81510,6 +81510,25 @@
 				"DateFrom": "2022-01-28T22:00:00.000Z",
 				"DateTo": "2022-01-29T01:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9129622,
+					-36.9315344
+				]
+			},
+			"properties": {
+				"id": 4535,
+				"LocationName": "Hoyts Cinemas Botany Downs",
+				"Address": "588 Chapel Road, East Tamaki, Auckland 2013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T07:42:44.000Z",
+				"DateTo": "2022-01-30T10:30:00.000Z"
+			}
 		}
 	]
 }
