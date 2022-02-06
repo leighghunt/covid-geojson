@@ -81966,6 +81966,63 @@
 				"DateFrom": "2022-02-04T20:00:00.000Z",
 				"DateTo": "2022-02-04T21:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.25919,
+					-37.7921992
+				]
+			},
+			"properties": {
+				"id": 4559,
+				"LocationName": "Islamic Centre Masjid Frankton",
+				"Address": "45 Bandon Street, Frankton, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T07:00:00.000Z",
+				"DateTo": "2022-01-30T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3365986,
+					-37.7311689
+				]
+			},
+			"properties": {
+				"id": 4560,
+				"LocationName": "Private Event: Guru Nanak Sikh Temple Puketaha",
+				"Address": "399 Greenhill Road, RD 1, Hamilton 3281",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T19:45:00.000Z",
+				"DateTo": "2022-01-31T04:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.25919,
+					-37.7921992
+				]
+			},
+			"properties": {
+				"id": 4561,
+				"LocationName": "Islamic Center Masjid Frankton",
+				"Address": "45 Bandon Street, Frankton, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-31T07:15:00.000Z",
+				"DateTo": "2022-01-31T09:15:00.000Z"
+			}
 		}
 	]
 }
