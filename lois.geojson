@@ -81947,6 +81947,25 @@
 				"DateFrom": "2022-02-02T06:00:00.000Z",
 				"DateTo": "2022-02-02T07:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7876044,
+					-41.2921328
+				]
+			},
+			"properties": {
+				"id": 4558,
+				"LocationName": "One80 Restaurant, Copthorne Hotel, Oriental Bay",
+				"Address": "100 Oriental Parade, Oriental Bay, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T20:00:00.000Z",
+				"DateTo": "2022-02-04T21:30:00.000Z"
+			}
 		}
 	]
 }
