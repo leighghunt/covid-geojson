@@ -82346,6 +82346,25 @@
 				"DateFrom": "2022-02-04T00:00:00.000Z",
 				"DateTo": "2022-02-04T01:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0227132,
+					-38.671849
+				]
+			},
+			"properties": {
+				"id": 4579,
+				"LocationName": "Gisborne City Vintage Railway Gisborne",
+				"Address": "109 Customhouse Street, Awapuni, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T00:00:00.000Z",
+				"DateTo": "2022-01-30T02:30:00.000Z"
+			}
 		}
 	]
 }
