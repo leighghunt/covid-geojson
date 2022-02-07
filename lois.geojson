@@ -82441,6 +82441,82 @@
 				"DateFrom": "2022-01-30T00:00:00.000Z",
 				"DateTo": "2022-01-30T02:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2275612,
+					-38.1194991
+				]
+			},
+			"properties": {
+				"id": 4584,
+				"LocationName": "Taco Bell Fairy Springs",
+				"Address": "5 Maisey Place, Fairy Springs, Rotorua 3015",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T06:00:00.000Z",
+				"DateTo": "2022-02-03T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.91164,
+					-36.8705714
+				]
+			},
+			"properties": {
+				"id": 4585,
+				"LocationName": "Gorkha Eastern Beach Restaurant Eastern Beach",
+				"Address": "1 Eastern Beach Road, Eastern Beach, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T22:30:00.000Z",
+				"DateTo": "2022-01-29T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.91164,
+					-36.8705714
+				]
+			},
+			"properties": {
+				"id": 4586,
+				"LocationName": "Gorkha Eastern Beach Restaurant Eastern Beach",
+				"Address": "1 Eastern Beach Road, Eastern Beach, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T22:00:00.000Z",
+				"DateTo": "2022-01-28T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.91164,
+					-36.8705714
+				]
+			},
+			"properties": {
+				"id": 4587,
+				"LocationName": "Gorkha Eastern Beach Indian Restaurant Eastern Beach",
+				"Address": "1 Eastern Beach Road, Eastern Beach, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-29T22:00:00.000Z",
+				"DateTo": "2022-01-30T09:00:00.000Z"
+			}
 		}
 	]
 }
