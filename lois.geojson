@@ -82365,6 +82365,25 @@
 				"DateFrom": "2022-01-30T00:00:00.000Z",
 				"DateTo": "2022-01-30T02:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7914389,
+					-37.0057603
+				]
+			},
+			"properties": {
+				"id": 4580,
+				"LocationName": "Flight GB585 Auckland to Great Barrier",
+				"Address": "Andrew McKee Avenue, Māngere, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-28T18:00:00.000Z",
+				"DateTo": "2022-01-28T18:30:00.000Z"
+			}
 		}
 	]
 }
