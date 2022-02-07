@@ -82099,6 +82099,44 @@
 				"DateFrom": "2022-01-31T06:15:00.000Z",
 				"DateTo": "2022-01-31T07:20:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.185924,
+					-41.3384471
+				]
+			},
+			"properties": {
+				"id": 4566,
+				"LocationName": "PAK'nSAVE Richmond",
+				"Address": "12 Sundial Square, Richmond, Richmond 7020",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T00:00:00.000Z",
+				"DateTo": "2022-02-04T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0180892,
+					-38.67066459999999
+				]
+			},
+			"properties": {
+				"id": 4567,
+				"LocationName": "Waikanae Holiday Park Gisborne",
+				"Address": "280 Grey Street, Awapuni, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T23:00:00.000Z",
+				"DateTo": "2022-01-29T23:00:00.000Z"
+			}
 		}
 	]
 }
