@@ -82327,6 +82327,25 @@
 				"DateFrom": "2022-01-31T06:15:00.000Z",
 				"DateTo": "2022-01-31T07:20:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.186093,
+					-41.3402222
+				]
+			},
+			"properties": {
+				"id": 4578,
+				"LocationName": "Hey Sushi Richmond",
+				"Address": "216 Queen Street, Richmond, Richmond 7020",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T00:00:00.000Z",
+				"DateTo": "2022-02-04T01:00:00.000Z"
+			}
 		}
 	]
 }
