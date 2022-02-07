@@ -82137,6 +82137,196 @@
 				"DateFrom": "2022-01-22T23:00:00.000Z",
 				"DateTo": "2022-01-29T23:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.185924,
+					-41.3384471
+				]
+			},
+			"properties": {
+				"id": 4568,
+				"LocationName": "PAK'nSAVE Richmond",
+				"Address": "12 Sundial Square, Richmond, Richmond 7020",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T00:00:00.000Z",
+				"DateTo": "2022-02-04T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.25919,
+					-37.7921992
+				]
+			},
+			"properties": {
+				"id": 4569,
+				"LocationName": "Islamic Center Masjid Frankton",
+				"Address": "45 Bandon Street, Frankton, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-31T07:15:00.000Z",
+				"DateTo": "2022-01-31T09:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.25919,
+					-37.7921992
+				]
+			},
+			"properties": {
+				"id": 4570,
+				"LocationName": "Islamic Centre Masjid Frankton",
+				"Address": "45 Bandon Street, Frankton, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-01T05:00:00.000Z",
+				"DateTo": "2022-02-01T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.25919,
+					-37.7921992
+				]
+			},
+			"properties": {
+				"id": 4571,
+				"LocationName": "Islamic Centre Masjid Frankton",
+				"Address": "45 Bandon Street, Frankton, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T07:00:00.000Z",
+				"DateTo": "2022-01-30T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.070453,
+					-38.6896494
+				]
+			},
+			"properties": {
+				"id": 4572,
+				"LocationName": "The Coffee Club Taupō",
+				"Address": "32 Roberts Street, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-01T20:30:00.000Z",
+				"DateTo": "2022-02-01T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0180892,
+					-38.67066459999999
+				]
+			},
+			"properties": {
+				"id": 4573,
+				"LocationName": "Waikanae Holiday Park Gisborne",
+				"Address": "280 Grey Street, Awapuni, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T23:00:00.000Z",
+				"DateTo": "2022-01-29T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.3365986,
+					-37.7311689
+				]
+			},
+			"properties": {
+				"id": 4574,
+				"LocationName": "Private Event: Guru Nanak Sikh Temple Puketaha",
+				"Address": "399 Greenhill Road, RD 1, Hamilton 3281",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T19:45:00.000Z",
+				"DateTo": "2022-01-31T04:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7876044,
+					-41.2921328
+				]
+			},
+			"properties": {
+				"id": 4575,
+				"LocationName": "One80 Restaurant, Copthorne Hotel, Oriental Bay",
+				"Address": "100 Oriental Parade, Oriental Bay, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T20:00:00.000Z",
+				"DateTo": "2022-02-04T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.88600149999999,
+					36.0989074
+				]
+			},
+			"properties": {
+				"id": 4576,
+				"LocationName": "Flight NZ5067 Auckland to Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T21:45:00.000Z",
+				"DateTo": "2022-02-03T23:07:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4577,
+				"LocationName": "Flight NZ453 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-31T06:15:00.000Z",
+				"DateTo": "2022-01-31T07:20:00.000Z"
+			}
 		}
 	]
 }
