@@ -82023,6 +82023,82 @@
 				"DateFrom": "2022-01-31T07:15:00.000Z",
 				"DateTo": "2022-01-31T09:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.25919,
+					-37.7921992
+				]
+			},
+			"properties": {
+				"id": 4562,
+				"LocationName": "Islamic Centre Masjid Frankton",
+				"Address": "45 Bandon Street, Frankton, Hamilton 3204",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-01T05:00:00.000Z",
+				"DateTo": "2022-02-01T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.070453,
+					-38.6896494
+				]
+			},
+			"properties": {
+				"id": 4563,
+				"LocationName": "The Coffee Club Taupō",
+				"Address": "32 Roberts Street, Taupo 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-01T20:30:00.000Z",
+				"DateTo": "2022-02-01T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.88600149999999,
+					36.0989074
+				]
+			},
+			"properties": {
+				"id": 4564,
+				"LocationName": "Flight NZ5067 Auckland to Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T21:45:00.000Z",
+				"DateTo": "2022-02-03T23:07:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4565,
+				"LocationName": "Flight NZ453 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-31T06:15:00.000Z",
+				"DateTo": "2022-01-31T07:20:00.000Z"
+			}
 		}
 	]
 }
