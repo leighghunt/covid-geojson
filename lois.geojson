@@ -82517,6 +82517,63 @@
 				"DateFrom": "2022-01-29T22:00:00.000Z",
 				"DateTo": "2022-01-30T09:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.91164,
+					-36.8705714
+				]
+			},
+			"properties": {
+				"id": 4588,
+				"LocationName": "Gorkha Eastern Beach Indian Restaurant Eastern Beach",
+				"Address": "1 Eastern Beach Road, Eastern Beach, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-01T22:30:00.000Z",
+				"DateTo": "2022-02-02T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.91164,
+					-36.8705714
+				]
+			},
+			"properties": {
+				"id": 4589,
+				"LocationName": "Gorkha Eastern Beach Indian Restaurant Eastern Beach",
+				"Address": "1 Eastern Beach Road, Eastern Beach, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T22:30:00.000Z",
+				"DateTo": "2022-01-31T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.91164,
+					-36.8705714
+				]
+			},
+			"properties": {
+				"id": 4590,
+				"LocationName": "Gorkha Eastern Beach Indian Restaurant Eastern Beach",
+				"Address": "1 Eastern Beach Road, Eastern Beach, Auckland 2012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-31T22:30:00.000Z",
+				"DateTo": "2022-02-01T09:00:00.000Z"
+			}
 		}
 	]
 }
