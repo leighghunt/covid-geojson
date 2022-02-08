@@ -82840,6 +82840,44 @@
 				"DateFrom": "2022-02-04T21:30:00.000Z",
 				"DateTo": "2022-02-04T22:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4606,
+				"LocationName": "Flight NZ0566 Christchurch to Auckland",
+				"Address": "Auckland,",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T05:00:00.000Z",
+				"DateTo": "2022-01-30T06:25:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4607,
+				"LocationName": "Bus 32 Jordan Road Mangere to Otahuhu Station",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-27T00:15:00.000Z",
+				"DateTo": "2022-01-27T00:40:00.000Z"
+			}
 		}
 	]
 }
