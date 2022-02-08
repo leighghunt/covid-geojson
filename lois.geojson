@@ -82821,6 +82821,25 @@
 				"DateFrom": "2022-02-04T23:34:44.000Z",
 				"DateTo": "2022-02-05T00:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8787153,
+					-41.22524019999999
+				]
+			},
+			"properties": {
+				"id": 4604,
+				"LocationName": "Clock Tower Bakery & Coffee Shop Petone",
+				"Address": "193 Jackson Street, Petone, Lower Hutt 5012",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T21:30:00.000Z",
+				"DateTo": "2022-02-04T22:30:00.000Z"
+			}
 		}
 	]
 }
