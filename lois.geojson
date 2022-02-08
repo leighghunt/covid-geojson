@@ -82745,6 +82745,44 @@
 				"DateFrom": "2022-02-02T05:37:00.000Z",
 				"DateTo": "2022-02-02T05:49:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0180892,
+					-38.67066459999999
+				]
+			},
+			"properties": {
+				"id": 4600,
+				"LocationName": "Waikanae Holiday Park Gisborne",
+				"Address": "280 Grey Street, Awapuni, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-22T23:00:00.000Z",
+				"DateTo": "2022-01-30T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1654272,
+					-37.6869653
+				]
+			},
+			"properties": {
+				"id": 4601,
+				"LocationName": "Bus 72B Stop Tauranga CBD Stand B to Stop Otumoetai Rd - Lydbrook Place",
+				"Address": "Tauranga",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-02T05:37:00.000Z",
+				"DateTo": "2022-02-02T05:49:00.000Z"
+			}
 		}
 	]
 }
