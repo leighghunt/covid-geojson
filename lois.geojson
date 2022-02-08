@@ -82783,6 +82783,44 @@
 				"DateFrom": "2022-02-02T05:37:00.000Z",
 				"DateTo": "2022-02-02T05:49:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7811069,
+					-41.2938389
+				]
+			},
+			"properties": {
+				"id": 4602,
+				"LocationName": "Chow Te Aro",
+				"Address": "45 Tory Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T23:34:44.000Z",
+				"DateTo": "2022-02-05T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7811069,
+					-41.2938389
+				]
+			},
+			"properties": {
+				"id": 4603,
+				"LocationName": "Chow Te Aro",
+				"Address": "45 Tory Street, Te Aro, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T23:34:44.000Z",
+				"DateTo": "2022-02-05T00:30:00.000Z"
+			}
 		}
 	]
 }
