@@ -83258,6 +83258,63 @@
 				"DateFrom": "2022-02-05T19:45:00.000Z",
 				"DateTo": "2022-02-05T20:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7307196,
+					-36.9058211
+				]
+			},
+			"properties": {
+				"id": 4629,
+				"LocationName": "Des Tradition Restaurant Mt Roskill",
+				"Address": "54 Stoddard Road, Mt Roskill, Auckland 1041",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-31T22:40:00.000Z",
+				"DateTo": "2022-02-01T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7307196,
+					-36.9058211
+				]
+			},
+			"properties": {
+				"id": 4630,
+				"LocationName": "Des Tradition Restaurant, Mt Roskill",
+				"Address": "54 Stoddard Road, Mt Roskill, Auckland 1041",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-01T22:40:00.000Z",
+				"DateTo": "2022-02-02T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6560992,
+					-45.0284346
+				]
+			},
+			"properties": {
+				"id": 4631,
+				"LocationName": "Skyline Gondola Queenstown",
+				"Address": "53 Brecon Street, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T02:30:00.000Z",
+				"DateTo": "2022-02-05T04:45:00.000Z"
+			}
 		}
 	]
 }
