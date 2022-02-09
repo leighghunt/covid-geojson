@@ -83011,6 +83011,25 @@
 				"DateFrom": "2022-02-04T03:45:00.000Z",
 				"DateTo": "2022-02-04T04:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6607258,
+					-40.9486161
+				]
+			},
+			"properties": {
+				"id": 4615,
+				"LocationName": "Mc Donald's Masterton",
+				"Address": "60 Chapel Street, Masterton 5810",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T00:00:00.000Z",
+				"DateTo": "2022-02-06T00:45:00.000Z"
+			}
 		}
 	]
 }
