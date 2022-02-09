@@ -82897,6 +82897,120 @@
 				"DateFrom": "2022-02-02T04:15:00.000Z",
 				"DateTo": "2022-02-02T06:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9260195,
+					-37.0475648
+				]
+			},
+			"properties": {
+				"id": 4609,
+				"LocationName": "Snap Fitness 24/7 Takanini",
+				"Address": "226 Great South Road, Takanini, Auckland 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T06:45:00.000Z",
+				"DateTo": "2022-02-03T08:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9244536,
+					-37.0465988
+				]
+			},
+			"properties": {
+				"id": 4610,
+				"LocationName": "F45 Training Takanini",
+				"Address": "212 Great South Road, Takanini, Auckland 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T17:00:00.000Z",
+				"DateTo": "2022-02-06T18:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9244536,
+					-37.0465988
+				]
+			},
+			"properties": {
+				"id": 4611,
+				"LocationName": "F45 Training Takanini",
+				"Address": "212 Great South Road, Takanini, Auckland 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T17:00:00.000Z",
+				"DateTo": "2022-02-04T18:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9244536,
+					-37.0465988
+				]
+			},
+			"properties": {
+				"id": 4612,
+				"LocationName": "F45 Training Takanini",
+				"Address": "212 Great South Road, Takanini, Auckland 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T03:45:00.000Z",
+				"DateTo": "2022-02-03T04:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9244536,
+					-37.0465988
+				]
+			},
+			"properties": {
+				"id": 4613,
+				"LocationName": "F45 Training Takanini",
+				"Address": "212 Great South Road, Takanini, Auckland 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T17:10:00.000Z",
+				"DateTo": "2022-02-07T18:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9244536,
+					-37.0465988
+				]
+			},
+			"properties": {
+				"id": 4614,
+				"LocationName": "F45 Training Takanini",
+				"Address": "212 Great South Road, Takanini, Auckland 2112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T03:45:00.000Z",
+				"DateTo": "2022-02-04T04:45:00.000Z"
+			}
 		}
 	]
 }
