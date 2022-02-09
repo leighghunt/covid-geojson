@@ -82878,6 +82878,25 @@
 				"DateFrom": "2022-01-27T00:15:00.000Z",
 				"DateTo": "2022-01-27T00:40:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2456848,
+					-37.7565429
+				]
+			},
+			"properties": {
+				"id": 4608,
+				"LocationName": "First Place Fitness Te Rapa Hamilton",
+				"Address": "614 Te Rapa Road, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-02T04:15:00.000Z",
+				"DateTo": "2022-02-02T06:00:00.000Z"
+			}
 		}
 	]
 }
