@@ -83809,6 +83809,25 @@
 				"DateFrom": "2022-02-03T07:00:00.000Z",
 				"DateTo": "2022-02-03T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6596703,
+					-45.0312637
+				]
+			},
+			"properties": {
+				"id": 4658,
+				"LocationName": "NZONE Skydiving Queenstown",
+				"Address": "35 Shotover Street, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T23:30:00.000Z",
+				"DateTo": "2022-02-05T00:45:00.000Z"
+			}
 		}
 	]
 }
