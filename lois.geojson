@@ -83315,6 +83315,25 @@
 				"DateFrom": "2022-02-05T02:30:00.000Z",
 				"DateTo": "2022-02-05T04:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0300718,
+					-38.6697327
+				]
+			},
+			"properties": {
+				"id": 4632,
+				"LocationName": "Lonestar Gisborne",
+				"Address": "60 The Esplanade, Inner Kaiti, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T05:30:00.000Z",
+				"DateTo": "2022-02-06T08:00:00.000Z"
+			}
 		}
 	]
 }
