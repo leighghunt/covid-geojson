@@ -84037,6 +84037,234 @@
 				"DateFrom": "2022-02-05T21:40:00.000Z",
 				"DateTo": "2022-02-05T22:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6606484,
+					-45.0322307
+				]
+			},
+			"properties": {
+				"id": 4670,
+				"LocationName": "The Bunker Queenstown",
+				"Address": "14 Cow Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T12:30:00.000Z",
+				"DateTo": "2022-02-05T13:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.1598444,
+					38.983025
+				]
+			},
+			"properties": {
+				"id": 4671,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T06:00:00.000Z",
+				"DateTo": "2022-02-05T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					169.1372875,
+					-44.6943073
+				]
+			},
+			"properties": {
+				"id": 4672,
+				"LocationName": "Scroggin Coffee and Eatery Wanaka",
+				"Address": "71 Ardmore Street, Wanaka 9305",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T21:40:00.000Z",
+				"DateTo": "2022-02-05T22:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					169.2063012,
+					-45.0489687
+				]
+			},
+			"properties": {
+				"id": 4673,
+				"LocationName": "Armando's Kitchen Italian Café/ Res",
+				"Address": "71 Melmore Terrace, Cromwell 9310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T23:24:18.000Z",
+				"DateTo": "2022-02-05T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4674,
+				"LocationName": "Flight JQ256 Wellington to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T00:00:00.000Z",
+				"DateTo": "2022-02-06T00:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6618296,
+					-45.0306884
+				]
+			},
+			"properties": {
+				"id": 4675,
+				"LocationName": "Liquor King Queenstown",
+				"Address": "58 Stanley Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T00:00:00.000Z",
+				"DateTo": "2022-02-05T00:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					169.2063012,
+					-45.0489687
+				]
+			},
+			"properties": {
+				"id": 4676,
+				"LocationName": "Armando's Kitchen Italian Café/ Res, Cromwell",
+				"Address": "71 Melmore Terrace, Cromwell 9310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T00:00:00.000Z",
+				"DateTo": "2022-02-08T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4677,
+				"LocationName": "Flight JQ259 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T21:30:00.000Z",
+				"DateTo": "2022-02-03T22:35:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6596703,
+					-45.0312637
+				]
+			},
+			"properties": {
+				"id": 4678,
+				"LocationName": "NZONE Skydiving Queenstown",
+				"Address": "35 Shotover Street, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T23:30:00.000Z",
+				"DateTo": "2022-02-05T00:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4679,
+				"LocationName": "Ballarat Bar, Queenstown 03/02/22",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T06:55:34.000Z",
+				"DateTo": "2022-02-03T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4680,
+				"LocationName": "Flight NZ628 Queenstown to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T07:30:00.000Z",
+				"DateTo": "2022-02-06T09:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					169.1360118,
+					-44.70764339999999
+				]
+			},
+			"properties": {
+				"id": 4681,
+				"LocationName": "Cardrona Hotel",
+				"Address": "2312 Cardrona Valley Road, RD 2, Wanaka 9382",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T04:18:46.000Z",
+				"DateTo": "2022-02-05T04:50:00.000Z"
+			}
 		}
 	]
 }
