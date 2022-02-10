@@ -83619,6 +83619,44 @@
 				"DateFrom": "2022-02-05T12:00:00.000Z",
 				"DateTo": "2022-02-05T14:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6619289,
+					-45.0329967
+				]
+			},
+			"properties": {
+				"id": 4648,
+				"LocationName": "The World Bar & Restaurant Queenstown",
+				"Address": "12B Church Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T11:00:00.000Z",
+				"DateTo": "2022-02-05T12:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4649,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T09:00:00.000Z",
+				"DateTo": "2022-02-05T11:00:00.000Z"
+			}
 		}
 	]
 }
