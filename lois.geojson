@@ -83505,6 +83505,120 @@
 				"DateFrom": "2022-02-04T06:30:00.000Z",
 				"DateTo": "2022-02-04T07:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					169.1939946,
+					-45.03617070000001
+				]
+			},
+			"properties": {
+				"id": 4642,
+				"LocationName": "BP 2go Cromwell",
+				"Address": "2 Iles Street, Cromwell 9310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T23:15:00.000Z",
+				"DateTo": "2022-02-04T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8391821,
+					-36.9145359
+				]
+			},
+			"properties": {
+				"id": 4643,
+				"LocationName": "Hoyts Cinemas Sylvia Park",
+				"Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T00:20:00.000Z",
+				"DateTo": "2022-02-07T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6604564,
+					-45.0325354
+				]
+			},
+			"properties": {
+				"id": 4644,
+				"LocationName": "The Sundeck Rooftop Bar Queenstown",
+				"Address": "Top Floor, 2 The Mal, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T08:00:00.000Z",
+				"DateTo": "2022-02-05T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6591074,
+					-45.0310176
+				]
+			},
+			"properties": {
+				"id": 4645,
+				"LocationName": "Jervois Steakhouse Queenstown",
+				"Address": "8 Duke Street, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T07:00:00.000Z",
+				"DateTo": "2022-02-03T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6618547,
+					-45.0322541
+				]
+			},
+			"properties": {
+				"id": 4646,
+				"LocationName": "Habana Boutique Rum Bar Queenstown",
+				"Address": "3 Searle Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T13:30:00.000Z",
+				"DateTo": "2022-02-05T15:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8746675,
+					-36.9602514
+				]
+			},
+			"properties": {
+				"id": 4647,
+				"LocationName": "Paradise Bar Otara",
+				"Address": "128 Bairds Road, Otara, Auckland 2023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T12:00:00.000Z",
+				"DateTo": "2022-02-05T14:00:00.000Z"
+			}
 		}
 	]
 }
