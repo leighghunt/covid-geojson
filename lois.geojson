@@ -83334,6 +83334,44 @@
 				"DateFrom": "2022-02-06T05:30:00.000Z",
 				"DateTo": "2022-02-06T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7307196,
+					-36.9058211
+				]
+			},
+			"properties": {
+				"id": 4633,
+				"LocationName": "Des Traditions Restaurant Mt Roskill",
+				"Address": "54 Stoddard Road, Mt Roskill, Auckland 1041",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-30T22:40:00.000Z",
+				"DateTo": "2022-01-31T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6584085,
+					-45.0325916
+				]
+			},
+			"properties": {
+				"id": 4634,
+				"LocationName": "My Thai Lounge Lounge Queenstown",
+				"Address": "69 Beach Street, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T06:30:00.000Z",
+				"DateTo": "2022-02-04T07:30:00.000Z"
+			}
 		}
 	]
 }
