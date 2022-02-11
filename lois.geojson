@@ -84607,6 +84607,101 @@
 				"DateFrom": "2022-02-05T23:34:04.000Z",
 				"DateTo": "2022-02-06T00:04:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4700,
+				"LocationName": "Flight NZ614 Queenstown to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T20:19:00.000Z",
+				"DateTo": "2022-02-05T22:03:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4701,
+				"LocationName": "Flight JQ252 Wellington to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T19:40:00.000Z",
+				"DateTo": "2022-02-06T20:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.1598444,
+					38.983025
+				]
+			},
+			"properties": {
+				"id": 4702,
+				"LocationName": "Winnies Gourmet Pizza Bar Queenstown  * PATRONS IN BOOTHS BY ENTRANCE AND TOILET *",
+				"Address": "7-9 The Mall, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T09:00:00.000Z",
+				"DateTo": "2022-02-04T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-76.1598444,
+					38.983025
+				]
+			},
+			"properties": {
+				"id": 4703,
+				"LocationName": "Winnies Gourmet Pizza Bar Queenstown *ALL OTHER PATRONS*",
+				"Address": "7-9 The Mall, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T09:00:00.000Z",
+				"DateTo": "2022-02-04T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0661734,
+					-41.1250155
+				]
+			},
+			"properties": {
+				"id": 4704,
+				"LocationName": "Longhorn Steak and Alehouse Upper Hutt Central",
+				"Address": "2 Main Street, Upper Hutt Central, Upper Hutt 5018",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T04:50:06.000Z",
+				"DateTo": "2022-02-07T06:30:00.000Z"
+			}
 		}
 	]
 }
