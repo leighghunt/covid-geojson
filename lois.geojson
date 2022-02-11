@@ -85120,6 +85120,63 @@
 				"DateFrom": "2022-02-07T20:30:00.000Z",
 				"DateTo": "2022-02-07T21:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8824389,
+					-36.9937252
+				]
+			},
+			"properties": {
+				"id": 4729,
+				"LocationName": "Manukau City Medical Centre Manukau",
+				"Address": "18 Manukau Station Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T20:30:00.000Z",
+				"DateTo": "2022-02-07T21:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					170.4793338,
+					-44.0060478
+				]
+			},
+			"properties": {
+				"id": 4730,
+				"LocationName": "Mackenzies Cafe Bar & Grill Lake Tekapo",
+				"Address": "State Highway 8, Lake Tekapo 7999",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T04:00:00.000Z",
+				"DateTo": "2022-02-06T04:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					169.1852028,
+					-44.703616
+				]
+			},
+			"properties": {
+				"id": 4731,
+				"LocationName": "Wanaka Lavendar Farm",
+				"Address": "36 Morris Road, RD 2, Wanaka 9382",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T23:30:00.000Z",
+				"DateTo": "2022-02-07T00:30:00.000Z"
+			}
 		}
 	]
 }
