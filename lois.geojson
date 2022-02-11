@@ -84493,6 +84493,82 @@
 				"DateFrom": "2022-02-05T06:00:00.000Z",
 				"DateTo": "2022-02-05T11:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6597118,
+					-45.0324129
+				]
+			},
+			"properties": {
+				"id": 4694,
+				"LocationName": "Vudu Cafe & Larder, Queenstown",
+				"Address": "16 Rees Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T02:08:32.000Z",
+				"DateTo": "2022-02-07T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7372513,
+					-45.02206779999999
+				]
+			},
+			"properties": {
+				"id": 4695,
+				"LocationName": "Air NZ Lounge Queenstown",
+				"Address": "1 Sir Henry Wigley Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T18:14:51.000Z",
+				"DateTo": "2022-02-07T20:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2456848,
+					-37.7565429
+				]
+			},
+			"properties": {
+				"id": 4696,
+				"LocationName": "First Place Fitness Te Rapa Hamilton",
+				"Address": "614 Te Rapa Road, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T03:00:00.000Z",
+				"DateTo": "2022-02-04T05:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8961284,
+					-36.9769258
+				]
+			},
+			"properties": {
+				"id": 4697,
+				"LocationName": "Waiting Area - Local Doctors - Dawson Road",
+				"Address": "124 Dawson Road, Clover Park, Auckland 2023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T00:30:00.000Z",
+				"DateTo": "2022-02-07T01:15:00.000Z"
+			}
 		}
 	]
 }
