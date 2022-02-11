@@ -84322,6 +84322,63 @@
 				"DateFrom": "2022-02-04T01:00:00.000Z",
 				"DateTo": "2022-02-04T11:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.4584523,
+					-41.21766239999999
+				]
+			},
+			"properties": {
+				"id": 4685,
+				"LocationName": "Cafe Medici Martinborough",
+				"Address": "9 Kitchener Street, Martinborough, Martinborough 5711",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T21:00:00.000Z",
+				"DateTo": "2022-02-05T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8016993,
+					-36.8871926
+				]
+			},
+			"properties": {
+				"id": 4686,
+				"LocationName": "Ellerslie Event Centre (Parade Room and Tote on Ascot), Remuera",
+				"Address": "80-100 Ascot Avenue, Remuera, Auckland 1051",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T01:00:00.000Z",
+				"DateTo": "2022-02-04T11:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7372513,
+					-45.02206779999999
+				]
+			},
+			"properties": {
+				"id": 4687,
+				"LocationName": "Queenstown Airport Frankton",
+				"Address": "1 Sir Henry Wigley Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T06:13:38.000Z",
+				"DateTo": "2022-02-06T07:30:00.000Z"
+			}
 		}
 	]
 }
