@@ -85177,6 +85177,82 @@
 				"DateFrom": "2022-02-06T23:30:00.000Z",
 				"DateTo": "2022-02-07T00:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6615603,
+					-45.03246009999999
+				]
+			},
+			"properties": {
+				"id": 4732,
+				"LocationName": "Cowboy Qt Ltd Queenstown",
+				"Address": "7 Searle Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T06:00:00.000Z",
+				"DateTo": "2022-02-06T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7415575,
+					-45.0257396
+				]
+			},
+			"properties": {
+				"id": 4733,
+				"LocationName": "New World Remarkables Park",
+				"Address": "1/12 Hawthorne Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T18:30:00.000Z",
+				"DateTo": "2022-02-05T18:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7377972,
+					-45.0174689
+				]
+			},
+			"properties": {
+				"id": 4734,
+				"LocationName": "Queenstown Events Centre",
+				"Address": "33 Joe O'Connell Drive, Frankton, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T05:45:00.000Z",
+				"DateTo": "2022-02-08T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7377972,
+					-45.0174689
+				]
+			},
+			"properties": {
+				"id": 4735,
+				"LocationName": "Queenstown Events Centre Gym",
+				"Address": "33 Joe O'Connell Drive, Frankton, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T05:45:00.000Z",
+				"DateTo": "2022-02-08T08:00:00.000Z"
+			}
 		}
 	]
 }
