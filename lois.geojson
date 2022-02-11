@@ -84379,6 +84379,120 @@
 				"DateFrom": "2022-02-06T06:13:38.000Z",
 				"DateTo": "2022-02-06T07:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2399421,
+					-37.72068340000001
+				]
+			},
+			"properties": {
+				"id": 4688,
+				"LocationName": "Te Ao Mārama United Pentecostal Church International Service Flagstaff",
+				"Address": "33 Hare Puke Drive, Flagstaff, Hamilton 3210",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T19:00:00.000Z",
+				"DateTo": "2022-02-04T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2399421,
+					-37.72068340000001
+				]
+			},
+			"properties": {
+				"id": 4689,
+				"LocationName": "Te Ao Mārama United Pentecostal Church International Service Flagstaff",
+				"Address": "33 Hare Puke Drive, Flagstaff, Hamilton 3210",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-01-29T18:30:00.000Z",
+				"DateTo": "2022-01-30T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					169.194283,
+					-45.0496568
+				]
+			},
+			"properties": {
+				"id": 4690,
+				"LocationName": "Cromwell Family Practice",
+				"Address": "2 McNulty Road, Cromwell 9310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-04T23:15:00.000Z",
+				"DateTo": "2022-02-05T00:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2399421,
+					-37.72068340000001
+				]
+			},
+			"properties": {
+				"id": 4691,
+				"LocationName": "Te Ao Mārama United Pentecostal Church International Service Flagstaff",
+				"Address": "33 Hare Puke Drive, Flagstaff, Hamilton 3210",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T18:30:00.000Z",
+				"DateTo": "2022-02-06T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6618296,
+					-45.0306884
+				]
+			},
+			"properties": {
+				"id": 4692,
+				"LocationName": "Super Liquor Queenstown",
+				"Address": "58 Stanley Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T00:00:00.000Z",
+				"DateTo": "2022-02-05T00:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.864082,
+					-37.0515112
+				]
+			},
+			"properties": {
+				"id": 4693,
+				"LocationName": "Weymouth Community Hall",
+				"Address": "11 Beihlers Road, Weymouth, Auckland 2103",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T06:00:00.000Z",
+				"DateTo": "2022-02-05T11:00:00.000Z"
+			}
 		}
 	]
 }
