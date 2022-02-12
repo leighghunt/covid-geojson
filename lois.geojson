@@ -85766,6 +85766,139 @@
 				"DateFrom": "2022-02-06T23:30:00.000Z",
 				"DateTo": "2022-02-08T04:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4763,
+				"LocationName": "Flight NZ945 dep from Rarotonga on 7th arr at Auckland on 8th",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T23:30:00.000Z",
+				"DateTo": "2022-02-08T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4764,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T06:55:34.000Z",
+				"DateTo": "2022-02-03T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					177.1046753,
+					-37.9819598
+				]
+			},
+			"properties": {
+				"id": 4765,
+				"LocationName": "Port Ohope General Store & Cafe *INDOOR DINING AREA*",
+				"Address": "311 Harbour Road, Ohope 3121",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T20:32:58.000Z",
+				"DateTo": "2022-02-05T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6584575,
+					-45.0322332
+				]
+			},
+			"properties": {
+				"id": 4766,
+				"LocationName": "Club Soho Queenstown",
+				"Address": "54 Shotover Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T09:00:00.000Z",
+				"DateTo": "2022-02-06T12:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8406658,
+					-36.9424829
+				]
+			},
+			"properties": {
+				"id": 4767,
+				"LocationName": "Local Doctors Otahuhu *WAITING ROOM*",
+				"Address": "15-23 Station Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T20:00:00.000Z",
+				"DateTo": "2022-02-07T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6602024,
+					-45.0324074
+				]
+			},
+			"properties": {
+				"id": 4768,
+				"LocationName": "Surreal Queenstown",
+				"Address": "7 Rees Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T11:45:00.000Z",
+				"DateTo": "2022-02-08T12:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4769,
+				"LocationName": "Flight NZ8328 Nelson to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T20:30:00.000Z",
+				"DateTo": "2022-02-08T21:00:00.000Z"
+			}
 		}
 	]
 }
