@@ -85937,6 +85937,44 @@
 				"DateFrom": "2022-02-10T00:35:00.000Z",
 				"DateTo": "2022-02-10T02:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.659709,
+					-45.0324686
+				]
+			},
+			"properties": {
+				"id": 4772,
+				"LocationName": "Pog Mahones Irish Pub & Restaurant Queenstown",
+				"Address": "14 Rees Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T22:00:00.000Z",
+				"DateTo": "2022-02-05T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4773,
+				"LocationName": "Flight JQ292 Queenstown to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T22:00:00.000Z",
+				"DateTo": "2022-02-06T23:45:00.000Z"
+			}
 		}
 	]
 }
