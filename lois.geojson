@@ -85728,6 +85728,44 @@
 				"DateFrom": "2022-02-06T09:00:00.000Z",
 				"DateTo": "2022-02-06T12:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4761,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T06:55:34.000Z",
+				"DateTo": "2022-02-03T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4762,
+				"LocationName": "Flight NZ945 dep from Rarotonga on 7th arr at Auckland on 8th",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T23:30:00.000Z",
+				"DateTo": "2022-02-08T04:30:00.000Z"
+			}
 		}
 	]
 }
