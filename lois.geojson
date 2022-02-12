@@ -85310,6 +85310,25 @@
 				"DateFrom": "2022-02-03T19:15:00.000Z",
 				"DateTo": "2022-02-03T20:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7439781,
+					-45.0136254
+				]
+			},
+			"properties": {
+				"id": 4739,
+				"LocationName": "Joes Garage Five Mile",
+				"Address": "Building 8/36 Grant Road, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T22:15:00.000Z",
+				"DateTo": "2022-02-06T23:30:00.000Z"
+			}
 		}
 	]
 }
