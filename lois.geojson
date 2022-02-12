@@ -85975,6 +85975,25 @@
 				"DateFrom": "2022-02-06T22:00:00.000Z",
 				"DateTo": "2022-02-06T23:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0698998,
+					-41.12522920000001
+				]
+			},
+			"properties": {
+				"id": 4774,
+				"LocationName": "CityFitness Upper Hutt Central",
+				"Address": "26 Princes Street, Upper Hutt Central, Upper Hutt 5018",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T00:40:00.000Z",
+				"DateTo": "2022-02-10T02:10:00.000Z"
+			}
 		}
 	]
 }
