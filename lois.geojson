@@ -85633,6 +85633,82 @@
 				"DateFrom": "2022-02-07T07:00:00.000Z",
 				"DateTo": "2022-02-07T13:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8406658,
+					-36.9424829
+				]
+			},
+			"properties": {
+				"id": 4756,
+				"LocationName": "Local Doctors Otahuhu *WAITING ROOM*",
+				"Address": "15-23 Station Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T20:00:00.000Z",
+				"DateTo": "2022-02-07T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6602024,
+					-45.0324074
+				]
+			},
+			"properties": {
+				"id": 4757,
+				"LocationName": "Surreal Queenstown",
+				"Address": "7 Rees Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T11:45:00.000Z",
+				"DateTo": "2022-02-08T12:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					177.1046753,
+					-37.9819598
+				]
+			},
+			"properties": {
+				"id": 4758,
+				"LocationName": "Port Ohope General Store & Cafe *INDOOR DINING AREA*",
+				"Address": "311 Harbour Road, Ohope 3121",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T20:32:58.000Z",
+				"DateTo": "2022-02-05T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4759,
+				"LocationName": "Flight NZ8328 Nelson to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T20:30:00.000Z",
+				"DateTo": "2022-02-08T21:00:00.000Z"
+			}
 		}
 	]
 }
