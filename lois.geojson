@@ -85253,6 +85253,63 @@
 				"DateFrom": "2022-02-08T05:45:00.000Z",
 				"DateTo": "2022-02-08T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.880093,
+					-36.9851318
+				]
+			},
+			"properties": {
+				"id": 4736,
+				"LocationName": "Auckland University Technology South Campus Manukau",
+				"Address": "640 Great South Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-02T20:00:00.000Z",
+				"DateTo": "2022-02-03T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.880093,
+					-36.9851318
+				]
+			},
+			"properties": {
+				"id": 4737,
+				"LocationName": "Auckland University Technology South Campus Manukau",
+				"Address": "640 Great South Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T20:00:00.000Z",
+				"DateTo": "2022-02-08T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.880093,
+					-36.9851318
+				]
+			},
+			"properties": {
+				"id": 4738,
+				"LocationName": "Auckland University Technology South Campus Manukau",
+				"Address": "640 Great South Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T19:15:00.000Z",
+				"DateTo": "2022-02-03T20:30:00.000Z"
+			}
 		}
 	]
 }
