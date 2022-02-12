@@ -85405,6 +85405,234 @@
 				"DateFrom": "2022-02-09T02:30:00.000Z",
 				"DateTo": "2022-02-09T05:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6615603,
+					-45.03246009999999
+				]
+			},
+			"properties": {
+				"id": 4744,
+				"LocationName": "Cowboy Qt Ltd Queenstown",
+				"Address": "7 Searle Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T06:00:00.000Z",
+				"DateTo": "2022-02-06T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7439781,
+					-45.0136254
+				]
+			},
+			"properties": {
+				"id": 4745,
+				"LocationName": "Joes Garage Five Mile",
+				"Address": "Building 8/36 Grant Road, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T22:15:00.000Z",
+				"DateTo": "2022-02-06T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8484657,
+					-36.9933159
+				]
+			},
+			"properties": {
+				"id": 4746,
+				"LocationName": "Private Event: Metotia Fou Hall",
+				"Address": "19 Noel Burnside Road, Wiri, Auckland 2025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T03:00:00.000Z",
+				"DateTo": "2022-02-05T10:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7415575,
+					-45.0257396
+				]
+			},
+			"properties": {
+				"id": 4747,
+				"LocationName": "New World Remarkables Park",
+				"Address": "1/12 Hawthorne Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T18:30:00.000Z",
+				"DateTo": "2022-02-05T18:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7377972,
+					-45.0174689
+				]
+			},
+			"properties": {
+				"id": 4748,
+				"LocationName": "Queenstown Events Centre",
+				"Address": "33 Joe O'Connell Drive, Frankton, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T05:45:00.000Z",
+				"DateTo": "2022-02-08T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.880093,
+					-36.9851318
+				]
+			},
+			"properties": {
+				"id": 4749,
+				"LocationName": "Auckland University Technology South Campus Manukau",
+				"Address": "640 Great South Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-03T19:15:00.000Z",
+				"DateTo": "2022-02-03T20:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.880093,
+					-36.9851318
+				]
+			},
+			"properties": {
+				"id": 4750,
+				"LocationName": "Auckland University Technology South Campus Manukau",
+				"Address": "640 Great South Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-02T20:00:00.000Z",
+				"DateTo": "2022-02-03T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.880093,
+					-36.9851318
+				]
+			},
+			"properties": {
+				"id": 4751,
+				"LocationName": "Auckland University Technology South Campus Manukau",
+				"Address": "640 Great South Road, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T20:00:00.000Z",
+				"DateTo": "2022-02-08T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7377972,
+					-45.0174689
+				]
+			},
+			"properties": {
+				"id": 4752,
+				"LocationName": "Queenstown Events Centre Gym",
+				"Address": "33 Joe O'Connell Drive, Frankton, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T05:45:00.000Z",
+				"DateTo": "2022-02-08T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4753,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T04:00:00.000Z",
+				"DateTo": "2022-02-08T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4754,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T02:30:00.000Z",
+				"DateTo": "2022-02-09T05:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4755,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T07:00:00.000Z",
+				"DateTo": "2022-02-07T13:00:00.000Z"
+			}
 		}
 	]
 }
