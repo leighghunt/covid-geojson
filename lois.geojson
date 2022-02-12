@@ -85329,6 +85329,82 @@
 				"DateFrom": "2022-02-06T22:15:00.000Z",
 				"DateTo": "2022-02-06T23:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8484657,
+					-36.9933159
+				]
+			},
+			"properties": {
+				"id": 4740,
+				"LocationName": "Private Event: Metotia Fou Hall",
+				"Address": "19 Noel Burnside Road, Wiri, Auckland 2025",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T03:00:00.000Z",
+				"DateTo": "2022-02-05T10:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4741,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T04:00:00.000Z",
+				"DateTo": "2022-02-08T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4742,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T07:00:00.000Z",
+				"DateTo": "2022-02-07T13:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4743,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T02:30:00.000Z",
+				"DateTo": "2022-02-09T05:30:00.000Z"
+			}
 		}
 	]
 }
