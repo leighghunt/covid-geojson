@@ -87001,6 +87001,139 @@
 				"DateFrom": "2022-02-11T06:45:00.000Z",
 				"DateTo": "2022-02-11T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6620365,
+					-45.0333294
+				]
+			},
+			"properties": {
+				"id": 4828,
+				"LocationName": "The Club Queenstown",
+				"Address": "15 Earl Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T10:15:00.000Z",
+				"DateTo": "2022-02-05T11:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6602407,
+					-45.0304911
+				]
+			},
+			"properties": {
+				"id": 4829,
+				"LocationName": "Queenstown Hair",
+				"Address": "45 Camp Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T20:15:00.000Z",
+				"DateTo": "2022-02-08T23:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6606484,
+					-45.0322307
+				]
+			},
+			"properties": {
+				"id": 4830,
+				"LocationName": "The Bunker Restaurant Queenstown",
+				"Address": "14 Cow Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T12:00:00.000Z",
+				"DateTo": "2022-02-08T13:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.8947029,
+					-39.482644
+				]
+			},
+			"properties": {
+				"id": 4831,
+				"LocationName": "The Gintrap Restaurant & Bar Ahuriri",
+				"Address": "64 West Quay, Ahuriri, Napier 4110",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T04:45:00.000Z",
+				"DateTo": "2022-02-05T06:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4832,
+				"LocationName": "Flight NZ456 Wellington to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T06:45:00.000Z",
+				"DateTo": "2022-02-11T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4833,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T11:00:00.000Z",
+				"DateTo": "2022-02-06T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4834,
+				"LocationName": "Flight NZ634 Queenstown to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T05:05:00.000Z",
+				"DateTo": "2022-02-08T06:50:00.000Z"
+			}
 		}
 	]
 }
