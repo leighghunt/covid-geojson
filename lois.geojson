@@ -85994,6 +85994,101 @@
 				"DateFrom": "2022-02-10T00:40:00.000Z",
 				"DateTo": "2022-02-10T02:10:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6584586,
+					-45.0313677
+				]
+			},
+			"properties": {
+				"id": 4775,
+				"LocationName": "Lone Star Cafe & Bar Queenstown",
+				"Address": "14 Brecon Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T05:00:00.000Z",
+				"DateTo": "2022-02-06T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6578846,
+					-45.0331584
+				]
+			},
+			"properties": {
+				"id": 4776,
+				"LocationName": "Pier Restaurant & Bar Queenstown",
+				"Address": "88 Beach Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T23:00:00.000Z",
+				"DateTo": "2022-02-06T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6618791,
+					-45.0322367
+				]
+			},
+			"properties": {
+				"id": 4777,
+				"LocationName": "Zephyr",
+				"Address": "1 Searle Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T13:30:00.000Z",
+				"DateTo": "2022-02-08T14:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7828571,
+					-37.0057938
+				]
+			},
+			"properties": {
+				"id": 4778,
+				"LocationName": "Flight JQ258 Wellington to Auckland",
+				"Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T23:15:00.000Z",
+				"DateTo": "2022-02-07T00:20:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.659709,
+					-45.0324686
+				]
+			},
+			"properties": {
+				"id": 4779,
+				"LocationName": "Pog Mahones Irish Pub & Restaurant Queenstown",
+				"Address": "14 Rees Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T04:00:00.000Z",
+				"DateTo": "2022-02-07T06:00:00.000Z"
+			}
 		}
 	]
 }
