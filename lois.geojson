@@ -87343,6 +87343,63 @@
 				"DateFrom": "2022-02-05T07:30:00.000Z",
 				"DateTo": "2022-02-05T12:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8177987,
+					-36.8480188
+				]
+			},
+			"properties": {
+				"id": 4846,
+				"LocationName": "SEA LIFE Kelly Tarltons Orakei",
+				"Address": "23 Tamaki Drive, Orakei, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T21:30:00.000Z",
+				"DateTo": "2022-02-06T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7372444,
+					-36.8650244
+				]
+			},
+			"properties": {
+				"id": 4847,
+				"LocationName": "The Bank Space Grey Lynn",
+				"Address": "592 Great North Road, Grey Lynn, Auckland 1021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T00:30:00.000Z",
+				"DateTo": "2022-02-06T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7127382,
+					-36.9075968
+				]
+			},
+			"properties": {
+				"id": 4848,
+				"LocationName": "New Windsor School Swimming Pool New Windsor",
+				"Address": "185 New Windsor Road, New Windsor, Auckland 0600",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T19:10:00.000Z",
+				"DateTo": "2022-02-06T00:15:00.000Z"
+			}
 		}
 	]
 }
