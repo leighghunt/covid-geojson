@@ -86792,6 +86792,44 @@
 				"DateFrom": "2022-02-04T23:15:35.000Z",
 				"DateTo": "2022-02-05T02:40:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0698998,
+					-41.12522920000001
+				]
+			},
+			"properties": {
+				"id": 4817,
+				"LocationName": "CityFitness Upper Hutt Central",
+				"Address": "26 Princes Street, Upper Hutt Central, Upper Hutt 5018",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T00:20:00.000Z",
+				"DateTo": "2022-02-10T01:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6582349,
+					-45.0320687
+				]
+			},
+			"properties": {
+				"id": 4818,
+				"LocationName": "Queenstown Gym *PATRONS ONLY*",
+				"Address": "53 Shotover Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T00:45:00.000Z",
+				"DateTo": "2022-02-08T02:45:00.000Z"
+			}
 		}
 	]
 }
