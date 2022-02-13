@@ -87134,6 +87134,101 @@
 				"DateFrom": "2022-02-08T05:05:00.000Z",
 				"DateTo": "2022-02-08T06:50:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610133,
+					-45.0326727
+				]
+			},
+			"properties": {
+				"id": 4835,
+				"LocationName": "The Ballarat Queenstown",
+				"Address": "7/9 The Mall, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T08:00:00.000Z",
+				"DateTo": "2022-02-09T09:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9148131,
+					-36.9134956
+				]
+			},
+			"properties": {
+				"id": 4836,
+				"LocationName": "Elim Christian Church Service Botany Downs",
+				"Address": "159 Botany Road, Botany Downs, Auckland 2010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T19:56:00.000Z",
+				"DateTo": "2022-02-05T21:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6618547,
+					-45.0322541
+				]
+			},
+			"properties": {
+				"id": 4837,
+				"LocationName": "Barmuda Queenstown",
+				"Address": "3 Searle Lane, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T12:00:00.000Z",
+				"DateTo": "2022-02-06T13:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.070702,
+					-38.6848595
+				]
+			},
+			"properties": {
+				"id": 4838,
+				"LocationName": "Victoria's Cafe Kitchen Bar Taupō",
+				"Address": "127 Tongariro Street, Taupo, Taupō 3330",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T22:33:18.000Z",
+				"DateTo": "2022-02-05T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6609108,
+					-45.0325115
+				]
+			},
+			"properties": {
+				"id": 4839,
+				"LocationName": "Reading Cinemas Queenstown",
+				"Address": "11-14 The Mall, Queenstown 9197",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T05:59:52.000Z",
+				"DateTo": "2022-02-09T08:00:00.000Z"
+			}
 		}
 	]
 }
