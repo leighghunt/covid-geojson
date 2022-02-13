@@ -86184,6 +86184,177 @@
 				"DateFrom": "2022-02-04T23:15:35.000Z",
 				"DateTo": "2022-02-05T02:40:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6606484,
+					-45.0322307
+				]
+			},
+			"properties": {
+				"id": 4785,
+				"LocationName": "The Bunker Restaurant Queenstown",
+				"Address": "14 Cow Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T14:30:00.000Z",
+				"DateTo": "2022-02-06T15:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6618791,
+					-45.0322367
+				]
+			},
+			"properties": {
+				"id": 4786,
+				"LocationName": "Zephyr Queenstown  *PATRONS ONLY*",
+				"Address": "1 Searle Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T13:30:00.000Z",
+				"DateTo": "2022-02-06T14:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7427598,
+					-45.0266106
+				]
+			},
+			"properties": {
+				"id": 4787,
+				"LocationName": "The Shelter Bar & Kitchen Frankton",
+				"Address": "8/12 Hawthorne Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T22:00:00.000Z",
+				"DateTo": "2022-02-07T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7427598,
+					-45.0266106
+				]
+			},
+			"properties": {
+				"id": 4788,
+				"LocationName": "The Shelter Bar & Kitchen FRankton",
+				"Address": "8/12 Hawthorne Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T22:00:00.000Z",
+				"DateTo": "2022-02-06T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.9981134,
+					-37.9506102
+				]
+			},
+			"properties": {
+				"id": 4789,
+				"LocationName": "Cobb & Co Whakatane *DINING ROOM PATRONS ONLY*",
+				"Address": "79 The Strand, Whakatane 3120",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T04:52:50.000Z",
+				"DateTo": "2022-02-05T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6867873,
+					-44.9798098
+				]
+			},
+			"properties": {
+				"id": 4790,
+				"LocationName": "Tap Room Cargo Gantley's Pub & Café Arthurs Point",
+				"Address": "172 Arthurs Point Road, Authurs Point, Queenstown 9371",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T04:30:00.000Z",
+				"DateTo": "2022-02-06T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9979343,
+					-40.9057097
+				]
+			},
+			"properties": {
+				"id": 4791,
+				"LocationName": "Thai Kai Restaurant Paraparaumu",
+				"Address": "1 Te Roto Drive, Paraparaumu, Paraparaumu 5032",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T04:22:01.000Z",
+				"DateTo": "2022-02-05T05:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9114666,
+					-41.2054266
+				]
+			},
+			"properties": {
+				"id": 4792,
+				"LocationName": "Chilli Masala Hutt Central *PATRONS ONLY*",
+				"Address": "458 High Street, Hutt Central, Lower Hutt 5010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T05:00:00.000Z",
+				"DateTo": "2022-02-08T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9797964,
+					-40.8938274
+				]
+			},
+			"properties": {
+				"id": 4793,
+				"LocationName": "Cafe Lane Paraparaumu Beach",
+				"Address": "1 MacLean Street, Paraparaumu Beach, Paraparaumu 5032",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T23:25:38.000Z",
+				"DateTo": "2022-02-06T00:30:00.000Z"
+			}
 		}
 	]
 }
