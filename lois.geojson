@@ -87324,6 +87324,25 @@
 				"DateFrom": "2022-02-09T05:59:52.000Z",
 				"DateTo": "2022-02-09T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1515437,
+					-37.7109466
+				]
+			},
+			"properties": {
+				"id": 4845,
+				"LocationName": "Worlds End Bar Private Function *Upstairs* Tauranga",
+				"Address": "227 Fraser Street, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T07:30:00.000Z",
+				"DateTo": "2022-02-05T12:00:00.000Z"
+			}
 		}
 	]
 }
