@@ -87761,6 +87761,25 @@
 				"DateFrom": "2022-02-12T05:30:00.000Z",
 				"DateTo": "2022-02-12T07:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6635913,
+					-43.5078414
+				]
+			},
+			"properties": {
+				"id": 4868,
+				"LocationName": "Robert Harris Cafe The Palms",
+				"Address": "1R New Brighton Road, Shirley, Christchurch 8061",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T23:00:00.000Z",
+				"DateTo": "2022-02-12T00:00:00.000Z"
+			}
 		}
 	]
 }
