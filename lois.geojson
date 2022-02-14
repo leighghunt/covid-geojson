@@ -87533,6 +87533,196 @@
 				"DateFrom": "2022-02-07T16:40:00.000Z",
 				"DateTo": "2022-02-07T18:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2345916,
+					-37.7512461
+				]
+			},
+			"properties": {
+				"id": 4856,
+				"LocationName": "Hoyts Te Awa Hamilton",
+				"Address": "401 Wairere Drive, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T01:15:19.000Z",
+				"DateTo": "2022-02-07T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2817233,
+					-37.7012447
+				]
+			},
+			"properties": {
+				"id": 4857,
+				"LocationName": "Barber Shack Papamoa Beach",
+				"Address": "30B Gravatt Road, Papamoa Beach, Papamoa 3118",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T23:15:00.000Z",
+				"DateTo": "2022-02-06T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6586153,
+					-45.0315164
+				]
+			},
+			"properties": {
+				"id": 4858,
+				"LocationName": "Harrys Pool Bar Queenstown",
+				"Address": "8 Brecon Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T02:00:00.000Z",
+				"DateTo": "2022-02-05T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8177987,
+					-36.8480188
+				]
+			},
+			"properties": {
+				"id": 4859,
+				"LocationName": "SEA LIFE Kelly Tarltons Orakei",
+				"Address": "23 Tamaki Drive, Orakei, Auckland 1071",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T21:30:00.000Z",
+				"DateTo": "2022-02-06T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7127382,
+					-36.9075968
+				]
+			},
+			"properties": {
+				"id": 4860,
+				"LocationName": "New Windsor School Swimming Pool New Windsor",
+				"Address": "185 New Windsor Road, New Windsor, Auckland 0600",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T19:10:00.000Z",
+				"DateTo": "2022-02-06T00:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4861,
+				"LocationName": "Flight NZ612 Queenstown to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T21:30:00.000Z",
+				"DateTo": "2022-02-07T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6615603,
+					-45.03246009999999
+				]
+			},
+			"properties": {
+				"id": 4862,
+				"LocationName": "Cowboys Bar Queenstown",
+				"Address": "7 Searle Lane, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T12:13:13.000Z",
+				"DateTo": "2022-02-05T13:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1515437,
+					-37.7109466
+				]
+			},
+			"properties": {
+				"id": 4863,
+				"LocationName": "Worlds End Bar Tauranga",
+				"Address": "227 Fraser Street, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T07:30:00.000Z",
+				"DateTo": "2022-02-05T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7372444,
+					-36.8650244
+				]
+			},
+			"properties": {
+				"id": 4864,
+				"LocationName": "The Bank Space Grey Lynn",
+				"Address": "592 Great North Road, Grey Lynn, Auckland 1021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T00:30:00.000Z",
+				"DateTo": "2022-02-06T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2456848,
+					-37.7565429
+				]
+			},
+			"properties": {
+				"id": 4865,
+				"LocationName": "First Place Fitness Te Rapa",
+				"Address": "614 Te Rapa Road, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T16:40:00.000Z",
+				"DateTo": "2022-02-07T18:15:00.000Z"
+			}
 		}
 	]
 }
