@@ -87723,6 +87723,25 @@
 				"DateFrom": "2022-02-07T16:40:00.000Z",
 				"DateTo": "2022-02-07T18:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7763563,
+					-36.8677037
+				]
+			},
+			"properties": {
+				"id": 4866,
+				"LocationName": "Sun World Chinese Restaurant Newmarket",
+				"Address": "2A York Street, Newmarket, Auckland 1023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T08:00:00.000Z"
+			}
 		}
 	]
 }
