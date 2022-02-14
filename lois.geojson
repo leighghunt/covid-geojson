@@ -87742,6 +87742,25 @@
 				"DateFrom": "2022-02-12T06:00:00.000Z",
 				"DateTo": "2022-02-12T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5888444,
+					-43.5094923
+				]
+			},
+			"properties": {
+				"id": 4867,
+				"LocationName": "Misceo Cafe & Bar Bryndwr",
+				"Address": "251 Clyde Road, Bryndwr, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:30:00.000Z",
+				"DateTo": "2022-02-12T07:00:00.000Z"
+			}
 		}
 	]
 }
