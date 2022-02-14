@@ -87495,6 +87495,44 @@
 				"DateFrom": "2022-02-05T02:00:00.000Z",
 				"DateTo": "2022-02-05T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2345916,
+					-37.7512461
+				]
+			},
+			"properties": {
+				"id": 4854,
+				"LocationName": "Hoyts Te Awa Hamilton",
+				"Address": "401 Wairere Drive, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T01:15:19.000Z",
+				"DateTo": "2022-02-07T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.2456848,
+					-37.7565429
+				]
+			},
+			"properties": {
+				"id": 4855,
+				"LocationName": "First Place Fitness Te Rapa",
+				"Address": "614 Te Rapa Road, Te Rapa, Hamilton 3200",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T16:40:00.000Z",
+				"DateTo": "2022-02-07T18:15:00.000Z"
+			}
 		}
 	]
 }
