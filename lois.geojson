@@ -87400,6 +87400,44 @@
 				"DateFrom": "2022-02-05T19:10:00.000Z",
 				"DateTo": "2022-02-06T00:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1515437,
+					-37.7109466
+				]
+			},
+			"properties": {
+				"id": 4849,
+				"LocationName": "Worlds End Bar Tauranga",
+				"Address": "227 Fraser Street, Tauranga South, Tauranga 3112",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T07:30:00.000Z",
+				"DateTo": "2022-02-05T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6615603,
+					-45.03246009999999
+				]
+			},
+			"properties": {
+				"id": 4850,
+				"LocationName": "Cowboys Bar Queenstown",
+				"Address": "7 Searle Lane, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T12:13:13.000Z",
+				"DateTo": "2022-02-05T13:30:00.000Z"
+			}
 		}
 	]
 }
