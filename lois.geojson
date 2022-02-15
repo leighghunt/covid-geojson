@@ -88673,6 +88673,120 @@
 				"DateFrom": "2022-02-09T22:00:00.000Z",
 				"DateTo": "2022-02-10T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8750967,
+					-37.0237785
+				]
+			},
+			"properties": {
+				"id": 4916,
+				"LocationName": "Good News Family Church Manurewa",
+				"Address": "97 Rowandale Avenue, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T23:30:00.000Z",
+				"DateTo": "2022-02-06T01:14:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6570784,
+					-45.029608
+				]
+			},
+			"properties": {
+				"id": 4917,
+				"LocationName": "Kingpin Queenstown",
+				"Address": "35 Brecon Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T00:00:00.000Z",
+				"DateTo": "2022-02-09T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6611444,
+					-45.0319951
+				]
+			},
+			"properties": {
+				"id": 4918,
+				"LocationName": "Fogo Brazilian BBQ restaurant *STAFF ONLY*",
+				"Address": "28-30 The Mall, Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T22:00:00.000Z",
+				"DateTo": "2022-02-10T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9006102,
+					-36.9025339
+				]
+			},
+			"properties": {
+				"id": 4919,
+				"LocationName": "Howick Pakuranga Netball Centre Pakuranga",
+				"Address": "451 Pakuranga Road, Pakuranga, Auckland 2010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T21:55:02.000Z",
+				"DateTo": "2022-02-13T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6611444,
+					-45.0319951
+				]
+			},
+			"properties": {
+				"id": 4920,
+				"LocationName": "Fogo Brazilian BBQ, Queenstown *STAFF ONLY*",
+				"Address": "28-30 The Mall, Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T11:00:00.000Z",
+				"DateTo": "2022-02-08T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6611444,
+					-45.0319951
+				]
+			},
+			"properties": {
+				"id": 4921,
+				"LocationName": "Fogo Brazilian BBQ restaurant *STAFF ONLY*",
+				"Address": "28-30 The Mall, Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T03:30:00.000Z",
+				"DateTo": "2022-02-09T09:00:00.000Z"
+			}
 		}
 	]
 }
