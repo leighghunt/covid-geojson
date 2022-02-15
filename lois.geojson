@@ -88179,6 +88179,120 @@
 				"DateFrom": "2022-02-08T22:45:00.000Z",
 				"DateTo": "2022-02-09T01:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6614371,
+					-45.0312579
+				]
+			},
+			"properties": {
+				"id": 4890,
+				"LocationName": "McDonald's Queenstown",
+				"Address": "29 Camp Street, CBD, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T12:17:03.000Z",
+				"DateTo": "2022-02-07T13:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7377972,
+					-45.0174689
+				]
+			},
+			"properties": {
+				"id": 4891,
+				"LocationName": "Queenstown Events Centre",
+				"Address": "33 Joe O'Connell Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T03:26:18.000Z",
+				"DateTo": "2022-02-07T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610868,
+					-45.0320518
+				]
+			},
+			"properties": {
+				"id": 4892,
+				"LocationName": "Fogo Brazilian BBQ Experience Queenstown",
+				"Address": "28 Ballarat Street, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T22:00:00.000Z",
+				"DateTo": "2022-02-07T10:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6600706,
+					-45.03290579999999
+				]
+			},
+			"properties": {
+				"id": 4893,
+				"LocationName": "Time Tripper Queenstown",
+				"Address": "Main Town Pier, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T00:28:00.000Z",
+				"DateTo": "2022-02-07T01:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.8328022,
+					-44.9384398
+				]
+			},
+			"properties": {
+				"id": 4894,
+				"LocationName": "Rainbow Doorways Arrowtown",
+				"Address": "39 Coachmans Hall, Buckingham Street, Arrowtown 9302",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T01:34:00.000Z",
+				"DateTo": "2022-02-07T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2173011,
+					-38.111307
+				]
+			},
+			"properties": {
+				"id": 4895,
+				"LocationName": "Skyline Rotorua",
+				"Address": "178 Fairy Springs Road, Fairy Springs, Rotorua 3015",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T02:16:46.000Z",
+				"DateTo": "2022-02-07T03:30:00.000Z"
+			}
 		}
 	]
 }
