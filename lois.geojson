@@ -88616,6 +88616,63 @@
 				"DateFrom": "2022-02-09T00:00:00.000Z",
 				"DateTo": "2022-02-09T06:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6611444,
+					-45.0319951
+				]
+			},
+			"properties": {
+				"id": 4913,
+				"LocationName": "Fogo Brazilian BBQ, Queenstown *STAFF ONLY*",
+				"Address": "28-30 The Mall, Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T11:00:00.000Z",
+				"DateTo": "2022-02-08T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6611444,
+					-45.0319951
+				]
+			},
+			"properties": {
+				"id": 4914,
+				"LocationName": "Fogo Brazilian BBQ restaurant *STAFF ONLY*",
+				"Address": "28-30 The Mall, Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T03:30:00.000Z",
+				"DateTo": "2022-02-09T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6611444,
+					-45.0319951
+				]
+			},
+			"properties": {
+				"id": 4915,
+				"LocationName": "Fogo Brazilian BBQ restaurant *STAFF ONLY*",
+				"Address": "28-30 The Mall, Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T22:00:00.000Z",
+				"DateTo": "2022-02-10T08:30:00.000Z"
+			}
 		}
 	]
 }
