@@ -88559,6 +88559,44 @@
 				"DateFrom": "2022-02-06T11:45:00.000Z",
 				"DateTo": "2022-02-06T13:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8750967,
+					-37.0237785
+				]
+			},
+			"properties": {
+				"id": 4910,
+				"LocationName": "Good News Family Church Manurewa",
+				"Address": "97 Rowandale Avenue, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-05T23:30:00.000Z",
+				"DateTo": "2022-02-06T01:14:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9006102,
+					-36.9025339
+				]
+			},
+			"properties": {
+				"id": 4911,
+				"LocationName": "Howick Pakuranga Netball Centre Pakuranga",
+				"Address": "451 Pakuranga Road, Pakuranga, Auckland 2010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T21:55:02.000Z",
+				"DateTo": "2022-02-13T00:30:00.000Z"
+			}
 		}
 	]
 }
