@@ -88350,6 +88350,177 @@
 				"DateFrom": "2022-02-07T20:46:56.000Z",
 				"DateTo": "2022-02-07T21:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6614371,
+					-45.0312579
+				]
+			},
+			"properties": {
+				"id": 4899,
+				"LocationName": "McDonald's Queenstown",
+				"Address": "29 Camp Street, CBD, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T12:17:03.000Z",
+				"DateTo": "2022-02-07T13:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.2173011,
+					-38.111307
+				]
+			},
+			"properties": {
+				"id": 4900,
+				"LocationName": "Skyline Rotorua",
+				"Address": "178 Fairy Springs Road, Fairy Springs, Rotorua 3015",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T02:16:46.000Z",
+				"DateTo": "2022-02-07T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6600706,
+					-45.03290579999999
+				]
+			},
+			"properties": {
+				"id": 4901,
+				"LocationName": "Time Tripper Queenstown",
+				"Address": "Main Town Pier, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T00:28:00.000Z",
+				"DateTo": "2022-02-07T01:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7636563,
+					-36.8427687
+				]
+			},
+			"properties": {
+				"id": 4902,
+				"LocationName": "Danny Doolan's Auckland CBD",
+				"Address": "204 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T10:53:08.000Z",
+				"DateTo": "2022-02-09T13:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6610868,
+					-45.0320518
+				]
+			},
+			"properties": {
+				"id": 4903,
+				"LocationName": "Fogo Brazilian BBQ Experience Queenstown",
+				"Address": "28 Ballarat Street, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T22:00:00.000Z",
+				"DateTo": "2022-02-07T10:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.8328022,
+					-44.9384398
+				]
+			},
+			"properties": {
+				"id": 4904,
+				"LocationName": "Rainbow Doorways Arrowtown",
+				"Address": "39 Coachmans Hall, Buckingham Street, Arrowtown 9302",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T01:34:00.000Z",
+				"DateTo": "2022-02-07T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7377972,
+					-45.0174689
+				]
+			},
+			"properties": {
+				"id": 4905,
+				"LocationName": "Queenstown Events Centre",
+				"Address": "33 Joe O'Connell Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T03:26:18.000Z",
+				"DateTo": "2022-02-07T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6609578,
+					-45.0323974
+				]
+			},
+			"properties": {
+				"id": 4906,
+				"LocationName": "Captains Restaurant Queenstown",
+				"Address": "15 Ballarat Street, Queenstown, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T20:46:56.000Z",
+				"DateTo": "2022-02-07T21:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.7477224,
+					-45.0093677
+				]
+			},
+			"properties": {
+				"id": 4907,
+				"LocationName": "Resene ColorShop Queenstown",
+				"Address": "11 Glenda Drive, Frankton, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T22:00:00.000Z",
+				"DateTo": "2022-02-07T22:20:00.000Z"
+			}
 		}
 	]
 }
