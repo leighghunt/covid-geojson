@@ -87951,6 +87951,234 @@
 				"DateFrom": "2022-02-06T21:15:00.000Z",
 				"DateTo": "2022-02-06T22:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4878,
+				"LocationName": "Flight NZ5803 Tauranga to Christchurch",
+				"Address": "Christchurch,",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T22:00:00.000Z",
+				"DateTo": "2022-02-12T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7763563,
+					-36.8677037
+				]
+			},
+			"properties": {
+				"id": 4879,
+				"LocationName": "Sun World Chinese Restaurant Newmarket",
+				"Address": "2A York Street, Newmarket, Auckland 1023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.5888444,
+					-43.5094923
+				]
+			},
+			"properties": {
+				"id": 4880,
+				"LocationName": "Misceo Cafe & Bar Bryndwr",
+				"Address": "251 Clyde Road, Bryndwr, Christchurch 8053",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:30:00.000Z",
+				"DateTo": "2022-02-12T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.66078,
+					-45.032266
+				]
+			},
+			"properties": {
+				"id": 4881,
+				"LocationName": "Turkish Cuisine Restaurant Queenstown",
+				"Address": "18 Ballarat Street, Queenstown Central, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T09:14:50.000Z",
+				"DateTo": "2022-02-06T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					169.1354924,
+					-44.6948404
+				]
+			},
+			"properties": {
+				"id": 4882,
+				"LocationName": "Relishes Cafe Wanaka",
+				"Address": "1/99 Ardmore Street, Wanaka, Wanaka 9305",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T21:18:17.000Z",
+				"DateTo": "2022-02-06T22:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7828571,
+					-37.0057938
+				]
+			},
+			"properties": {
+				"id": 4883,
+				"LocationName": "Flight JQ294 Queenstown to Auckland",
+				"Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T01:16:00.000Z",
+				"DateTo": "2022-02-11T03:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4884,
+				"LocationName": "Flight JQ239 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T05:50:00.000Z",
+				"DateTo": "2022-02-10T07:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6615603,
+					-45.03246009999999
+				]
+			},
+			"properties": {
+				"id": 4885,
+				"LocationName": "Joe's Garage Queenstown",
+				"Address": "7 Searle Lane, Town Centre, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T21:15:00.000Z",
+				"DateTo": "2022-02-06T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6991733,
+					-45.0228954
+				]
+			},
+			"properties": {
+				"id": 4886,
+				"LocationName": "Holiday Inn Cafe Frankton",
+				"Address": "594 Frankton Road, Frankton, Queenstown 9348",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T20:30:00.000Z",
+				"DateTo": "2022-02-06T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6635913,
+					-43.5078414
+				]
+			},
+			"properties": {
+				"id": 4887,
+				"LocationName": "Robert Harris Cafe The Palms",
+				"Address": "1R New Brighton Road, Shirley, Christchurch 8061",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T23:00:00.000Z",
+				"DateTo": "2022-02-12T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6991733,
+					-45.0228954
+				]
+			},
+			"properties": {
+				"id": 4888,
+				"LocationName": "Holiday Inn Hotel Restaurant Frankton",
+				"Address": "594 Frankton Road, Frankton, Queenstown 9348",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T18:30:00.000Z",
+				"DateTo": "2022-02-06T20:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4889,
+				"LocationName": "Flight NZ616 Queenstown to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T22:45:00.000Z",
+				"DateTo": "2022-02-09T01:00:00.000Z"
+			}
 		}
 	]
 }
