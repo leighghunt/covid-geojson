@@ -88540,6 +88540,25 @@
 				"DateFrom": "2022-02-06T11:45:00.000Z",
 				"DateTo": "2022-02-06T13:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.659709,
+					-45.0324686
+				]
+			},
+			"properties": {
+				"id": 4909,
+				"LocationName": "Pog Mahones Irish Pub & Restaurant Queenstown *PATRONS ONLY*",
+				"Address": "14 Rees Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-06T11:45:00.000Z",
+				"DateTo": "2022-02-06T13:45:00.000Z"
+			}
 		}
 	]
 }
