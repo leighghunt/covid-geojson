@@ -88920,6 +88920,120 @@
 				"DateFrom": "2022-02-11T11:00:00.000Z",
 				"DateTo": "2022-02-11T12:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4929,
+				"LocationName": "Bus, Route 72X Meadowland Drive to Harrison Road Bus Stop, 11/02/2022",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T02:00:00.000Z",
+				"DateTo": "2022-02-11T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4930,
+				"LocationName": "Bus, Route 72X Botany Town Centre Stop B to Meadowland Drive, 11/02/2022",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T19:00:00.000Z",
+				"DateTo": "2022-02-10T19:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6609578,
+					-45.0323974
+				]
+			},
+			"properties": {
+				"id": 4931,
+				"LocationName": "Crew Room Bar Queenstown",
+				"Address": "15 Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T09:00:00.000Z",
+				"DateTo": "2022-02-10T11:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6570784,
+					-45.029608
+				]
+			},
+			"properties": {
+				"id": 4932,
+				"LocationName": "Kingpin Queenstown",
+				"Address": "35 Brecon Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T02:30:36.000Z",
+				"DateTo": "2022-02-11T04:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6609578,
+					-45.0323974
+				]
+			},
+			"properties": {
+				"id": 4933,
+				"LocationName": "Crew Room Bar Queenstown",
+				"Address": "15 Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T11:00:00.000Z",
+				"DateTo": "2022-02-11T12:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6584575,
+					-45.0322332
+				]
+			},
+			"properties": {
+				"id": 4934,
+				"LocationName": "The Soho Queenstown",
+				"Address": "54 Shotover Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T07:00:00.000Z",
+				"DateTo": "2022-02-11T16:00:00.000Z"
+			}
 		}
 	]
 }
