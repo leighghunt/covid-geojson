@@ -88901,6 +88901,25 @@
 				"DateFrom": "2022-02-10T19:00:00.000Z",
 				"DateTo": "2022-02-10T19:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6609578,
+					-45.0323974
+				]
+			},
+			"properties": {
+				"id": 4928,
+				"LocationName": "Crew Room Bar Queenstown",
+				"Address": "15 Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T11:00:00.000Z",
+				"DateTo": "2022-02-11T12:30:00.000Z"
+			}
 		}
 	]
 }
