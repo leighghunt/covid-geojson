@@ -89034,6 +89034,82 @@
 				"DateFrom": "2022-02-11T07:00:00.000Z",
 				"DateTo": "2022-02-11T16:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6570784,
+					-45.029608
+				]
+			},
+			"properties": {
+				"id": 4935,
+				"LocationName": "El Camino Cantina Queenstown",
+				"Address": "35 Brecon Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6570784,
+					-45.029608
+				]
+			},
+			"properties": {
+				"id": 4936,
+				"LocationName": "El Camino Cantina Queenstown",
+				"Address": "35 Brecon Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T23:00:00.000Z",
+				"DateTo": "2022-02-13T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8136314,
+					-36.8835686
+				]
+			},
+			"properties": {
+				"id": 4937,
+				"LocationName": "Metcon Madness Remuera",
+				"Address": "33 Haast Street, Remuera, Auckland 1050",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T20:30:00.000Z",
+				"DateTo": "2022-02-11T22:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7407957,
+					-36.8358081
+				]
+			},
+			"properties": {
+				"id": 4938,
+				"LocationName": "AJ Hackett Auckland Bridge Bungy & Climb Westhaven",
+				"Address": "105 Curran Street, Westhaven, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T00:23:27.000Z",
+				"DateTo": "2022-02-12T01:30:00.000Z"
+			}
 		}
 	]
 }
