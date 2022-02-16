@@ -88863,6 +88863,44 @@
 				"DateFrom": "2022-02-11T07:00:00.000Z",
 				"DateTo": "2022-02-11T16:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4926,
+				"LocationName": "Bus, Route 72X Meadowland Drive to Harrison Road Bus Stop, 11/02/2022",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T02:00:00.000Z",
+				"DateTo": "2022-02-11T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4927,
+				"LocationName": "Bus, Route 72X Botany Town Centre Stop B to Meadowland Drive, 11/02/2022",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T19:00:00.000Z",
+				"DateTo": "2022-02-10T19:30:00.000Z"
+			}
 		}
 	]
 }
