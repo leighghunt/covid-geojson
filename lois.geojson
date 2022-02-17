@@ -89338,6 +89338,44 @@
 				"DateFrom": "2022-02-14T06:00:00.000Z",
 				"DateTo": "2022-02-14T11:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					170.5105056,
+					-45.8698345
+				]
+			},
+			"properties": {
+				"id": 4951,
+				"LocationName": "Castle Street Parties",
+				"Address": "Castle Street, North Dunedin, Dunedin 9016",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					170.5095808,
+					-45.8724116
+				]
+			},
+			"properties": {
+				"id": 4952,
+				"LocationName": "Castle Street and Howe Street Parties",
+				"Address": "Castle Street, Dunedin Central, Dunedin 9016",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T06:00:00.000Z",
+				"DateTo": "2022-02-14T11:30:00.000Z"
+			}
 		}
 	]
 }
