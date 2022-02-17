@@ -89148,6 +89148,120 @@
 				"DateFrom": "2022-02-09T21:23:00.000Z",
 				"DateTo": "2022-02-09T22:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6570784,
+					-45.029608
+				]
+			},
+			"properties": {
+				"id": 4941,
+				"LocationName": "El Camino Cantina Queenstown",
+				"Address": "35 Brecon Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8136314,
+					-36.8835686
+				]
+			},
+			"properties": {
+				"id": 4942,
+				"LocationName": "Metcon Madness Remuera",
+				"Address": "33 Haast Street, Remuera, Auckland 1050",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T20:30:00.000Z",
+				"DateTo": "2022-02-11T22:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7828571,
+					-37.0057938
+				]
+			},
+			"properties": {
+				"id": 4943,
+				"LocationName": "Flight NZ5106 Palmerston North to Auckland",
+				"Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T21:23:00.000Z",
+				"DateTo": "2022-02-09T22:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6570784,
+					-45.029608
+				]
+			},
+			"properties": {
+				"id": 4944,
+				"LocationName": "El Camino Cantina Queenstown",
+				"Address": "35 Brecon Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T23:00:00.000Z",
+				"DateTo": "2022-02-13T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7407957,
+					-36.8358081
+				]
+			},
+			"properties": {
+				"id": 4945,
+				"LocationName": "AJ Hackett Auckland Bridge Bungy & Climb Westhaven",
+				"Address": "105 Curran Street, Westhaven, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T00:23:27.000Z",
+				"DateTo": "2022-02-12T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7828571,
+					-37.0057938
+				]
+			},
+			"properties": {
+				"id": 4946,
+				"LocationName": "Flight JQ294 Queenstown to Auckland",
+				"Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T08:00:00.000Z",
+				"DateTo": "2022-02-11T10:00:00.000Z"
+			}
 		}
 	]
 }
