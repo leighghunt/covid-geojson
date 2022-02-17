@@ -89433,6 +89433,25 @@
 				"DateFrom": "2022-02-08T23:00:00.000Z",
 				"DateTo": "2022-02-09T01:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1654272,
+					-37.6869653
+				]
+			},
+			"properties": {
+				"id": 4956,
+				"LocationName": "Flight NZ5804 Christchurch to Tauranga",
+				"Address": "Tauranga",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T23:00:00.000Z",
+				"DateTo": "2022-02-09T01:00:00.000Z"
+			}
 		}
 	]
 }
