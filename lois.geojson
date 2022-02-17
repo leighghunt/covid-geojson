@@ -89452,6 +89452,63 @@
 				"DateFrom": "2022-02-08T23:00:00.000Z",
 				"DateTo": "2022-02-09T01:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8813434,
+					-37.021055
+				]
+			},
+			"properties": {
+				"id": 4957,
+				"LocationName": "St Annes Parish Manurewa",
+				"Address": "126 Russell Road, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T20:00:00.000Z",
+				"DateTo": "2022-02-10T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4958,
+				"LocationName": "FLIGHT NZ445 Auckland to Wellington Rows",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T04:00:00.000Z",
+				"DateTo": "2022-02-13T05:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8372023,
+					-36.9361868
+				]
+			},
+			"properties": {
+				"id": 4959,
+				"LocationName": "Nesian Fitness",
+				"Address": "7 Pukeiti Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:00:00.000Z",
+				"DateTo": "2022-02-12T08:00:00.000Z"
+			}
 		}
 	]
 }
