@@ -89110,6 +89110,25 @@
 				"DateFrom": "2022-02-12T00:23:27.000Z",
 				"DateTo": "2022-02-12T01:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7828571,
+					-37.0057938
+				]
+			},
+			"properties": {
+				"id": 4939,
+				"LocationName": "Flight JQ294 Queenstown to Auckland",
+				"Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T08:00:00.000Z",
+				"DateTo": "2022-02-11T10:00:00.000Z"
+			}
 		}
 	]
 }
