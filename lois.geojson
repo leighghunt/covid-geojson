@@ -89129,6 +89129,25 @@
 				"DateFrom": "2022-02-11T08:00:00.000Z",
 				"DateTo": "2022-02-11T10:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7828571,
+					-37.0057938
+				]
+			},
+			"properties": {
+				"id": 4940,
+				"LocationName": "Flight NZ5106 Palmerston North to Auckland",
+				"Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T21:23:00.000Z",
+				"DateTo": "2022-02-09T22:30:00.000Z"
+			}
 		}
 	]
 }
