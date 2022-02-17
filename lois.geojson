@@ -89262,6 +89262,82 @@
 				"DateFrom": "2022-02-11T08:00:00.000Z",
 				"DateTo": "2022-02-11T10:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					170.5105056,
+					-45.8698345
+				]
+			},
+			"properties": {
+				"id": 4947,
+				"LocationName": "Castle Street Party",
+				"Address": "Castle Street, North Dunedin, Dunedin 9016",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					170.5144732,
+					-45.8630576
+				]
+			},
+			"properties": {
+				"id": 4948,
+				"LocationName": "Castle Street Party",
+				"Address": "520 Castle Street, North Dunedin, Dunedin 9016",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T06:00:00.000Z",
+				"DateTo": "2022-02-14T11:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					170.5105056,
+					-45.8698345
+				]
+			},
+			"properties": {
+				"id": 4949,
+				"LocationName": "Castle Street Party",
+				"Address": "Castle Street, North Dunedin, Dunedin 9016",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T12:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					170.5144732,
+					-45.8630576
+				]
+			},
+			"properties": {
+				"id": 4950,
+				"LocationName": "Castle Street Party",
+				"Address": "520 Castle Street, North Dunedin, Dunedin 9016",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T06:00:00.000Z",
+				"DateTo": "2022-02-14T11:30:00.000Z"
+			}
 		}
 	]
 }
