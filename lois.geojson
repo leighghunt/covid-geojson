@@ -90592,6 +90592,25 @@
 				"DateFrom": "2022-02-14T04:52:17.000Z",
 				"DateTo": "2022-02-14T07:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7041007,
+					-36.85853040000001
+				]
+			},
+			"properties": {
+				"id": 5017,
+				"LocationName": "Point Chevalier Bowling Club, Pt Chevalier 13/02/2022",
+				"Address": "25 Dignan Street, Point Chevalier, Auckland 1022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T23:00:00.000Z",
+				"DateTo": "2022-02-13T06:00:00.000Z"
+			}
 		}
 	]
 }
