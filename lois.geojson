@@ -90022,6 +90022,25 @@
 				"DateFrom": "2022-02-14T03:06:01.000Z",
 				"DateTo": "2022-02-14T04:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.628091,
+					-43.5213044
+				]
+			},
+			"properties": {
+				"id": 4987,
+				"LocationName": "Athens Yacht Club Christchurch Central",
+				"Address": "179 Victoria Street, Christchurch Central, Christchurch 8013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-15T04:45:00.000Z",
+				"DateTo": "2022-02-15T07:30:00.000Z"
+			}
 		}
 	]
 }
