@@ -90687,6 +90687,101 @@
 				"DateFrom": "2022-02-11T04:36:15.000Z",
 				"DateTo": "2022-02-11T07:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.902249,
+					-36.901804
+				]
+			},
+			"properties": {
+				"id": 5022,
+				"LocationName": "Lloyd Elsmore Park Pool and Leisure Centre",
+				"Address": "Sir Lloyd Drive, Pakuranga Heights, Auckland 2010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T22:00:00.000Z",
+				"DateTo": "2022-02-09T23:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7041007,
+					-36.85853040000001
+				]
+			},
+			"properties": {
+				"id": 5023,
+				"LocationName": "Point Chevalier Bowling Club, Pt Chevalier 13/02/2022",
+				"Address": "25 Dignan Street, Point Chevalier, Auckland 1022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T23:00:00.000Z",
+				"DateTo": "2022-02-13T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7767318,
+					-36.8718096
+				]
+			},
+			"properties": {
+				"id": 5024,
+				"LocationName": "Archie Brothers Cirque Electriq Newmarket",
+				"Address": "309 Broadway, Newmarket, Auckland 1023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T21:30:00.000Z",
+				"DateTo": "2022-02-13T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7056091,
+					-36.7268089
+				]
+			},
+			"properties": {
+				"id": 5025,
+				"LocationName": "The Merchant Bar and Kitchen Albany",
+				"Address": "219 Don McKinnon Drive, Albany, Auckland 0632",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T04:36:15.000Z",
+				"DateTo": "2022-02-11T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8529651,
+					-36.9013885
+				]
+			},
+			"properties": {
+				"id": 5026,
+				"LocationName": "Y-Fitness Lagoon Pool & Leisure Centre Auckland",
+				"Address": "29 Lagoon Drive, Panmure, Auckland 1072",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T04:36:40.000Z",
+				"DateTo": "2022-02-11T07:00:00.000Z"
+			}
 		}
 	]
 }
