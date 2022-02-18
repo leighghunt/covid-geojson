@@ -89870,6 +89870,158 @@
 				"DateFrom": "2022-02-11T04:00:00.000Z",
 				"DateTo": "2022-02-11T09:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8437664,
+					-36.9457358
+				]
+			},
+			"properties": {
+				"id": 4979,
+				"LocationName": "AOG Cornerstone Church, Otahuhu",
+				"Address": "19B Queen Street, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T21:00:00.000Z",
+				"DateTo": "2022-02-13T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4980,
+				"LocationName": "Flight NZ5104 Palmerston North to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T19:43:53.000Z",
+				"DateTo": "2022-02-11T20:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4981,
+				"LocationName": "Flight JQ253 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T17:55:00.000Z",
+				"DateTo": "2022-02-13T18:55:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4982,
+				"LocationName": "Flight NZ580 Christchurch to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T21:00:00.000Z",
+				"DateTo": "2022-02-09T22:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0561433,
+					-41.129623
+				]
+			},
+			"properties": {
+				"id": 4983,
+				"LocationName": "Heretaunga College Wallaceville Upper Hutt",
+				"Address": "Ward Street, Wallaceville, Upper Hutt 5018",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T20:30:00.000Z",
+				"DateTo": "2022-02-09T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4984,
+				"LocationName": "Flight NZ5122 Palmerston North to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T04:45:00.000Z",
+				"DateTo": "2022-02-11T06:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8391713,
+					-36.9145425
+				]
+			},
+			"properties": {
+				"id": 4985,
+				"LocationName": "Garrison Public House Auckland",
+				"Address": "S060/286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T04:52:17.000Z",
+				"DateTo": "2022-02-14T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6097478,
+					-40.3544628
+				]
+			},
+			"properties": {
+				"id": 4986,
+				"LocationName": "Flight NZ5125 Auckland to Palmerston North",
+				"Address": "Palmerston  North",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T03:06:01.000Z",
+				"DateTo": "2022-02-14T04:00:00.000Z"
+			}
 		}
 	]
 }
