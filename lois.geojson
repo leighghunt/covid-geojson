@@ -89585,6 +89585,158 @@
 				"DateFrom": "2022-02-12T04:00:00.000Z",
 				"DateTo": "2022-02-12T09:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3165604,
+					-35.7274938
+				]
+			},
+			"properties": {
+				"id": 4964,
+				"LocationName": "Flight NZ8228 Auckland to Whangarei",
+				"Address": "Whangarei",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T00:25:00.000Z",
+				"DateTo": "2022-02-11T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4965,
+				"LocationName": "Flight NZ547 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T01:00:00.000Z",
+				"DateTo": "2022-02-11T02:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4966,
+				"LocationName": "Flight NZ 408 Wellington to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T18:45:00.000Z",
+				"DateTo": "2022-02-10T19:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7828571,
+					-37.0057938
+				]
+			},
+			"properties": {
+				"id": 4967,
+				"LocationName": "Flight JQ241 Auckland to Christchurch",
+				"Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T07:20:00.000Z",
+				"DateTo": "2022-02-13T08:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.744828,
+					-36.852697
+				]
+			},
+			"properties": {
+				"id": 4968,
+				"LocationName": "Prego Restaurant Ponsonby Auckland",
+				"Address": "226 Ponsonby Road, Ponsonby, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T08:00:00.000Z",
+				"DateTo": "2022-02-11T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8372023,
+					-36.9361868
+				]
+			},
+			"properties": {
+				"id": 4969,
+				"LocationName": "Nesian Fitness Otahuhu",
+				"Address": "7 Pukeiti Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T03:00:00.000Z",
+				"DateTo": "2022-02-11T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8372023,
+					-36.9361868
+				]
+			},
+			"properties": {
+				"id": 4970,
+				"LocationName": "Nesian Fitness Otahuhu Auckland",
+				"Address": "7 Pukeiti Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T05:00:00.000Z",
+				"DateTo": "2022-02-10T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7828571,
+					-37.0057938
+				]
+			},
+			"properties": {
+				"id": 4971,
+				"LocationName": "Flight JQ299 Auckland to Queenstown",
+				"Address": "1 Ray Emery Drive, Auckland Airport, Auckland 2022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T05:45:00.000Z",
+				"DateTo": "2022-02-13T07:02:00.000Z"
+			}
 		}
 	]
 }
