@@ -90098,6 +90098,500 @@
 				"DateFrom": "2022-02-13T05:45:00.000Z",
 				"DateTo": "2022-02-13T07:02:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4991,
+				"LocationName": "Flight JQ241 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T07:20:00.000Z",
+				"DateTo": "2022-02-13T08:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0561433,
+					-41.129623
+				]
+			},
+			"properties": {
+				"id": 4992,
+				"LocationName": "Heretaunga College Wallaceville Upper Hutt",
+				"Address": "Ward Street, Wallaceville, Upper Hutt 5018",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T20:30:00.000Z",
+				"DateTo": "2022-02-09T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.628091,
+					-43.5213044
+				]
+			},
+			"properties": {
+				"id": 4993,
+				"LocationName": "Athens Yacht Club Christchurch Central",
+				"Address": "179 Victoria Street, Christchurch Central, Christchurch 8013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-15T04:45:00.000Z",
+				"DateTo": "2022-02-15T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4994,
+				"LocationName": "Flight NZ523 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T19:00:00.000Z",
+				"DateTo": "2022-02-14T20:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4995,
+				"LocationName": "Flight NZ0600 Queenstown to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-09T22:15:00.000Z",
+				"DateTo": "2022-02-09T23:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6634945,
+					-45.0305145
+				]
+			},
+			"properties": {
+				"id": 4996,
+				"LocationName": "Fogo Brazilian BBQ, Queenstown *STAFF ONLY*",
+				"Address": "28-30 The Mall, Ballarat Street, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-07T23:00:00.000Z",
+				"DateTo": "2022-02-08T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7617072,
+					-36.8429437
+				]
+			},
+			"properties": {
+				"id": 4997,
+				"LocationName": "Headquarters Viaduct Auckland Central",
+				"Address": "115 Customs Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T04:00:00.000Z",
+				"DateTo": "2022-02-11T09:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 4998,
+				"LocationName": "Flight NZ547 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T01:00:00.000Z",
+				"DateTo": "2022-02-11T02:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 4999,
+				"LocationName": "Flight NZ5122 Palmerston North to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T04:45:00.000Z",
+				"DateTo": "2022-02-11T06:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5000,
+				"LocationName": "Flight JQ253 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T17:55:00.000Z",
+				"DateTo": "2022-02-13T18:55:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.7717684,
+					28.0197404
+				]
+			},
+			"properties": {
+				"id": 5001,
+				"LocationName": "Flight NZ675 Auckland to Dunedin",
+				"Address": "Dunedin",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T23:45:00.000Z",
+				"DateTo": "2022-02-14T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5002,
+				"LocationName": "FLIGHT NZ445 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T04:00:00.000Z",
+				"DateTo": "2022-02-13T05:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8372023,
+					-36.9361868
+				]
+			},
+			"properties": {
+				"id": 5003,
+				"LocationName": "Nesian Fitness Otahuhu",
+				"Address": "7 Pukeiti Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:00:00.000Z",
+				"DateTo": "2022-02-12T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8437664,
+					-36.9457358
+				]
+			},
+			"properties": {
+				"id": 5004,
+				"LocationName": "AOG Cornerstone Church, Otahuhu",
+				"Address": "19B Queen Street, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T21:00:00.000Z",
+				"DateTo": "2022-02-13T00:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8813434,
+					-37.021055
+				]
+			},
+			"properties": {
+				"id": 5005,
+				"LocationName": "St Annes Parish Manurewa",
+				"Address": "126 Russell Road, Manurewa, Auckland 2102",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T20:00:00.000Z",
+				"DateTo": "2022-02-10T22:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8372023,
+					-36.9361868
+				]
+			},
+			"properties": {
+				"id": 5006,
+				"LocationName": "Nesian Fitness Otahuhu",
+				"Address": "7 Pukeiti Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T03:00:00.000Z",
+				"DateTo": "2022-02-11T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6097478,
+					-40.3544628
+				]
+			},
+			"properties": {
+				"id": 5007,
+				"LocationName": "Flight NZ5125 Auckland to Palmerston North",
+				"Address": "Palmerston  North",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T03:06:01.000Z",
+				"DateTo": "2022-02-14T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5008,
+				"LocationName": "Flight NZ481 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T02:00:00.000Z",
+				"DateTo": "2022-02-13T03:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.3165604,
+					-35.7274938
+				]
+			},
+			"properties": {
+				"id": 5009,
+				"LocationName": "Flight NZ8228 Auckland to Whangarei",
+				"Address": "Whangarei",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T00:25:00.000Z",
+				"DateTo": "2022-02-11T01:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8372023,
+					-36.9361868
+				]
+			},
+			"properties": {
+				"id": 5010,
+				"LocationName": "Nesian Fitness Otahuhu",
+				"Address": "7 Pukeiti Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T21:00:00.000Z",
+				"DateTo": "2022-02-11T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7622191,
+					-36.8430623
+				]
+			},
+			"properties": {
+				"id": 5011,
+				"LocationName": "O'Hagan's Auckland CBD",
+				"Address": "103 Customs Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T04:00:00.000Z",
+				"DateTo": "2022-02-12T09:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8372023,
+					-36.9361868
+				]
+			},
+			"properties": {
+				"id": 5012,
+				"LocationName": "Nesian Fitness Otahuhu Auckland",
+				"Address": "7 Pukeiti Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T05:00:00.000Z",
+				"DateTo": "2022-02-10T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 5013,
+				"LocationName": "Flight NZ 408 Wellington to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T18:45:00.000Z",
+				"DateTo": "2022-02-10T19:50:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.744828,
+					-36.852697
+				]
+			},
+			"properties": {
+				"id": 5014,
+				"LocationName": "Prego Restaurant Ponsonby Auckland",
+				"Address": "226 Ponsonby Road, Ponsonby, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T08:00:00.000Z",
+				"DateTo": "2022-02-11T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7690224,
+					-36.77478380000001
+				]
+			},
+			"properties": {
+				"id": 5015,
+				"LocationName": "Head of Harbour Regatta Pupuke Lake Milford",
+				"Address": "10 Sylvan Park Avenue, Milford, Auckland 0620",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T17:15:00.000Z",
+				"DateTo": "2022-02-12T04:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8391713,
+					-36.9145425
+				]
+			},
+			"properties": {
+				"id": 5016,
+				"LocationName": "Garrison Public House Auckland",
+				"Address": "S060/286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T04:52:17.000Z",
+				"DateTo": "2022-02-14T07:30:00.000Z"
+			}
 		}
 	]
 }
