@@ -89509,6 +89509,82 @@
 				"DateFrom": "2022-02-12T05:00:00.000Z",
 				"DateTo": "2022-02-12T08:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 4960,
+				"LocationName": "FLIGHT NZ445 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T04:00:00.000Z",
+				"DateTo": "2022-02-13T05:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8372023,
+					-36.9361868
+				]
+			},
+			"properties": {
+				"id": 4961,
+				"LocationName": "Nesian Fitness Otahuhu",
+				"Address": "7 Pukeiti Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T21:00:00.000Z",
+				"DateTo": "2022-02-11T21:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8372023,
+					-36.9361868
+				]
+			},
+			"properties": {
+				"id": 4962,
+				"LocationName": "Nesian Fitness Otahuhu",
+				"Address": "7 Pukeiti Road, Otahuhu, Auckland 1062",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:00:00.000Z",
+				"DateTo": "2022-02-12T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7622191,
+					-36.8430623
+				]
+			},
+			"properties": {
+				"id": 4963,
+				"LocationName": "O'Hagan's Auckland CBD",
+				"Address": "103 Customs Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T04:00:00.000Z",
+				"DateTo": "2022-02-12T09:30:00.000Z"
+			}
 		}
 	]
 }
