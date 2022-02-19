@@ -91029,6 +91029,82 @@
 				"DateFrom": "2022-02-12T05:00:00.000Z",
 				"DateTo": "2022-02-12T09:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.0809247,
+					-39.0777828
+				]
+			},
+			"properties": {
+				"id": 5040,
+				"LocationName": "The Brooklands Bungalow, Vogeltown",
+				"Address": "9 Hori Street, Vogeltown, New Plymouth 4310",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7466848,
+					-36.8566419
+				]
+			},
+			"properties": {
+				"id": 5041,
+				"LocationName": "Hoppers Garden Bar, Grey Lynn",
+				"Address": "134B Ponsonby Road, Grey Lynn, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:15:00.000Z",
+				"DateTo": "2022-02-12T08:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7615698,
+					-36.8434676
+				]
+			},
+			"properties": {
+				"id": 5042,
+				"LocationName": "Viaduct Yacht Club, Auckland City",
+				"Address": "48 Market Place, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T08:15:00.000Z",
+				"DateTo": "2022-02-12T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7683478,
+					-36.8460075
+				]
+			},
+			"properties": {
+				"id": 5043,
+				"LocationName": "The Mermaid Club, Auckland",
+				"Address": "13 Gore Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T12:15:44.000Z",
+				"DateTo": "2022-02-12T14:30:00.000Z"
+			}
 		}
 	]
 }
