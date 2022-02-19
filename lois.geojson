@@ -90801,6 +90801,63 @@
 				"DateFrom": "2022-02-11T17:30:00.000Z",
 				"DateTo": "2022-02-12T01:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 5028,
+				"LocationName": "Bus, Route 72X Botany Town Centre Stop B to Meadowland Drive",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T19:00:00.000Z",
+				"DateTo": "2022-02-10T19:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 5029,
+				"LocationName": "Bus, Route 72X Meadowland Drive to Harrison Road Bus Stop",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T02:00:00.000Z",
+				"DateTo": "2022-02-11T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7041007,
+					-36.85853040000001
+				]
+			},
+			"properties": {
+				"id": 5030,
+				"LocationName": "Point Chevalier Bowling Club, Pt Chevalier",
+				"Address": "25 Dignan Street, Point Chevalier, Auckland 1022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T23:00:00.000Z",
+				"DateTo": "2022-02-13T06:00:00.000Z"
+			}
 		}
 	]
 }
