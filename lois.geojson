@@ -90896,6 +90896,120 @@
 				"DateFrom": "2022-02-12T06:00:00.000Z",
 				"DateTo": "2022-02-12T09:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7501644,
+					-36.8689736
+				]
+			},
+			"properties": {
+				"id": 5033,
+				"LocationName": "Cafe Spinetta Kingsland",
+				"Address": "345 New North Road, Kingsland, Auckland 1021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T17:30:00.000Z",
+				"DateTo": "2022-02-12T01:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7663753,
+					-36.8432691
+				]
+			},
+			"properties": {
+				"id": 5034,
+				"LocationName": "Ghost Donkey, Auckland Central",
+				"Address": "160-184 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T09:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7041007,
+					-36.85853040000001
+				]
+			},
+			"properties": {
+				"id": 5035,
+				"LocationName": "Point Chevalier Bowling Club, Pt Chevalier",
+				"Address": "25 Dignan Street, Point Chevalier, Auckland 1022",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T23:00:00.000Z",
+				"DateTo": "2022-02-13T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 5036,
+				"LocationName": "Bus, Route 72X Meadowland Drive to Harrison Road Bus Stop",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T02:00:00.000Z",
+				"DateTo": "2022-02-11T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 5037,
+				"LocationName": "Bus, Route 72X Botany Town Centre Stop B to Meadowland Drive",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T19:00:00.000Z",
+				"DateTo": "2022-02-10T19:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 5038,
+				"LocationName": "Flight JQ235 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-15T00:39:00.000Z",
+				"DateTo": "2022-02-15T01:49:00.000Z"
+			}
 		}
 	]
 }
