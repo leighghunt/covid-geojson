@@ -91105,6 +91105,25 @@
 				"DateFrom": "2022-02-12T12:15:44.000Z",
 				"DateTo": "2022-02-12T14:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8720213,
+					-36.9596768
+				]
+			},
+			"properties": {
+				"id": 5044,
+				"LocationName": "The Potter's House Church, Otara",
+				"Address": "20 Newbury Street, Otara, Auckland 2023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T20:00:00.000Z",
+				"DateTo": "2022-02-12T21:45:00.000Z"
+			}
 		}
 	]
 }
