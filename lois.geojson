@@ -91010,6 +91010,25 @@
 				"DateFrom": "2022-02-15T00:39:00.000Z",
 				"DateTo": "2022-02-15T01:49:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.3200989,
+					-37.7826118
+				]
+			},
+			"properties": {
+				"id": 5039,
+				"LocationName": "Citizens Club RSA, Te Puke",
+				"Address": "179 Jellicoe Street, Te Puke 3119",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:00:00.000Z",
+				"DateTo": "2022-02-12T09:30:00.000Z"
+			}
 		}
 	]
 }
