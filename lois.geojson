@@ -91124,6 +91124,82 @@
 				"DateFrom": "2022-02-12T20:00:00.000Z",
 				"DateTo": "2022-02-12T21:45:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7442481,
+					-36.8720168
+				]
+			},
+			"properties": {
+				"id": 5045,
+				"LocationName": "Groove Bar Kingsland",
+				"Address": "487 New North Road, Kingsland, Auckland 1021",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-16T03:00:00.000Z",
+				"DateTo": "2022-02-16T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7480106,
+					-36.7919965
+				]
+			},
+			"properties": {
+				"id": 5046,
+				"LocationName": "Pat's Garage Hillcrest",
+				"Address": "31 Northcote Road, Hillcrest, Auckland 0627",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T01:02:00.000Z",
+				"DateTo": "2022-02-13T08:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7530539,
+					-36.84860949999999
+				]
+			},
+			"properties": {
+				"id": 5047,
+				"LocationName": "The Birdcage Tavern Freemans Bay",
+				"Address": "133 Franklin Road, Freemans Bay, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T02:29:00.000Z",
+				"DateTo": "2022-02-13T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8391821,
+					-36.9145359
+				]
+			},
+			"properties": {
+				"id": 5048,
+				"LocationName": "Garrison Public House Mount Wellington",
+				"Address": "286 Mount Wellington Highway, Mount Wellington, Auckland 1060",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-15T02:50:00.000Z",
+				"DateTo": "2022-02-15T08:50:00.000Z"
+			}
 		}
 	]
 }
