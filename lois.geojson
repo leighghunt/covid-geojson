@@ -90858,6 +90858,44 @@
 				"DateFrom": "2022-02-12T23:00:00.000Z",
 				"DateTo": "2022-02-13T06:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 5031,
+				"LocationName": "Flight JQ235 Auckland to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-15T00:39:00.000Z",
+				"DateTo": "2022-02-15T01:49:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7663753,
+					-36.8432691
+				]
+			},
+			"properties": {
+				"id": 5032,
+				"LocationName": "Ghost Donkey, Auckland Central",
+				"Address": "160-184 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T09:15:00.000Z"
+			}
 		}
 	]
 }
