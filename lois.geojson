@@ -91390,6 +91390,120 @@
 				"DateFrom": "2022-02-13T01:02:00.000Z",
 				"DateTo": "2022-02-13T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8094834,
+					-36.89809169999999
+				]
+			},
+			"properties": {
+				"id": 5059,
+				"LocationName": "Charlie Baxter's Ellerslie",
+				"Address": "121 Main Highway, Ellerslie, Auckland 1051",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T00:00:00.000Z",
+				"DateTo": "2022-02-13T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8864164,
+					-36.9905138
+				]
+			},
+			"properties": {
+				"id": 5060,
+				"LocationName": "Equippers Church Manukau",
+				"Address": "13 Gladding Place, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T04:00:00.000Z",
+				"DateTo": "2022-02-13T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8864164,
+					-36.9905138
+				]
+			},
+			"properties": {
+				"id": 5061,
+				"LocationName": "Equippers Church Manukau",
+				"Address": "13 Gladding Place, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T20:00:00.000Z",
+				"DateTo": "2022-02-12T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8864164,
+					-36.9905138
+				]
+			},
+			"properties": {
+				"id": 5062,
+				"LocationName": "Equippers Church, Manukau",
+				"Address": "13 Gladding Place, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T23:00:00.000Z",
+				"DateTo": "2022-02-12T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7463884,
+					-36.8550555
+				]
+			},
+			"properties": {
+				"id": 5063,
+				"LocationName": "Chapel Bar Ponsonby",
+				"Address": "145 Ponsonby Road, Ponsonby, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T08:30:00.000Z",
+				"DateTo": "2022-02-14T10:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8864164,
+					-36.9905138
+				]
+			},
+			"properties": {
+				"id": 5064,
+				"LocationName": "Equippers Church Youth Group Manukau",
+				"Address": "13 Gladding Place, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T05:00:00.000Z",
+				"DateTo": "2022-02-11T07:00:00.000Z"
+			}
 		}
 	]
 }
