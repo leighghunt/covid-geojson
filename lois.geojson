@@ -91998,6 +91998,63 @@
 				"DateFrom": "2022-02-12T06:00:00.000Z",
 				"DateTo": "2022-02-12T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0401122,
+					-39.9253954
+				]
+			},
+			"properties": {
+				"id": 5091,
+				"LocationName": "Subway",
+				"Address": "396 Victoria Avenue, Whanganui 4500",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-17T06:00:00.000Z",
+				"DateTo": "2022-02-17T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6618791,
+					-45.0322367
+				]
+			},
+			"properties": {
+				"id": 5092,
+				"LocationName": "Zephyr",
+				"Address": "1 Searle Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T14:00:00.000Z",
+				"DateTo": "2022-02-12T15:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.731216,
+					-43.1529836
+				]
+			},
+			"properties": {
+				"id": 5093,
+				"LocationName": "Amberley Fitness Centre",
+				"Address": "10 Anderson Street, Amberley 7410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-17T07:45:00.000Z",
+				"DateTo": "2022-02-17T08:30:00.000Z"
+			}
 		}
 	]
 }
