@@ -91694,6 +91694,310 @@
 				"DateFrom": "2022-02-12T06:00:00.000Z",
 				"DateTo": "2022-02-12T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8864164,
+					-36.9905138
+				]
+			},
+			"properties": {
+				"id": 5075,
+				"LocationName": "Equippers Church Youth Group Manukau",
+				"Address": "13 Gladding Place, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T05:00:00.000Z",
+				"DateTo": "2022-02-11T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7803446,
+					-36.8554541
+				]
+			},
+			"properties": {
+				"id": 5076,
+				"LocationName": "Sweet Affairs Parnell",
+				"Address": "225 Parnell Road, Parnell, Auckland 1052",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:31:46.000Z",
+				"DateTo": "2022-02-12T10:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7633716,
+					-36.8422029
+				]
+			},
+			"properties": {
+				"id": 5077,
+				"LocationName": "The Lula Inn Auckland CB",
+				"Address": "149 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T22:30:00.000Z",
+				"DateTo": "2022-02-12T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7597099,
+					-36.8453452
+				]
+			},
+			"properties": {
+				"id": 5078,
+				"LocationName": "Rooftop at QT Hotel Auckland CBD",
+				"Address": "4 Viaduct Harbour Avenue, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T02:00:00.000Z",
+				"DateTo": "2022-02-12T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8086226,
+					-36.8971957
+				]
+			},
+			"properties": {
+				"id": 5079,
+				"LocationName": "Doolan Brothers Ellerslie",
+				"Address": "3 Robert Street, Ellerslie, Auckland 1051",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T02:30:00.000Z",
+				"DateTo": "2022-02-13T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7647153,
+					-36.8691777
+				]
+			},
+			"properties": {
+				"id": 5080,
+				"LocationName": "The Good Home Bar Mount Eden",
+				"Address": "37 Normanby Road, Mount Eden, Auckland 1024",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T01:00:00.000Z",
+				"DateTo": "2022-02-13T05:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7636563,
+					-36.8427687
+				]
+			},
+			"properties": {
+				"id": 5081,
+				"LocationName": "Danny Doolan's Auckland Central",
+				"Address": "204 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T11:00:00.000Z",
+				"DateTo": "2022-02-12T13:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9018142,
+					-36.9627998
+				]
+			},
+			"properties": {
+				"id": 5082,
+				"LocationName": "Tarka Restaurant Botany",
+				"Address": "302 Te Irirangi Drive, Flat Bush, Auckland 2013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T05:30:00.000Z",
+				"DateTo": "2022-02-13T09:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8094834,
+					-36.89809169999999
+				]
+			},
+			"properties": {
+				"id": 5083,
+				"LocationName": "Charlie Baxter's Ellerslie",
+				"Address": "121 Main Highway, Ellerslie, Auckland 1051",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T00:00:00.000Z",
+				"DateTo": "2022-02-13T03:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7854741,
+					-36.924976
+				]
+			},
+			"properties": {
+				"id": 5084,
+				"LocationName": "Brothers Beer Onehunga",
+				"Address": "120A Onehunga Mall, Onehunga, Auckland 1061",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T01:30:00.000Z",
+				"DateTo": "2022-02-13T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8864164,
+					-36.9905138
+				]
+			},
+			"properties": {
+				"id": 5085,
+				"LocationName": "Equippers Church, Manukau",
+				"Address": "13 Gladding Place, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T23:00:00.000Z",
+				"DateTo": "2022-02-12T02:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8864164,
+					-36.9905138
+				]
+			},
+			"properties": {
+				"id": 5086,
+				"LocationName": "Equippers Church Manukau",
+				"Address": "13 Gladding Place, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T04:00:00.000Z",
+				"DateTo": "2022-02-13T08:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8864164,
+					-36.9905138
+				]
+			},
+			"properties": {
+				"id": 5087,
+				"LocationName": "Equippers Church Manukau",
+				"Address": "13 Gladding Place, Manukau, Auckland 2104",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T20:00:00.000Z",
+				"DateTo": "2022-02-12T23:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7463884,
+					-36.8550555
+				]
+			},
+			"properties": {
+				"id": 5088,
+				"LocationName": "Chapel Bar Ponsonby",
+				"Address": "145 Ponsonby Road, Ponsonby, Auckland 1011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T08:30:00.000Z",
+				"DateTo": "2022-02-14T10:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7636465,
+					-36.842623
+				]
+			},
+			"properties": {
+				"id": 5089,
+				"LocationName": "Saint Alice Auckland CBD",
+				"Address": "1/204 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:00:00.000Z",
+				"DateTo": "2022-02-12T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7564426,
+					-36.8578204
+				]
+			},
+			"properties": {
+				"id": 5090,
+				"LocationName": "Anthology Lounge Auckland CBD",
+				"Address": "375 Karangahape Road, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T08:30:00.000Z"
+			}
 		}
 	]
 }
