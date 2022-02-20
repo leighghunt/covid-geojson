@@ -91618,6 +91618,82 @@
 				"DateFrom": "2022-02-13T01:00:00.000Z",
 				"DateTo": "2022-02-13T05:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7636465,
+					-36.842623
+				]
+			},
+			"properties": {
+				"id": 5071,
+				"LocationName": "Saint Alice Auckland CBD",
+				"Address": "1/204 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:00:00.000Z",
+				"DateTo": "2022-02-12T07:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7597099,
+					-36.8453452
+				]
+			},
+			"properties": {
+				"id": 5072,
+				"LocationName": "Rooftop at QT Hotel Auckland CBD",
+				"Address": "4 Viaduct Harbour Avenue, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T02:00:00.000Z",
+				"DateTo": "2022-02-12T04:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7803446,
+					-36.8554541
+				]
+			},
+			"properties": {
+				"id": 5073,
+				"LocationName": "Sweet Affairs Parnell",
+				"Address": "225 Parnell Road, Parnell, Auckland 1052",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T05:31:46.000Z",
+				"DateTo": "2022-02-12T10:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7564426,
+					-36.8578204
+				]
+			},
+			"properties": {
+				"id": 5074,
+				"LocationName": "Anthology Lounge Auckland CBD",
+				"Address": "375 Karangahape Road, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T08:30:00.000Z"
+			}
 		}
 	]
 }
