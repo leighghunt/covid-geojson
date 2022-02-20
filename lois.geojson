@@ -91504,6 +91504,120 @@
 				"DateFrom": "2022-02-11T05:00:00.000Z",
 				"DateTo": "2022-02-11T07:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9018142,
+					-36.9627998
+				]
+			},
+			"properties": {
+				"id": 5065,
+				"LocationName": "Tarka Restaurant Botany",
+				"Address": "302 Te Irirangi Drive, Flat Bush, Auckland 2013",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T05:30:00.000Z",
+				"DateTo": "2022-02-13T09:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7636563,
+					-36.8427687
+				]
+			},
+			"properties": {
+				"id": 5066,
+				"LocationName": "Danny Doolan's Auckland Central",
+				"Address": "204 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T11:00:00.000Z",
+				"DateTo": "2022-02-12T13:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.8086226,
+					-36.8971957
+				]
+			},
+			"properties": {
+				"id": 5067,
+				"LocationName": "Doolan Brothers Ellerslie",
+				"Address": "3 Robert Street, Ellerslie, Auckland 1051",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T02:30:00.000Z",
+				"DateTo": "2022-02-13T06:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7633716,
+					-36.8422029
+				]
+			},
+			"properties": {
+				"id": 5068,
+				"LocationName": "The Lula Inn Auckland CB",
+				"Address": "149 Quay Street, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T22:30:00.000Z",
+				"DateTo": "2022-02-12T01:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7854741,
+					-36.924976
+				]
+			},
+			"properties": {
+				"id": 5069,
+				"LocationName": "Brothers Beer Onehunga",
+				"Address": "120A Onehunga Mall, Onehunga, Auckland 1061",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T01:30:00.000Z",
+				"DateTo": "2022-02-13T03:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7647153,
+					-36.8691777
+				]
+			},
+			"properties": {
+				"id": 5070,
+				"LocationName": "The Good Home Bar Mount Eden",
+				"Address": "37 Normanby Road, Mount Eden, Auckland 1024",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T01:00:00.000Z",
+				"DateTo": "2022-02-13T05:00:00.000Z"
+			}
 		}
 	]
 }
