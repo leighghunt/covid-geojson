@@ -92055,6 +92055,25 @@
 				"DateFrom": "2022-02-17T07:45:00.000Z",
 				"DateTo": "2022-02-17T08:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.7717684,
+					28.0197404
+				]
+			},
+			"properties": {
+				"id": 5094,
+				"LocationName": "Flight NZ681 Wellington to Dunedin",
+				"Address": "Dunedin",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T20:02:00.000Z",
+				"DateTo": "2022-02-14T21:03:00.000Z"
+			}
 		}
 	]
 }
