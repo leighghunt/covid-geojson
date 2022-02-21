@@ -92321,6 +92321,25 @@
 				"DateFrom": "2022-02-11T06:30:00.000Z",
 				"DateTo": "2022-02-11T07:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7696514,
+					-36.8452879
+				]
+			},
+			"properties": {
+				"id": 5108,
+				"LocationName": "Saturday’s Britomart, Auckland, 18/02/2022",
+				"Address": "48 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T08:00:00.000Z",
+				"DateTo": "2022-02-18T10:59:00.000Z"
+			}
 		}
 	]
 }
