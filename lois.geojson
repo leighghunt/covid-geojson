@@ -92226,6 +92226,101 @@
 				"DateFrom": "2022-02-12T21:20:00.000Z",
 				"DateTo": "2022-02-12T22:15:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1654272,
+					-37.6869653
+				]
+			},
+			"properties": {
+				"id": 5103,
+				"LocationName": "Flight NZ8262 Wellington to Tauranga",
+				"Address": "Tauranga",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-08T06:15:00.000Z",
+				"DateTo": "2022-02-08T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7696514,
+					-36.8452879
+				]
+			},
+			"properties": {
+				"id": 5104,
+				"LocationName": "Saturdays, Night Club, Auckland",
+				"Address": "48 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T23:05:00.000Z",
+				"DateTo": "2022-02-19T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5105,
+				"LocationName": "Flight JQ286 Christchurch to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T17:15:00.000Z",
+				"DateTo": "2022-02-10T18:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.890627,
+					-39.134948
+				]
+			},
+			"properties": {
+				"id": 5106,
+				"LocationName": "The Bungalow Coastal Retreat",
+				"Address": "456 Lower Pitone Road, Pitone, New Plymouth 4374",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5107,
+				"LocationName": "Flight NZ691 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T06:30:00.000Z",
+				"DateTo": "2022-02-11T07:30:00.000Z"
+			}
 		}
 	]
 }
