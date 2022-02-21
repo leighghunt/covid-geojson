@@ -92074,6 +92074,101 @@
 				"DateFrom": "2022-02-14T20:02:00.000Z",
 				"DateTo": "2022-02-14T21:03:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 5095,
+				"LocationName": "Flight NZ402 Wellington to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T17:00:00.000Z",
+				"DateTo": "2022-02-10T18:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2443635,
+					-41.2985321
+				]
+			},
+			"properties": {
+				"id": 5096,
+				"LocationName": "Flight NZ8303 Wellington to Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T19:43:00.000Z",
+				"DateTo": "2022-02-11T20:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5097,
+				"LocationName": "Flight NZ401 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T17:39:00.000Z",
+				"DateTo": "2022-02-14T18:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 5098,
+				"LocationName": "Flight JQ287 Wellington to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T19:20:00.000Z",
+				"DateTo": "2022-02-13T20:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5099,
+				"LocationName": "Flight NZ8322 Nelson to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-16T06:01:00.000Z",
+				"DateTo": "2022-02-16T06:26:00.000Z"
+			}
 		}
 	]
 }
