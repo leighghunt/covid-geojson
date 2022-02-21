@@ -92359,6 +92359,329 @@
 				"DateFrom": "2022-02-18T08:00:00.000Z",
 				"DateTo": "2022-02-18T10:59:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5110,
+				"LocationName": "Flight NZ401 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T17:39:00.000Z",
+				"DateTo": "2022-02-14T18:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7696514,
+					-36.8452879
+				]
+			},
+			"properties": {
+				"id": 5111,
+				"LocationName": "Saturday’s Britomart",
+				"Address": "48 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T08:00:00.000Z",
+				"DateTo": "2022-02-18T10:59:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5112,
+				"LocationName": "Flight NZ457, Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T07:00:00.000Z",
+				"DateTo": "2022-02-11T08:02:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 5113,
+				"LocationName": "Flight JQ287 Wellington to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-13T19:20:00.000Z",
+				"DateTo": "2022-02-13T20:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.2443635,
+					-41.2985321
+				]
+			},
+			"properties": {
+				"id": 5114,
+				"LocationName": "Flight NZ8303 Wellington to Nelson",
+				"Address": "Nelson",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T19:43:00.000Z",
+				"DateTo": "2022-02-11T20:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.6305589,
+					-43.5320214
+				]
+			},
+			"properties": {
+				"id": 5115,
+				"LocationName": "Flight NZ644 Queenstown to Christchurch",
+				"Address": "Christchurch",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T21:20:00.000Z",
+				"DateTo": "2022-02-12T22:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7696514,
+					-36.8452879
+				]
+			},
+			"properties": {
+				"id": 5116,
+				"LocationName": "Saturdays, Night Club, Auckland",
+				"Address": "48 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T23:05:00.000Z",
+				"DateTo": "2022-02-19T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.7717684,
+					28.0197404
+				]
+			},
+			"properties": {
+				"id": 5117,
+				"LocationName": "Flight NZ681 Wellington to Dunedin",
+				"Address": "Dunedin",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-14T20:02:00.000Z",
+				"DateTo": "2022-02-14T21:03:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					173.890627,
+					-39.134948
+				]
+			},
+			"properties": {
+				"id": 5118,
+				"LocationName": "The Bungalow Coastal Retreat",
+				"Address": "456 Lower Pitone Road, Pitone, New Plymouth 4374",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T06:00:00.000Z",
+				"DateTo": "2022-02-12T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5119,
+				"LocationName": "Flight NZ8322 Nelson to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-16T06:01:00.000Z",
+				"DateTo": "2022-02-16T06:26:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					168.6618791,
+					-45.0322367
+				]
+			},
+			"properties": {
+				"id": 5120,
+				"LocationName": "Zephyr",
+				"Address": "1 Searle Lane, Queenstown 9300",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T14:00:00.000Z",
+				"DateTo": "2022-02-12T15:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5121,
+				"LocationName": "Flight NZ691 Auckland to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T06:30:00.000Z",
+				"DateTo": "2022-02-11T07:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 5122,
+				"LocationName": "Bus, Route 72M Meadowland Drive to Harrison Road Bus Stop",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T02:00:00.000Z",
+				"DateTo": "2022-02-11T02:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7787463,
+					-41.2923814
+				]
+			},
+			"properties": {
+				"id": 5123,
+				"LocationName": "Flight JQ286 Christchurch to Wellington",
+				"Address": "Wellington",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T17:15:00.000Z",
+				"DateTo": "2022-02-10T18:40:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7644881,
+					-36.85088270000001
+				]
+			},
+			"properties": {
+				"id": 5124,
+				"LocationName": "Flight NZ402 Wellington to Auckland",
+				"Address": "Auckland",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-10T17:00:00.000Z",
+				"DateTo": "2022-02-10T18:05:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0401122,
+					-39.9253954
+				]
+			},
+			"properties": {
+				"id": 5125,
+				"LocationName": "Subway",
+				"Address": "396 Victoria Avenue, Whanganui 4500",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-17T06:00:00.000Z",
+				"DateTo": "2022-02-17T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					172.731216,
+					-43.1529836
+				]
+			},
+			"properties": {
+				"id": 5126,
+				"LocationName": "Amberley Fitness Centre",
+				"Address": "10 Anderson Street, Amberley 7410",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-17T07:45:00.000Z",
+				"DateTo": "2022-02-17T08:30:00.000Z"
+			}
 		}
 	]
 }
