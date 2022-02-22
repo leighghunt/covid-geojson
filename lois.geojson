@@ -92739,6 +92739,63 @@
 				"DateFrom": "2022-02-12T20:00:00.000Z",
 				"DateTo": "2022-02-13T00:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.7717684,
+					28.0197404
+				]
+			},
+			"properties": {
+				"id": 5130,
+				"LocationName": "Flight JQ285 Auckland to Dunedin",
+				"Address": "Dunedin",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-16T01:25:00.000Z",
+				"DateTo": "2022-02-16T03:10:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.76663,
+					-36.8452655
+				]
+			},
+			"properties": {
+				"id": 5131,
+				"LocationName": "Roxy Auckland CBD",
+				"Address": "7 Fort Lane, Auckland CBD, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-19T11:30:00.000Z",
+				"DateTo": "2022-02-19T13:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.6913533,
+					-36.9021404
+				]
+			},
+			"properties": {
+				"id": 5132,
+				"LocationName": "Central Worship Centre Avondale",
+				"Address": "Floor 1, 2163 Great North Road, Avondale, Auckland 0600",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T20:00:00.000Z",
+				"DateTo": "2022-02-13T00:30:00.000Z"
+			}
 		}
 	]
 }
