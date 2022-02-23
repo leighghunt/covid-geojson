@@ -92796,6 +92796,234 @@
 				"DateFrom": "2022-02-12T20:00:00.000Z",
 				"DateTo": "2022-02-13T00:30:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7639653,
+					-36.8465984
+				]
+			},
+			"properties": {
+				"id": 5133,
+				"LocationName": "Ellice Road Social Lounge Auckland CBD",
+				"Address": "57 Albert Street, Auckland CBD, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T09:13:00.000Z",
+				"DateTo": "2022-02-18T10:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7617072,
+					-36.8429437
+				]
+			},
+			"properties": {
+				"id": 5134,
+				"LocationName": "Headquarters Auckland CBD",
+				"Address": "115 Customs Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T09:10:00.000Z",
+				"DateTo": "2022-02-18T10:59:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7639653,
+					-36.8465984
+				]
+			},
+			"properties": {
+				"id": 5135,
+				"LocationName": "Ellice Road Social Lounge Auckland CBD",
+				"Address": "57 Albert Street, Auckland CBD, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T09:13:00.000Z",
+				"DateTo": "2022-02-18T10:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7617072,
+					-36.8429437
+				]
+			},
+			"properties": {
+				"id": 5136,
+				"LocationName": "Headquarters Auckland CBD",
+				"Address": "115 Customs Street West, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T09:10:00.000Z",
+				"DateTo": "2022-02-18T10:59:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7706644,
+					-36.8663076
+				]
+			},
+			"properties": {
+				"id": 5137,
+				"LocationName": "Les Mills BODYPUMP Class Newmarket",
+				"Address": "269 Khyber Pass Road, Newmarket, Auckland 1023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-15T03:45:00.000Z",
+				"DateTo": "2022-02-15T04:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1747751,
+					-37.7909609
+				]
+			},
+			"properties": {
+				"id": 5138,
+				"LocationName": "Eagle Ridge Ohauiti",
+				"Address": "1004 Ohauiti Road, Ohauiti, Tauranga 3173",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T23:30:00.000Z",
+				"DateTo": "2022-02-12T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7584403,
+					-36.8574791
+				]
+			},
+			"properties": {
+				"id": 5139,
+				"LocationName": "The Eagle Bar Auckland CBD",
+				"Address": "259 Karangahape Road, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T11:00:00.000Z",
+				"DateTo": "2022-02-12T14:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6206004,
+					-40.3389462
+				]
+			},
+			"properties": {
+				"id": 5140,
+				"LocationName": "Emergency Department Waiting Room Palmerston North Hospital",
+				"Address": "50 Ruahine Street, Roslyn, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-22T07:45:00.000Z",
+				"DateTo": "2022-02-22T09:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7706644,
+					-36.8663076
+				]
+			},
+			"properties": {
+				"id": 5141,
+				"LocationName": "Les Mills BODYPUMP Class Newmarket",
+				"Address": "269 Khyber Pass Road, Newmarket, Auckland 1023",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-15T03:45:00.000Z",
+				"DateTo": "2022-02-15T04:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.6206004,
+					-40.3389462
+				]
+			},
+			"properties": {
+				"id": 5142,
+				"LocationName": "Emergency Department Waiting Room Palmerston North Hospital",
+				"Address": "50 Ruahine Street, Roslyn, Palmerston North 4414",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-22T07:45:00.000Z",
+				"DateTo": "2022-02-22T09:15:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					176.1747751,
+					-37.7909609
+				]
+			},
+			"properties": {
+				"id": 5143,
+				"LocationName": "Eagle Ridge Ohauiti",
+				"Address": "1004 Ohauiti Road, Ohauiti, Tauranga 3173",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-11T23:30:00.000Z",
+				"DateTo": "2022-02-12T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7584403,
+					-36.8574791
+				]
+			},
+			"properties": {
+				"id": 5144,
+				"LocationName": "The Eagle Bar Auckland CBD",
+				"Address": "259 Karangahape Road, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-12T11:00:00.000Z",
+				"DateTo": "2022-02-12T14:00:00.000Z"
+			}
 		}
 	]
 }
