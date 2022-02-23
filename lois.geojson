@@ -93024,6 +93024,63 @@
 				"DateFrom": "2022-02-12T11:00:00.000Z",
 				"DateTo": "2022-02-12T14:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0300718,
+					-38.6697327
+				]
+			},
+			"properties": {
+				"id": 5145,
+				"LocationName": "Lone Star Cafe & Bar",
+				"Address": "60 The Esplanade, Inner Kaiti, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-19T09:00:00.000Z",
+				"DateTo": "2022-02-19T10:45:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.776391,
+					-41.2790714
+				]
+			},
+			"properties": {
+				"id": 5146,
+				"LocationName": "Protest at Parliament",
+				"Address": "25 Bowen Street, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-19T22:00:00.000Z",
+				"DateTo": "2022-02-20T10:59:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.776391,
+					-41.2790714
+				]
+			},
+			"properties": {
+				"id": 5147,
+				"LocationName": "Protest at Parliament",
+				"Address": "25 Bowen Street, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T22:55:00.000Z",
+				"DateTo": "2022-02-19T10:00:00.000Z"
+			}
 		}
 	]
 }
