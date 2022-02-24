@@ -93081,6 +93081,44 @@
 				"DateFrom": "2022-02-18T22:55:00.000Z",
 				"DateTo": "2022-02-19T10:00:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9176915,
+					-37.0040463
+				]
+			},
+			"properties": {
+				"id": 5148,
+				"LocationName": "Totara Hospice",
+				"Address": "140 Charles Prevost Drive, The Gardens, Auckland 2105",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-17T21:30:00.000Z",
+				"DateTo": "2022-02-18T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.2786147,
+					-39.5883939
+				]
+			},
+			"properties": {
+				"id": 5149,
+				"LocationName": "Saint John's Presbyterian Church",
+				"Address": "251 High Street, Hawera 4610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-19T20:00:00.000Z",
+				"DateTo": "2022-02-19T22:39:00.000Z"
+			}
 		}
 	]
 }
