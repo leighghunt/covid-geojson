@@ -93119,6 +93119,101 @@
 				"DateFrom": "2022-02-19T20:00:00.000Z",
 				"DateTo": "2022-02-19T22:39:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.2786147,
+					-39.5883939
+				]
+			},
+			"properties": {
+				"id": 5150,
+				"LocationName": "Saint John's Presbyterian Church",
+				"Address": "251 High Street, Hawera 4610",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-19T20:00:00.000Z",
+				"DateTo": "2022-02-19T22:39:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.776391,
+					-41.2790714
+				]
+			},
+			"properties": {
+				"id": 5151,
+				"LocationName": "Protest at Parliament",
+				"Address": "25 Bowen Street, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-19T22:00:00.000Z",
+				"DateTo": "2022-02-20T10:59:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.9176915,
+					-37.0040463
+				]
+			},
+			"properties": {
+				"id": 5152,
+				"LocationName": "Totara Hospice",
+				"Address": "140 Charles Prevost Drive, The Gardens, Auckland 2105",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-17T21:30:00.000Z",
+				"DateTo": "2022-02-18T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.776391,
+					-41.2790714
+				]
+			},
+			"properties": {
+				"id": 5153,
+				"LocationName": "Protest at Parliament",
+				"Address": "25 Bowen Street, Wellington Central, Wellington 6011",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T22:55:00.000Z",
+				"DateTo": "2022-02-19T10:00:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					178.0300718,
+					-38.6697327
+				]
+			},
+			"properties": {
+				"id": 5154,
+				"LocationName": "Lone Star Cafe & Bar",
+				"Address": "60 The Esplanade, Inner Kaiti, Gisborne 4010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-19T09:00:00.000Z",
+				"DateTo": "2022-02-19T10:45:00.000Z"
+			}
 		}
 	]
 }
