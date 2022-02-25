@@ -93271,6 +93271,63 @@
 				"DateFrom": "2022-02-18T08:00:00.000Z",
 				"DateTo": "2022-02-18T10:59:00.000Z"
 			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7696514,
+					-36.8452879
+				]
+			},
+			"properties": {
+				"id": 5158,
+				"LocationName": "Saturday's Britomart Auckland",
+				"Address": "48 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T23:05:00.000Z",
+				"DateTo": "2022-02-19T00:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					175.0401122,
+					-39.9253954
+				]
+			},
+			"properties": {
+				"id": 5159,
+				"LocationName": "Subway Whanganui",
+				"Address": "396 Victoria Avenue, Whanganui 4500",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-17T06:00:00.000Z",
+				"DateTo": "2022-02-17T06:30:00.000Z"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					174.7696514,
+					-36.8452879
+				]
+			},
+			"properties": {
+				"id": 5160,
+				"LocationName": "Saturday’s Britomart Auckland",
+				"Address": "48 Customs Street East, Auckland Central, Auckland 1010",
+				"Day": null,
+				"Times": null,
+				"DateFrom": "2022-02-18T08:00:00.000Z",
+				"DateTo": "2022-02-18T10:59:00.000Z"
+			}
 		}
 	]
 }
